@@ -1,0 +1,97 @@
+Name,Anforderungen,Andere Statistiken,Reichweite,Schaden,Durchschlag,Bedingungen für Erhalt
+DEGEN,,,,,,
+Abgenutzte Klinge,keine Anforderungen,---,70,10,-,Liegt neben Cavalorn
+Verrostete Klinge,Geschicklichkeit: 5,---,80,10,-,Liegt auf der Holzkiste bei Cavalorns Banditen
+Degen,Geschicklichkeit: 15,---,80,30,-,Fällt von NPCs in Khorinis die damit kämpfen
+Banditenschwert,Geschicklichkeit: 20,---,80,30,-,Fällt von Banditen in Khorinis
+Rapier,Geschicklichkeit: 20,---,80,35,-,Verkauft Ramirez
+Schurkenklinge, Geschicklichkeit: 40,Bonus auf Waffenführung: 2%,80,60,0.05,Schema lehrt Ramirez
+Diebesrapier, Geschicklichkeit: 80,Bonus auf Waffenführung: 2%,90,100,0.1,Schema lehrt Ramirez
+Jacks Silberschwert, Geschicklichkeit: 105,"Bonus auf Waffenführung: 3%
+Effektiv gegen Untote und Geister",110,115,-,"Abschluss der Quest ""Verfluchte Laterne"" "
+Meisterschwert, Geschicklichkeit: 110,Bonus auf Waffenführung: 3%,100,130,0.15,Schema lehrt Ramirez
+Stiller Tod, Geschicklichkeit: 150,Bonus auf Waffenführung: 3%,105,165,0.2,Schema fällt von Franko
+Stahlnadel, Geschicklichkeit: 185,Bonus auf Waffenführung: 4%,110,200,0.3,"Schema gibt Falk für ""Jagd auf seltsame Kreaturen"""
+Skorpionstachel, Geschicklichkeit: 220,Bonus auf Waffenführung: 4%,120,240,0.4,Schema besitzt Anführer der Schnappkieferrudel
+Schrei der Nacht, Geschicklichkeit: 250,Bonus auf Waffenführung: 5%,120,270,0.45,Schema gibt Raff für das Töten des Geisterschattenwesens
+Silberstern,Geschicklichkeit: 280,Effektiv gegen Geister und Skelette,120,300,0.3,Fällt vom Erzdämon-Boss im alten Bruderschaftslager in GD
+Langer Rapier, Geschicklichkeit: 375 Ausdauer: 600,---,125,300,-,Fällt von Loker in der Arena
+Goldene Nadel, Geschicklichkeit: 375 Ausdauer: 500,Bonus auf Waffenführung: 5%,125,380,0.5,"Schema ist in Händchens Truhe in GD (Quest ""Schwert des Erzmeisters"", 
+250 Geschicklichkeit und Taschendiebstahl für die Herstellung)"
+Blutsauger,Geschicklichkeit: 400 Ausdauer: 650,Lebensraub: 20,125,410,0.55,Fällt von Tiamant im Assassinenwald
+Blutfresser,Geschicklichkeit: 430 Ausdauer: 750,Lebensraub: 25,125,430,0.65,Fällt von Gor Bob im Tempel des Träumenden
+Beliars Klaue,Geschicklichkeit: 400 Ausdauer: 600,Bonus auf Waffenführung: 5%,120,420,0.6,Kruk besiegen und Klaue im Schrein übernehmen
+Beliars Klaue (mit Seele),Geschicklichkeit: 500 Ausdauer: 800,"Bonus auf Waffenführung: 5%
+ Lebensraub: 25 
+Zusätzlicher Schaden: 125",125,465,0.7,Senyaks Seele in die Klaue einsetzen
+SPEERE,,,,,,
+Spitzer Stock,Geschicklichkeit: 10,---,105,10,-,"Vor Xardas' Turm, links, beim Baum"
+Übungsspeer,Geschicklichkeit: 10,---,120,30,-,Kauf bei Hakon
+Falks,Geschicklichkeit: 40,---,120,50,-,In der Scheune auf Lobarts Farm
+Stahlspeer,Geschicklichkeit: 80 Ausdauer: 150,---,130,110,0.05,Im Turm mit Joe
+Söldnerspeer,Geschicklichkeit: 110 Ausdauer: 200 ,---,135,130,0.1,Höhle mit Oger neben Ginnoks Grab
+Geschmiedeter Stahlspeer,Geschicklichkeit: 130 Ausdauer: 250,---,140,150,0.15,Höhle mit Bandit Faarhart
+Rademes' Speer,Geschicklichkeit: 160 Ausdauer: 300,---,140,190,0.25,Dämon Keyron vor Kruk
+Silbermond,Geschicklichkeit:160 Ausdauer: 350,Effektiv gegen Untote und Geister,145,160,0.2,Truhe im rechten Seitengang des Adanos-Tempels vor Kruk
+Runenzahn,Geschicklichkeit: 190 Ausdauer: 350,---,140,220,0.3,Auf dem Tisch in Kreols Gästezimmer
+Banditenspeer,Geschicklichkeit: 220 Ausdauer: 400,---,145,240,0.35,"Bandit ""Dicker"" in GD"
+Gazkuls Speer,Geschicklichkeit: 260 Ausdauer: 450,---,150,260,0.4,Goblin Gazkul in der Adanos-Wüste
+Speer des wahnsinnigen Sold.,Geschicklichkeit: 300 Ausdauer: 500,---,150,300,0.5,Wahnsinniger Soldat am Pass in 3R
+Alptraum der Untoten,Geschicklichkeit: 320 Ausdauer: 500,Effektiv gegen Untote und Geister,145,320,0.45,In der Pyramide nach Abschluss der Adanos-Wüsten-Quests
+Masjafs Speer,Geschicklichkeit: 325 Ausdauer: 600,---,160,325,0.6,Im versteckten Raum in Masjafs Heiligtum
+Itu'Seds Hand,Geschicklichkeit: 350 Ausdauer: 650,---,160,350,0.7,Itu'Sed Wächter der Steinsphäre
+Dämonenklaue,Geschicklichkeit: 360 Ausdauer 700,---,160,360,0.8,Hoshkar am Ende von ŚŚ
+Uralter Speer,Geschicklichkeit: 400 Ausdauer 750,---,160,400,0.85,Am Ende der Stadt der Toten (in Truhe hinter Stachelschlucht)
+Beliars Klaue,Geschicklichkeit: 320 Ausdauer: 600,---,150,320,0.8,Kruk besiegen und Klaue in Speer umwandeln
+Beliars Klaue (mit Seele),Geschicklichkeit: 420 Ausdauer: 800,"Lebensraub: 40 
+Zusätzlicher Schaden: 200",150,400,0.85,Senyaks Seele in die Klaue einsetzen
+Ar'Ihair,Geschicklichkeit: 425,Magieschutz: 50,170,425,0.9,Vom Speerträger-Boss vor dem Tempel im Verlorenen Bruder
+Dämonenspeer,Geschicklichkeit: 450 Ausdauer: 800,---,165,475,0.95,Argol auf Irdorath
+DOPPELKLINGEN,,,,,,
+Stahlklingen,Stärke: 25 | Geschicklichkeit: 100 | Ausd: 150,---,90,90,-,Erhalten beim Erlernen der Doppelklingen bei Gonzales
+Abgenutzte Zwillingsklingen,Stärke: 30 | Geschicklichkeit: 130 | Ausd: 200,---,100,130,-,"In der Höhle ""mit Drachenverderbnis"" nahe Grimbald, in der Wulfgars Notiz liegt"
+Verzierte Klingen,Stärke: 40 | Geschicklichkeit: 160 | Ausd: 250,---,110,150,-,In Drakes Boss-Truhe
+Gekrümmte Zwillingsklingen,Stärke: 50 | Geschicklichkeit: 180 | Ausd: 300,---,100,180,-,Im Piratenschatz in der Höhle mit Muritan an der Westküste
+Löwenzähne, Stärke: 55 | Geschicklichkeit: 200 | Ausd: 300,"Effektiv gegen
+Geister und Untote",110,200,-,Boss-Spinne im linken Seitengang der Höhle zur GD-Burg
+Amul Sah | Amul Rough, Stärke: 75 | Geschicklichkeit: 250 | Ausd: 350,---,110,230,-,Fallen von dunklen Wächtern vor dem Heiligtum der Wahrheit
+Klingen der Dämmerung, Stärke: 80 | Geschicklichkeit: 280 | Ausd: 400,---,120,280,-,Fallen vom Boss Dag'Kar in der alten Mine in GD
+Masjafs Hände,Stärke: 125 | Geschicklichkeit: 325 | Ausd: 500,---,120,325,-,Im Geheimraum von Masjafs Heiligtum
+Mondklingen,Stärke: 150 | Geschicklichkeit: 380 | Ausd: 600,"Effektiv gegen
+Geister und Untote",120,375,-,Rezept erhalten im Assassinenwald
+Beliars Klaue,Stärke: 175 | Geschicklichkeit: 425 | Ausd: 650,---,130,425,-,Kruk besiegen und Klaue im Schrein übernehmen
+Beliars Klaue (mit Seele),Stärke: 175 | Geschicklichkeit: 425 | Ausd: 650,"Lebensraub 50
+Zusätzlicher Schaden 150-200",130,450+75,0.1,Senyaks Seele in die Klaue einsetzen
+Chel'Drakas Äxte,Stärke: 175 | Geschicklichkeit: 500 | Ausd: 800,---,130,550,0.15,Fallen von Chel'Draka im Verlorenen Bruder
+Hände des Chaos,Stärke: 200 | Geschicklichkeit: 600 | Ausd: 1000,---,140,650,0.25,"Fallen vom Dementor, Wächter der Bestien auf Irdorath"
+SÄBEL,,,,,,
+Exklusiver Dolch,Geschicklichkeit: 15,---,50,50,-,Verkauft Lutero für 500 Gold
+Alter Piratensäbel,Geschicklichkeit: 20,---,80,45,-,Verkauft Hakon für 200 Gold
+Alte Machete,Geschicklichkeit: 35,---,80,55,-,Verkauft Hakon für 300 Gold
+Piratensäbel,Geschicklichkeit: 55,Bonus auf Waffenführung 2%,80,70,-,"Kann beim Schiff gefunden werden, neben zwei Echsen (Waffe für Skip), nach Übergabe verkauft Canthar
+Auf dem Hügel bei den Wassermagiern neben Ogern in Jarkendarr
+Von Sara für das Einsperren Canthars"
+Leichtes Kundschafterschwert,Geschicklichkeit: 60,Bonus auf Waffenführung 3%,95,80,-,Erhalten beim Beitritt zu den Kundschaftern
+Falchion,Geschicklichkeit: 70,Zusätzlicher Schaden 20,80,90,-,Erhalten von Ramirez für das Bringen des Sextanten
+Machete,Geschicklichkeit: 80,"Bonus auf Waffenführung 3%
+Zusätzlicher Schaden 20",90,100,-,"Kann von Garrett gekauft werden
+In Dexters Truhe"
+Verzierter Säbel,Geschicklichkeit: 125,Bonus auf Waffenführung 4%,100,125,0.15,Auf Oswalds Farm nahe der Mühle beim Schattenwesen
+Betty,Geschicklichkeit: 130,"Zusätzlicher Schaden
+25 + 5% Geschicklichkeit",105,140,-,Fällt von Skinner
+Verzierter Kapitänssäbel,Geschicklichkeit: 180,"Bonus auf Gesundheit 50
+zusätzlicher Schaden 40 + 8% Geschicklichkeit
+effektiv gegen Geister und Untote",110,190,-,Fällt vom Boss - Ramar auf dem Schiff an der Westküste.
+Raubtier,Geschicklichkeit: 220,"Zusätzlicher Schaden
+40 + 12% Geschicklichkeit",110,220,0.15,Von Diego für seine Befreiung aus dem Minental
+Beißer,Geschicklichkeit: 275,"Zusätzlicher Schaden
+40 + 16% Geschicklichkeit",115,285,0.15,Im letzten Raum im Tempel der Tränen in der Adanos-Wüste
+Weißer Stahl,Geschicklichkeit: 300,---,115,285,-,Fällt von Wolfgang in der Arena
+Blauer Mond,Geschicklichkeit: 300,"Zusätzlicher Schaden 22% Geschicklichkeit
+effektiv gegen Geister und Untote",120,300,-,Fällt vom Boss-Skelett in der Goldmine über dem Übergang nach Khorinis
+Wort des Anführers,Geschicklichkeit: 375,Zusätzlicher Schaden 25% Geschicklichkeit,120,370,0.15,"Fällt von Grah-dar, Boss auf dem Orkfriedhof"
+Masjafs Sichel,Geschicklichkeit 400,Zusätzlicher Schaden 30% Geschicklichkeit,125,400,0.15,Fällt von Haniar und Luka
+Kopfjäger,Geschicklichkeit: 400,Zusätzlicher Schaden 35% Geschicklichkeit,125,420,0.2,Fällt vom Sphärenwächter in der Orkmine
+Bote des Schmerzes,Geschicklichkeit: 480,Zusätzlicher Schaden 40% Geschicklichkeit,125,475,0.25,Zweiter Boss in Kruks Verlies
+Vorbote des Todes,Geschicklichkeit: 550,Zusätzlicher Schaden 45% Geschicklichkeit,130,500+150,0.3,Im Schatz des Eisdrachens
+Avabuls Dolch,Geschicklichkeit: 620,Zusätzlicher Schaden 50% Geschicklichkeit,135,550,0.4,"Fällt von Avabul während der Quest ""Grenzenlose Macht"""
