@@ -1,0 +1,262 @@
+Allgemeine Informationen,,,,,,,,,,,,,
+"Der Druide ist eine Untergilde, die wir erst im 2. Kapitel während der Expedition zur Westküste werden können.
+
+Druide zu werden senkt permanent unseren physischen und magischen Schaden um 30%, aber im Gegenzug haben wir die Möglichkeit, 
+spezielle Tierverwandlungen zu nutzen, die uns der Druide Kormak an der Westküste beibringt.
+
+Während wir verwandelt sind, können wir in der Spielwelt verstreute Gegenstände und Beute von besiegten Gegnern sammeln, aber erst nach dem Erlernen der Fähigkeit von Kormak.
+Wenn wir verwandelt sind, wirken keine temporären Boni und Fähigkeiten auf unseren Helden (wie: Regenerationen/Tränke/magische Schilde).
+
+Die Ausrüstung, die wir am Helden tragen, hat keine große Bedeutung (außer Gegenständen, die Intelligenz hinzufügen), 
+da wir in der Verwandlung völlig separate Statistiken haben, die abhängen von:
+
+ HP 
+Ausdauer 
+Intelligenz 
+Mana 
+Stärke/Geschicklichkeit 
+Level des Druidensteins 
+
+Wir haben jedoch keine genauen Daten darüber, wie sie sich auf die einzelnen Verwandlungen auswirken, da jede eine andere Skalierung hat.
+
+Wir können nicht Druide werden, wenn wir den Pfad des Dunklen Ritters, Dämonenjägers oder Schamanen gewählt haben.
+Die anderen Gilden haben keine Kontraindikationen, obwohl für die besten Effekte empfohlen wird, magische Gilden zu wählen, besonders Schwarzmagier/Nekromant/Guru.",,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Verwandlungsmenü,,,,,,,,,,,,,
+"Die ersten beiden Verwandlungen (Kaninchen und Wildschwein) wird uns Fregyal beibringen, aber das macht uns noch nicht zum Druiden, also verlieren wir keinen Schaden.
+Nach dem Erlernen der zweiten Verwandlung erhalten wir die Möglichkeit, das Menüfenster mit der Tastenkombination Shift+P zu verwenden. 
+Auf dem folgenden Screenshot wurde alles mehr oder weniger erklärt",,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Druidenstein,,,,,,,,,,,,,
+"Nach dem offiziellen Werden zum Druiden bei Kormak erhalten wir von ihm einen speziellen Stein, dessen Levelung uns erlaubt,
+weitere Verwandlungen zu erlernen sowie spezielle Perks, die nur während der Verwandlung wirken.
+
+Mit jedem Level des Steins steigt auch die Stärke der Verwandlungen. Sein maximales Level ist 50.
+
+Wir leveln den Druidenstein durch das Töten von Monstern in Verwandlung. Er erhält die Hälfte der Erfahrung, die wir normalerweise bekommen, also:
+Monster gibt 200 Exp, wir bekommen 200 Exp, der Stein bekommt 100 Exp",,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Spezielle Fähigkeiten,,,,,,,,,,,,,
+"Mit steigendem Level des Druidensteins schalten sich weitere spezielle Perks frei, die auf die Figur während der Verwandlung wirken.",,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Name,,,Wirkung,,,,,Anforderungen und Kosten,,,,,
+,,,,,,,,Druidenstein-Level,,,Lernpunkte,,Gold
+"Gesundheitsregeneration, Level 1",,,Regeneriert 0,35% Gesundheit pro Sekunde während der Verwandlung.,,,,,0,,,3 Lernpunkte,,500 Gold
+"Gesundheitsregeneration, Level 2",,,Regeneriert 0,5% Gesundheit pro Sekunde während der Verwandlung.,,,,,5,,,4 Lernpunkte,,800 Gold
+"Gesundheitsregeneration, Level 3",,,Regeneriert 0,9% Gesundheit pro Sekunde während der Verwandlung.,,,,,10,,,5 Lernpunkte,,1500 Gold
+"Gesundheitsregeneration, Level 4",,,Regeneriert 1,3% Gesundheit pro Sekunde während der Verwandlung.,,,,,20,,,6 Lernpunkte,,2500 Gold
+"Gesundheitsregeneration, Level 5",,,Regeneriert 1,8% Gesundheit pro Sekunde während der Verwandlung.,,,,,30,,,7 Lernpunkte,,4000 Gold
+"Manaregeneration, Level 1",,,Regeneriert 0,35% Mana pro Sekunde während der Verwandlung.,,,,,0,,,4 Lernpunkte,,500 Gold
+"Manaregeneration, Level 2",,,Regeneriert 0,5% Mana pro Sekunde während der Verwandlung.,,,,,5,,,5 Lernpunkte,,800 Gold
+"Manaregeneration, Level 3",,,Regeneriert 0,9% Mana pro Sekunde während der Verwandlung.,,,,,10,,,6 Lernpunkte,,1500 Gold
+"Manaregeneration, Level 4",,,Regeneriert 1,3% Mana pro Sekunde während der Verwandlung.,,,,,15,,,7 Lernpunkte,,2500 Gold
+"Manaregeneration, Level 5",,,Regeneriert 1,8% Mana pro Sekunde während der Verwandlung.,,,,,25,,,8 Lernpunkte,,4000 Gold
+"Reduzierte Manakosten für Verwandlung, Level 1",,,Reduziert die für die Verwandlung benötigten Manakosten um 25%,,,,,3,,,4 Lernpunkte,,800 Gold
+"Reduzierte Manakosten für Verwandlung, Level 2",,,Reduziert die für die Verwandlung benötigten Manakosten um 35%,,,,,10,,,5 Lernpunkte,,1500 Gold
+"Reduzierte Manakosten für Verwandlung, Level 3",,,Reduziert die für die Verwandlung benötigten Manakosten um 50%,,,,,15,,,6 Lernpunkte,,2000 Gold
+Physische Verteidigung,,,Erhöht physische Resistenzen um 30,,,,,5,,,5 Lernpunkte,,1500 Gold
+Magische Verteidigung,,,Erhöht magische Resistenzen um 30,,,,,5,,,5 Lernpunkte,,1500 Gold
+Reduzierte Manakosten für Fähigkeiten,,,"Reduziert um 10% die Manakosten für
+ die Nutzung von Fähigkeiten in Verwandlung ",,,,,10,,,5 Lernpunkte,,1500 Gold
+"Gegenstände sammeln 
+während Verwandlung",,,"Ermöglicht das Aufheben von Gegenständen und
+ die Nutzung des Feuers während der Verwandlung",,,,,0,,,5 Lernpunkte,,1500 Gold
+Gesundheitsskalierung,,,Ermöglicht die Auswirkung der Helden-HP auf die Verwandlungs-HP,,,,,0,,,12 Lernpunkte,,1500 Gold
+Verwandlungen und ihre Eigenschaften,,,,,,,,,,,,,
+Name,Anforderungen und Kosten,,,,,Eigenschaften,,,,Spezielle Fähigkeiten,,,
+Kaninchen,"5 Mana für Verwandlung
+2 Lernpunkte, 500 Gold",,,,,"- Bewegt sich flink
+- Kann nicht angreifen und ist wehrlos
+- Ist leichte Beute für Raubtiere
+(Wölfe, Warge, Beißer und Kriecher greifen es an)
+- Kann schwer zugängliche Orte erreichen",,,,Hüpft schön ,,,
+Wildschwein,"50 Mana für Verwandlung
+7 Lernpunkte, 800 Gold",,,,,"- Durchschnittlicher Angriff
+- Durchschnittliche Vitalität
+- Herdentier",,,,"[1] Aufnahme in die Herde - Das Wildschwein übernimmt max. 2 nahe Wildschweine (müssen derselben ""Art"" angehören), die bei ihm bis zum Tod bleiben.
+Manakosten: 20 [Mehr, wenn wir noch kein Druide sind],
+Abklingzeit: 2 Min oder 5 Min vor dem Druide werden
+
+[2] Angriffsbefehl - Das Wildschwein befiehlt den Wildschweinen seiner Herde anzugreifen
+
+[3] Herdenrückruf - Das Wildschwein ruft die Wildschweine zurück, die es aktuell in seiner Herde hat.",,,
+Drachenbeißer,"7 Level Druidenstein
+Seelenstein des Beißers
+[Blutgieriger Beißer/Beißer-Anführer/Khax/Knochenbrecher]
+75 Mana für Verwandlung
+7 Lernpunkte, 1500 Gold",,,,,"- Hoher Angriff
+- Mittlere Vitalität
+- Hohe Laufgeschwindigkeit
+- Hoher Blutungsschaden",,,,Läuft schön,,,
+Feuerechse,"12 Level Druidenstein
+Seelenstein der Feuerechse
+[Feueratem]
+100 Mana für Verwandlung
+8 Lernpunkte, 2000 Gold",,,,,"- Hoher Angriff
+- Mittlere Resistenzen
+- Verursacht Feuerschaden",,,,"[1] Feueratem - Die Echse schießt einen Feuersturm aus dem Maul, der getroffene Gegner entzündet
+Manakosten: XX, Abklingzeit: 12 Sekunden",,,
+Kriecher,"15 Level Druidenstein
+Seelenstein des Kriechers
+[Karakust (Wüste Adanos)/Gran'Radash/Starker Krieger-Kriecher/Aasfresser]
+100 Mana für Verwandlung
+10 Lernpunkte, 3000 Gold",,,,,"- Guter Angriff und Vitalität
+- Greift flächendeckend an
+- Angriffe verursachen Wuchtschaden
+- Setzt auf Blutung und Gift
+- Kann einzelne Gegner mit seinem Netz bewegungsunfähig machen",,,,"[1] Spinnennetz - Der Kriecher schießt ein Netz, das einen einzelnen Feind für 6 Sekunden bewegungsunfähig macht
+Manakosten: XX, Abklingzeit: 25 Sekunden
+
+[2] Giftiges Spucken - Der Kriecher schießt ein Fernkampfgeschoss, das Schaden verursacht und vergiftet.
+Manakosten: XX, Abklingzeit: 3 Sekunden",,,
+Goblin-Schamane,"18 Level Druidenstein
+Seelenstein des Goblin-Schamanen
+[Maji]
+100 Mana für Verwandlung
+12 Lernpunkte, 4000 Gold",,,,,"- Sehr niedrige Vitalität
+- Schwache Effektivität im Nahkampf
+- Verwendet Magie
+- Kann sein Mana wiederherstellen
+- Kann springen und klettern",,,,"[1] Feuerball - Der Goblin schießt einen Feuerball, der nicht entzündet
+Manakosten: 30, Abklingzeit: 1 Sekunde
+
+[2] Sturmfaust - Der Goblin schießt eine Sturmfaust, die sich nicht auflädt, Schaden an Zielen auf der Flugbahn verursacht und sie zurückstößt/umwirft.
+Manakosten: 40, Abklingzeit: 3 Sekunden
+
+[3] Donner - Der Goblin wirft nach kurzer Vorbereitung einen mächtigen Donner, der allen in der Umgebung Schaden zufügt
+Manakosten: 125, Abklingzeit: 60 Sekunden
+
+[4] Manaflut - Der Goblin stellt 30% seines max. Manas wieder her
+Manakosten: Keine, Abklingzeit: 300 Sekunden (5 Minuten)",,,
+Golem,"20 Level Druidenstein
+Seelenstein des Golems
+[Antramentor/Dunkler Golem]
+100 Mana für Verwandlung
+12 Lernpunkte, 5000 Gold ",,,,,"- Seine Angriffe stoßen das Ziel zurück/werfen es um
+- Kann beträchtlichen Flächenschaden verursachen
+- Kann einen Teil der erlittenen Wunden heilen
+- Kann auf dem Grund von Gewässern gehen",,,,"[1] Gestank - Vom Golem geht eine Stinkwelle aus, die alle Gegner in Reichweite angreift.
+Manakosten: 40, Abklingzeit: 30 Sekunden
+
+[2] Heilung - Der Golem stellt 25% seiner max. HP wieder her
+Manakosten: 70, Abklingzeit: 60 Sekunden",,,
+Stachelrücken,"25 Level Druidenstein
+Seelenstein des Stachelrückens
+[Ishi'Kurat]
+150 Mana für Verwandlung
+15 Lernpunkte, 7000 Gold",,,,,"- Ausgezeichnete Vitalität
+- Ausgezeichnete Geschwindigkeit
+- Mittlerer Angriff
+- Hohe Ausdauer
+- Geringer Blutungsschaden",,,,"[1] Feuerwelle - Vom Stachelrücken geht eine Feuerwelle aus, die Gegner ringsum verletzt
+Manakosten: 70, Abklingzeit: 2 Minuten",,,
+Echsenmensch,"30 Level Druidenstein
+Verfluchter Stein des Echsenmenschen
+[Schamane der Echsenmenschen]
+175 Mana für Verwandlung
+20 Lernpunkte, 8000 Gold",,,,,"- Hoher Angriff
+- Mittlere Resistenzen
+- Verwendet Nahkampfwaffen und kann blocken
+- Kann die Aggression von Feinden verlieren oder sie abschrecken",,,,"[1] Waffe ziehen
+
+[2] Sich tot stellen - Der Echsenmensch stellt sich tot und nahe Gegner verlieren das Interesse an ihm
+Manakosten: 30 Abklingzeit: 5 Minuten
+
+[3] Terror - Der Echsenmensch zwingt nahe Gegner zur Flucht (Wirkt nicht bei Bossen)
+Manakosten: 50 Abklingzeit: 180 Sekunden (3 Minuten)",,,
+"Verworfene Verwandlungskonzepte, die im Spiel waren, aber entfernt wurden",,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+"Spinne
+(Anstelle des aktuellen Kriechers)
+Entfernt wegen Kameraproblemen, hölzernen Animationen und Hitbox-Problemen",,,,"15 Level Druidenstein
+Seelenstein der Spinne
+[u.a. Spinnen-Bosse in Jarkendars]
+120 Mana für Verwandlung
+7 Lernpunkte, 3000 Gold",,"- Giftig
+- Greift mit Sprung an
+- Macht Gegner bewegungsunfähig",,,,"[1] Spinnennetz, mit langer Abklingzeit, das nach Treffer den Feind kurzzeitig bewegungsunfähig macht
+[2] Giftiges Spucken, mit kurzer Abklingzeit, das den Feind aus der Distanz vergiftet",,,
+"Harpie
+(Anstelle des aktuellen Golems)
+Entfernt wegen kompletter Unausgewogenheit durch das Fliegen sowie hölzerne Animationen.
+Mehr Aufwand beim Flicken von Flugplätzen für Harpien als beim Erstellen einer neuen Verwandlung",,,,"20 Level Druidenstein
+Seelenstein der Harpie
+[Fällt von Rukyava in der Steinfestung in GD]
+150 Mana für Verwandlung
+10 Lernpunkte, 5000 Gold",,"- Kann fliegen (W - vorwärts, LEERTASTE - aufsteigen)
+- Greift mit Magie an
+- Kann Fluggeschwindigkeit auf Kosten von Mana erhöhen (LSHIFT)
+- Verwandlung nicht möglich in Höhlen und bestimmten Orten.",,,,"[1] Eislanze, magisches Geschoss mit sehr kurzer Abklingzeit
+[2] Geysir, magischer Flächenzauber mit beträchtlicher Abklingzeit",,,
+"Skelett
+(Anstelle des aktuellen Echsenmenschen)
+Absolut nichts griff es an, bekam keine Treffer von Untoten-Magiern, Paladine griffen es nur mit nutzlosen Runen an, der Bogen erwies sich als definitiv zu OP, und zusätzlich praktisch 100% Resistenz gegen Pfeile",,,,"30 Level Druidenstein
+Seelenstein des Untoten
+[Fällt u.a. von Malbar, Im'Arah, Miragul]
+175 Mana für Verwandlung
+15 Lernpunkte, 8000 Gold",,"- Ausgezeichneter Angriff
+- Schwache Vitalität
+- Kann Schläge blocken und ihnen ausweichen
+- Kann mit Bogen umgehen",,,,"[1] Waffenwahl für Nahkampf
+[2] Waffenwahl für Fernkampf
+[3] Sich tot stellen (Temporäre Unverwundbarkeit)
+[4] Schrecken (Schreckt einen Teil der nahen Feinde ab)",,,
