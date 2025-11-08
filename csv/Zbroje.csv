@@ -1,0 +1,156 @@
+NAZWA,,,,WYMAGANIA,,CIĘTE,OBUCH,KŁUTE,OGIEŃ,MAGIA,INNE,,OPIS
+,,,,,,,,,,,,,
+"UBRANIA GILDYJNE ZNAJDUJĄ SIĘ W SWOICH ARKUSZACH, KLIKNIJ NA LINK PONIŻEJ",,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+STRAŻNIK / PALADYN,,,,,,,,,MAG OGNIA,,,,
+,,,,,,,,,,,,,
+NAJEMNIK / ŁOWCA SMOKÓW,,,,,,,,,MAG WODY,,,,
+,,,,,,,,,,,,,
+STRAŻNIK ŚWIĄTYNNY,,,,,,,,,GURU,,,,
+,,,,,,,,,,,,,
+MROCZNY RYCERZ,,,,,,,,,NEKROMANTA,,,,
+,,,,,,,,,,,,,
+ŁOWCA DEMONÓW,,,,,,,,,CZARNOKSIĘŻNIK,,,,
+,,,,,,,,,,,,,
+ZWIADOWCA,,,,,,,,,PRZYWOŁYWACZ,,,,
+,,,,,,,,,,,,,
+SZAMAN,,,,,,,,,DRUID,,,,
+,,,,,,,,,,,,,
+"UBRANIA NEUTRALNE, DOSTĘPNE DLA KAŻDEJ GILDII:",,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+GILDIA ZŁODZIEI W KHORINIS,,,,,,,,,,,,,
+Pancerz kieszonkowca,,,,Zręczność 35 Waga 0,,20,10,15,5,5,Unik 10%,,Sprzedaje Jasper
+Przekuty pancerz kieszonkowca,,,,Zręczność 40 Waga 0,,30,20,20,5,5,Unik 10%,,Podstawowe przekuwanie (Carl / kowale gildyjni)
+Stary pancerz cienia,,,,"Waga 1
+Wytrzymałość 50 ",,30,30,15,0,0,"Unik 10% upadek 0,5",,"Skrzynia Rączki w kanałach, klucz daje Jasper"
+Przekuty stary pancerz cienia,,,,"Waga 1
+Wytrzymałość 50 ",,45,45,20,5,0,"Unik 10% upadek 0,5",,Podstawowe przekuwanie (Carl / kowale gildyjni)
+Pancerz złodzieja,,,,Zręczność 50 Waga 0,,40,20,10,5,5,Unik 10%,,Sprzedaje Jasper (2R lub 1R za wysoką reputację za zadania) 
+Przekuty pancerz złodzieja,,,,Zręczność 60 Waga 0,,60,30,30,5,5,Unik 10%,,Podstawowe przekuwanie (Carl / kowale gildyjni)
+Pancerz rabusia,,,,"Zręczność 110 Waga 1
+Wytrzymałość 100",,70,50,30,10,5,Unik 10%,,Sprzedaje Jasper (2R Brak wymogu reputacji)
+Przekuty pancerz rabusia,,,,"Zręczność 120 Waga 1
+Wytrzymałość 100",,85,60,45,15,5,Unik 10%,,Podstawowe przekuwanie (Carl / kowale gildyjni)
+Pancerz łotrzyka,,,,"Zręczność 150 Waga 2
+Wytrzymałość 150",,90,60,70,15,10,Unik 10%,,Sprzedaje Jasper (2R Brak wymogu reputacji)
+Przekuty pancerz łotrzyka,,,,"Zręczność 150 Waga 2
+Wytrzymałość 150",,110,80,90,25,20,Unik 10%,,Podstawowe przekuwanie (Carl / kowale gildyjni)
+Pancerz ducha,,,,"Zręczność 180 Waga 2
+Wytrzymałość 250",,120,80,100,20,15,Unik 10%,,Sprzedaje Jasper (2R Brak wymogu reputacji)
+Przekuty pancerz ducha,,,,"Zręczność 180 Waga 2
+Wytrzymałość 250",,140,95,110,30,25,Unik 10%,,Podstawowe przekuwanie (Carl / kowale gildyjni)
+Pancerz mistrza złodziei,,,,"Zręczność 230 Waga 3
+Wytrzymałość 350",,140,110,130,25,20,Unik 10% upadek 2,,Sprzedaje Jasper (3R lub 2R za wysoką reputację za zadania) 
+Przekuty pancerz mistrza złodziei,,,,"Zręczność 230 Waga 3
+Wytrzymałość 350",,160,135,140,35,35,Unik 10% upadek 3,,Podstawowe przekuwanie (Carl / kowale gildyjni)
+Pancerz króla złodziei,,,,"Zręczność 350 Waga 5
+Wytrzymałość 500",,170,160,120,30,25,Unik 10% upadek 3,,Sprzedaje Jasper (3R)
+Przekuty pancerz króla złodziei,,,,"Zręczność 350 Waga 5
+Wytrzymałość 500",,190,180,140,45,45,Unik 10% upadek 4,,Zaawansowane przekuwanie (Darion / kowale gildyjni)
+OBÓZ MYŚLIWYCH W KHORINIS,,,,,,,,,,,,,
+Pancerz ze skóry wilka,,,,"Wytrzymałość 150
+Waga 1",,60,40,30,10,10,HP 35 upadek 1,,"Uczy Falk za trofeum z bossa wilka obok kamiennego kręgu 
+w Mrocznym Lesie, tam gdzie idziemy po ornament"
+Pancerz ze skóry warga,,,,"Wytrzymałość 250
+Waga 1",,90,60,75,15,10,HP 60 upadek 2,,"Uczy Falk za trofeum z bossa warga przy kapliczce mrocznego mentora za farmą Onara, głęboko w lesie"
+Pancerz ze skóry trolla,,,,"Wytrzymałość 400
+Waga 2",,150,150,130,40,20,HP 170 upadek 3,,"Uczy Falk za trofeum z trolla z misji Netbeka / skarbu Thatcha
+(Lutero przyjmuje tylko 1 kieł, drugi można wykorzystać)"
+Zbroja mistrza myśliwych,,,,"Wytrzymałość 550
+Waga 3",,190,160,120,50,25,HP 200 upadek 4,,Uczy Falk za trofeum z Czarnego Trolla na Pustyni
+BANDYCI Z JARKENDARU,,,,,,,,,,,,,
+Lekki pancerz bandyty,,,,Waga 1,,45,25,10,0,0,HP 25,,Daje Greg za wyczyszczenie kanionu z brzytwiaków
+Pancerz bandyty,,,,"Waga 1
+Wytrzymałość 150",,60,30,15,0,0,---,,Sprzedaje Huno
+Ciężki pancerz bandyty,,,,"Waga 2
+Wytrzymałość 200",,70,40,20,0,0,---,,Sprzedaje Huno
+Ciężki pancerz gwardzisty,,,,"Siła 105 Waga 3
+Wytrzymałość 300",,110,100,90,0,0,HP 100,,Daje Thorus po wypędzeniu Kruka z Jarkendaru
+Przekuty ciężki pancerz gwardzisty,,,,"Siła 100 Waga 3
+Wytrzymałość 350",,120,120,100,15,15,HP 150,,Podstawowe przekuwanie (Carl / kowale gildyjni)
+PIRACI Z JARKENDARU,,,,,,,,,,,,,
+Lekki pancerz pirata,,,,Waga 2,,60,50,35,0,0,Unik 10% upadek 1,,Daje Greg po zleceniu misji z kanionem
+Pancerz pirata,,,,Waga 2,,80,70,60,20,10,Unik 10% upadek 2,,Sprzedaje Greg
+Ciężki pancerz pirata,,,,Waga 3,,105,100,90,15,15,Unik 10% upadek 3,,Sprzedaje Greg po wypędzeniu Kruka z Jarkendaru
+ASASYNI / MASYAF,,,,,,,,,,,,,
+Pancerz cienia masjafu,,,,Waga 2,,110,80,60,15,5,upadek 3,,Wypada z asasyna na początku wątku Masjafu
+Pancerz asasyna,,,,"Zręczność 400 Waga 5
+Wytrzymałość 600",,200,190,220,90,40,Unik 10% upadek 3,,Daje Gonzales po skończeniu wątku Masjafu
+Przekuty pancerz asasyna,,,,"Zręczność 400 Waga 4
+Wytrzymałość 650",,210,215,230,100,60,Unik 15% upadek 3,,Zaawansowane przekuwanie (Darion / kowale gildyjni)
+Pancerz przeora masjafu,,,,"Siła 200 Waga 2
+Wytrzymałość 500",,240,240,220,40,45,HP 250 upadek 6,,Leży w sekretnym pomieszczeniu w sanktuarium Masjafu
+Przekuty pancerz przeora masjafu,,,,"Siła 250 Waga 2
+Wytrzymałość 550",,280,280,250,40,45,HP 300 upadek 8,,Zaawansowane przekuwanie (Darion / kowale gildyjni)
+GILDIA ZABÓJCÓW W KHORINIS,,,,,,,,,,,,,
+Pancerz zabójcy,,,,Waga 1,,50,40,35,5,5,Unik 10%,,Daje Asmal po zabiciu Lehmara
+Przekuty pancerz zabójcy,,,,Waga 1,,60,55,45,10,10,Unik 10%,,Podstawowe przekuwanie (Carl / kowale gildyjni)
+Pancerz mistrza zabójców,,,,Waga 2,,70,50,45,15,5,Unik 10%,,Otrzymujemy po zabiciu Asmala
+Przekuty pancerz mistrza zabójców,,,,Waga 3,,90,80,50,25,10,Unik 10%,,Podstawowe przekuwanie (Carl / kowale gildyjni)
+PANCERZE NAJEMNIKA ORKÓW,,,,,,,,,,,,,
+Pancerz orkowego zwiadowcy,,,,"Zręczność 300 Waga 3
+Wytrzymałość 450",,150,180,170,25,35,Unik 10% upadek 3,,Do wyboru po zabiciu demona w kopalni orków od UrThralla
+Przekuty pancerz orkowego zwiadowcy,,,,"Zręczność 330 Waga 3
+Wytrzymałość 500",,175,210,210,35,55,Unik 10% upadek 4,,Zaawansowane przekuwanie (Darion / kowale gildyjni)
+Pancerz orkowego najemnika,,,,"Siła 300 Waga 5
+Wytrzymałość 650",,220,220,200,40,40,HP 300 upadek 5,,Do wyboru po zabiciu demona w kopalni orków od UrThralla
+Przekuty pancerz orkowego najemnika,,,,"Siła 350 Waga 5
+Wytrzymałość 700",,245,245,220,50,50,HP 350 upadek 5,,Zaawansowane przekuwanie (Darion / kowale gildyjni)
+Szata orkowego najemnika,,,,Mana 600 Waga 4,,120,130,100,110,50,---,,Do wyboru po zabiciu demona w kopalni orków od UrThralla
+PANCERZE Z GINNOKA /,,,,,,,,,ZAGINIONEGO BRATA (ENDGAME),,,,
+Szata Krwi,,,,Mana 1200 Waga 2,,200,210,200,230,200,"25 int, 30% szans na +5% many za każde zabicie",,Po zabiciu Ile'Sila na Zaginionym Bracie
+Szata Strażnika Równowagi,,,,Mana 1200 Waga 2,,200,210,200,230,230,"Inteligencja 25, unik 12%",,"Po zabiciu Ile'Sila na Zaginionym Bracie
+(Dobre gildie zamiast Szaty Krwi)"
+Pancerz Er'hazira,,,,"Zręczność 500 Waga 4
+Wytrzymałość 800",,275,275,240,165,185,HP 275 upadek 9,,Wylatuje z bossa widma na Zaginionym Bracie
+Przekuty pancerz Er'hazira,,,,"Zręczność 550 Waga 4
+Wytrzymałość 850",,290,290,265,180,200,HP 320 upadek 9,,Przekucie pancerza Er'hazira
+Pancerz Krwi,,,,"Siła 625 Waga 6
+Wytrzymałość 900",,320,320,320,170,170,HP 500 upadek 12 przywraca 200 HP za każde zabicie,,Ile'Sil na Zaginionym Bracie
+Pancerz Ciemności,,,,"Zręka 600 Waga 4
+Wytrzymałość 850",,340,325,360,190,220,Unik 15% upadek 12,,Pokonanie Ginnoka w 5r mając więcej zręczności niż siły
+Pancerz światła,,,,"Siła 625 Waga 6
+Wytrzymałość 900",,350,350,350,100,100,HP 500 upadek 15,,Pokonanie Ginnoka w 5r mając więcej siły niż zręczności
+Pancerz zabójcy smoków,,,,"Siła 550 Waga 6
+Wytrzymałość 950",,390,390,300,150,130,HP 600 upadek 15,,Tworzy Bennet w 6 rozdziale na Irdorath
+INNE,,,,,,,,,,,,,
+Przepaska nowicjusza,,,,---,,5,0,0,0,0,---,,Leży obok Lestera w kotlinie pod wieżą Xardasa
+Strój farmera,,,,---,,15,0,0,0,0,---,,Sprzedaje Lobart po zrobieniu zadań na farmie
+Strój obywatela,,,,---,,10,10,5,0,0,---,,"Sprzedają Matteo i Hanna
+Leży w magazynku na lewo od południowej bramy"
+Ubranie czeladnika kowala,,,,---,,15,10,0,0,5,---,,Zostanie czeladnikiem Harada
+Strój alchemika,,,,---,,15,10,5,0,5,---,,Zostanie czeladnikiem Constantino
+Luksusowy strój obywatela,,,,---,,20,10,5,0,0,---,,"Na dachu domu Gerbranta w górnym mieście
+(Najlepsza opcja do zadania od Pablo)"
+Skórzany pancerz,,,,Waga 1,,25,15,10,0,0,Unik 10%,,"Dają myśliwi i Bosper swojemu czeladnikowi
+Sprzedaje Orlan w karczmie Martwa Harpia"
+Ciężki skórzany pancerz,,,,Waga 1,,30,20,15,0,0,Unik 10%,,Sprzedaje Bosper czeladnikowi
+Pancerz poszukiwacza przygód,,,,---,,40,35,40,0,0,---,,Sprzedaje Alrik za 500 złota
+Pancerz wodnego kręgu,,,,Waga 1,,60,65,50,10,10,HP 25,,"Otrzymujemy po dołączeniu do Wodnego Kręgu
+(Zanieść ornamenty magom wody i wsadzić Fernando za kraty)"
+Przekuty pancerz wodnego kręgu,,,,Waga 2,,80,85,75,15,20,HP 50,,Podstawowe przekuwanie (Carl / kowale gildyjni)
+Pancerz z płytek pełzacza,,,,"Siła 65 Waga 1
+Wytrzymałość 150",,50,60,70,15,5,HP 100,,"Robi dla nas Wilk w zadaniu ""Zbroja dla Barema"""
+Przekuty pancerz z płytek pełzacza,,,,"Siła 80 Waga 2
+Wytrzymałość 150",,70,80,90,25,10,HP 125,,Podstawowe przekuwanie (Carl / kowale gildyjni)
+Szata starożytnego kapłana,,,,Mana 250 Waga 1,,75,50,40,40,50,---,,W skrzyni w bibliotece w Jarkendarze
+Ciężki pancerz cienia,,,,"Zręka 100 Waga 2
+Wytrzymałość 250",,100,100,90,0,0,"Unik 10% upadek 2
+Łuk | 1H +5%
+",,"Skrzynia Rączki w Górniczej Dolinie
+Trzeba mieć 250 zręczności i okraść Rączkę w Azgan"
+Przekuty ciężki pancerz cienia,,,,"Zręka 150 Waga 2
+Wytrzymałość 300",,140,130,110,0,0,"Unik 10% upadek 3
+Łuk | 1H +5%",,Zaawansowane przekuwanie (Darion / kowale gildyjni)
+Stalowy pancerz,,,,"Siła 250 Waga 3
+Wytrzymałość 350",,150,120,100,15,25,---,,Daje Erol po skończeniu wątku obozu
+Przekuty stalowy pancerz,,,,"Siła 275 Waga 3
+Wytrzymałość 350",,165,140,120,20,45,---,,Zaawansowane przekuwanie (Darion / kowale gildyjni)
+Pancerz magnata,,,,"Siła 160 Waga 3
+Wytrzymałość 400",,150,150,140,10,10,HP 175,,Leży w skrzyni magnata w kamiennej fortecy w GD
+Przekuty pancerz magnata,,,,"Siła 230 Waga 4
+Wytrzymałość 450",,180,180,160,20,20,HP 235,,Zaawansowane przekuwanie (Darion / kowale gildyjni)
+Szata Starożytnego Maga,,,,Mana 550 Waga 2,,175,175,150,120,110,---,,"W jaskini bólu w Górniczej Dolinie
+(3 rozdział, zadanie Antyki)"

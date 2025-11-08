@@ -1,0 +1,141 @@
+Nazwa,Wymagania,Obrażenia,Inne statystyki,,Lokalizacja zdobycia
+Łuki z wymogiem siły (skalowanie obrażeń ze zręczności),,,,,
+Łuk najemnika,Siła 50,30,---,,Wypada wszędzie
+Kościany łuk,Siła 130,110,---,,Sprzedaje Khaled na farmie Onara
+Dębowy łuk,Siła 150,120,---,,Sprzedaje Khaled na farmie Onara
+Łuk bojowy,Siła 170,130,---,,Sprzedaje Khaled na farmie Onara
+Smoczy łuk,Siła 200,150,---,,Sprzedaje Khaled na farmie Onara
+Cienisty łuk,Siła 200,170,---,,Las Asasynów
+Nordmarski łuk,Siła 240,190,---,,W skarbie lodowego smoka
+Łuk strzelca,Siła 200,200,---,,Wypada z bossa łucznika na arenie Blizny
+Łuki do wytworzenia,,,,,
+Krótki Łuk,"Zręczność: 10,
+Władanie: 0%",10,Bonus do władania 1%,,"Schematu uczy Bosper, jeśli jesteśmy jego czeladnikiem"
+Łuk wierzbowy,"Zręczność: 20,
+Władanie: 15%",25,Bonus do władania 2%,,"Schematu uczy Bosper, jeśli jesteśmy jego czeladnikiem"
+Łuk z wiązu,"Zręczność: 30,
+Władanie: 25%",55,Bonus do władania 3%,,"Schematu uczy Bosper, jeśli jesteśmy jego czeladnikiem"
+Łuk Jesionowy,"Zręczność: 80,
+Władanie: 30%",80,Bonus do władania 4%,,"Schematu uczy Bosper, jeśli jesteśmy jego czeladnikiem"
+Łuk bukowy,"Zręczność 120,
+Władanie 40%",110,Bonus do władania 5%,,"Schematu uczy Bosper, jeśli jesteśmy jego czeladnikiem"
+Łuki ogólnodostępne,,,,,
+Krótki Łuk,"Zręczność: 10,
+Władanie: 0%",10,---,,Leży przy jeziorku obok wieży Xardasa
+Szczęście Myśliwego,"Zręczność: 25,
+Władanie: 15%",20,Dodatkowe 15 obrażeń w zwierzęta,,Sprzedaje go Bosper
+Łuk wierzbowy,"Zręczność: 20,
+Władanie: 10%",15,---,,Leży przy jaszczurach naprzeciwko wejścia do Bimbrowni Vino
+Łuk myśliwski,"Zręczność: 30,
+Władanie: 15%",25,---,,W skrzyni na prawo od wejścia w jaskini przy zbieraczach ziela koło Grimbalda
+Łuk myśliwego,"Zręczność: 10,
+Władanie: 15%",20,---,,Dostajemy go od Bospera za zostanie jego czeladnikiem
+Wiązowy Łuk,"Zręczność: 50,
+Władanie: 20%",45,---,,Sprzedaje go Bosper
+Łuk kompozytowy,"Zręczność: 60,
+Władanie: 25%",60,---,,Leży w skrzyni przy jaszczurach Ragnara
+Łuk Jesionowy,"Zręczność: 80,
+Władanie: 30%",70,---,,Sprzedaje go Raff
+Ogłuszacz,"Zręczność: 50,
+Władanie: 25%",75,Odp. na magię: 10,,Wypada z bandyty Kurdupla w Khorinis
+Długi Łuk,"Zręczność: 90,
+Władanie: 35%",80,---,,Sprzedaje go Raff
+Bukowy Łuk,"Zręczność: 120,
+Władanie: 40%",100,---,,Sprzedaje go Raff
+Łuk dośw. łowcy,"Zręczność: 145,
+Władanie: 45%",125,---,,Sprzedaje go Raff
+Sokole Oko,"Zręczność: 175,
+Władanie: 50%",145,---,,Sprzedaje go Raff
+Łuk Diego,"Zręczność: 170,
+Władanie: 40%",70,---,,"Wypada z Diego, jeśli zginie strzelając"
+Nocny Wędrowiec,"Zręczność: 160,
+Władanie: 50%",140,Odp. na magię/ogień: 5,,Leży w jaskini z cieniostworami pod mostem na Wykopaliska Magów Wody w Khorinis
+Yakulus,"Zręczność: 190,
+Władanie: 55%",160,Odp. na fizyczne: 10,,Leży na skarpie w pobliżu skrzyni wojownika w Dolinie Ashtara 
+Kudzu,"Zręczność: 210,
+Władanie: 55%",180,Bonus do HP: 200,,"Dostajemy go od Netbeka za zadanie ""Nieproszony Gość"""
+Kerenowy Łuk,"Zręczność: 230,
+Władanie: 60%",220(obuch),"Wymaga specjalnych strzał, które robi dla nas Bosper lub uczy nas je wytwarzać (Tylko czeladnika)",,"Dostajemy go od Falka za zadanie ""Wielki Myśliwy"""
+Święty Wysłannik,"Zręczność: 250,
+Władanie: 60%",200,Efektywny przeciwko duchom i nieumarłym,,W ostatnim pomieszczeniu w Światyni Łez na Pustyni Adanosa
+Hamasin,"Zręczność: 270,
+Władanie: 60%",230,"Odp. na magię: 25
+Bonus obrażeń od zręczności: 5%
+Dodatkowe obrażenia: 50",,Wypada z zabójcy Gor Hanisa w zadaniu zaginieni nowicjusze (3 rozdział)
+Cicha Śmierć,"Zręczność: 260,
+Władanie: 50%",275,"Odp. na ogień: 25
+Bonus obrażeń od zręczności: 5%
+Dodatkowe obrażenia: 50",,"Dostajemy go od Gonzalesa, po skończeniu wątku Lasu Asasynów"
+Er'Hazir,"Zręczność: 310,
+Władanie: 70%",320,"Odp. na fizyczne: 20
+Bonus obrażeń od zręczności: 15%
+Bonusowe zdrowie: 200
+Dodatkowe obrażenia: 50",,W skrzyni w Sanktuarium Prawdy po ukończeniu zadań
+Rozpruwacz,"Zręczność: 370,
+Władanie: 75%",350,"Odp. na ogień i magię: 20
+Bonus obrażeń od zręczności: 25% 
+Dodatkowe obrażenia: 85",,Wypada z Hoshkara
+Sher Gar Mal,"Zręczność: 350,
+Władanie: 85%",350,"Odp. na fizyczne: 40 
+Bonus obrażeń od zręczności: 33% 
+Dodatkowe obrażenia: 150",,Wypada z Senyaka 
+Szpon Beliara,"Zręczność: 320,
+Władanie: 85%",350,Bonus obrażeń od zręczności: 18% Dodatkowe obrażenia: 20 ,,"Wypada z Kruka, należy go przerobić w kapliczce"
+Szpon Beliara z duszą,"Zręczność: 350,
+Władanie: 95%",390,"Bonus obrażeń od zręczności: 30% 
+Kradzież życia: 25
+Dodatkowe obrażenia: 250 ",,Dostajemy po wsadzeniu duszy Senyaka w łuk
+Łuk Krwi,"Zręczność: 425,
+Władanie: 100%",450,"Odp na magię/ogień: 50
+Bonus obrażeń od zręczności: 40%
+Kradzież życia: 30
+Dodatkowe obrażenia: 150",,Wypada z bossa na Zaginionym Bracie
+Barwa Śmierci,"Zręczność: 420,
+Władanie: 100%",475,"Odp na magię: 50
+Bonus obrażeń od zręczności: 50%
+Dodatkowe obrażenia: 200",,Wypada z Dementora na Irdorath
+Ręka Chaosu,"Zręczność: 500,
+Władanie: 100%",500,Odp. na magię: 75,,"Wypada z bossa podczas wątku 7 rozdziału
+(rozdział 7 usunięty)"
+Kusze,,,,,
+Nazwa,Wymagania,Obrażenia,Inne statystyki,,Lokalizacja zdobycia
+Stara lekka kusza,Siła: 10,10,---,,Wypada z Brago
+Lekka kusza strażnika miejskiego,"Siła: 15,
+Władanie: 5%",15,---,,Sprzedaje ją Hakon
+Kusza najemnika,"Siła: 55,
+Władanie: 10%",35,---,,Sprzedaje ją Hakon
+Kusza rekruta zakonu,"Siła: 25,
+Władanie: 5%",45,---,,Dostajemy za darmo od Vilanda po dołączeniu do Łowców Demonów
+Lekka wzmoc. kusza,"Siła: 75, 
+Władanie: 10%",50,---,,Sprzedaje ją Hakon
+Drag Mal,"Siła: 120, Władanie: 20%",50,---,,Wypada z Orka Myśliwego
+Kusza Dragomira,"Siła: 70, 
+Władanie: 20%",75,---,,Leży w Słonecznym Kręgu
+Kusza łowcy demonów,"Siła: 60,
+Władanie: 20%",80,---,,Sprzedaje kowal Łowców Demonów w ich siedzibie (tylko ŁD)
+Kusza strażnika miejskiego,"Siła: 100, Władanie: 15%",80,---,,"Wypada ze strażników na murach i strażnika Rugi
+Sprzedaje ją Mortis
+W skrzyni przy teleporcie na zamku w GD"
+Kusza bandyty,"Siła: 120, Władanie: 20%",90,---,,Wypada z bandytów w Khorinis
+Kusza Sengratha,"Siła: 130, Władanie: 40%",100,---,,Leży w ciele Sengratha przy palisadzie w Górniczej Dolinie
+Kusza myśliwska,"Siła: 145, Władanie: 25%",105,---,,"Sprzedaje ją Tandor
+Leży pośród jaszczurów naprzeciw Bimbrowni Vino"
+Kusza,"Siła: 170, Władanie: 30%",120,---,,Sprzedaje ją Tandor
+Lekka kusza paladyna,"Siła: 210, Władanie: 40%",140,---,,"Sprzedaje ją Tandor
+Wypada z nieimiennych rycerzy"
+Drag Mora,"Siła: 200, Władanie: 30%",150,---,,Wypada z Czarnych Orków Kuszników
+Kusza wojenna,"Siła: 220, Władanie: 45%",160,---,,"W jaskini z cieniostworami pod mostem na wykopaliska magów wody
+W jaskini z jaszczuroczłekami przed Kamienną Fortecą"
+Pogromca Nieumarłych,"Siła: 185, Władanie: 50%",175,Skuteczna przeciwko nieumarłym i duchom,,"Schemat leży przy wejściu do 
+Opuszczonej Kopalni w Górniczej Dolinie"
+Kusza krzyżowca,"Siła: 250, Władanie: 50%",200,---,,Sprzedaje ją Tandor/Leży w magazynie w forcie azgan
+Kusza paladyna,"Siła: 300, Władanie: 60%",240,---,,Wypada z nieimiennych paladynów
+Ciężka kusza,"Siła: 350, Władanie: 70%",265,---,,Sprzedaje ją Tandor/Nosi ją Udar
+Kusza łowcy smoków,"Siła: 400, Władanie: 80%",300,---,,Sprzedaje ją Tandor w 4 rozdziale
+Szpon Beliara,"Siła: 320, Władanie: 85 %",330,Bonus obrażeń od siły: 18% Dodatkowe obrażenia: 20,,"Wypada z Kruka, należy go przerobić w kapliczce"
+Szpon Beliara z duszą,"Siła: 350, Władanie: 95%",375,"Bonus obrażeń od siły: 30% 
+Dodatkowe obrażenia: 100 
+Kradzież życia: 25",,Dostajemy po wsadzeniu duszy Senyaka w kuszę
+Zły Omen,"Siła: 375, Władanie: 90%",375 + 75,Efektywna przeciwko nieumarłym i duchom,,Wypada z Kruka w Koszmarze Kruka
+Drag Nimrod,"Siła: 450, Władanie: 100%",450,---,,"Zadanie ""Kusza Wielkiego Łowcy"""
+Egzekutor,----,1000 + 2000,Tylko 50 bełtów,,Leży na sarkofagu w Mieście Umarłych w Dolinie Cieni obok Lorda Niorret'a

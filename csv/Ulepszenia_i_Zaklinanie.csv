@@ -1,0 +1,220 @@
+Ulepszanie jest domyślnie wyłączone. By rozpocząć grę z ulepszeniami należy ustawić extModeActivate na 1 w Gothic.ini ,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+"Ulepszanie przedmiotów przebiega na kowadle.
+Można to zrobić max. 5 razy. Nauczymy się go z notatki od Lutero/Hakona za 3PN",,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+"Ulepszając biżuterię wybieramy statystykę (siła / zręczność / mana), która będzie wzrastać podczas ulepszania
+Bronie z różnych stadium rozgrywki wymagają coraz bardziej zróżnicowanych materiałów, a także
+zwiększonej ilości materiałów w porównaniu do poprzedniego ulepszenia",,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+Poziom ulepszenia,"Pancerz
+(rosną odporności)",,,,"Broń melee
+(rosną obrażenia)",,,,"Broń dystansowa
+(rosną obrażenia)",,,,"Hełm
+(rosną odporności)",,,,"Amulety
+(rośnie statystyka)",,,,,"Pierścienie
+(rośnie statystyka)"
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+1,Kły Skóra wilka Magiczna ruda,,,,"Kły Skóra wilka Magiczna ruda
+Sztabka żelaza",,,,Skóra wilka Kawałek drewna Stalowy pręt,,,,Kły Skóra wilka Magiczna ruda,,,,Magiczna ruda Bryłka żelaza,,,,,Magiczna ruda Bryłka żelaza
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+2,"Kły Skóra wilka Magiczna ruda
+Stalowy pręt Pazury Bryłka żelaza",,,,"Kły Skóra wilka Magiczna ruda
+Sztabka żelaza Skóra dzika Skóra warga",,,,"Skóra wilka Kawałek drewna Stalowy pręt
+Kawałek drewna z wiązu Skóra warga",,,,"Kły Skóra wilka Magiczna ruda
+Stalowy pręt Bryłka żelaza",,,,"Magiczna ruda Bryłka żelaza Pazury
+Czarna perła Stalowy pręt",,,,,"Magiczna ruda Bryłka żelaza Pazury
+Czarna perła Stalowy pręt"
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+3,"Kły Skóra wilka Magiczna ruda Stalowy pręt
+Pazury Bryłka żelaza Skóra gada Skóra dzika
+Płytki pancerza pełzacza",,,,"""Kły Skóra wilka Magiczna ruda
+Sztabka żelaza Skóra dzika Skóra warga Sztabka złota Czarna perła Bryłka żelaza",,,,"Skóra wilka Kawałek drewna Stalowy pręt
+Kawałek drewna z wiązu Skóra warga
+Czarna perła Bryłka żelaza Sztabka złota",,,,"""Kły Skóra wilka Magiczna ruda
+Stalowy pręt Bryłka żelaza Skóra gada
+Skóra dzika Płytki pancerza pełzacza",,,,"Magiczna ruda Bryłka żelaza Pazury
+Czarna perła Stalowy pręt Sztabka złota
+Żuwaczki pełzacza Róg smoczego zęb.",,,,,"Magiczna ruda Bryłka żelaza Pazury
+Czarna perła Stalowy pręt Sztabka złota
+Żuwaczki pełzacza Róg Cieniostwora"
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+4,"""Kły Skóra wilka Magiczna ruda Stalowy pręt
+Pazury Bryłka żelaza Skóra gada Skóra dzika
+Płytki pancerza pełzacza Skóra warga
+Róg Cieniostwora Skóra trolla",,,,"Kły Skóra wilka Magiczna ruda
+Sztabka żelaza Skóra dzika Skóra warga Sztabka złota Czarna perła Bryłka żelaza Skóra trolla Róg cieniostwora",,,,"Skóra wilka Kawałek drewna Stalowy pręt
+Kawałek drewna z wiązu Skóra warga Czarna perła Bryłka żelaza Sztabka złota Skóra trolla Róg cieniostwora",,,,"Kły Skóra wilka Magiczna ruda Pazury
+Stalowy pręt Bryłka żelaza Skóra gada
+Skóra dzika Płytki pancerza pełzacza 
+Skóra warga Róg Cieniostwora Skóra trolla",,,,"Magiczna ruda Bryłka żelaza Pazury
+Czarna perła Stalowy pręt Sztabka złota
+Żuwaczki pełzacza Róg smoczego zęb.",,,,,"""Magiczna ruda Bryłka żelaza Pazury
+Czarna perła Stalowy pręt Sztabka złota
+Żuwaczki pełzacza Róg Cieniostwora"
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+5,"Kły Skóra wilka Magiczna ruda Stalowy pręt
+Pazury Bryłka żelaza Skóra gada Skóra dzika
+Płytki pancerza pełzacza  Skóra warga
+Róg Cieniostwora Skóra trolla
+Skóra czarnego trolla",,,,"Kły Skóra wilka Magiczna ruda
+Sztabka żelaza Skóra dzika Skóra warga Sztabka złota Czarna perła Bryłka żelaza Skóra trolla Róg cieniostwora Jajo pełzacza
+Skóra czarnego trolla Czarna ruda",,,,"Skóra wilka Kawałek drewna Stalowy pręt Kawałek drewna z wiązu Skóra warga
+Czarna perła Bryłka żelaza Sztabka złota Skóra trolla Róg cieniostwora
+Czarna ruda Skóra czarnego trolla",,,,"Kły Skóra wilka Magiczna ruda Stalowy pręt
+Bryłka żelaza Skóra gada Skóra dzika Pazury
+Płytki pancerza pełzacza Skóra warga
+Róg Cieniostwora Skóra trolla
+Skóra czarnego trolla",,,,"Magiczna ruda Bryłka żelaza Pazury
+Czarna perła Stalowy pręt Sztabka złota
+Żuwaczki pełzacza Róg smoczego zęb.
+ Jajo pełzacza",,,,,"""Magiczna ruda Bryłka żelaza Pazury
+Czarna perła Stalowy pręt Sztabka złota
+Żuwaczki pełzacza Róg Cieniostwora
+ Jajo pełzacza"
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+PIECZĘCIE I ICH LOKALIZACJE,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+"Pieczęcie znajdujemy w świecie gry z bossów i skrzynek, a umieszczamy je za pomocą stołu rzemieślniczego (np. przy Thorbenie lub w obozie Dextera)
+Do broni można włożyć maksymalnie 10 pieczęci (nie muszą być tego samego rodzaju).
+Jedna pieczęć dodaje 10 punktów obrażeń. Nie da się wyciągać pieczęci z broni.
+Pieczęcie ognia i magii zwiększają nie tylko obrażenia broni, ale również obrażenia zadawane naszymi czarami.",,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+Pieczęć Precyzji,,,,Pieczęć Giganta,,,,,,Pieczęć Szermierza,,,,,Pieczęć Ognia,,,,,Pieczęć Magii,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+"Dodaje do broni
+obrażenia kłute",,,,"Dodaje do broni
+obrażenia obuchowe",,,,,,"Dodaje do broni
+obrażenia cięte",,,,,"Dodaje do broni
+obrażenia od ognia",,,,,"Dodaje do broni
+obrażenia od magii",,
+"KHORINIS, FORT AZGAN, LAS ASASYNÓW, ETLU",,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+W skrzyni w jednym z pokojów w Martwej Harpii,,,,W skrzyni w jaskini obok obozu zbieraczy przy Czarnym Trollu,,,,,,W skrzyni obok bandyty Brzytwy,,,,,Skrzynia w pokoju Pyrokara w klasztorze,,,,,W skrzyni w bimbrowni Vino,,
+,,,,,,,,,,,,,,,,,,,,,,
+W skrzyni bandytów obok mostu przy farmie Akila,,,,W sarkofagu w jaskini w kotlinie Lestera,,,,,,"W Rybogłowie, topielcu Erola",,,,,Skrzynia u Sekoba (3 rozdział),,,,,W skrzyni Ulfa w klasztorze,,
+,,,,,,,,,,,,,,,,,,,,,,
+W skrzyni w skarbcu złodziei,,,,Skrzynia w jednej z chat w Obozie Bractwa,,,,,,Skrzynia w domu Lutero na piętrze,,,,,"Skrzynia w kopalni ze szkieletami
+za obozem Dextera",,,,,Prawa skrzynia w skarbcu w klaszotrze,,
+,,,,,,,,,,,,,,,,,,,,,,
+Wypada z Bossa Ungolianta (2 sztuki),,,,Wypada z dzika Karthusa,,,,,,"W skrzyni przy widmie w jaskini pod
+Słonecznym Kręgiem",,,,,W jaskini z cieniostworami pod mostem na wykopaliska Magów Wody,,,,,W skrzyni u Matteo,,
+,,,,,,,,,,,,,,,,,,,,,,
+Wypada z Bossa Kamieniołapa,,,,Na plaży przy palmie zaraz obok wejścia do lokacji Fortu Azgan,,,,,,W skrzyni w magazynie w Forcie Azgan,,,,,Wypada z Ur-Azoga (2 sztuki),,,,,Wypada z bossa Luciana (2 sztuki),,
+,,,,,,,,,,,,,,,,,,,,,,
+Przy cieniostworze w Forcie Azgan,,,,W skrzyni w magazynie w Forcie Azgan,,,,,,Na plaży przy palmie zaraz obok wejścia do lokacji Fortu Azgan,,,,,Wypada z bossa Ogniodecha (2 sztuki),,,,,"W skrzyni w magazynie w Forcie Azgan
+(2 sztuki)",,
+,,,,,,,,,,,,,,,,,,,,,,
+W skrzyni na górze przy obozowisku goblinów w Forcie Azgan,,,,W jednej z odnóg kopalni siarki w Lesie Asasynów,,,,,,W jednej z odnóg kopalni siarki w Lesie Asasynów,,,,,Wypada z bossa Grimgasha (2 sztuki),,,,,"Przy kapliczce przy jaskini Osaira
+w Lesie Asasynów",,
+,,,,,,,,,,,,,,,,,,,,,,
+"W skrzyni w jednym z budynków na
+Wyspie Etlu (2 sztuki)",,,,W skrzyni w jednym z budynków na Wyspie Etlu (2 sztuki),,,,,,Wypada z Haniara w Lesie Asasynów,,,,,W skrzyni pod palmą w Forcie Azgan,,,,,"W skrzyni za chatą Salantino na Etlu
+(2 sztuki)",,
+,,,,,,,,,,,,,,,,,,,,,,
+Leży w jaskini Osaira w Lesie Asasynów,,,,Wypada z Haniara w Lesie Asasynów,,,,,,W skrzyni w jednym z budynków na Wyspie Etlu (2 sztuki),,,,,W skrzyni w magazynie w Forcie Azgan,,,,,Wypada z Cor Kaloma w Lesie Asasynów,,
+,,,,,,,,,,,,,,,,,,,,,,
+Wypada z Nebirosa w Lesie Asasynów,,,,Wypada z Gavina na Etlu,,,,,,Wypada z Gavina na Etlu,,,,,"Obok niewolników w jaskini Osaira
+w Lesie Asasynów",,,,,Wypada z Magnusa na Etlu,,
+,,,,,,,,,,,,,,,,,,,,,,
+W skrzyni w Domu Vatrasa,,,,Wypada z Cor Kaloma w Lesie Asasynów,,,,,,Wypada z Izu'Tzelda z Mrocznej Sieci,,,,,"W skrzyni w jednym z budynków
+na Wyspie Etlu",,,,,Wypada z Magnusa na Etlu,,
+,,,,,,,,,,,,,,,,,,,,,,
+JARKENDAR I DOLINA ASHTARA,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+W skrzyni w świątyni na bagnie,,,,W skrzyni w jaskini Juana,,,,,,"W skrzyni na skale na bagnach
+nad teleportem",,,,,W sarkofagu Quahodrona,,,,,W skrzyni w magazynie Lou,,
+"Skrzynia na szczycie wieży bandytów, obok obozu piratów",,,,"Skrzynia w kopalni w kanionie
+obok teleportu na Pustynie",,,,,,Skrzynia w ruinach przed grobowcm Quahodrona,,,,,Skrzynia w lewej odnodze przed Rademesem w Świątyni Adanosa,,,,,Skrzynia w prawej odnodze przed Rademesem w Świątyni Adanosa,,
+W skrzyni w jaskini goblinów pod czarnym trollem,,,,Skrzynia w chacie Skipa w obozie piratów,,,,,,Skrzynia przy kapliczce Beliara obok Eremity,,,,,Skrzynia w namiocie orka szamana w kanionie,,,,,Skrzynia w bibliotece w kanionie,,
+"W skrzyni Złodzieja w Dolinie Ashtara
+(2 sztuki)",,,,W skrzyni Złodzieja w Dolinie Ashtara,,,,,,"W skrzyni Złodzieja w Dolinie Ashtara
+(2 sztuki)",,,,,W sarkofagu w kopalni złota u bandytów,,,,,W skrzyni Maga w Dolinie Ashatara (2 sztuki),,
+"W skrzyni Wojownika w Dolinie Ashtara
+(2 sztuki)",,,,"W skrzyni Wojownika w Dolinie Ashtara
+(2 sztuki)",,,,,,"W skrzyni Wojownika w Dolinie Ashtara
+(2 sztuki)",,,,,W skrzyni Maga w Dolinie Ashtara (3 sztuki),,,,,Wypada z bagiennego trutnia Zestobluma,,
+Wypada z bossa Ogarów Gaalara (2 sztuki),,,,Wypada z bossa Aligatora,,,,,,Wypada z warga Teneklyka,,,,,Wypada z pająka Agelidasa w Jarkendarze,,,,,Wypada z demona Keyrona,,
+Wypada z bossa pumy (2 sztuki),,,,"Wypada z bossa pająków w świątyni
+na bagnach",,,,,,Wypada z bossa Aligatora,,,,,Wypada z demona Keyrona,,,,,Wypada z kapitana Drake'a,,
+"Wypada z bossa Garantula
+(pająk w świątyni na bagnie)",,,,Wypada z Padlinożercy,,,,,,Wypada z Padlinożercy,,,,,Wypada z Kapitana Drake'a,,,,,Z bossa szamanów w Świątyni Wojowników,,
+Wypada z bossa szamanów w świątyni z goblinami (2 sztuki),,,,Wypada z Bloodwyna,,,,,,"Wypada z bossa szamanów w świątyni
+obok czarnego trolla",,,,,Z bossa szamanów w Świątyni na bagnie,,,,,,,
+,,,,"Wypada z bossa szamanów w świątyni
+obok czarnego trolla",,,,,,,,,,,,,,,,,,
+PUSTYNIA ADANOSA I ŚWIĄTYNIA ŁEZ,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+"W skrzyni z Koroną Adanosa
+w Sanktuarium Prawdy",,,,"W skrzyni z Koroną Adanosa
+w Sanktuarium Prawdy",,,,,,"W skrzyni z Koroną Adanosa
+w Sanktuarium Prawdy",,,,,"W skrzyni z Koroną Adanosa
+w Sanktuarium Prawdy",,,,,"W skrzyni z Koroną Adanosa
+w Sanktuarium Prawdy",,
+W oazie niedaleko Wiezy Imaraha,,,,W skrzyni w obozie goblinów,,,,,,W oazie w Małej Piramidzie,,,,,W oazie w Małej Piramidzie,,,,,W wieży Imaraha,,
+W oazie niedaleko Wiezy Imaraha,,,,"W Dużej Piramidzie, na jednym z ołtarzy",,,,,,W skrzyni w obozie goblinów,,,,,Przy kociołku na wodę obok Magolemusa,,,,,Wypada z Im'Araha (2 sztuki),,
+"W jednym z respów kamiennych strażników
+na prawo od skały Gazkula",,,,W obozie ogrów przed Dużą Piramidą,,,,,,W oazie obok jaskini z jajem smoka,,,,,Wypada z Magolemusa (2 sztuki),,,,,Wypada z Meliaxa w świątyni Łez,,
+Po lewo przed bossem Kamiennych Strażników w Świątyni Łez,,,,Po prawo od wejścia do Świątyni Łez,,,,,,"W jaskini z Pożeraczami Rudy
+pod Świątynią Łez",,,,,Wypada z Malsura w Świątyni Łez,,,,,Wypada z goblina Shakzi,,
+Wypada z Ishi'Kurata (2 sztuki),,,,Wypada z Amul'Saha (2 sztuki),,,,,,Wypada z Amul'Rougha (2 sztuki),,,,,Wypada z Im'Araha (2 sztuki),,,,,,,
+GÓRNICZA DOLINA I JEJ PODLOKACJE,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+W skrzyni na dachu nad pracującymi niewolnikami w zamku,,,,W skrzyni w jednej z chat w kotle Wolnej Kopalni,,,,,,W skrzyni obok Darriona w Klasztorze Zmiennokształtnych,,,,,W skrzyni w jednym z pokojów w budynku Garonda,,,,,W skrzyni na Drakkarze Orków,,
+W skrzyni w wieży z Gomezem,,,,W skrzyni w jaskini z cieniostworem przy wybrzeżu obok Starej Kopalni,,,,,,W skrzyni obok Darriona w Klasztorze Zmiennokształtnych,,,,,W skrzyni w magazynie paladynów,,,,,"W skrzyni z dokumentami dla Saturasa
+obok Lodowego Smoka",,
+W skrzyni w wieży na prawo od Udara,,,,W skrzyni na Drakkarze Orków,,,,,,W skrzyni Rączki,,,,,W skrzyni w jaskini pułapce przed lodowym biomem,,,,,"W skrzyni w jednym z pokojów
+w budynku Garonda",,
+W skrzyni w krypcie z chromaninem,,,,W skrzyni obok ognistych jaszczurów za palisadą,,,,,,W skrzyni Bagiennego Smoka,,,,,W skrzyni na murku przed Klasztorem Zmiennokształtnych,,,,,W pomieszczeniu w którym stoi Kreol,,
+W skrzyni w magazynie w Starej Kopalni,,,,W skrzyni przy stanowisku Iana w Starej Kopalni,,,,,,"W skrzyni w namiocie po drodze
+do Wolnej Kopalni",,,,,W skrzyni w Zatopionej Wieży Xardasa,,,,,W ukrytym pomieszczeniu u Kreola,,
+"Wypada z Agata, lodowego wilka",,,,Wypada z dzika Vetrinusa,,,,,,W skrzyni na rusztowaniu w Starej Kopalni,,,,,W skrzyni w Zatopionej Wieży Xardasa,,,,,W skrzyni w Zatopionej Wieży Xardasa,,
+Wypada z harpii Ryukyavy,,,,Wypada z demona w kopalni orków,,,,,,"W skrzyni przy stanowisku Iana
+w Starej Kopalni",,,,,"W skrzyni przy stanowisku Iana
+w Starej Kopalni",,,,,W skrzyni w magazynie w Starej Kopalni,,
+Wypada z pająka Anansay (2 sztuki),,,,Wypada z Malbara,,,,,,W skrzyni w Jaskini Bólu (2 sztuki),,,,,W skrzyni w Jaskini Bólu (2 sztuki),,,,,Wypada z goblina Resheba,,
+"Wypada z demona w kopalni orków
+(2 sztuki)",,,,Wypada z Kamiennego smoka (5 sztuk),,,,,,Wypada z zębacza Kostogloda,,,,,Wypada z demona Teamruka,,,,,Wypada z golema Oktogora,,
+W skrzyni w magazynie za Ur-Thrallem,,,,W skrzyni w kuźni w Mieście Orków,,,,,,Wypada z Węża Rzecznego,,,,,Wypada z Hosh-Paka (2 sztuki),,,,,Wypada z demona Teamruka,,
+Wypada z Titraxa w Starym Obozie Bractwa,,,,W skrzyni w jednym z pomieszczeń mieszkalnych orków obok Ur-Karrasa,,,,,,Wypada z Malbara,,,,,Wypada z Hosh-Paka,,,,,W skrzyni obok Ur-Thralla,,
+W skrzyni obok kopca rudy w Kopalni Orków,,,,Wypada ze strażnika Sfery w Starej Kopalni,,,,,,Leży na dolnym poziomie kopalni orków,,,,,Wypada z ognistego smoka (5 sztuk),,,,,Wypada z lodowego smoka (5 sztuk),,
+"Leży na dolnym poziomie Kopalni Orków
+(2 sztuki)",,,,W Świątyni Śniacego w pomieszczeniu ze zgniatającym sufitem,,,,,,"W odnodze po prawo od WYJŚCIA
+z Miasta Orków",,,,,Leży na dolnym poziomie kopalni orków,,,,,Wypada z Actamerona (2 sztuki),,
+W skrzyni w magazynie w Mieście Orków,,,,,,,,,,W skrzyni obok Tag-Nora w Mieście Orków,,,,,Wypada ze strażnika sfery skały,,,,,Leży na dolnym poziomie kopalni orków,,
+W skrzyni za kratą obok szamana w Mieście Orków,,,,,,,,,,Wypada z Miragula w Jaskini Bólu,,,,,W skrzyni za kratą obok szamana w Mieście Orków (2 sztuki),,,,,Wypada ze strażnika sfery skały,,
+Wypada ze Shivy w Starej Kopalni,,,,,,,,,,Wpyada z Likerha w Świątyni Śniącego,,,,,Wypada z Hoshkara w Świątyni Śniącego,,,,,W skrzyni obok Ur-Thralla,,
+Wypada ze strażnika Sfery w Starej Kopalni,,,,,,,,,,Leży przy notatce z Duchów Przeszłości w Świątyni Śniącego,,,,,"W pomieszczeniu z Hoshkarem, przy zwalonym filarze",,,,,"W skrzyni nad grobowcem niedaleko wejścia
+do Miasta Orków",,
+Wypada z Miragula w Jaskini Bółu,,,,Wypada z Hoshkara w Świątyni Śniącego,,,,,,Wypada z bagiennego smoka (2 sztuki),,,,,W pomieszczeniu z kolcami pod podłogą,,,,,Wypada z Likerha w Świątyni Śniącego,,
+"W jednej z odnóg przy bossie orków
+w Świątyni Śniącego (2 sztuki)",,,,"W Świątyni Śniącego
+na końcu korytarza przy lawie",,,,,,W skarbie bagiennego smoka,,,,,W jednej z odnóg z przełącznikami,,,,,Wypada z Hoshkara w Świątyni Śniącego,,
+"Wypada z bossa nieumarłym orków
+w Świątyni Śniącego (2 sztuki)",,,,Wypada z bagiennego smoka (2 sztuki),,,,,,"W Świątyni Śniącego w pomieszczeniu
+z przełącznikami do arcydemonów",,,,,"W Świątyni Śniącego
+w pomieszczeniu z Hoshkarem",,,,,"W Świątyni Śniącego po lewo
+od pierwszej sali",,

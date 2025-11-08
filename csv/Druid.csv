@@ -1,0 +1,262 @@
+Informacje Ogólne,,,,,,,,,,,,,
+"Druid to podgildia, którą możemy zostać dopiero w 2 rozdziale podczas wyprawy na Zachodnie Wybrzeże.
+
+Zostanie druidem permanentnie obniża nasze obrażenia fizyczne i magiczne o 30%, lecz w zamian mamy możliwość 
+korzystania ze specjalnych przemian z zwierzęta, których nauczy nas druid Kormak na Zachodnim Wybrzeżu.
+
+Podczas przebywania w przemianie możemy zbierać przedmioty rozrzucone w świecie gry i loot z pokonanych przeciwników, ale dopiero po nauce umiejętności od Kormaka.
+Gdy jesteśmy przemienieni nie działają na nas żadne czasowe bonusy i umiejętności wpływające na naszego bohatera (takie jak: regeneracje/skręty/magiczne tarcze).
+
+Ekwipunek który nosimy na bohaterze nie ma większego znaczenia (z wyjątkiem elementów dodających inteligencję), 
+ponieważ na przemianie mamy całkowicie osobne statystyki, zależne od:
+
+ HP 
+Wytrzymałości 
+Inteligencji 
+Many 
+Siły/Zręczności 
+Poziomu Kamienia Druidów 
+
+Nie mamy jednak dokładnych danych jak przekładają się na poszczególne przemiany, gdyż każda ma inne skalowanie.
+
+Druidem nie możemy zostać jeśli wybraliśmy ścieżkę Mrocznego Rycerza, Łowcy Demonów lub Szamana.
+Pozostałe gildie nie mają przeciwskazań, aczkolwiek dla uzyskania najlepszych efektów zaleca się wybrać gilidie magiczne, zwłaszcza Czarnoksiężnika/Nekromantę/Guru.",,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Menu przemian,,,,,,,,,,,,,
+"Dwóch pierwszych przemian (królik i dzik) nauczy nas Fregyal, ale nie czyni nas to jeszcze druidem, więc nie stracimy obrażeń.
+Po nauczeniu się drugiej przemiany, dostaniemy możliwość użycia okienka menu pod skrótem Shift+P. 
+Na poniższym screenie wszystko zostało mniej więcej wyjaśnione",,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Kamień Druida,,,,,,,,,,,,,
+"Po oficjalnym zostaniu druidem u Kormaka, otrzymamy od niego specjalny kamień, którego lvl'owanie pozwoli nam na nauczenie
+się kolejnych przemian, a także specjalnych perków, które działają tylko podczas przemiany.
+
+Wraz z każdym lvl'em kamienia wzrasta też siła przemian. Jego maksymalny poziom to 50.
+
+Kamień druida lvl'ujemy poprzez zabijanie potworów na przemianie. Zyskuje on połowę expa, który my normalnie otrzymujemy czyli:
+Mob daje 200 expa, my dostajemy 200 expa, kamień dostaje 100 expa",,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Umiejętności specjalne,,,,,,,,,,,,,
+"Wraz z wzrostem poziomu kamienia druidów, odblokują nam się kolejne specjalne perki, które oddziałowywują na postać podczas przemiany.",,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Nazwa,,,Działanie,,,,,Wymagania i koszt,,,,,
+,,,,,,,,Poziom kamienia druida,,,Punkty nauki,,Złoto
+"Regeneracja zdrowia, poziom 1",,,Regeneruje 0.35% zdrowia co sekundę podczas przemiany.,,,,,0,,,3 pkt. nauki,,500 złota
+"Regeneracja zdrowia, poziom 2",,,Regeneruje 0.5% zdrowia co sekundę podczas przemiany.,,,,,5,,,4 pkt. nauki,,800 złota
+"Regeneracja zdrowia, poziom 3",,,"Regeneruje 0,9% zdrowia co sekundę podczas przemiany.",,,,,10,,,5 pkt. nauki,,1500 złota
+"Regeneracja zdrowia, poziom 4",,,Regeneruje 1.3% zdrowia co sekundę podczas przemiany.,,,,,20,,,6 pkt. nauki,,2500 złota
+"Regeneracja zdrowia, poziom 5",,,Regeneruje 1.8% zdrowia co sekundę podczas przemiany.,,,,,30,,,7 pkt. nauki,,4000 złota
+"Regeneracja many, poziom 1",,,Regeneruje 0.35% many co sekundę podczas przemiany.,,,,,0,,,4 pkt. nauki,,500 złota
+"Regeneracja many, poziom 2",,,Regeneruje 0.5% many co sekundę podczas przemiany.,,,,,5,,,5 pkt. nauki,,800 złota
+"Regeneracja many, poziom 3",,,Regeneruje 0.9% many co sekundę podczas przemiany.,,,,,10,,,6 pkt. nauki,,1500 złota
+"Regeneracja many, poziom 4",,,Regeneruje 1.3% many co sekundę podczas przemiany.,,,,,15,,,7 pkt. nauki,,2500 złota
+"Regeneracja many, poziom 5",,,Regeneruje 1.8% many co sekundę podczas przemiany.,,,,,25,,,8 pkt. nauki,,4000 złota
+"Zmniejszony koszt many do przemiany, 1 poziom",,,Zmniejsza koszt many potrzebnej do przemiany o 25%,,,,,3,,,4 pkt. nauki,,800 złota
+"Zmniejszony koszt many do przemiany, 2 poziom",,,Zmniejsza koszt many potrzebnej do przemiany o 35%,,,,,10,,,5 pkt. nauki,,1500 złota
+"Zmniejszony koszt many do przemiany, 3 poziom",,,Zmniejsza koszt many potrzebnej do przemiany o 50%,,,,,15,,,6 pkt. nauki,,2000 złota
+Obrona fizyczna,,,Zwiększa odporności fizyczne o 30,,,,,5,,,5 pkt. nauki,,1500 złota
+Obrona magiczna,,,Zwiększa odporności magiczne o 30,,,,,5,,,5 pkt. nauki,,1500 złota
+Zmniejszony koszt many umiejętności,,,"Zmniejsza o 10% koszty many potrzebne do
+ używania umiejętności na przemianie ",,,,,10,,,5 pkt. nauki,,1500 złota
+"Zbieranie przedmiotów 
+podczas przemiany",,,"Umożliwia podnoszenie itemków i na 
+używanie ognika podczas przemiany",,,,,0,,,5 pkt. nauki,,1500 złota
+Skalowanie zdrowia,,,Pozwala na oddziaływanie HP bohatera na HP przemiany,,,,,0,,,12 pkt. nauki,,1500 złota
+Przemiany i ich właściwości,,,,,,,,,,,,,
+Nazwa,Wymagania i koszt,,,,,Cechy,,,,Umiejętności specjalne,,,
+Królik,"5 many na przemianę
+2PN, 500 złota",,,,,"- Sprawnie się porusza
+- Nie może atakować i jest bezbronny
+- Jest łatwą ofiarą dla drapieżników
+(Atakują go wilki, wargowie, zębacze i pełzacze)
+- Może dostać się w trudno dostępne miejsca",,,,Fajnie kica ,,,
+Dzik,"50 many na przemianę
+7PN, 800 złota",,,,,"- Przeciętny atak
+- Przeciętna żywotność
+- Zwierzę stadne",,,,"[1] Przyjęcie do stada - Dzik przejmuje max. 2 pobliskie dziki (muszą być tego samego ""rodzaju""), które są z nim aż do śmierci.
+Koszt many: 20 [Więcej, jeśli nie jesteśmy druidem],
+Czas odnowienia: 2 min lub 5 min przed zostaniem druidem
+
+[2] Rozkaz ataku - Dzik rozkazuje atak dzikom ze swojego stada
+
+[3] Odwołanie stada - Dzik odwołuje dziki, które aktualnie ma w stadzie.",,,
+Smoczy zębacz,"7 poziom kamienia druidów
+Kamień duszy zębacza
+[Krwiożerczy zębacz/Przywódca zębaczy/Khax/Kostoglod]
+75 many na przemianę
+7PN, 1500 złota",,,,,"- Wysoki atak
+- Średnia żywotność
+- Wysoka prędkość biegu
+- Duże obrażenia od krwawienia",,,,Fajnie biega,,,
+Ognisty jaszczur,"12 poziom kamienia druidów
+Kamień duszy ognistego jaszczura
+[Ogniodech]
+100 many na przemianę
+8PN, 2000 złota",,,,,"- Wysoki atak
+- Średnie odporności
+- Zadaje obrażenia od ognia",,,,"[1] Ognisty oddech - Jaszczur strzela z paszczy burzą ognistą, która podpala trafionych przeciwników
+Koszt many: XX, Czas odnowienia: 12 sekund",,,
+Pełzacz,"15 poziom kamienia druidów
+Kamień duszy pełzacza
+[Karakust (Pustynia Adanosa)/Gran'Radash/Silny pełzacz wojownik/Padlinożerca]
+100 many na przemianę
+10PN, 3000 złota",,,,,"- Dobry atak i żywotność
+- atakuje obszarowo
+- Ataki zadają obrażenia obuchowe
+- Opiera się na krwawieniu i truciźnie
+- Potrafi unieruchomić pojedynczego przeciwnika swoją siecią",,,,"[1] Pajęczyna - Pełzacz strzela siecią, która unieruchamia pojedynczego wroga na 6 sekund
+Koszt many: XX, Czas odnowienia: 25 sekund
+
+[2] Trujące splunięcie - Pełzacz strzela dalekodystansowym pociskiem, który zadaje obrażenia i zatruwa.
+Koszt many: XX, Czas odnowienia: 3 sekundy",,,
+Goblin Szaman,"18 poziom kamienia druidów
+Kamień duszy goblina szamana
+[Maji]
+100 many na przemianę
+12PN, 4000 złota",,,,,"- Bardzo niska żywotność
+- Słaba skuteczność w walce wręcz
+- Posługuje się magią
+- Potrafi przywracać swoją manę
+- Potrafi skakać i wspinać się",,,,"[1] Kula ognia - Goblin strzela kulą ognia, która nie podpala
+Koszt many: 30, Czas odnowienia: 1 sekunda
+
+[2] Pięść wichru - Goblin strzela pięścią wichru, która się nie ładuje, zadaje obrażenia celom na trasie losu oraz ich odpycha/przewraca.
+Koszt many: 40, Czas odnowienia: 3 sekundy
+
+[3] Grom - Goblin po krótkim przygotowaniu rzuca potężny grom, zadający obrażenia wszystkim w okolicy
+Koszt many: 125, Czas odnowienia: 60 sekund
+
+[4] Przypływ many - Goblin przywraca 30% swojej max many
+Koszt many: Brak, Czas odnowienia: 300 sekund (5 minut)",,,
+Golem,"20 poziom kamienia druidów
+Kamień duszy golema
+[Antramentor/Mroczny golem]
+100 many na przemianę
+12PN, 5000 złota ",,,,,"- Jego ataki odpychają/powalają cel
+- Potrafi zadać spore obszarowe obrażenia
+- Potrafi wyleczyć część odniesionych ran
+- Może chodzić po dnie zbiorników wodnych",,,,"[1] Odór - Od golema uwalnia się fala smrodu, która atakuje wszystkich przeciwników w zasięgu.
+Koszt many: 40, Czas odnowienia: 30 sekund
+
+[2] Uzdrowienie - Golem przywraca 25% swojego max HP
+Koszt many: 70, Czas odnowienia: 60 sekund",,,
+Kolcogrzbiet,"25 poziom kamienia druidów
+Kamień duszy kolcogrzbieta
+[Ishi'Kurat]
+150 many na przemianę
+15PN, 7000 złota",,,,,"- Wyśmienita żywotność
+- Wyśmienita prędkość
+- Średni atak
+- Spora wytrzymałość
+- Niewielkie obrażenia od krwawienia",,,,"[1] Fala ognia - Od kolcogrzbieta uwalnia się fala ognia, która rani przeciwników wokół
+Koszt many: 70, Czas odnowienia: 2 minuty",,,
+Jaszczuroczłek,"30 poziom kamienia druidów
+Przeklęty kamień jaszczuroczłeka
+[Szaman jaszczuroludzi]
+175 many na przemianę
+20PN, 8000 złota",,,,,"- Wysoki atak
+- Średnie odporności
+- Posługuje się bronią białą i może blokować
+- Potrafi zgubić agresję wrogów lub ich odstraszać",,,,"[1] Wyciągnięcie broni
+
+[2] Udawanie martwego - Jaszczuroczłek udaje trupa, a pobliscy przeciwnicy tracą nim zainteresowanie
+Koszt many: 30 Czas odnowienia: 5 minut
+
+[3] Terror - Jaszczuroczłek zmusza pobliskich przeciwników do ucieczki (Nie działa na bossy)
+Koszt many: 50 Czas odnowienia: 180 sekund (3 minuty)",,,
+"Porzucone koncepty przemian, które były w grze, ale je usunięto",,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+"Pająk
+(Za obecnego pełzacza)
+Usunięty ze względu na problemy z kamerą, drewniane animacje i problem z hitboxami",,,,"15 poziom kamienia druidów
+Kamień duszy pająka
+[m.in. bossy pająków w Jarkendarze]
+120 many na przemianę
+7PN, 3000 złota",,"- Jadowity
+- Atakuje z doskoku
+- Unieruchamia przeciwnika",,,,"[1] Pajęczyna, o długim czasie odnowienia, która po trafieniu chwilowo unieruchamia wroga
+[2] Trujące splunięcie, o krótkim czasie odnowienia, które zatruwa wroga z dystansu",,,
+"Harpia
+(Za obecnego golema)
+Usunięta ze względu na kompletny dysbalans z powodu latania oraz drewniane animacje.
+Więcej zachodu z łataniem  miejsc do latania harpii, niż ze zrobieniem nowej przemiany",,,,"20 poziom kamienia druidów
+Kamień duszy harpii
+[Wypada z Rukyavy w Kamiennej Fortecy w GD]
+150 many na przemianę
+10PN, 5000 złota",,"- Potrafi latać (W - naprzód, SPACE - wznieś się)
+- Atakuje magią
+- Może zwiększyć prędkość lotu kosztem many (LSHIFT)
+- Nie można się w nią przemienić w jaskiniach oraz niektórych lokacjach.",,,,"[1] Lodowa lanca, magiczny pocisk o bardzo krótkim czasie odnowienia
+[2] Gejzer, magiczne zaklęcie obszarowe o sporym czasie odnowienia",,,
+"Szkielet
+(Za obecnego jaszczuroczłeka)
+Absolutnie nic ich nie atakowało, nie dostawał hitów od nieumarłych magów, paladyni atakowali go tylko useless runami, łuk okazał się zdecydowanie zbyt OP, a na dodatek praktycznie 100% odporność na strzały",,,,"30 poziom kamienia druidów
+Kamień duszy nieumarłego
+[Wypada z m.in. z Malbara, Im'Araha, Miragula]
+175 many na przemianę
+15PN, 8000 złota",,"- Wyśmienity atak
+- Słaba żywotnosć
+- Potrafi blokować ciosy i ich unikać
+- Potrafi władać łukiem",,,,"[1] Wybór broni do walki wręcz
+[2] Wybór broni do walki na dystans
+[3] Udawanie martwego (Tymczasowa niewrażliwość)
+[4] Przerażenie (Odstrasza część pobliskich wrogów)",,,

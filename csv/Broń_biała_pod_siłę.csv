@@ -1,0 +1,239 @@
+--> BRONIE DOSTĘPNE TYLKO DLA NAJEMNIKA I ŁOWCY SMOKÓW <--,,,,,,,,--> BRONIE DOSTĘPNE TYLKO DLA MROCZNEGO RYCERZA <--,,,,
+--> BRONIE DOSTĘPNE TYLKO DLA STRAŻNIKA ŚWIĄTYNNEGO <--,,,,,,,,--> BRONIE DOSTĘPNE TYLKO DLA STRAŻNIKA MIEJSKIEGO I PALADYNA <--,,,,
+Nazwa,,Siła,Obrażenia,Zasięg,Waga,Inne statystyki,,,,,Przebicie,Warunki zdobycia
+BROŃ JEDNORĘCZNA,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+MIECZE - OBRAŻENIA SIECZNE,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Wilczy pazur,,10,20,70,2,---,,,,,---,"Dostajemy go od Cavalorna przy zadaniu ""Bandyci Cavalorna"""
+Wilczy kieł,,10,35,70,2,---,,,,,---,"Leży pod mostem niedaleko karczmy
+Martwa Harpia"
+Miecz Alrika,,30,30,70,4,Bonus do władania 10%,,,,,---,"Dostajemy go od Jory w zadaniu
+""Miecz Alrika"""
+Dobry krótki miecz,,20,40,50,3,---,,,,,---,"W wieży w dzielnicy rzemieślników, za stgrażnikiem, obok zejścia do portu"
+Miecz (wykuty),,50,55,90,3,Bonus do władania 2%,,,,,---,Uczymy się automatycznie przy nauce kowalstwa
+Szeroki miecz,,45,65,70,5,---,,,,,---,?
+Dobry miecz,,60,75,70,3,Bonus do władania 2%,,,,,---,"Schematu uczy Harad, jedynie jego czeladników"
+Długi miecz,,50,75,90,3,Bonus do władania 2%,,,,,---,Sprzedają kupcy / noszą bandyci
+Dobry długi miecz,,65,95,95,3,Bonus do władania 2%,,,,,25%,"Schematu uczy Harad, jedynie jego czeladników"
+Topór obosieczny,,80,110,70,5,"TOPÓR, nie miecz",,,,,---,"Sprzedaje Khaled (tylko najemnikom)
+Wypada z Coldera na arenie"
+Srebrny Miecz,,100,120,100,3,Efektywny przeciwko duchom,,,,,---,Za widmem w kopalni prowadzącej z Khorinis do Górniczej Doliny.
+Miecz rycerza,,90,120,100,5,---,,,,,---,Wypada z większości nieimiennych rycerzy w Khorinis
+Rubinowe ostrze,,90,125,90,3,Bonus do władania 2%,,,,,---,"Schematu uczy Harad, jedynie swoich czeladników
+W skrzyni obok łóżka Wulfgara"
+Zabójca Orków,,120,135,100,3,Dodatkowe obrażenia przeciw orkom: 250,,,,,---,"Dostajemy od Harada za zadanie
+""Zabójca orków"""
+El Bastardo,,115,140,100,3,Bonus do władania 2%,,,,,---,"Schematu uczy Harad, jedynie jego czeladników"
+Krzyż Przeznaczenia,,125,145,90,6,---,,,,,25%,Leży w skrzyni na szczycie dużej piramidy na wykopaliskach
+Elitarny miecz jednoręczny,,130,160,100,3,Bonus do władania 2%,,,,,---,Sprzedaje go Hakon
+Miecz Blizny,,150,170,110,5,---,,,,,10%,"W skrzyni w GD, w pokoju gdzie siedzi Garond"
+Grawerowany miecz jednoręczny,,160,185,100,3,Bonus do władania 2%,,,,,---,Sprzedaje go Hakon
+Srebrny nordmarski miecz,,190,190,100,5,Efektywny przeciwko duchom,,,,,---,W skrzyni w ukrytym pomieszczeniu u Kreola w Górniczej Dolinie
+Druzgocący miecz,,180,210,100,3,Bonus do władania 2%,,,,,---,Sprzedaje go Hakon
+Postrach nieumarlych,,175,220,110,5,Efektywny przeciwko duchom i nieumarłym,,,,,15%,Leży w skrzyni w Zatopionej Wieży Xardasa
+"Miecz z
+górskiej fortecy",,200,230,110,5,Dodatkowe obrażenia 75 (30%),,,,,25%,W skrzyni Malbara w Kamiennej Fortecy w Górniczej Dolinie
+Gniewna Stal,,255,255,110,5,---,,,,,15%,"Dostajemy od Alberta za misje ""Wojenne plany orków"""
+Zdrajca,,265,275,120,3,---,,,,,10%,Daje nam go Ur-Karras za zlikwidowanie oddziału Alberta
+Miecz Benneta,,290,290,120,5,Dodatkowe obrażenia przeciw jaszczuroczłekom: 250,,,,,25%,"Dostajemy go od Benneta za misje
+""Góra stali dla Benneta"""
+Srebrny runiczny Sihil,,300,325,110,5,"Efektywny przeciwko duchom i nieumarłym
+Co 7 uderzenie zadaje dodatkowe 400 dmg",,,,,---,"Schemat wypada z Izu'Tzelda z zadania ""Mroczna Sieć"""
+Jad,,360,360,115,4,---,,,,,20%,Wypada z Demona w Starym Obozie Bractwa
+Miecz Żywiołów,,350,375,120,5,Odp. na magię: 25,,,,,25%,W skrzyni Pandrodora (bagienny smok)
+Złodziej dusz,,380,400+100,120,4,---,,,,,25%,Wypada z Gor Boba w Świątyni Śniącego
+Śmiertelnik,,400,425,130,5,---,,,,,30%,Wbity w sarkofag obok Lorda Niorret'a w Mieście Umarłych w Dolinie Cieni
+Miecz Szalonego Krzyżowca,,500,430,120,5,Dodatkowe 200-400 dmg w nieumarłych i demony,,,,,20%,W skrzyni w grobowcu Lorda Ginnoka
+"Szpon Beliara
+(z duszą Senyaka)",,550,430,125,6,Dodatkowe obrażenia 100 Kradzież życia 25,,,,,30%,"Dostajemy po wsadzeniu duszy Senyaka w miecz jednoręczny
+(Stworzenie tego miecza blokuje Gniew Innosa)"
+Czarne Serce,,550,450,120,6,Odp. na magię: 25,,,,,25%,Wypada z Ile'Sila w Zaginionym Bracie
+Miecz Zagubionych Dusz,,600,500,130,6,Dodatkowe obrażenia 200,,,,,35%,Wypada ze smoka Trakanona na Irdorath
+PAŁKI / MŁOTY - OBRAŻENIA OBUCHOWE,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Laga,,---,10,70,3,---,,,,,---,Leży wszędzie
+Stara pałka,,20,40,80,3,---,,,,,20%,Sprzedaje ją Hakon
+Pałka,,40,60,80,3,---,,,,,25%,Sprzedaje ją Hakon
+Cięzka maczuga,,50,70,70,5,---,,,,,25%,Sprzedaje Joru (Tylko członkom bractwa)
+Młot bojowy,,55,70,80,6,---,,,,,30%,"Sprzedaje Khaled (tylko najemnikom)
+W wieży strażniczej z Joe"
+Rębiczerep,,60,80,80,5,---,,,,,30%,"Wbity w stół w wieży w obozie Dextera
+Wbity w stół nad bramą w obozie Dextera"
+Bojowa buława,,50,80,70,5,---,,,,,25%,Leży przy drzewie na lewo od mostu na wykopaliska
+Kościołom,,55,85,60,5,---,,,,,---,Leży pod mostem do klasztoru na małym brzegu pod Mardukiem i Sergio
+Młot Tarakota,,200,90,100,6,---,,,,,---,Leży w dużej piramidzie na Wykopaliskach Magów Wody w Khorinis
+Kolczasta buława,,90,90,80,5,---,,,,,40%,"Oddanie 16 stalowych prętów Viranowi
+(tylko członek bractwa)"
+Miażdżyciel,,75,90,90,5,Dodatkowe obrażenia 10,,,,,25%,Schemat posiada herszt bandytów za farmą Sekoba
+Tasak wojenny,,70,100,90,5,---,,,,,---,Sprzedaje Khaled (tylko najemnikom)
+Gwiazda Zaranna,,80,125,90,5,---,,,,,40%,Leży naprzeciw portalu w Jarkendarze
+Inkwizytor,,90,150,90,5,---,,,,,45%,Leży przy ołtarzu w Świątyni Wojowników w Jarkendarze
+Noc Kruka,,155,175,100,5,---,,,,,45%,Leży na skrzyni z Płomieniem Eligora
+Nordmarski młot,,190,215,100,5,---,,,,,40%,Leży przy bossie zębaczy przy kopalni z Grimesem
+Godendar,,240,250,110,5,---,,,,,40%,W skrzyni w Obozie Goblinów na Pustyni Adanosa
+Ostry młot,,300,300,100,5,---,,,,,50%,Wypada z Shemrona w Zatopionej Wieży Xardasa
+Młot burzy,,350,350,100,5,Dodatkowe obrażenia 125 (30%),,,,,50%,Leży w Orkowej Kopalni przy demonie
+Ar'Dashar,,520,400,120,5,Dodatkowe obrażenia 200 (30%),,,,,50%,Drop z zaginionego brata
+BROŃ DWURĘCZNA,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+"HALABARDY - OBRAŻENIA SIECZNE, DZIAŁA Z SZAMANEM",,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Lekka Halabarda,,Siła 20,50,120,,---,,,,,---,Sprzedaje ją Hakon
+Żelazna Halabarda,,Siła 75,100,130,,---,,,,,---,Sprzedaje ją Hakon
+Stalowa Halabarda,,"Siła 100
+Wytrz 150",135,135,,---,,,,,---,Sprzedaje ją Hakon
+Ciężka włócznia Ibrahima,,"Siła 275
+Wytrz 700",200,150,,---,,,,,---,Wypada z 2 przeciwnika na arenie Blizny
+Halabarda Najemnika,,"Siła 150
+Wytrz 300",200,140,,---,,,,,10%,Wypada z Bloodwyna w Jarkendarze
+Halabarda Orkowego Najemnika,,"Siła 200
+Wytrz 400",250,140,,---,,,,,15%,"Sprzedaje ją orkowy Handlarz
+po zdobyciu 100 reputacji"
+Rozrywający Szpon,,"Siła 300
+Wytrz 500",325,150,,---,,,,,20%,Wypada z Miragula w Jaskini Bólu
+"Szpon Beliara
+(bez duszy)",,"Siła 300
+Wytrz 500",350,170,,---,,,,,15%,"Wypada z Kruka, należy go przerobić w kapliczce"
+Aleor,,"Siła 400
+Wytrz 800",475,170,,---,,,,,50%,W skrzyni Lorda Dakkata w Dolinie Cienia
+"Szpon Beliara
+(z duszą)",,"Siła 500
+Wytrz 800",450,170,,"Dodatkowe 35% obr. od krwawienia
+Kradzież życia 50, Dodatkowe obrażenia: 200",,,,,30%,Po wsadzeniu duszy Senyaka w Halabarde
+"BROŃ ORKOWA - OBRAŻENIA SIECZNE, DZIAŁA Z SZAMANEM",,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Nat Shahar,,30,90,110,,---,,,,,---,Broń orkowego szamana
+Krush-Urok,,80,120,130,,---,,,,,---,Orkowa broń do nauki u Hush-Thora
+Orkowy topór z MR,,225,250,120,,Bonus do HP 75,,,,,5%,Orkowa broń do nauki u Hush-Thora
+Miecz wojownika z MR,,250,275,130,,Bonus do HP 100,,,,,10%,Orkowa broń do nauki u Hush-Thora
+Topór bojowy z MR,,300,330,140,,Bonus do HP 100,,,,,10%,Orkowa broń do nauki u Hush-Thora
+Dragotar,,245,350,140,,---,,,,,---,Wypada ze Smoczych Jaszczuroczłeków
+Orkowy młot z MR,,330,350,130,,broń obuchowa,,,,,30%,Orkowa broń do nauki u Hush-Thora
+Orkowy tasak z MR,,325,350,135,,Bonus do HP 125,,,,,15%,Orkowa broń do nauki u Hush-Thora
+Miecz przywódcy z MR,,350,375,140,,Bonus do HP 150,,,,,15%,Orkowa broń do nauki u Hush-Thora
+Topór rzeźnicki z MR,,375,400,140,,Bonus do HP 200,,,,,15%,Orkowa broń do nauki u Hush-Thora
+Tarotar,,400,400,140,,---,,,,,---,Wypada z Jaszczuroczłeków
+Mora Tanat,,360,425,140,,---,,,,,---,Leży obok demona bossa w Kopalni Orków
+Orkowy Claymore z MR,,400,425,150,,Bonus do HP 250,,,,,20%,Orkowa broń do nauki u Hush-Thora
+Czerwony topór herszta,,425,440,140,,Bonus do HP 250,,,,,20%,Orkowa broń do nauki u Hush-Thora
+Młot przodków,,425,475,140,,broń obuchowa,,,,,35%,"Schemat wylatuje z Hush-Gora
+na orkowym cmentarzu w GD"
+Potęga Przodków,,600,550,150,,---,,,,,50%,"Daje Ur-Grom za zabicie Azgalora
+w Dolinie Cienia"
+Grah Vatagh,,600,600,150,,Bonus do HP 300,,,,,30%,Wypada z orkowego pułkownika na Irdorath
+MIECZE - OBRAŻENIA SIECZNE,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Stary miecz treningowy,,20,45,110,,---,,,,,---,"Leży po lewej stronie schodów
+idąc od portu do koszar"
+Stary miecz dwuręczny,,30,50,100,,---,,,,,---,Sprzedaje go Hakon
+Lekki miecz dwuręczny,,40,70,110,,---,,,,,---,"Sprzedaje go Hakon lub
+wieża strażnicza przy południowej bramie"
+Lekki dwuręczniak,,50,70,110,,Bonus do władania 1%,,,,,---,"Schematu uczy Harad,
+jedynie jego czeladników"
+Zwykły miecz dwuręczny,,50,80,110,,---,,,,,---,Sprzedaje go Hakon
+Stara wielka maczeta,,90,80,95,,---,,,,,---,Sprzedaje go Gareth w Jarkendarze
+Kiepski miecz dwuręczny,,70,90,120,,---,,,,,---,Wypada z najemnika szantażującego Akila
+Dwuręczniak straży,,65,90,120,,Dodatkowe obrażenia 40,,,,,---,"Schemat leży w skrzyni przy moście
+obok farmy Akila"
+Stalowy dwuręczniak,,65,95,120,,Bonus do władania 2%,,,,,---,"Schematu uczy Harad,
+jedynie jego czeladników"
+Miecz dwuręczny,,90,100,120,,---,,,,,---,Sprzedaje go Hakon
+Dwuręczny miecz rycerza,,90,105,110,,---,,,,,---,Wypada z nieimiennych rycerzy w Khorinis/Sprzedaje go Hakon
+Ciężki miecz dwuręczny,,100,115,120,,---,,,,,---,"Wypada z Ochroniarza ""Góry""
+w Obozie Dextera"
+Dwuręczne ostrze bojowe,,80,115,130,,Bonus do władania 3%,,,,,---,"Schematu uczy Harad,
+jedynie jego czeladników"
+Claymore,,90,125,120,,---,,,,,---,"Leży na stole w pokoju Lorda Andre
+W jaskini z goblinami obok Ur-Azoga"
+Ciężki claymore,,100,140,135,,Bonus do władania 4%,,,,,---,"Schematu uczy Harad,
+jedynie jego czeladników"
+Ciężki dwuręczniak,,120,150,120,,---,,,,,---,Sprzedaje go Hakon
+Dwuręczniak ,,140,160,120,,---,,,,,---,Sprzedaje go Hakon
+Srebrny miecz dwuręczny,,140,160,135,,Efektywny przeciwko duchom,,,,,---,Leży w skrzyni w Starej Wieży Xardasa w Górniczej Dolinie
+Rycerskie ostrze,,125,160,145,,Bonus do władania 5%,,,,,---,"Schematu uczy Harad,
+jedynie jego czeladników"
+Długi miecz dwuręczny,,150,175,150,,---,,,,,---,Sprzedaje go Hakon
+Zemsta królowej Anny,,170,220,130,,Bonus do władania 5%,,,,,---,"Wypada z Kapitana Thatch'a w Jarkendarze,
+skarb za rozpadliną obok świątyni z goblinami"
+Zdobiony dwuręczniak,,190,230,150,,---,,,,,0.1,"Wypada z Przeklętego Strażnika
+na Zachodnim Wybrzeżu"
+Żniwiarz dusz,,200,240,150,,"Dodatkowe obrażenia 50, Kradzież HP 20",,,,,---,Sprzedaje go Mroczny Mentor w 3 rozdziale
+Claymore Malbara,,220,265,140,,---,,,,,0.1,Wypada z Malbara w Kamiennej Fortecy w Górniczej Dolinie
+Strażnik Wiary,,220,270,150,,Bonus do HP 150,,,,,0.1,Sprzedaje Gor Na Kosh (Tylko Strażnikom Świątynnym) (3R)
+Klątwa Masjafu,,250,300,150,,Dodatkowe obrażenia 100,,,,,---,Wypada z Haniara w Lesie Asasynów
+Mroczna Przysięga,,270,325,140,,---,,,,,---,Wypada z Val'Zara w Zatopionej Wieży Xardasa
+Srebrny runiczny Sihil,,300,345,150,,"Dodatkowe obrażenia w nieumarłych,
+dodatkowe 450 dmg co 7 hit",,,,,---,"Schemat wypada z Itu'Zelda z zadania ""Mroczna Sieć"""
+Wola Rhobara,,300,350,140,,Odp. na ogień 30,,,,,0.25,Jedna z nagród u Hagena po zabiciu Itu'zelda (zadanie Mroczna Sieć)
+Honor Wojownika,,360,375,140,,Odp na magię: 10,,,,,---,Wypada z Irh'Tara w Kopalni Orków
+Cień Zniszczenia,,460,425,160,,Odp. na magię: 50,,,,,0.4,Wypada z Argulina w Koszmarze Kruka
+Rozpruwacz,,450,475,170,,Dodatkowe obrażenia 300,,,,,---,Wypada z Dakkata w Dolinie Cienia
+"Szpon Beliara
+(z duszą Senyaka)",,560,550,160,,"Dodatkowe obrażenia 150,
+Kradzież życia 50",,,,,0.3,"Po wsadzeniu duszy Senyaka
+w miecz dwuręczny"
+Ar'urat,,600,500,160,,Odp. na magię: 50,,,,,0.6,Wypada na Zaginionym Bracie
+Uriziel,,375,400+75,160,,"Dodatkowe 250-325 obrażeń w smoki
+10% na odpalenie buffa +300 dmg",,,,,0.3,Wypada z Hoshkara w Świątyni Śniącego
+Irdorath,,650,600,160,,Dodatkowe obrażenia 150,,,,,0.4,Wypada z Archola na Irdorath
+"TOPORY - OBRAŻENIA SIECZNE, DZIAŁA Z SZAMANEM",,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Kiepski topór dwuręczny,,60,85,80,,---,,,,,---,Wypada z najemnika szantażującego Akila
+Lekki topór bojowy,,50,100,70,,---,,,,,---,Sprzedaje Khaled (tylko najemnikom) (1R)
+Kiepski topór najemnika,,70,110,120,,---,,,,,---,Sprzedaje Khaled (Tylko najemnikom)
+Topór bojowy,,125,110,100,,---,,,,,---,Sprzedaje go Khaled
+Długi topór,,100,135,120,,---,,,,,---,Leży przy Czarnym Trollu w Khorinis
+Topór wojenny,,130,150,100,,---,,,,,---,Sprzedaje Khaled (tylko najemnikom) (1R)
+Tasak bojowy,,120,165,100,,---,,,,,---,Sprzedaje Khaled (tylko najemnikom) (1R)
+Ciężki topór bojowy,,160,170,100,,---,,,,,---,Sprzedaje Khaled (tylko najemnikom) (1R)
+Solidny topór (2H),,120,175,125,,---,,,,,---,Sprzedaje Khaled (Tylko najemnikom)
+Topór Gestatha,,190,195,95,,---,,,,,---,Można go wybrać od Gestatha jako nagrodę za serce harpii
+Topór najemnika,,180,180,140,,Dodatkowe obrażenia 50,,,,,---,Sprzedaje Khaled (tylko najemnikom) (2R)
+Pięść Barbarzyńcy,,180,220,100,,---,,,,,---,Leży na prawo od Leża Lodowego Smoka w Górniczej Dolinie
+Topór z magicznej rudy,,200,230,100,,---,,,,,---,Leży w dziurze w odnodze naprzeciw wejścia w Starej Kopalni
+Wielki topór,,200,250,130,,---,,,,,---,"Sprzedaje Khaled  (2R, tylko najemnikom)"
+Starożytny topór,,270,300,130,,"Dodatkowe obrażenia 125
+Odp na cięte/obuchy: 15",,,,,---,Wypada z Im'Araha na Pustyni Adanosa
+Topór Strażnika,,280,300,140,,---,,,,,---,Wypada ze Strażnika Sfery Wody 
+Topór łowcy smoków,,330,300,150,,Dodatkowe obrażenia 100,,,,,0.2,Sprzedaje Khaled (tylko najemnikom) (3R)
+Ręka demonów,,270,340,130,,Dodatkowe obrażenia 175,,,,,---,Wypada z Irkh'Thara w Kopalni Orków
+Topór Dusz,,400,400,110,,"Bonus do HP 300
+Dodatkowe obrażenia 250",,,,,---,Wypada z Orkowego Pułkownika na Irdorath
+Zabójca Smoków,,400,400,160,,Dodatkowe obrażenia 175,,,,,0.3,Sprzedaje Khaled (Tylko najemnikom) (3R)
+"PAŁKI / MŁOTY - OBRAŻENIA OBUCHOWE, DZIAŁA Z SZAMANEM",,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Język Boba,,10,50,170,3,"""Zadaje olbrzymie obrażenia smokom...""",,,,,---,Wypada z żartownisia Boba po użyciu tajemniczego zwoju
+Kostur nowicjusza,,10,40,120,1,Dodatkowe obrażenia 12,,,,,---,"Mają go nowicjusze w klasztorze
+Sprzedaje Isgaroth"
+Święty Młot Innosa,,1,60,100,,"Broń na Magolemusa oraz
+golema z zadania Serpentesa",,,,,---,Należy go ukraść z podziemi klasztoru
+Pika wodnego kręgu,,20,60,120,4,Bonus władania 4%,,,,,---,"Dostajemy go od Laresa
+po wstąpieniu do Wodnego Kręgu"
+Kostur pielgrzyma,,30,55,110,6,Dodatkowe obrażenia 20,,,,,---,"Znajduje się w jaskini z goblinami, niedaleko pastwiska Pepe "
+Młot Adanosa,,---,80,110,,Skuteczny przeciwko kamiennym strażnikom,,,,,---,"Leży w Świątyni Wojowników podczas zadania ""Tajemnice Chramu Adanosa"""
+Wojenna maczuga,,70,80,65,,---,,,,,---,Sprzedaje Joru (Tylko członkom bractwa)
+Młot dwuręczny,,80,130,110,,---,,,,,0.4,Sprzedaje go Hakon
+Wielka maczuga z kolcami,,80,130,130,,---,,,,,0.3,Sprzedaje Joru nowicjuszom / leży na skałce z pająkiem pod zbieraczami ziela przy Khorinis
+Ulu-Mulu,,---,150,110,,Orkowie nas nie atakują,,,,,---,Dostajemy go od Najemników Orków przy zadaniu
+Ciężki młot bojowy,,100,150,110,,---,,,,,0.4,"Sprzedaje Khaled (tylko najemnikom) (1R),
+Ma go ochroniarz Lehmara (pobić)"
+Łamacz skał,,120,175,110,,---,,,,,0.4,Leży przy Czarnym Trollu w Jarkendarze
+Ciężka maczuga bojowa,,180,180,130,,---,,,,,0.3,Sprzedaje go Hakon
+Runiczny młot,,160,200,130,,---,,,,,0.3,"Skrzynia w GD z pucharem magnatów
+(magazyn paladynów)"
+Ciężki młot rycerza,,250,250,140,,---,,,,,0.35,Sprzedaje Tandor na zamku w Górniczej Dolinie
+Łamacz kości,,300,320,140,,---,,,,,0.5,Wypada z imiennego nieumarłego orka na górnym piętrze cmentarzyska orków
+Lodowy młot,,400,400,150,,Szansa na zamrożenie 30%,,,,,0.35,Dzierży go nieumarły łowca w Orkowym Grobowcu w Lodowych Górach Orków
+Łamacz Czaszek,,530,450,140,,---,,,,,0.8,Schemat znajdziemy w Dungeonie Kruka za kratą

@@ -1,0 +1,201 @@
+Informacje ogólne,,,,,,,,,,,,Esencja,,"Statystyki bazowe
+oraz wpływ INT",,,Tier
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+"Nekromanta specjalizuje się zarówno w czarach ofensywnych jak i w przywoływaniu potężnych demonów.
+Ma również dostęp do specjalnej umiejętności pozwalającej mu używać zaklęć za cenę swojego życia gdy zabraknie mu many
+
+Nasze czary mają 25% szans na zadanie dodatkowych 65% obrażeń. Szansa ta wzrasta o 1% za każdy 1% mocy magicznej.
+Oprócz wzmocnienia obrażeń mamy również szansę na unieruchomienie przeciwnika.",,,,,,,,,,,,"brak esencji
+dostępny zaraz po nauce podstawowej demonologii i runy przywołania demona",,"SŁABY DEMON
+HP: 1600 (1 INT = 1 HP) 100%
+SIŁA: 225 (4 INT = 1 SIŁA) 25%
+ZRĘCZNOŚĆ: 200
+DEFY: 125/190/125/100/100
+(brak skalowania odporności)",,,0
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,"Słaba esencja demona
+Zwykły demon
+(np. z zadania Xardasa w jaskini z widmem niedaleko karczmy Orlana)",,"SILNY DEMON
+HP: 2000 (1 INT = 1 HP) 100%
+SIŁA: 250 (3 INT = 1 SIŁA) 33%
+ZRĘCZNOŚĆ: 225
+DEFY: 170/205/175/125/125
+(brak skalowania odporności)",,,1
+Opętanie,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+"Czary nekromanty mają szansę na opętanie wroga. Gdy nasz czar zada zwiększone obrażenia, mamy 20% (lub 10% dla czarów obszarowych) szans, że nasz wróg przez 3 sekundy straci nad sobą kontrolę i nie będzie mógł atakować.
+[DZIAŁA NA BOSSY]",,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,"Esencja demona
+Keyron
+w świątyni Adanosa w Jarkendarze lub z piątego zabitego demona",,"WYŻSZY DEMON
+HP: 2000 (1 INT = 2 HP) 200%
+SIŁA: 275 (2 INT = 1 SIŁA) 50%
+ZRĘCZNOŚĆ: 250
+DEFY: 200/230/220/150/150
+(brak skalowania odporności)",,,2
+Pet Hubaxis,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+"Hubaxis to unikalny pet, który towarzyszy Ci przez całą grę, korzystanie z niego jest opcjonalne.
+Nauka wymaga 1 kręgu i zajmuje on tylko jeden slot, więc możemy do niego dołożyć max. 3 innych przyzwańców.
+Możemy go wesprzeć specjalnymi darami od Beliara oraz umiejętnościami, których uczy nas Xardas.
+Jego statystyki zwiększają się wraz z lvl'owaniem go, a zyskuje on expa, kiedy zabija/zabijamy potwory, podczas gdy jest on przyzwany. 
+W związku z tym, nie opłaca się czyścić wcześniej mapy, jeśli planujemy grać pod Hubaxisa
+
+Przyzwanie własnego demona (Wymagania: Punkty nauki: 20)
+Kula ognia (Wymagania: Poziom Hubaxisa: 10, Punkty nauki: 3)
+Wampiryzm (Wymagania: Poziom Hubaxisa: 15, Punkty nauki: 2)
+Zwiększenie prędkości poruszania się (Wymagania: Poziom Hubaxisa: 20, Punkty nauki: 2)
+Fala ognia (Wymagania: Poziom Hubaxisa: 30, Punkty nauki: 5)
+Zmniejszenie kosztu many na sekunde (Wymagania: Poziom Hubaxisa: 50, Punkty nauki: 5)
+Dodatkowe obrażenia zależne od many bohatera (Wymagania: Poziom Hubaxisa: 80, Punkty nauki: 5)
+Zwiększenie obrażeń kuli ognia (Wymagania: Poziom Hubaxisa: 85, Punkty nauki: 4)
+Zwiększenie obrażeń fali ognia (Wymagania: Poziom Hubaxisa: 90, Punkty nauki: 8)",,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,"Silna esencja demona
+Teamruk
+w fortecy Lestera lub
+Ponury Żniwiarz 
+w jaskini bólu",,"POTĘŻNY DEMON
+HP: 3000 (1 INT = 3 HP) 300%
+SIŁA: 325 (2 INT = 1 SIŁA) 50%
+ZRĘCZNOŚĆ: 275
+Defy: 230/250/250/175/175
+(brak skalowania odporności)",,,3
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,"Słaba esencja arcydemona
+Zwykły arcydemon lub
+Shemron z zatopionej wieży Xardasa lub
+Nebiros (las asasynów)",,"POMNIEJSZY ARCYDEMON
+HP: 4500 (1 INT = 4 HP) 400%
+SIŁA: 400 (5 INT = 4 SIŁA) 80%
+ZRĘCZNOŚĆ: 550
+Defy: 250/260/260/175/175
+(5 INT = 1 DEF) 20%",,,4
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,"Esencja arcydemona
+Mor'Bar Ręka Chaosu
+w starym obozie bractwa śniącego w GD lub z piątego zabitego arcydemona",,"WYŻSZY ARCYDEMON
+HP: 4700 (1 INT = 4 HP) 400%
+SIŁA: 450 (10 INT = 9 SIŁA) 90%
+ZRĘCZNOŚĆ: 600
+DEFY: 275/280/275/200/200
+(4 INT = 1 DEF) 25%",,,5
+,,,,,,,,,,,,,,,,,
+Demonologia,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+"Jeśli zdecydujemy się na demonologie, należy pamiętać o wysokim koszcie many za późniejsze arcydemony, który może
+przekroczyć nasze możliwości. Ważnym aspektem jest także limit przyzwańców, który wynosi 4 (demon zajmuje 2 sloty)
+Demonologia to specjalna umiejętność nekromanty, pozwalająca na przyzywanie demonów (zwykłych, nie Hubaxisa).
+Runę demonologa ulepszamy na stole do demonologii, znajdującym się u Kreola lub Xardasa.
+Robimy to przy pomocy esencji demonów, które wypadają z bossów demonów w całej grze.
+Nauka podstawowej demonologii kosztuje 5PN, a zaawansowanej kolejne 10PN.
+Runa przywołania demona 20PN - łącznie 35PN za całą demonologię.",,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,"Silna esencja arcydemona
+Irh'Tar Ręka Chaosu
+w kopalni orków lub
+Dramtar w koszmarze Kruka lub Senyak",,"POTĘŻNY ARCYDEMON
+HP: 6000 (1 INT = 4 HP) 400%
+SIŁA: 600 (1 INT = 1 SIŁA) 100%
+ZRĘCZNOŚĆ: 800
+DEFY: 300/320/300/225/225
+(4 INT = 1 DEF) 25%",,,6
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+"Prezentacja run (screeny z INT = 0 | Moc Magiczna = 1%)
+Skalowanie 1 int = 0.75dmg (75%)
+1% Mocy Magicznej = +1% szans na +65% dmg",,,,,,,,,,,,Sakta Nomen,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,"Specjalna umiejętność, pozwalająca nekromancie na rzucanie czarów kosztem życia
+
+Gdy bohater nie ma wystarczająco many by rzucić czar, to zapłaci za niego punktami życia w wartości podwójnej niż koszt many.
+Utrzymywanie przywołańców również odbywa się kosztem życia gdy mana wynosi 0
+
+Sakta Nomen pozwala płacić zdrowiem jedynie za czary nekromanty, Szpon Beliara i utrzymanie summonów.
+
+Użycie większej ilości HP niż obecnie posiadamy zabija naszą postać
+
+Koszt to 25 PN i 30 000 złota
+",,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+FILMIK PREZENTUJĄCY CZARY,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,"Specjalny czar periodyczny, skaluje się do końca gry",,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,"Oddawanie serc, broni i karmy Innosa",,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,"Wszystkie mroczne gildie mają możliwość składania Beliarowi w ofierze przeklętych broni.
+Za każdą broń otrzymujemy 1 karmy
+
+Możemy sprzedawać karmę Innosa za złoto
+
+Możemy również oddawać serca demonów Xardasowi lub Kreolowi, za 1 many lub 2 HP",,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,Specjalne dary,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,3% Mocy Magicznej,,,,,200 karmy
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+PANCERZE GILDYJNE,,,,,,,,,,,,2% wzmocnienie Hubaxisa (wielokrotne) +100 karmy za każde kolejne (bez limitu),,,,,50 karmy
+,,,,,,,,,,,,,,,,,
+Nazwa,,,Wymagania,Cięte/Obuch/Kłute/Magia/Ogień,,,Inne,Warunek zdobycia,,,,,,,,,
+Szata nowicjusza mroku,,,---,35/25/15/10/15,,,---,Po dołączeniu do nekromantów,,,,15% siły i zdrowia Hubaxisa,,,,,"250
+HP"
+Szata nekromanty,,,Mana 75,65/40/35/20/40,,,---,Po zostaniu Nekromantą,,,,,,,,,
+Ciężka szata nekromanty,,,Mana 500,110/110/100/90/80,,,---,Otrzymujemy po nauce 4 kręgu,,,,,,,,,
+Poświęcona szata nekromanty,,,Mana 750,150/140/130/130/110,,,Mana 45,Poświęcenie szaty z 4 kręgu,,,,5% Mocy Magicznej,,,,,"250
+HP"
+Szata Arcymaga Nekromancji,,,Mana 800,200/170/100/130/160,,,Mana 70,Sprzedaje Kreol po nauce 5 kręgu,,,,,,,,,
+Szata Krwi,,,Mana 1200,200/210/200/230/200,,,---,Po zabiciu Ile'Sila na Zaginionym Bracie,,,,,,,,,

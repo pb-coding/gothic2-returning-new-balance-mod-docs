@@ -1,0 +1,138 @@
+INFORMACJE OGÓLNE,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+"                                                                                                                                                                                                             
+Szaman nie jest gildią główną, można nim zostać w połączeniu z każdą inną gildią, poza Mrocznym Rycerzem i Łowcą Demonów (jedynie w 1 rozdziale). 
+Nie możemy iść ścieżką Mistrza Trucizn ani Druida jeżeli zdecydujemy się zostać szamanem, ani nie zostaniemy nim jeśli już zaczęliśmy naukę Freygala.
+
+Sama gildia opiera się na korzystaniu z Furii Wichru oraz Totemów wzmacniających nas lub bezpośrednio 
+oddziałowywujących na przeciwników (wyjaśnienie poniżej). Nauka totemów kosztuje punkty nauki oraz trofea zwierzęce. 
+Same totemy wymagają many na postawienie oraz uprzedniego wykonania ich na stole rzemieślniczym
+
+Twoim pierwszym nauczycielem będzie ork Ur-Azog, znajdujący się nad urwiskiem, niedaleko bimbrowni Vino.
+Należy przynieść mu 2 skóry cieniostwora, 5 skór wilka, 20 kłów, 20 surowych ryb i mięsa. Należy także zabić dzika, który pojawia się w lesie nieopodal.
+Po tym dochodzi do rytuału, w którym musimy zabić 4 moby, które symbolizują duchy żywiołów. Po rytuale zostaniemy prawowitym szamanem.
+
+Ur-Azog nauczy nas języka orków (2PN), niezbędnego do nauki wytwarzania pierwszych totemów oraz samego korzystania z nich. 
+Uczy nas również posługiwania się orkową bronią (15PN) Kolejnym nauczycielem, który nauczy nas znacznie więcej jest szaman w mieście orków.
+
+Dodatkowo szaman otrzymuje ""totem szamana"" powodujący, że nie atakują go orkowie. Przedmiot można schować / wyrzucić by przywrócić wrogość orków.
+Zabijając orka z totemem w ekwipunku dezaktywujemy jego działanie na 10 minut.
+By wejść do miasta orków w Górniczej Dolinie dalej potrzebować będziemy Ulu-Mulu.
+
+Po zostaniu szamanem częściowo tracimy moc ludzkiej magii, więc obrażenia wszystkich naszych czarów zostaną osłabione o 75%.
+Czar leczenia będzie odnawiał jedynie 30% naszego max HP, a czary opierające się na efekcie jak np. bryła lodu dalej działają tak samo.
+Przyzwania ze zwojów i run (z wyjątkiem Jiny), jak i kontrola czarnoksiężnika przestają działać.
+",,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+"SPECJALNA SZATA, KTÓRĄ MOŻEMY KUPIĆ U SZAMANA W MIEŚCIE ORKÓW 2 ROZDZIAŁ",,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Szata wysokiego szamana,,,,,,,Mana 325 Waga 4,,,140,150,90,140.0,80.0
+,,,,,,,,,,,,,,
+Jaką gildię główną wybrać do gry szamanem?,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Gildie magiczne,,,,,,,,Gildie wojownicze,,,,,,
+"Z reguły żaden mag nie powinień być rekomendowany do grania szamanem, głównie przez drastycznie zmniejszony dmg naszych czarów oraz brak przyzwań czy kontroli. 
+
+Jeśli jednak rozważamy granie pod miecze magiczne lub kostury (Furia Wichru działa tylko z tymi drugimi!) i wspomaganie się totemami ofensywnymi (Burzy, Żaru, Lasu), możemy stworzyć całkiem mocną (lecz kosztowną) hybrydę maga-wojownika. 
+
+Do takiej hybrydy zalecany jest Czarnoksiężnik, Nekromanta lub Guru, ponieważ te gildie mogą zdobyć najwięcej many/int dzięki swoim przywilejom. Mag Wody może natomiast skutecznie wspomagać się czarami zamrażającymi lub zbijającymi odporności wrogów, najmniej oferuje mag Mag Ognia... może zdobyć darmowe 2% w 2H oraz Amun-Su.",,,,,,,,"Jeśli chodzi o gildie wojownicze zarówno Mroczny Rycerz i Łowca Demonów są wykluczeni z możliwości zostania szamanem, nie możemy też dołączyć do tych gildii jeśli już nim zostaliśmy. 
+
+Pod ścieżkę szamana najlepszym wyborem jest Najemnik. Mocne gildyjne bronie 2H działające z Furią, połączone z totemami, a w późniejszym czasie także ze zwiekszoną regeneracją z mikstur leczniczych czynią go prawdziwą bestią (nie uczymy się Furii jeśli planujemy używać mieczy). 
+
+Strażnik Świątynny i Paladyn również są dobrymi wyborami, mając na uwadze co pasywnie oferują obydwie gildie. Obie jednak cierpią z powodu osłabienia wszystkich swoich run. ",,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Furia Wichru,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+"Furia Wichru, to specjalna umiejętność Szamana, która pozwoli na zadanie dodatkowych obrażeń podczas korzystania z broni obuchowych, toporów, halabard i orkowych broni.
+Każdorazowa aktywacja zabiera X many (w zależności od poziomu) i zadaje obrażenia równe ~60% hita broni. Ur-Azog uczy tylko 1 i 2 poziomu, kolejne w mieście orków.",,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Poziom I,,Poziom II,,Poziom III,,,Poziom IV,,,,Poziom V,,,
+20% szansa,,30% szansa,,40% szansa,,,55% szansa,,,,70% szansa | +5% obrażeń,,,
+"5PN
+10 surowego mięsa",,"10 PN
+25 surowego mięsa",,"12 PN
+50 surowego mięsa",,,"15 PN
+2 skóry cieniostwora",,,,"30 lvl 18 PN
+2 skóry trolla",,,
+Totemy,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+"Totemy to ""przyzwańcy"", ekskluzywni dla podgildii szamana. Można mieć ich przyzwanych maksymalnie 4 naraz.
+Totemy stawiamy przypisując je na HotBar (1-8 w ekwipunku) a następnie stawiamy klikając F1-F8 (konkretne totemy da się odesłać klikając ponownie przypisany im klawisz).",,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+Nazwa totemu,,Działanie,,,,,,Nauka,,,,Wykonanie,,
+,,,,,,,,Cooldown postawienia,Koszt Many,Wymagania,"Wymagane
+trofea",Potrzebne materiały,,
+Korzystanie z totemów,,"Jak sama nazwa wskazuje, najważniejsza umiejętność szamana, potrzebna do funkcjonowania totemów.",,,,,,----,----,2 PN,3 skóry wilka,----,,
+,,,,,,,,,,,,,,
+Limit totemów +1,,Zwiększa limit jednocześnie postawionych totemów o 1,,,,,,-----,----,15 PN 30lvl,3 skóry trolla,----,,
+,,,,,,,,,,,,,,
+Limit totemów +1,,Zwiększa limit jednocześnie postawionych totemów o 1,,,,,,----,----,25 PN 40lvl,1 skóra czar. trolla,-----,,
+,,,,,,,,,,,,,,
+Limit totemów +1,,Zwiększa limit jednocześnie postawionych totemów o 1,,,,,,----,----,30 PN 50lvl,1 skóra czar. trolla,-----,,
+,,,,,,,,,,,,,,
+"Ur-Azog nauczy nas wyłącznie totemu mocy, gromu, życia, ziemi i ochrony",,,,,,,,,,,,,,
+Totem mocy ,,"Zwiększa nasze obrażenia fizyczne o 15%, który trwa przez 15 minut lub do zniszczenia (Nie działa na obr. totemów)",,,,,,60 sekund,50,8 PN,2 skóry warga,"15x drewno 2x siarka
+ 2x smoła 2x eliksir leczniczy
+1x skała krystaliczna",,
+,,,,,,,,,,,,,,
+Totem magii,,"Strzela ognistym/magicznym pociskiem. 
+Trwa 5 minut lub do zniszczenia.",,,,,,20 sekund,"40
++ 5% int na strzał
+(min 1,
+max 30)",7 PN ,1 skóra warga,"15x drewno 2x siarka
+ 2x smoła 2x ognista strzała",,
+,,,,,,,,,,,,,,
+Totem życia ,,"Regeneruje 1% wytrzymałości i 1% zdrowia co sekundę. 
+Trwa 15 minut lub do zniszczenia.",,,,,,30 sekund,50,8 PN,5 skór wilka,"10x drewno 2x siarka
+ 2x smoła 3x eliksir leczniczy",,
+,,,,,,,,,,,,,,
+Totem lasu ,,"Przywołuje dwa duchowe wilki, które znikają wraz z totemem
+po upływie 30 sekund.",,,,,,60 sekund,75,10 PN,10 skór wilka,"15x drewno 1x siarka 2x skóra wilka
+ 1x smoła 1x skała krystaliczna",,
+,,,,,,,,,,,,,,
+Totem ochrony ,,"Ściąga na siebie agro wrogów w zasięgu. 
+Trwa 5 minut lub do zniszczenia.",,,,,,60 sekund,50,10 PN,2 skóry cieniostwora,"20x drewno 3x siarka 1x smoła
+2x skała krystaliczna 2x stalowy pręt",,
+,,,,,,,,,,,,,,
+Totem skały ,,"Ogłusza wrogów na 4 sekundy. Trwa 5 minut dopóki nie ma celów do ogłuszenia, lub do czasu gdy już ich ogłuszy.",,,,,,60 sekund,75,12 PN,2 czarne perły,"15x drewno 3x siarka
+3x smoła 1x skała krystaliczna",,
+,,,,,,,,,,,,,,
+Totem ziemi ,,"Spowalnia wrogów w zasięgu o 20%.
+Trwa przez 5 minut lub do zniszczenia.",,,,,,60 sekund,50,10 PN,6 skór warga,"20x drewno 2x siarka
+ 1x smoła 1x skała krystaliczna",,
+,,,,,,,,,,,,,,
+Totem żaru ,,"Strzela małą burzą ognistą, która podpala wrogów i zadaje obrażenia obszarowe. Trwa przez 5 minut lub do zniszczenia.",,,,,,30 sekund,50,15 PN,10 skór wilka,"15x drewno 3x siarka
+ 3x smoła 3x skała krystaliczna",,
+,,,,,,,,,,,,,,
+Totem burzy,,"Strzela błyskawicą, co trzeci strzał dochodzi uderzenie fali energetycznej. Trwa przez 5 minut lub do zniszczenia.",,,,,,35 sekund,50,10 PN,10 skór gada,"15x drewno 1x skała krystaliczna
+2x smoła 3x siarka 3x kwarcyt",,

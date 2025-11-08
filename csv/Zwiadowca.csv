@@ -1,0 +1,209 @@
+INFORMACJE OGÓLNE,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+"Zwiadowcy bazują na zręczności. W celu dołącznia należy rozpocząć zadanie od Gunnara i przekazać list Lordowi Andre.
+Zaoferowana nam zostaje całkowicie nowa ścieżka zadań, dodatkowa lokacja i niedostępne dla innych metody walki z przeciwnikami.",,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+INFORMACJE SZCZEGÓŁOWE,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+"Gildia posiada najlepsze pancerze pod zręczność, możliwość zdobycia dodatkowych hełmów pod zręczność,
+jak również skrytobójcze zdolności takie jak np. niewidzialność czy lepsze skradanie.
+
+Zwiadowca potrafi korzystać ze specjalnych ładunków wybuchowych, które mogą podpalać, ogłuszać, odrzucać i ranić jego wrogów.
+Oprócz tego mamy mniejszy koszt nauki umiejętności powiązanych ze zręcznością (np. skradanie, akrobatyka).
+Można zostać mistrzem trucizn.",,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Umiejętności Zwiadowcy,,,,,,,,,,,,,Gildyjne nakrycia głowy
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Nazwa,,,Opis,,,,,Wymagania,,,,PN,1. Po zostaniu zwiadowcą
+,,,,,,,,,,,,,
+Otwieranie zamków,,,Otwieranie zamków zręcznością,,,,,brak,,,,5,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Unik +2%,,,"Dodatkowa szansa na unik
+stackuje się z pozostałymi szansami
+Łącznie +5%",,,,,brak,,,,3,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Unik +3%,,,,,,,,"Zręczność: 125
+Unik +2%",,,,4,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,2. Po wejściu do 2 rozdziału
+Akrobatyka,,,"Koszt PN tańszy o 2 niż u Casii
+nauka dodaje 10 zręczności",,,,,Zręczność: 65,,,,8,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Precyzyjny strzał,,,"Zwiększa celność łuku lub kuszy, zmniejszając rozrzut strzałów",,,,,Poziom: 10,,,,4,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Szybka reakcja,,,Dodatkowa szansa 20% na unik podczas przewrotów z akrobatyki,,,,,"Poziom: 30, Zręczność: 200
+Akrobatyka",,,,5,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Skradanie się,,,"Koszt PN tańszy o 1 niż u Jaspera / Bartoka
+nauka dodaje 2 zręczności",,,,,brak,,,,3,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+"Mistrzowskie
+skradanie się",,,Szybsze poruszanie się podczas skradania,,,,,"Zręczność: 60
+Skradanie się",,,,2,"3. Za zadanie: ""Przewaga Taktyczna"""
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Nagłe uderzenie,,,Dodatkowe obrażenia zadawane podczas skradania się,,,,,"Zręczność: 75
+Skradanie się",,,,5,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Zniknięcie,,,Niewidzialność podczas skradania,,,,,"Zręczność: 100
+Mistrzowskie Skradanie się",,,,10,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+"Znajomość słabych
+punktów",,,"Dodatkowe 10% przebicia obrony
+przeciwnika podczas walki wręcz",,,,,"Poziom: 30
+70% władania bronią",,,,10,
+,,,,,,,,,,,,,4. W skarbcu Rączki od 4 rozdziału
+,,,,,,,,,,,,,
+Bieg zwiadowcy,,,20% szybsze bieganie,,,,,Wytrzymałość: 400,,,,5,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Odporność na wyczerpanie,,,"odporność na debuff, który podwaja ilość wykorzystywanej wytrzymałości",,,,,"Poziom: 25
+Zręczność: 200",,,,3,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Tworzenie strzał i bełtów,,,Tworzymy na stole rzemieślniczym i kowadle,,,,,brak,,,,3,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,"5. Z pierwszego bossa, Jaszczura w koszmarze Kruka"
+Przeszywający strzał,,,"Ignorowanie odporności trolli, szkieletów i golemów",,,,,"Zręczność: 135
+Władanie łukiem: 45%",,,,30,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Proszki Zwiadowcy,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+"Podstawowe
+tworzenie proszków",,,,"Zaawansowane
+tworzenie proszków",,,,"Mistrzowskie
+tworzenie proszków",,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+"1 poziom, 5 PN",,,,"15 poziom, 6 PN",,,,"25 poziom, 8 PN",,,,,"6. Z zadania ""Mroczny zakon"" w 5r"
+,,,,,,,,,,,,,
+"Proszek: Wał Ognia
+Podpala mały obszar i zadaje obrażenia od ognia w czasie",,,"Wymagania:
+1 lvl
+50 zręka
+10 PN","Proszek: Trujący rozpad
+Zatruwa przeciwników na danym obszarze. Obrażenia od trucizny.",,,"Wymagania:
+20 lvl
+100 zręka
+12 PN","Proszek: Wypędzenie zła
+Powoduje magiczną eksplozję
+Działa tylko na istoty Beliara",,,,"Wymagania:
+25 lvl
+150 zręka
+15 PN",
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,"Proszek: Eksplozja
+Obszarowe obrażenia plus obrażenia od ognia w czasie",,,,"Wymagania:
+25 lvl
+175 zręka
+15 PN",
+,,,,,,,,,,,,,
+,,,,"Proszek: Zasłona dymna
+Ogłusza przeciwników,
+brak cooldownu na dodatkowe obrażenia na skradaniu.",,,"Wymagania:
+15 lvl
+100 zręka
+10 PN",,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,"Proszek: Magiczny huk
+Zadaje obrażenia magiczne na obszarze",,,,"Wymagania:
+35 lvl
+350 zręka
+18 PN",
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+"Dodatkowa 1 sek czasu trwania proszków
+Tier 1: 75 zręczność, 3 PN",,,,"Dodatkowa 1 sek czasu trwania proszków
+Tier 2: 120 zręczność, 3 PN
+Tier 3: 165 zręczność, 3 PN",,,,"Dodatkowa 1 sek czasu trwania proszków
+Tier 4: 225 zręczność, 3 PN
+Tier 5: 300 zręczność, 3 PN",,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+"Zwiększenie zasięgu działania proszków
+Tier 1: 15 poziom, 85 zręczność, 3 PN",,,,"Zwiększenie zasięgu działania proszków
+Tier 2: 20 poziom, 135 zręczność, 3 PN
+Tier 3: 25 poziom, 185 zręczność, 3 PN",,,,"Zwiększenie zasięgu działania proszków
+Tier 4: 30 poziom, 250 zręczność, 3 PN
+Tier 5: 40 poziom, 350 zręczność, 3 PN",,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+"Zwiększony zasięg rzutu proszkami
+Tier 1: 2 PN",,,,"Zwiększony zasięg rzutu proszkami
+Tier 2: 20 poziom, 3 PN",,,,"Zwiększony zasięg rzutu proszkami
+Tier 3: 30 poziom, 3 PN",,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+"Zwiększona szybkość rzucania proszków
+2 PN",,,,"Zwiększone obrażenia okresowe (w czasie)
+Tier 1: 25 poziom, 2 PN",,,,"Zwiększone obrażenia okresowe (w czasie)
+Tier 2: 35 poziom, 5 PN",,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,"Dodatk. obrażenia w momencie wybuchu
+Tier 1: +15% obrażeń, 15 poziom, 5 PN
+Tier 2: +30% obrażeń, 30 poziom, 5 PN",,,,"Dodatk. obrażenia w momencie wybuchu
+Tier 3: +50% obrażeń, 40 poziom, 5 PN",,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Zbroje Gildyjne,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Nazwa,,,Wymagania,,,Cięte/Obuch/Kłute/Ogień/Magia,,,Unik,Warunek zdobycia,,,
+,,,,,,,,,,,,,
+Pancerz młodszego zwiadowcy,,,Zręczność 50 Waga 1,,,65/50/70/10/10,,,0.1,Po zostaniu zwiadowcą,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Przekuty pancerz młodszego zwiadowcy,,,Zręczność 50 Waga 2,,,85/75/85/15/15,,,0.1,Przekucie pancerza młodszego zwiadowcy,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Pancerz zwiadowcy,,,"Zręczność 100
+Wytrzymałość 250 Waga 2",,,110/90/100/20/20,,,0.1,"Za zadanie
+""Niewolnicy Kruka""",,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Przekuty pancerz zwiadowcy,,,"Zręczność 120
+Wytrzymałość 250 Waga 3",,,130/115/120/30/30,,,0.1,Przekucie pancerza zwiadowcy,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Pancerz starszego zwiadowcy,,,"Zręczność 250
+Wytrzymałość 400 Waga 3",,,160/140/145/40/50,,,0.15,Za uwolnienie Benneta,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Przekuty pancerz starszego zwiadowcy,,,"Zręczność 280
+Wytrzymałość 400 Waga 4",,,190/160/200/60/65,,,0.15,Zaaw. przekuwania uczy Daron w obozie Netbeka,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Mistrzowski pancerz zwiadowcy,,,"Zręczność 400
+Wytrzymałość 800 Waga 4",,,240/230/280/100/120,,,0.15,Przepis wypada z bossa w orkowej kopalni Itu-Seda,,,

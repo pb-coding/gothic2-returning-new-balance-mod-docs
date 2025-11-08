@@ -1,0 +1,39 @@
+Nazwa,Mana,Obrażenia,Zasięg,"Obrażenia magiczne 
+(skalowanie z INT)",Inteligencja,Warunki zdobycia,Dodatkowe informacje
+KOSTURY,,,,,,,ZNACZENIE KRĘGU
+,,,,,,,
+Kostur ucznia,10,40 + 20,110,---,---,W jaskinii obok Cavalorna,To jak skutecznie nasza inteligencja wpływa na obrażenia magiczne miecza / kostura zależy od naszego kręgu magicznego
+Kostur nowicjusza,60,75,120,80,25,Sprzedaje go Gallahad i Isgaroth,
+Stary kostur,60,85,120,80,25,Otrzymujemy go od Fregyala po nauce przemiany w dzika,
+Kostur (Zależne od gildii),75,120,130,120,50,Otrzymujemy go po zostaniu jakimkolwiek magiem/druidem,"6 krąg nie zwiększa już naszego skalowania do obrażeń magicznych z broni. Jedyne co nam daje to
++18 int i +3% mocy magicznej."
+Kostur kapłana z Jarkendaru,210,175,140,175,85,"Schemat leży przy Królowej Pełzaczy, która jest po prawo w Zapomnianym Kanionie",
+Sah Tar Har,375,225,140,225,115,Wypada z bossa Jaszczuroludzi na Zachodnim Wybrzeżu,1 krąg: 10 int = 2 dmg (20%)
+Kostur starszego druida,500,175,140,275,145,Otrzymujemy go za osiągnięcie 25 poziomu Kamienia Druidów,"2 krąg: 10 int = 2,5 dmg (25%)"
+Kostur arcymaga,450,275,140,275,140,"Schemat wypada w zadaniu ""Mroczna Sieć""
+Mogą go wytworzyć tylko gildie magiczne",3 krąg: 10 int = 5 dmg (50%)
+Kostur wyższego kapłana,600,325,140,325,170,W skrzyni w Sanktuarium Prawdy po ukończeniu zadań,4 krąg: 10 int = 7 dmg (70%)
+Smoczy Kostur,750,375,140,375,"215
++1 reg. many",Wypada z Azgalora w Dolinie Cieni,5 krąg: 10 int = 10 dmg (100%)
+Szpon Beliara,900,400,140,400,235,"Wypada z Kruka, należy go przerobić w kapliczce",6 krąg: 10 int = 10 dmg (100%)
+Szpon Beliara (z duszą),900,425,140,425,265,Po wsadzeniu duszy Senyaka w kostur,SZANSA NA ZADANIE OBRAŻEŃ MAGICZNYCH
+Ar'Krah,1200,450,140,450,295,Wypada na dungeonie Zaginiony Brat,
+Pożeracz Dusz,1200,475,140,500,300,Wypada ze Trakanona (Smok na Irdorath),
+MIECZE MAGICZNE,,,,,,,"Jest to suma następujących szans:
+5% bazowo
+1% mocy magicznej = 1% szansy
+1% posługiwania się bronią = 1% szansy"
+,,,,,,,
+Magiczny sztylet,0,5,50,---,---,Na szczycie wieży xardasa (rytuał),
+Miecz nowicjusza,60,50,90,50,20,Sprzedaje go Gallahad i Isgaroth,
+Miecz maga,100,90,90,90,45,Schemat leży w skrzyni w skarbcu magów ognia,
+,,,,,,,
+Starożytne ostrze,200,135,100,135,75,Leży przy Królowej Pełzaczy na wprost w  Zapomnianym Kanionie,
+Łamacz zaklęć,325,185,100,185,100,Wypasa z bossa goblina Maji na Zachodnim Wybrzeżu,
+Wysłannik,425,235,105,235,125,Wypada z Kajmy w oazie na prawo od wejścia na Pustynie Adanosa,
+Grom,550,275,110,275,150,Z demona Nebirosa przed Cor Kalomem (las asasynow ),
+Zaćmienie,750,325,120,325,195,Po pokonaniu Hoshkara w Świątyni Śniącego,
+Szpon Beliara,900,350,120,350,215,"Wypada z Kruka, należy go przerobić w kapliczce",
+Szpon Beliara (z duszą),900,375,120,375,245,Po wsadzeniu duszy Senyaka w szpon przy kapliczce Beliara,
+Oddech Beliara,1100,400,130,475,275,"Wypada w dungeonie Zaginiony Brat
+(po zrobieniu koszmaru Kruka)",

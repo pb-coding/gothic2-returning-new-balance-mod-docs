@@ -1,0 +1,279 @@
+,Informacje ogólne,,,,,,,,,,
+,"Gildia dostępna tylko po zainstalowaniu pluginu ""AB_PathOfDamned_Mod"", który znajdziemy na dysku Sefarisu
+
+Aby dołączyć do gildii, należy porozmawiać z Remusem w Martwej Harpii. Po dołączeniu wybieramy jedną z trzech subklas: Wojownik, Mag lub Pięściarz. 
+
+Gildia oferuje potężne bonusy, takie jak kradzież życia, runa ""Widzenie w ciemności"", ataki obszarowe i unikalne umiejętności zależne od subklasy. 
+
+Dodatkowo wypicie 50 fiolek ludzkiej krwi wzmacnia postać o +1 do siły i zręczności oraz +2 do many.
+
+Z kapliczki Beliara można otrzymać specjalny dar ""Przeklęte właściwości krwi"" (200 karmy):
+krew zwierzęca - na 10 minut +10% przepływu krwi
+krew ludzka - na 10 minut +10% obrażeń ludziom
+krew orka - na 10 minut +20 zręczności/siły 
+
+Gildia wiąże się jednak z ograniczeniami: zmniejszone obrażenia w dzień o 15% (od 05:00 do 20:00), podwójna wrażliwość na ogień, mikstury leczące i mikstury many są słabsze o 50%, brak dostępu do magii światła i zakaz modlitwy do Innosa, nie może pić wody święconej i nie może używać srebrnej broni. Niektóre umiejętności nie działają przy użyciu łuków, kusz i tarcz. Nie można zostać szamanem/druidem/mistrzem trucizn.
+
+Koszt umiejętności w trybie utrudnionym wynosi 70% PNów",,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Poziomy rozwoju Potępionego,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Nazwa,,Opis,,,,,,,,Wymagania
+,Adept,,"Najniższy poziom. Każda osoba, która właśnie otrzymała moc, zostaje adeptem. Nie odczuwa głodu, pragnienia ani potrzeby snu. Posiada powolną regenerację życia, many i wytrzymałości.",,,,,,,,-
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Starszy Potępionych,,"Posiada już podstawowe umiejętności i może nimi władać na bardziej zaawansowanym poziomie. Nie działają na niego choroby, osłabienia i klątwy. Zwiększona szybkość regeneracji zdrowia, many i wytrzymałości.",,,,,,,,"18lvl, 2 rozdział"
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Mistrz Potępionych,,"Bardzo biegły w swoich umiejętnościach. Odporny na opętanie, zimno i większość trucizn. Jeszcze większa szybkość regeneracji zdrowia, many i wytrzymałości.",,,,,,,,"32lvl, 2 rozdział, gadka z Garondem lub ucieczka Kruka"
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Arcymistrz Potępionych,,"Bardzo rzadki i potężny przedstawiciel swojego gatunku. Otrzymuje mniej obrażeń od ataków wroga o 3%. Jeszcze większa szybkość regeneracji zdrowia, many i wytrzymałości.",,,,,,,,"45lvl, 3 rozdział, brak aktywnych questów: Morderstwo w mieście, Śmiertelne spotkanie, Szturm na zamek"
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Umiejętności Potępionego,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Nazwa,,Koszt,Opis,,,,,,,Wymagania
+,Duch Potępionych,,5PN,Dodatkowe 20 punktów many.,,,,,,,Brak
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Zręczność Potępionych,,7PN,Po prostu akrobatyka.,,,,,,,Brak
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Oczarowanie,,2PN,Dodatkowe 30 punktów retoryki oraz zwiększenie szansy na wyłganie się z kradzieży o 30%.,,,,,,,15 poziom
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Przeklęte ciało,,5PN,Dodatkowe 30 punktów obrony przed obrażeniami fizycznymi.,,,,,,,16 poziom
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Piórkospadanie,,3PN,Brak obrażeń od upadku z wysokości.,,,,,,,20 poziom
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Cienisty przewrót,,8PN,"Podczas używania akrobatyki (przewrót lub skok), 40% szans na zignorowanie obrażeń.",,,,,,,"Starszy Potępionych, 25 poziom"
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Wytrzymałość bestii,,5PN,Prędkość sprintu zwiększona o 20%.,,,,,,,"Starszy Potępionych, 22 poziom"
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Regeneracja,,"P1: 4PN
+P2: 5PN",Zwiększona regeneracja statystyk (hp/mana/stamina),,,,,,,"P1: Starszy Potępionych, 20 poziom
+P2: Mistrz Potępionych, 35 poziom"
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Unik,,"P1: 3PN
+P2: 6PN",Szansa na uniknięcie ciosów wroga.,,,,,,,"P1: Starszy Potępionych, 27 poziom
+P2: Mistrz Potępionych, 37 poziom"
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Zwinność bestii,,5PN,Zwiększa prędkość poruszania się na boki w walce (strafe) o 25%.,,,,,,,"Mistrz, 40 poziom"
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Przeklęty umysł,,15PN,Obrażenia od magii zmniejszone o 10%.,,,,,,,"Starszy Potępionych, 45 poziom"
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Pancerze,,,,,,,,,,
+,,,,,,,,,,,
+,Nazwa,,Wymagania,,Cięte/obuchowe/kłute/ogień/magia,,,Dodatkowe,,Warunek zdobycia,
+,Zbroja potępionego,,"Wytrzymałość: 200
+Siła: 40",,65/45/50/10/20,,,"Upadek: 1
+Zdrowie: 25
+Unik: 3%",,Dostajemy po dołączeniu od Remusa.,
+,Przekuta zbroja potępionego,,"Wytrzymałość: 200
+Siła: 45",,80/75/70/20/30,,,"Upadek: 2
+Zdrowie: 35
+Unik: 3%",,Przekucie zbroi potępionego.,
+,Mistrzowska zbroja potępionego,,"Wytrzymałość: 450
+Siła: 250",,170/160/150/60/80,,,"Upadek: 4
+Zdrowie: 175
+Unik: 5%",,Do kupienia u Remusa od 3 rozdziału.,
+,Przekuta mistrzowska zbroja potępionego,,"Wytrzymałość: 550
+Siła: 275",,190/180/180/80/100,,,"Upadek: 5
+Zdrowie: 200
+Unik: 5%",,Przekucie mistrzowskiej zbroi potępionego.,
+,Pancerz potępionego,,Wytrzymałość: 200,,60/55/50/10/20,,,"Upadek: 1
+Zdrowie: 25",,Dostajemy po dołączeniu od Remusa.,
+,Przekuty pancerz potępionego,,Wytrzymałość: 200,,75/70/65/15/25,,,"Upadek: 2
+Zdrowie: 45",,Przekucie pancerza potępionego.,
+,Mistrzowski pancerz potępionego,,Wytrzymałość: 500,,160/165/150/60/70,,,"Upadek: 4
+Zdrowie: 200",,Do kupienia u Remusa od 3 rozdziału.,
+,Przekuty mistrzowski pancerz potępionego,,Wytrzymałość: 550,,180/185/175/80/90,,,"Upadek: 5
+Zdrowie: 235",,Przekucie mistrzowskiego pancerza potępionego.,
+,Szata potępionego,,Mana: 60,,70/50/65/30/40,,,-,,Dostajemy po dołączeniu od Remusa.,
+,Mistrzowska szata potępionego,,Mana: 500,,150/140/120/100/110,,,-,,Do kupienia u Remusa od 3 rozdziału.,
+,Umiejętności Pięściarza,,,,,,,,,,
+,,,,,,,,,,,
+,Nazwa,,Koszt,Opis,,,,,,,Wymagania
+,Płynne ruchy,,Brak,Pozwala wykonywać specjalne ciosy podczas poruszania się na boki (wyuczone automatycznie).,,,,,,,Brak
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Dar krwi,,10PN,Pozwala odebrać (10% zadanych obrażeń) energii życiowej podczas uderzenia wroga. Działa tylko na żywych przeciwników.,,,,,,,"50 siły, 10 poziom"
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Pięści łowcy,,6PN,Możliwość blokowania pięściami ataków zwierząt.,,,,,,,"60 siły, 12 poziom"
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Krwawe szpony,,"P1: 4PN
+P2: 6PN",Możliwość nakładania krwawienia na żywe cele.,,,,,,,"P1: Starszy Potępionych, 15 poziom, 75 siły
+P2: Mistrz Potępionych, 32 poziom, 200 siły"
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Mroczne pięści,,15PN,Znacząco zwiększa zadawane obrażenia i pozwala ignorować obronę przeciwników. Obrażenia zależne są od siły i poziomu postaci.,,,,,,,"100 siły, 16 poziom"
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Kopniak z półobrotu,,15PN,Zadaje obrażenia celom wokół i przewraca ich. Każde użycie wymaga 150 wytrzymałości.,,,,,,,"Starszy Potępionych, 18 poziom, 115 siły, 250 wytrzymałości"
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Wiedza o czułych punktach,,7PN,"Wzmacnia ""mroczne pięści"", zwiększając obrażenia zadawane o 100 i zapewnia dodatkowe obrażenia trollom, duchom i smokom.",,,,,,,"Starszy Potępionych, 28 poziom, 150 siły, ""Mroczne pięści"""
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Kopnięcie,,12PN,Silne kopnięcie. Ignoruje 50% pancerza. Użycie wymaga 125 wytrzymałości.,,,,,,,"Starszy Potępionych, 16 poziom, 120 siły, 200 wytrzymałości"
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Przeklęta siła,,12PN,"Sprawia,  że skalowanie obrażeń z siłą jest o 50% skuteczniejsze.",,,,,,,"Starszy Potępionych, 30 poziom, 200 siły, 350 wytrzymałości"
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Emanacja ciemności,,10PN,"Po zabiciu nieumarłego wroga, zamienia część (5%) jego życia na twoje zdrowie. Dodatkowo otrzymywane obrażenia od krwawienia spowodowanego przez nieumarłe istoty zmaleją o 20%.",,,,,,,"Starszy Potępionych, 34 poziom, 225 siły"
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Moc krwi,,6PN,Zwiększa kradzież życia przy uderzeniach o 10%,,,,,,,"Starszy Potępionych, 34 poziom, 185 siły, ""Dar Krwi"""
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Cios Prosty,,12PN,Potężny cios prosty. Ignoruje 75% pancerza. Użycie wymaga 250 wytrzymałości.,,,,,,,"Mistrz Potępionych, 35 poziom, 275 siły, 500 wytrzymałości"
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Wytrzymałość Potępionych,,"P1: 4PN
+P2: 5PN
+P3: 6PN",Zwiększa regenerację wytrzymałości pozwa walką i podczas walki pięściami.,,,,,,,"P1: Starszy Potępionych, 24 poziom, 100 siły, 300 wytrzymałości
+P2: Mistrz Potępionych, 35 poziom, 250 siły, 500 wytrzymałości
+P3: Mistrz Potepionych, 40 poziom, 275 siły, 550 wytrzymałości"
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Umiejętności Wojownika,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Reakcja bestii,,"P1: 5PN
+P2: 7PN
+P3: 10PN",Zwiększa prędkość ataku podczas używania broni białej o 5%/10%/15%.,,,,,,,"P1: 15 poziom
+P2: Starszy Potępionych, 20 poziom, 300 wytrzymałości
+P3: Mistrz Potępionych, 35 poziom, 275 siły lub zręczności"
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Dar ciemności,,10PN,Pozwala odebrać (10% zadanych obrażeń) energii życiowej podczas uderzenia wroga. Działa tylko na żywych przeciwników.,,,,,,,"50 siły, 10 poziom"
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Mroczne ostrze,,15PN,"Trwale zmniejsza obrażenia od broni białej o 30%, ale pozwala zadawać przeciwnikom dodatkowe obrażenia, które ignorują obronę. Zadaje też dodatkowe obrażenia duchom. Obrażenia są zależne od poziomu oraz połowy głownej cechy (siła/zręczność).",,,,,,,"Starszy Potępionych, 18 poziom, 100 siły lub zręczności, 250 wytrzymałości"
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Emanacja ciemności,,10PN,"Po zabiciu nieumarłego wroga, zamienia część (5%) jego życia na twoje zdrowie. Dodatkowo otrzymywane obrażenia od krwawienia spowodowanego przez nieumarłe istoty zmaleją o 20%.",,,,,,,"Starszy Potępionych, 27 poziom, 300 wytrzymałości"
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Moc Krwi,,6PN,Zwiększa kradzież życia przy uderzeniach o 10%,,,,,,,"Starszy Potępionych, 30 poziom, ""Emanacja ciemności"""
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Przebicie pancerza,,5PN,Zwiększa przebicie pancerza wroga o 5%.,,,,,,,"Starszy Potępionych, 35 poziom, 250 siły lub zręczności"
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Chowaniec,,"P1: 5PN
+P2: 4PN
+P3: 4PN
+P4: 4PN
+P5: 4PN ","Przywołuje sługę, który będzie podążał za tobą. W walce gromadzi doświadczenie pokonanych wrogów i może ci pomóc: leczenie, dodanie wytrzymałości lub many. Im wyższy poziom Chowańca, tym więcej doświadczenia gromadzi i może użyć więcej umiejętności w walce. Pozycję sługi można zmienić. Może latać nad nami lub obok. Chowaniec również może odbijać pociski.",,,,,,,"P1: 12 poziom
+P2:Starszy Potępionych, 25 poziom
+P3: Mistrz Potępionych, 34 poziom
+P4: Mistrz Potępionych, 40 poziom
+P5: Mistrz Potępionych, 45 poziom"
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Dar Chowańca,,10PN,"Chowaniec losowo wzmacnia właściciela, nakładając pozytywny efekt: zwiększone obrażenia, regeneracja zdrowia, dodatkowe obrażenia, szansa na unik, zmniejszone zużycie wytrzymałości, zwiększona prędkość ataku. Efekt jest wybierany losowo.",,,,,,,"Starszy Potępionych, 32 poziom"
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Ostatnia szansa,,7PN,"Kiedy twoje zdrowie będzie poniżej 30%, Chowaniec uleczy cię, ale straci całą energię i przez jakiś czas nie będzie mógł pomagać.",,,,,,,"Mistrz Potępionych, 32 poziom, 175 siły lub zręczności"
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Umiejętności Maga,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Spowolnienie życia,,6PN,Spowalnia trafionego wroga o 20%. Działa na wszystkie zaklęcia.,,,,,,,"Drugi krąg magii krwi, Starszy Potępionych, 22 poziom, 125 inteligencji"
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Przepływ krwi,,6PN,"Zwiększa kradzież życia o 10% dla wszystkich zaklęć, w których taki efekt jest możliwy.",,,,,,,"Drugi krąg magii krwi, Starszy Potępionych, 26 poziom, 150 inteligencji"
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Tarcza krwi,,10PN,Absorbuje obrażenia. Moc tarczy zależy od inteligencji i poziomu postaci. Ma 20% szans na pochłonięcie pocisku/zaklęcia.,,,,,,,"Drugi krąg magii krwi, Starszy Potepionych, 34 poziom, 300 inteligencji"
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Esencja krwi,,4PN,Zwiększenie zasięgu ataku - zwiększa promień poszukiwania wrogów.,,,,,,,"Drugi krąg magii krwi, Starszy Potępionych, 35 poziom, 225 inteligencji"
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Strumień terroru,,7PN,Podczas używania zaklęć strumienia istnieje 15% szans na zadanie dodatkowych obrażeń od 10% do 25%.,,,,,,,"Trzeci krąg magii krwi, Mistrz Potępionych, 35 poziom, 250 inteligencji"
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Moc ciemności,,12PN,"Kiedy dowolne zaklęcie strumienia jest aktywne, masz 20% szans na zignorowanie wszelkich otrzymanych obrażeń.",,,,,,,"Trzeci krąg magii krwi, Mistrz potępionych, 38 poziom, 300 inteligencji"
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Wzmocnienie Macek ciemności,,6PN,"Zwiększa liczbę dodatkowych celów do 5. Oznacza to, że łącznie zostanie zaatakowanych 6 wrogów.",,,,,,,"Trzeci krąg magii krwi, Mistrz Potępionych, 44 poziom, 400 inteligencji"
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Szybki przepływ,,8PN,Zwiększa prędkość zadawanych obrażeń przez wszystkie zaklęcia strumienia o 10% lub 20%.,,,,,,,"P1: Trzeci krąg magii krwi, Starszy Potępiony, 28 poziom, 125 inteligencji
+P2: Trzeci krąg magii, Mistrz Potępionych, 44 poziom, 350 inteligencji"
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Esencja krwi: Zwiększenie liczby wrogów,,4PN,Zwiększa liczbę jednocześnie atakowanych celów dla Esencji Krwi.,,,,,,,"P1: Trzeci krąg magii krwi, Mistrz Potępionych, 35 poziom, 250 inteligencji
+P2: Mistrz Potępionych, 42 poziom, 375 inteligencji"
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Esencja krwi: Zwiększenie szybkości ataku,,6PN,Zwiększa prędkość rzucania zaklęć Esencji Krwi.,,,,,,,"Trzeci krąg magii krwi, Mistrz Potępionych, 40 poziom, 350 inteligencji"
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Magiczne kręgi,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Pierwszy krąg magii krwi,,10PN,Zapewnia również znajomość pierwszego kręgu magii runicznej.,,,,,,,Brak
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Drugi krąg magii krwi,,15PN,Zapewnia również znajomość drugiego kręgu magii runicznej.,,,,,,,"Starszy Potępionych, 2 rozdział lub 200 many"
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Trzeci krąg magii krwi,,25PN,Zapewnia również znajomość trzeciego kręgu magii runicznej.,,,,,,,"Mistrz Potępionych, 2 rozdział i 500 many, 35 poziom"
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Runy,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Krwawa nić,,6PN,"Wyrządza szkody istotom żywym, odbierając im energię życiową.",,,,,,,Pierwszy krąg magii krwi
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Strumień krwi,,9PN,"Ulepszona wersja ""Krwawej nici"". Wyrządza szkody istotom żywym, odbierając im energię życiową.",,,,,,,"Drugi krąg magii krwi, Starszy Potępionych, ""Krwawa nić"""
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Strumień ciemności,,16PN,"Zaklęcie przeciwko nieumarłym, golemom i innym wrogom. Nie kradnie życia.",,,,,,,"Drugi krąg magii krwi, Starszy Potępionych, 22 poziom, 135 inteligencji, ""Strumień krwi"""
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Wezwanie esencji krwi,,14PN,"Zaklęcie przywołujące na pomoc Esencję Krwi, która podąża za graczem i atakuje wrogów, wymagając many do podtrzymania. Istota może otrzymać rozkaz aby nic nie robiła lub zostać teleportowana do gracza.",,,,,,,"Drugi krąg magii krwi, Starszy Potępionych, 30 poziom, 175 inteligencji"
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Macki ciemności,,5PN,Zadaje obrażenia głownemu celowi i 2 kolejnym wrogom. Przywraca zdrowie za każdy cel. Wszystkie umiejętności zwiększające przepływ wpływają na to zaklęcie.,,,,,,,"Trzeci krąg magii krwi, Mistrz Potępionych, 36 poziom, 300 inteligencji, Strumień ciemności"

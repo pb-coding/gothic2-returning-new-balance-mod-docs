@@ -1,0 +1,52 @@
+"Korzystanie z tarczy zmniejsza nasze obrażenia o 12%
+Bazowa szansa na blok wynosi 21%, a maksymalna 85%.
+Nauka każdej kolejnej umiejętności tarczy zwiększa szansę na blok o 5%",,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Nazwa,,Minimalny blok,Blokowane obrażenia,,Cięte,Obuch,Kłute,Magia,Ogień,Upadek,Wymagania,,Warunki zdobycia
+Tarcza Alrika,,20,0.15,,10,10,10,0,0,0,Siła 20,,Pokonaj Alrika i podnieś jego tarcze
+Drewniana Tarcza,,40,0.15,,10,10,10,0,0,0,Siła 30,,Sprzedaje Hakon/Otrzymujesz po nauce tarczy
+Tarcza najemnika,,50,0.2,,40,25,25,0,0,1,Siła 50 Wytrzymałość 200,,Daje Jarvis po zostaniu najemnikiem (wymagana nauka tarczy)
+Tarcza strażnika,,50,0.2,,25,25,40,0,0,1,Siła 50 Wytrzymałość 200,,Daje Wulfgar po zostaniu strażnikiem (wymagana nauka tarczy)
+Solidna tarcza,,70,0.25,,45,40,40,0,0,2,Siła 110 Wytrzymałość 280,,"Daje Lord Andre za zadanie ""Żywy albo martwy"" jak jesteśmy tarczownikiem"
+Nordmarska Tarcza,,90,0.3,,50,50,50,0,0,3,Siła 130 Wytrzymałość 350,,"Wypada ze Skinnera  w Jarkendarze
+Wypada z Coldera na arenie"
+Tarcza Bersekera,,105,0.35,,40,60,40,15,0,4,Siła 175 Wytrzymałość 400,,Za ukończenie orkowej areny
+Tarcza z Karakusta,,120,0.35,,45,70,60,15,15,5,Siła 175 Wytrzymałość 400,,Udaj sie do Wilka po zabiciu Karakusta
+Tarcza Paladyna,,135,0.4,,60,80,80,20,20,6,Siła 250 Wytrzymałość 500,,"Dostajemy od Alberta za rozbicie grupy orków
+Dostajemy od Ingmara po zostaniu paladynem (50% w broni 1H)
+Do wyboru jako nagroda u Lorda Hagena za quest ""Mroczna sieć"""
+Bastion,,150,0.4,,90,50,45,30,60,7,Siła 300 Wytrzymałość 650,,Wypada z Itu'Seda w kopalni orków
+Smocza Tarcza,,165,0.5,,90,50,80,50,40,8,Siła 350 Wytrzymałość 700,,Wypada z Ognistego Smoka
+Strażnik Nieumarłych,,175,0.55,,80,60,70,60,80,9,Siła 400 Wytrzymałość 800,,Wypada z Azgalora
+Starożytna Tarcza,,200,0.6,,80,100,70,40,60,10,Siła 500 Wytrzymałość 850,,Wypada ze smoka Trakanona na Irdorath
+Umiejętności tarczownika,,,,,Siła,Koszt,,,,,,,
+,,,,,,,,,,,,,
+Umiejętność noszenia tarczy,,,,,30,5 PN 750 złota,,,,,,,
+"Szansa na blok, poziom 1",,,,,45,"10 PN 1500 złota
+snc: tarcza 10%",,,,,,,
+"Ochrona przed upadkiem +5 , 
+Obrażenia od krwawienia - 15%| poziom 1",,,,,50,"10 PN 1500 złota
+snc: tarcza 15%",,,,,,,
+"Szansa na blok, poziom 2",,,,,150,"10 PN 2250 złota
+snc: tarcza 25%",,,,,,,
+"Ochrona przed upadkiem +10 
+Obrażenia od krwawienia - 30% | poziom 2",,,,,150,"15 PN 2250 złota
+snc: tarcza 30%",,,,,,,
+"Szansa na blok, poziom 3",,,,,300,"10 PN 3000 złota
+snc: tarcza 40%",,,,,,,
+"Ochrona przed upadkiem +15  
+Obrażenia od krwawienia - 45%| poziom 3",,,,,350,"20 PN 2250 złota
+snc: tarcza 55%",,,,,,,
+Redukcja obrażen od magii o 20%,,,,,150,"8 PN 3000 złota
+snc: tarcza 60%",,,,,,,
+Szansa 5% na całkowite zablokowanie obrażeń,,,,,30,"10 PN
+snc: tarcza 65%",,,,,,,
+Redukcja obrażen od ognia o 20%,,,,,150,"8 PN 3000 złota
+snc: tarcza 70%",,,,,,,
+Szansa na ogłuszenie przeciwnika przy ataku,,,,,300,"10 PN 7500 złota
+snc: tarcza 85%",,,,,,,
+Redukcja otrzymywanych obrażeń o 5%,,,,,50,"10 PN 3000 złota
+snc: tarcza 90%",,,,,,,

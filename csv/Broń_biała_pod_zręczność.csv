@@ -1,0 +1,97 @@
+Nazwa,Wymagania,Inne statystyki,Zasięg,Obrażenia,Przebicie,Warunki zdobycia
+SZPADY,,,,,,
+Wysłużona szpada,brak wymagań,---,70,10,-,Leży obok Cavalorna
+Zardzewiała szpada,Zręczność: 5,---,80,10,-,Leży na drewnianej skrzyni u bandytów Cavalorna
+Szpada,Zręczność: 15,---,80,30,-,Wypada z walczących nią npc w Khorinis
+Miecz bandyty,Zręczność: 20,---,80,30,-,Wypada z bandytów w Khorinis
+Rapier,Zręczność: 20,---,80,35,-,Sprzedaje Ramirez
+Szpada łotra, Zręczność: 40,Bonus do władania: 2%,80,60,0.05,Schematu uczy Ramirez
+Rapier złodzieja, Zręczność: 80,Bonus do władania: 2%,90,100,0.1,Schematu uczy Ramirez
+Srebrny miecz Jacka, Zręczność: 105,"Bonus do władania: 3%
+Efektywna przeciw nieumarłym i duchom",110,115,-,"Zakończenie zadania ""Przeklęta Latarnia"" "
+Miecz mistrzowski, Zręczność: 110,Bonus do władania: 3%,100,130,0.15,Schematu Uczy Ramirez
+Cicha Śmierć, Zręczność: 150,Bonus do władania: 3%,105,165,0.2,Schemat wypada z Franko
+Stalowa Igła, Zręczność: 185,Bonus do władania: 4%,110,200,0.3,"Schemat daje Falk za ""Polowanie na dziwne stwory"""
+Żądło Skorpiona, Zręczność: 220,Bonus do władania: 4%,120,240,0.4,Schemat posiada Przywódca Stada zębaczy
+Skowyt Nocy, Zręczność: 250,Bonus do władania: 5%,120,270,0.45,Schemat daje Raff za zabicie Widmowego Cieniostwora
+Srebrna Gwiazda,Zręczność: 280,Efektywny przeciwko duchom i szkieletom,120,300,0.3,Wypada z bossa arcydemona w starym obozie bractwa w GD
+Długi rapier, Zręczność: 375 Wytrzymałość: 600,---,125,300,-,Wypada z Lokera na arenie
+Złota Igła, Zręczność: 375 Wytrzymałość: 500,Bonus do władania: 5%,125,380,0.5,"Schemat jest w skrzyni Rączki w GD (Zadanie ""Miecz Arcymistrza"", 
+250 zręczności i kradzież kieszonkowa do jego wykonania)"
+Krwiopijca,Zręczność: 400 Wytrzymałość: 650,Kradzież życia: 20,125,410,0.55,Wypada z Tiamanta w Lesie Assasynów
+Krwiożerca,Zręczność: 430 Wytrzymałość: 750,Kradzież życia: 25,125,430,0.65,Wypada z Gor Boba w Świątyni Śniącego
+Szpon Beliara,Zręczność: 400 Wytrzymałość: 600,Bonus do władania: 5%,120,420,0.6,Pokonanie Kruka i przejęcie szponu w kapliczce
+Szpon Beliara (z duszą),Zręczność: 500 Wytrzymałość: 800,"Bonus do władania: 5%
+ Kradzież życia: 25 
+Dodatkowe obrażenia: 125",125,465,0.7,Wsadzenie duszy Senyaka do szponu
+WŁÓCZNIE,,,,,,
+Ostry Kij,Zręczność: 10,---,105,10,-,"Przed wieżą Xardasa, z lewej strony, przy drzewie"
+Włócznia treningowa,Zręczność: 10,---,120,30,-,Kupno u Hakona
+Falks,Zręczność: 40,---,120,50,-,W stodole na farmie Lobarta
+Stalowa włócznia,Zręczność: 80 Wytrzymałość: 150,---,130,110,0.05,W wieży z Joe
+Włócznia najemnika,Zręczność: 110 Wytrzymałość: 200 ,---,135,130,0.1,Jaskinia z ogrem obok grobowca Ginnoka
+Okuta stalowa włócznia,Zręczność: 130 Wytrzymałość: 250,---,140,150,0.15,Jaskinia z bandytą Faarhartem
+Włócznia Rademesa,Zręczność: 160 Wytrzymałość: 300,---,140,190,0.25,Demon Keyron przed Krukiem
+Srebrny Księżyc,Zręczność:160 Wytrzymałość: 350,Efektywna przeciw nieumarłym i duchom,145,160,0.2,Skrzynia w prawej odnodze świątyni Adanosa przed Krukiem
+Runiczny Kieł,Zręczność: 190 Wytrzymałość: 350,---,140,220,0.3,Na stole w pokoju gościnnym Kreola
+Włócznia bandyty,Zręczność: 220 Wytrzymałość: 400,---,145,240,0.35,"Bandyta ""Gruby"" w GD"
+Włócznia Gazkula,Zręczność: 260 Wytrzymałość: 450,---,150,260,0.4,Goblin Gazkul na Pustyni Adanosa
+Włócznia szalonego żoł.,Zręczność: 300 Wytrzymałość: 500,---,150,300,0.5,Szalony Żołnierz na przełęczy w 3R
+Zmora nieumarłych,Zręczność: 320 Wytrzymałość: 500,Efektywna przeciw nieumarłym i duchom,145,320,0.45,W piramidzie po ukończeniu zadań pustyni Adanosa
+Włócznia Masjafu,Zręczność: 325 Wytrzymałość: 600,---,160,325,0.6,W ukrytym pokoju w sanktuarium Masjafu
+Ręka Itu'Seda,Zręczność: 350 Wytrzymałość: 650,---,160,350,0.7,Itu'Sed Strażnik Sfery Skały
+Szpon Demona,Zręczność: 360 Wytrzymałość 700,---,160,360,0.8,Hoshkar na końcu ŚŚ
+Starożytna Włócznia,Zręczność: 400 Wytrzymałość 750,---,160,400,0.85,Na końcu Miasta Umarłych (w skrzyni za przepaścią z kolcami)
+Szpon Beliara,Zręczność: 320 Wytrzymałość: 600,---,150,320,0.8,Pokonać Kruka i zamienić szpon we włócznie
+Szpon Beliara (z duszą),Zręczność: 420 Wytrzymałość: 800,"Kradzież życia: 40 
+Dodatkowe obrażenia: 200",150,400,0.85,Włożyć dusze Senyaka do szponu
+Ar'Ihair,Zręczność: 425,Ochrona przed magią: 50,170,425,0.9,Z bossa włócznika przed świątynią w Zaginionym Bracie
+Demoniczna Włócznia,Zręczność: 450 Wytrzymałość: 800,---,165,475,0.95,Argol na Irdorath
+DUALE,,,,,,
+Stalowe Ostrza,Siła: 25 | Zręczność: 100 | Wytrz: 150,---,90,90,-,Otrzymujemy przy nauce duali u Gonzalesa
+Wysłużone bliźniacze ostrza,Siła: 30 | Zręczność: 130 | Wytrz: 200,---,100,130,-,"W jaskinii ""ze smoczą zgubą"" niedaleko Grimbalda, w której leży notatka Wulfgara"
+Zdobione Ostrza,Siła: 40 | Zręczność: 160 | Wytrz: 250,---,110,150,-,W skrzyni bossa Drake'a
+Zakrzywione bliźniacze ostrza,Siła: 50 | Zręczność: 180 | Wytrz: 300,---,100,180,-,W pirackim skarbie w jaskini z muritanem w Zachodnim wybrzeżu
+Kły Lwa, Siła: 55 | Zręczność: 200 | Wytrz: 300,"Efektywne przeciwko
+duchom i nieumarłym",110,200,-,Boss pająk w lewej odnodze jaskini do zamku GD
+Amul Sah | Amul Rough, Siła: 75 | Zręczność: 250 | Wytrz: 350,---,110,230,-,Wypadają z mrocznych strażników przed Sanktuarium Prawdy
+Ostrza Zmierzchu, Siła: 80 | Zręczność: 280 | Wytrz: 400,---,120,280,-,Wypadają z bossa Dag'Kara w starej kopalni w GD
+Ręce Masjafu,Siła: 125 | Zręczność: 325 | Wytrz: 500,---,120,325,-,W sekretnym pomieszczeniu Sanktuarium Masjafu
+Księżycowe Ostrza,Siła: 150 | Zręczność: 380 | Wytrz: 600,"Efektywne przeciwko
+duchom i nieumarłym",120,375,-,Recepture zdobywamy w Lesie assasynów
+Szpon Beliara,Siła: 175 | Zręczność: 425 | Wytrz: 650,---,130,425,-,Pokonanie Kruka i przejęcie szponu w kapliczce
+Szpon Beliara (z duszą),Siła: 175 | Zręczność: 425 | Wytrz: 650,"Kradzież życia 50
+Dodatkowe obr. 150-200",130,450+75,0.1,Wsadzenie duszy Senyaka do szponu
+Topory Chel'Draka,Siła: 175 | Zręczność: 500 | Wytrz: 800,---,130,550,0.15,Wypadają z Chel'Draka w Zaginionym Bracie
+Ręce Chaosu,Siła: 200 | Zręczność: 600 | Wytrz: 1000,---,140,650,0.25,"Wypadają z Dementora, Strażnika Bestii na Irdorath"
+SZABLE,,,,,,
+Ekskluzywny sztylet,Zręczność: 15,---,50,50,-,Sprzedaje Lutero za 500 złota
+Stary piracki kordelas,Zręczność: 20,---,80,45,-,Sprzedaje Hakon za 200 złota
+Stara maczeta,Zręczność: 35,---,80,55,-,Sprzedaje Hakon za 300 złota
+Piracki kordelas,Zręczność: 55,Bonus do władania 2%,80,70,-,"Można go znaleźć przy statku, koło dwóch jaszczurów (broń dla Skipa), po oddaniu sprzedaje Canthar
+Na wzgórzu przy Magach Wody obok ogrów w Jarkendarze
+Od Sary za wsadzenie Canthara do więzienia"
+Lekki miecz zwiadowcy,Zręczność: 60,Bonus do władania 3%,95,80,-,Dostajemy za dołączenie do zwiadowców
+Falchion,Zręczność: 70,Dodatkowe obrażenia 20,80,90,-,Otrzymujemy go od Ramireza za przyniesienie sekstansu
+Maczeta,Zręczność: 80,"Bonus do władania 3%
+Dodatkowe obrażenia 20",90,100,-,"Możemy ją kupić od Garreta
+W skrzyni u Dextera"
+Zdobiona szabla,Zręczność: 125,Bonus do władania 4%,100,125,0.15,Na farmie Oswalda blisko młynu przy cieniostworze
+Betty,Zręczność: 130,"Dodatkowe obrażenia
+25 + 5% zręczności",105,140,-,Wypada ze Skinnera
+Zdobiona Szabla Kapitana,Zręczność: 180,"Bonus do zdrowia 50
+dodatkowe obr. 40 + 8% zręczności
+efektywny przeciw duchom i nieumarłym",110,190,-,Wypada z bossa - Ramara na statku na Zachodnim Wybrzeżu.
+Drapieżnik,Zręczność: 220,"Dodatkowe obrażenia
+40 + 12% zręczności",110,220,0.15,Od Diego za wyprawdzenie go z górniczej doliny
+Kąsacz,Zręczność: 275,"Dodatkowe obrażenia
+40 + 16% zręczności",115,285,0.15,W ostatnim pomieszczeniu w Świątyni Łez na Pustyni Adanosa
+Biała stal,Zręczność: 300,---,115,285,-,Wypada z Wolfganga na arenie
+Niebieski Księżyc,Zręczność: 300,"Dodatkowe obrażenia 22% zręczności
+efektywny przeciw duchom i nieumarłym",120,300,-,Wypada z bossa szkieleta w kopalni złota nad przejściem do Khorinis
+Słowo Herszta,Zręczność: 375,Dodatkowe obrażenia 25% zręczności,120,370,0.15,"Wypada z Grah-dara, bossa na cmentarzysku orków"
+Kama Masjafu,Zręczność 400,Dodatkowe obrażenia 30% zręczności,125,400,0.15,Wypada z Haniara i Luki
+Łowca Głów,Zręczność: 400,Dodatkowe obrażenia 35% zręczności,125,420,0.2,Wypada ze Strażnika Sfery w Orkowej Kopalni
+Wysłannik Bólu,Zręczność: 480,Dodatkowe obrażenia 40% zręczności,125,475,0.25,Drugi boss w dungeonie Kruka
+Zwiastun Śmierci,Zręczność: 550,Dodatkowe obrażenia 45% zręczności,130,500+150,0.3,W skarbie lodowego smoka
+Sztylet Avabul,Zręczność: 620,Dodatkowe obrażenia 50% zręczności,135,550,0.4,"Wypada z Avabul podczas zadania ""Bezgraniczna potęga"""
