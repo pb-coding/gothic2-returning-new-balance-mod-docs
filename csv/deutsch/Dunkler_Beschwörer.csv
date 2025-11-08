@@ -1,0 +1,110 @@
+   Allgemeine Informationen,,,,,,,,,,,Auren - Anforderungen,,,,,
+"Der Dunkle Beschwörer wurde mit dem Update vom 26.04.2023 eingeführt.
+Er zeichnet sich durch ein auf Beschwörungen basierendes Spiel und eine erhebliche Schwächung des Schadens aus anderen Quellen aus.
+Zum Dunklen Beschwörer werden wir im Dialog mit der Wahl des Pfades der Dunkelheit bei Xardas.
+Der Beschwörer, wie der Name schon sagt, beschäftigt sich mit der Beschwörung von Beliars Kreaturen und deren Verstärkung durch spezielle Auren",,,,,,,,,,,"Auren sind charakteristische Runen für den Beschwörer, Xardas gibt sie uns gleich nach dem Erlernen.
+Diese Runen verstärken unsere Beschwörungen oder schwächen Feinde während ihrer Wirkung.",,,,,
+Allgemeine Beschreibung,,,,,,,,,,, Name,,,Kosten,,Anforderungen
+"Dunkler Beschwörer zu werden sieht genauso aus wie bei den anderen dunklen Magiern - wir müssen Xardas eine Beliar-Statue geben, Adept werden, die Rune 'Goblin-Skelett beschwören' erstellen und das erforderliche Mana-Level sowie Intelligenz erreichen, um ein vollwertiger Magier zu werden",,,,,,,,,,,Aura des Herrschers der Untoten,,,5 LP 1000 Gold,,1. Kreis
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,Aura des Knochenmeisters,,,5 LP 750 Gold,,1. Kreis
+,,,,,,,,,,,,,,,,
+    Andere bemerkenswerte Dinge,,,,,,,,,,,Aura der schnellen Knochen,,,10 LP 2000 Gold,,2. Kreis
+,,,,,,,,,,,,,,,,
+"Nach dem Werden zum Dunklen Beschwörer schwächt sich unser magischer Schaden (-75%)
+
+Man kann nicht Schamane oder Giftmeister werden, und Druide zu werden macht keinen Sinn, da Beschwörungen und Auren während der Verwandlung nicht funktionieren.
+
+Im Gegensatz zum Nekromanten hat der Beschwörer keine Möglichkeit, Dämonologie und Hubaxis' Haustier zu nutzen.
+Er besitzt die typischen Vorteile der dunklen Gilden, wie das Abgeben von Herzen, verfluchten Waffen und auch Zugang zu einigen Missionen.
+
+Zusätzlich erhalten wir beim Werden zum Beschwörer einen permanenten Mana-Regenerationsbonus von 1/Sek.
+Wir können auch einmal täglich zu Beliar beten, was unser Mana um 2 Punkte erhöht (max. 50 Pkt. zu erhalten)",,,,,,,,,,,Aura der erstickenden Dunkelheit,,,7 LP 3000 Gold,,3. Kreis
+,,,,,,,,,,,Aura der magischen Waffe,,,15 LP 5000 Gold,,4. Kreis
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,Heilung beschworener Kreaturen,,,3 LP 1000 Gold,,-
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,Beschwörer-Fähigkeiten,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,"Mana-Regeneration
+(günstiger als bei Vatras)",,,"10 LP
+8000 Stk. Gold",,2. Kreis oder 2. Kapitel
+Beschwörungsrunen,,,,,,,,,,,,,,,,
+,,,,,,,,,,,Mana +15,,,"4 LP
+500 Stk. Gold",,10. Level | 1. Magie-Kreis
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,Chance auf zusätzlichen Schaden im Nahkampf,,,"4 LP
+1000 Stk. Gold",,12. Level 
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,HP-Regeneration der Untoten,,,"2 LP
+500 Stk. Gold",,10. Level
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,Umleitung eines Teils des erhaltenen Schadens auf Beschwörungen,,,"6 LP
+1000 Stk. Gold",,20. Level | 1. Magie-Kreis
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,"Erhöhte Rüstungsdurchdringung
+(für Beschwörungen)",,,"3 LP
+500 Stk. Gold",,15. Level | 1. Magie-Kreis
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,Schaden gegen Geister,,,"4 LP
+2000 Stk. Gold",,20. Level | 2. Magie-Kreis
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,Mana-Regeneration + 1 Mana/Sek,,,"2 LP
+1000 Stk. Gold",,10. Level | 1. Magie-Kreis
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,Erhöhung des Beschwörungslimits um 1,,,"5 LP
+2000 Stk. Gold",,25. Level | 2. Magie-Kreis
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,Verringerung des von Beschwörungen erhaltenen Schadens um 5%,,,"3 LP
+1500 Stk. Gold",,20. Level | 2. Magie-Kreis
+Das Erlernen der Diener-Beschwörung (Sid) kostet 10 LP und 1000 Gold,,,,,,,,"Zutaten zur Erschaffung eines Dieners:
+6 Skelett-Knochen
+Gehenkter-Schädel
+Skelett-Beschwörung
+Schwarze Perle
+Aquamarin",,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,Sid belegt nur 1 Slot (statt 2),,,"12 LP
+5000 Stk. Gold",,45. Level
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,Verringerung der Auren-Manakosten,,,"5 LP
+4000 Stk. Gold",,30. Level
+Auren zur Verbesserung der Beschwörungen,,,,,,,,,,,,,,,,
+,,,,,,,,,,,Verringerung der Manakosten für die Aufrechterhaltung von Beschwörungen,,,"7 LP
+2500 Stk. Gold",,15. Level
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,Nützliche Tastenkürzel zur Steuerung von Beschwörungen,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,G,,Angriff auf anvisiertes Ziel,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,Shift + G,,Zurücksetzen aller Beschwörungen,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,Shift + E,,Teleport der Beschwörungen vor sich,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,Shift + R,,Änderung des Verhaltens der Beschwörungen,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+GILDEN-RÜSTUNGEN,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Name,,,,Anforderungen,,Widerstände Hieb/Stumpf/Stich/Feuer/Magie,,,Sonstiges,,,,,Erhaltungsbedingung,,
+Gewand des Dunkelheits-Novizen,,,,---,,35/25/15/10/15,,,---,,,,,Nach dem Werden zu Xardas' Schüler,,
+Gewand des beginnenden Beschwörers,,,,Mana 75 Gewicht 1,,80/60/55/30/45,,,---,,,,,Nach dem Werden zum Beschwörer,,
+Gewand des Dunklen Beschwörers,,,,Mana 500 Gewicht 2,,160/160/130/100/90,,,Magische Macht +3% Int +20,,,,,Erhalten nach Erlernen des 4. Kreises,,
+Gewand des Herrschers der Untoten,,,,Mana 750 Gewicht 2,,185/190/180/140/130,,,Mana +30 Int +25 Mana-Regen +1,,,,,Nach dem Töten von Hoshkar im Tempel des Schlafenden,,
+Gewand des Blutes,,,,Mana 1200,,200/210/200/230/200,,,"Beim Töten 30% Chance auf Erneuerung von 5% Mana, Int +25",,,,,Nach dem Töten von Ile'Sil auf dem Verlorenen Bruder,,

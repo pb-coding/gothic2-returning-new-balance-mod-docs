@@ -1,0 +1,167 @@
+Rüstungen für Geschicklichkeit,Allgemeine Informationen,,,,,,,,,,,,Rüstungen für Stärke
+,"Der Dunkle Ritter unterstützt sich mit Runen, die seine Kampffähigkeiten verstärken, und verlässt sich auch auf seinen Beschwörten.
+
+Handlungstechnisch besitzt der Ritter keine eigenen Quests, kann aber Gildenaufgaben der dunklen Magier ausführen.
+Wir können auch das Necronomicon lesen und verfluchte Waffen an Beliar abgeben im Austausch gegen Karma.
+
+Um ein Dunkler Ritter zu werden, muss man Stadtbürger sein und die Aufgabe ""Horror auf dem Friedhof"" von Lothar annehmen.
+Nach Ausführung der Aufgabe lesen wir die Notiz von Rigelions Leiche.
+Aus der Notiz erfahren wir von einer Kapelle, die sich tief im Wald hinter Onars Farm befindet,
+ein Pfad führt zu ihr, der im Lager mit den Wölfen für Pepe beginnt.
+
+Dort wird der Dunkle Mentor auf uns warten, der die Abgabe des Pakets verlangt.
+Er nimmt uns als Schüler an, wenn wir als Initiation einen Paladin töten.
+(ein schwacher Paladin erscheint unter der Brücke bei der Toten Harpie).
+
+Aus Balancegründen funktionieren die Runen des dunklen Ritters nicht, wenn wir einen Schild, Stab oder magisches Schwert (die für Mana) anlegen.
+Wir können auch keine Gifte lernen, haben keine Möglichkeit, Schamane oder Druide zu werden.
+Wenn wir bereits eine der oben genannten Unterklassen besitzen, können wir nicht zum dunklen Ritter werden.
+
+Drei Standard-Spielstile für DR:
+1. Sich vollständig auf den Diener verlassen, also Schmuck/Ausrüstung für Mana und Intelligenz, Runen zur Unterstützung des Dieners
+2. Spiel ohne Diener und Abgabe für einen Slot für eine weitere Rune, Schmuck/Rüstungen für Stärke/Geschicklichkeit, Runen zur Selbstunterstützung.
+3. Gleichzeitiges Spiel für Diener und sich selbst - definitiv schwächere Option, empfohlen für niedrigere Schwierigkeitsgrade
+",,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,"In Rigelions Paket befinden sich: 2x Pech, Kohle, Kristallstein, Aquamarin, Beliar-Statue, 5 Klumpen magisches Erz, schwarze Perle
+Wenn wir eine andere Klasse spielen, können wir nach Abgabe des Pakets an den Mentor ihn später töten und das Paket für uns selbst erhalten",,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,Dunkler Diener / Uma,,,,,,,,,,,,
+,"Der Dunkle Diener (Uma) ist ein spezieller Beschwörter exklusiv für den Dunklen Ritter.
+Er skaliert mit Mana, Intelligenz und dem Level des Besitzers und besitzt auch seine speziellen Fähigkeiten, die beim
+Dunklen Mentor gekauft werden können. Dasselbe gilt für Runen, von denen ein Teil darauf basiert, den Diener zu verstärken.
+
+Wenn wir uns entscheiden, ohne Diener zu spielen, erhalten wir dafür einen zusätzlichen Runenslot und eine Erhöhung der Skalierung unseres Schadens von 75% -> 90%
+Dies ist jedoch mit dem unwiderruflichen Verlust der Möglichkeit verbunden, ihn zu beschwören. Dies ist nur im ersten Kapitel möglich.",,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,Präsentation der Runen,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,"Man kann alle lernen, aber es gibt ein Limit für aktive Runen, wir können es auf drei erhöhen.
+Die Manakosten für jede Rune betragen jeweils: 50/100/150
+Eine Rune ersten Grades dauert 60 Minuten, zweiten Grades 120 Minuten und dritten Grades sogar 180 Minuten.
+
+Anfangs haben wir nur einen Runenslot, den nächsten lernen wir beim Mentor, und den dritten bekommen wir für den Verzicht auf den Diener.",,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,Name,,Kosten LP,Grad,Beschreibung,,,,,,Anforderungen,,
+,Dunkler Pakt,,5LP,1,Umwandlung des Dienerlebens in Schild 30%,,,,,,Keine,,
+,,,3LP,2,Umwandlung des Dienerlebens in Schild 50%,,,,,,30 Level,,
+,,,3LP,3,Umwandlung des Dienerlebens in Schild 70%,,,,,,45 Level,,
+,Körperschutz,,5LP,1,Schutz vor physischen Schäden 40 Ausdauerregeneration 1/sek,,,,,,Keine,,
+,,,3LP,2,Schutz vor physischen Schäden 70 Ausdauerregeneration 1/sek,,,,,,20 Level,,
+,,,3LP,3,Schutz vor physischen Schäden 100 Ausdauerregeneration 1/sek,,,,,,40 Level,,
+,Geistesschutz,,5LP,1,"Schutz vor Feuer und Magie 40, Fallschutz 10",,,,,,Keine,,
+,,,3LP,2,"Schutz vor Feuer und Magie 70, Fallschutz 10",,,,,,20 Level,,
+,,,3LP,3,"Schutz vor Feuer und Magie 100, Fallschutz 10",,,,,,35 Level,,
+,Blutopfer,,5LP,1,"Stellt Diener-HP wieder her 75 + 20%, benötigt 20% Leben",,,,,,Keine,,
+,,,3LP,2,"Stellt Diener-HP wieder her 150 + 30%, benötigt 30% Leben",,,,,,20 Level,,
+,,,3LP,3,"Stellt Diener-HP wieder her 350 + 40%, benötigt 40% Leben",,,,,,40 Level,,
+,Seuche,,5LP,1,"Zusätzlicher Schaden 10, 5 Ticks à 20 Schaden, Manakosten pro Schlag",,,,,,Keine,,
+,,,3LP,2,"Zusätzlicher Schaden 25, 5 Ticks à 35 Schaden, Manakosten pro Schlag",,,,,,20 Level,,
+,,,3LP,3,"Zusätzlicher Schaden 40, 5 Ticks à 55 Schaden, Manakosten pro Schlag",,,,,,40 Level,,
+,Paranoia,,5LP,1,Bonus zu Schaden und HP des Dieners 15%,,,,,,Keine,,
+,,,3LP,2,Bonus zu Schaden und HP des Dieners 25%,,,,,,20 Level,,
+,,,3LP,3,Bonus zu Schaden und HP des Dieners 35%,,,,,,40 Level,,
+,Vampirismus,,5LP,1,HP-Regeneration 1/sek. Lifesteal 10/Treffer. +5% max. HP pro Tötung. +2% max. HP Diener pro Tötung,,,,,,Keine,,
+,,,3LP,2,HP-Regeneration 3/sek. Lifesteal 20/Treffer. +5% max. HP pro Tötung. +2% max. HP Diener pro Tötung,,,,,,20 Level,,
+,,,3LP,3,HP-Regeneration 6/sek. Lifesteal 30/Treffer. +5% max. HP pro Tötung. +2% max. HP Diener pro Tötung,,,,,,40 Level,,
+,Umarmung der Finsternis,,5LP,1,"Bonus zu HP 100, Bonus zu Stärke und Geschicklichkeit 25",,,,,,Keine,,
+"Aussehen des Dieners:
+(normale Uma)",,,3LP,2,"Bonus zu HP 200, Bonus zu Stärke und Geschicklichkeit 40",,,,,,25 Level,,Spezielle Gaben
+,,,3LP,3,"Bonus zu HP 500, Bonus zu Stärke und Geschicklichkeit 70",,,,,,45 Level,,
+,Fähigkeiten des Helden sowie des Dieners zum Lernen beim Dunklen Mentor,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,Beschreibung der Fähigkeiten,,,,,,,,Lernkosten,,Benötigtes Level,,
+,,,,,,,,,,,,,"In der Beliar-Kapelle können wir spezielle Gaben erhalten, die keinen Einfluss auf die Kosten gewöhnlicher Gaben haben:"
+,Passive Seuchenrune - zählt nicht zu den verwendeten Runen (benötigt erlernte Seuchenrune),,,,,,,,6 LP,2000 Gold,15,,
+,,,,,,,,,,,,,
+,Seuche skaliert mit Intelligenz und Mana des Helden,,,,,,,,3 LP,1000 Gold,20,,
+,,,,,,,,,,,,,
+,"Wiederherstellung von 1% Ausdauer bei Treffer (Nur von Ritter getroffene)
+Im dynamischen Ausdauermodus stellt 2% wieder her.",,,,,,,,5 LP,1000 Gold,25,,
+,,,,,,,,,,,,,
+,Erhöhung der maximalen Runenanzahl um eine,,,,,,,,20 LP,5000 Gold,40,,
+,,,,,,,,,,,,,"Heldenleben +50
+50 Karma"
+,"Diener heilt Helden, wenn dieser weniger als 33% Gesundheit hat",,,,,,,,5 LP,1200 Gold,1,,
+,,,,,,,,,,,,,
+,Erhöht Dienerschutz gegen alles um 50 Punkte (kann 2x genommen werden),,,,,,,,4 LP,800 Gold,1,,"Dienerleben +500
+50 Karma"
+,,,,,,,,,,,,,
+,Diener heilt sich beim Töten eines Feindes,,,,,,,,3 LP,750 Gold,1,,
+,,,,,,,,,,,,,"Dienerleben +500
+100 Karma"
+,Angriffs- und Bewegungsgeschwindigkeit des Dieners 10% höher,,,,,,,,6 LP,2000 Gold,1,,
+,,,,,,,,,,,,,
+,Schrei der Finsternis (Einzelgeschoss gegen Gegner mit Nahkampfwaffen),,,,,,,,4 LP,1500 Gold,10,,"Dienergeschwindigkeit +5%
+100 Karma"
+,,,,,,,,,,,,,
+,Geringere Abklingzeit des Dieners,,,,,,,,2 LP,750 Gold,15,,
+Xardas und Kreol belohnen uns mit Mana oder HP für jedes Dämonenherz das wir ihnen bringen,,,,,,,,,,,,,"Wir können Beliar verfluchte Waffen opfern, für jede erhalten wir 1 Karma
+Wir können dem Dunklen Gott auch Innos-Karma verkaufen"
+,Welle der Leere (Flächenschaden magisch),,,,,,,,5 LP,2000 Gold,20,,
+,,,,,,,,,,,,,
+,Diener regeneriert passiv seine Gesundheit,,,,,,,,4 LP,1500 Gold,25,,
+,,,,,,,,,,,,,
+GILDENSCHWERTER,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Name,,,Stärke,Schaden,Reichweite,Zusätzlich,,,,,Erwerbsbedingung,,
+Seelenschnitter,,,200,240,150,"Zusätzlicher Schaden 50, Lebensraub 20",,,,,Verkauft Dunkler Mentor in Kapitel 3,,
+Bote des Verderbens,,,350,320,150,"Zusätzlicher Schaden 100, Lebensraub 30",,,,,Verkauft Dunkler Mentor in Kapitel 4,,
+GILDENRÜSTUNGEN STÄRKE,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Name,,,Anforderungen,,Hieb/Stumpf/Stich/Feuer/Magie,,,Zusätzlich,,Erwerbsbedingung,,,
+Rüstung des dunklen Adepten,,,Stärke 30 Ausd 100 Gewicht 2,,50/50/40/10/10,,,Sturz 1,,Nach dem Werden zum Dunklen Ritter,,,
+Geschmiedete Rüst. d. dunkl. Adepten,,,Stärke 40 Ausd 150 Gewicht 2,,65/65/50/20/20,,,HP 40 Sturz 1,,Schmieden der Rüstung des dunklen Dieners (lehrt Carl Mitglied des Wasserkreises),,,
+Entweihte Rüst. d. dunkl. Adepten,,,Stärke 80 Ausd 150 Gewicht 2,,100/100/80/30/30,,,HP 70 Sturz 2,,Entweihung der geschmiedeten Rüstung bei Beliar (50 Karma | 1000 Gold),,,
+Rüstung des dunklen Ritters,,,Stärke 165 Gewicht 3,,150/150/140/30/30,,,HP 150 Sturz 2,,Verkauft Dunkler Mentor in Kap. 3 (6000 Gold),,,
+Geschmiedete Rüst. d. dunkl. Ritters,,,Stärke 200 Gewicht 3,,190/190/150/40/40,,,HP 200 Sturz 2,,Schmieden der Rüstung des dunklen Ritters,,,
+Entweihte Rüst. d. dunkl. Ritters,,,Stärke 210 Gewicht 3,,200/200/170/50/50,,,HP 250 Sturz 3,,Entweihung der geschmiedeten Rüstung bei Beliar (90 Karma | 5000 Gold),,,
+Rüstung des Todesritters,,,Stärke 220 Gewicht 4,,210/210/200/50/50,,,HP 250 Sturz 4,,Verkauft Dunkler Mentor in Kap. 4 (15000 Gold),,,
+Geschmiedete Rüst. d. Todesritters,,,Stärke 225 Gewicht 4,,220/220/210/60/60,,,HP 275 Sturz 5,,Schmiedekunst lehrt uns Darrion im Kloster der Gestaltwandler,,,
+Entweihte Rüst. d. Todesritters,,,Stärke 380 Ausd 700 Gewicht 5,,250/250/235/75/75,,,HP 325 Sturz 6,,Entweihung der geschmiedeten Rüstung bei Beliar (125 Karma | 15000 Gold),,,
+GILDENRÜSTUNGEN GESCHICKLICHKEIT,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Name,,,Anforderungen,,Hieb/Stumpf/Stich/Feuer/Magie,,,Zusätzlich,,Erwerbsbedingung,,,
+Rüstung des dunklen Dieners,,,Gewicht 1,,40/30/45/10/10,,,Ausweichen: 10%,,Nach dem Werden zum dunklen Ritter,,,
+Geschmiedete Rüstung des dunklen Dieners,,,Geschick 40 Ausd 100 Gewicht 1,,50/40/55/10/10,,,Ausweichen: 10%,,Schmieden der Rüstung des dunklen Dieners (lehrt Carl Mitglied des Wasserkreises),,,
+Entweihte Rüstung des dunklen Dieners,,,Geschick 60 Ausd 150 Gewicht 1,,75/60/80/20/20,,,Ausweichen: 15%,,Entweihung der geschmiedeten Rüstung bei Beliar (50 Karma | 1000 Gold),,,
+Rüstung des dunklen Henkers,,,Geschick 165 Ausd 300 Gewicht 2,,120/120/130/35/35,,,Ausweichen: 10%,,Verkauft Dunkler Mentor in Kap. 3 (6000 Gold),,,
+Geschmiedete Rüstung des dunklen Henkers,,,Geschick 185 Ausd 300 Gewicht 2,,130/130/140/40/40,,,Ausweichen: 10%,,Schmieden der Rüstung des dunklen Henkers,,,
+Entweihte Rüstung des dunklen Henkers,,,Geschick 195 Ausd 400 Gewicht 2,,160/160/160/60/60,,,Ausweichen: 15%,,Entweihung der geschmiedeten Rüstung bei Beliar (90 Karma | 5000 Gold),,,
+Rüstung des dunklen Despoten,,,Geschick 230 Ausd 400 Gewicht 3,,145/140/150/50/50,,,Ausweichen: 15%,,Verkauft Dunkler Mentor in Kap. 4 (15000 Gold),,,
+Geschmiedete Rüstung des dunklen Despoten,,,Geschick 230 Ausd 450 Gewicht 3,,155/155/160/60/60,,,Ausweichen: 15%,,Schmiedekunst lehrt uns Darrion im Kloster der Gestaltwandler,,,
+Entweihte Rüstung des dunklen Despoten,,,Geschick 280 Ausd 500 Gewicht 3,,185/185/190/80/80,,,Ausweichen: 15%,,Entweihung der geschmiedeten Rüstung bei Beliar (125 Karma | 15000 Gold),,,

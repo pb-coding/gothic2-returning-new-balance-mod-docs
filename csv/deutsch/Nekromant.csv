@@ -1,0 +1,201 @@
+Allgemeine Informationen,,,,,,,,,,,,Essenz,,"Grundstatistiken
+sowie INT-Einfluss",,,Stufe
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+"Der Nekromant spezialisiert sich sowohl auf offensive Zauber als auch auf das Beschwören mächtiger Dämonen.
+Er hat auch Zugang zu einer speziellen Fähigkeit, die es ihm erlaubt, Zauber auf Kosten seines Lebens zu wirken, wenn ihm das Mana ausgeht
+
+Unsere Zauber haben eine 25%ige Chance, zusätzliche 65% Schaden zu verursachen. Diese Chance steigt um 1% für jeden 1% Magische Macht.
+Zusätzlich zur Schadensverstärkung haben wir auch eine Chance, den Gegner zu lähmen.",,,,,,,,,,,,"keine Essenz
+verfügbar sofort nach dem Erlernen der Grunddämonologie und der Dämonenbeschwörungsrune",,"SCHWACHER DÄMON
+LP: 1600 (1 INT = 1 LP) 100%
+STÄRKE: 225 (4 INT = 1 STÄRKE) 25%
+GESCHICKLICHKEIT: 200
+WIDERSTAND: 125/190/125/100/100
+(keine Widerstandsskalierung)",,,0
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,"Schwache Dämonenessenz
+Gewöhnlicher Dämon
+(z.B. aus Xardas' Aufgabe in der Höhle mit dem Gespenst nahe Orlans Taverne)",,"STARKER DÄMON
+LP: 2000 (1 INT = 1 LP) 100%
+STÄRKE: 250 (3 INT = 1 STÄRKE) 33%
+GESCHICKLICHKEIT: 225
+WIDERSTAND: 170/205/175/125/125
+(keine Widerstandsskalierung)",,,1
+Besessenheit,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+"Die Zauber des Nekromanten haben eine Chance, den Feind zu besetzen. Wenn unser Zauber erhöhten Schaden verursacht, haben wir eine 20%ige (oder 10%ige für Flächenzauber) Chance, dass unser Feind für 3 Sekunden die Kontrolle über sich verliert und nicht angreifen kann.
+[FUNKTIONIERT BEI BOSSEN]",,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,"Dämonenessenz
+Keyron
+im Adanos-Tempel in Jharkendar oder vom fünften getöteten Dämon",,"HÖHERER DÄMON
+LP: 2000 (1 INT = 2 LP) 200%
+STÄRKE: 275 (2 INT = 1 STÄRKE) 50%
+GESCHICKLICHKEIT: 250
+WIDERSTAND: 200/230/220/150/150
+(keine Widerstandsskalierung)",,,2
+Begleiter Hubaxis,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+"Hubaxis ist ein einzigartiger Begleiter, der dich durch das ganze Spiel begleitet, seine Nutzung ist optional.
+Das Erlernen erfordert 1 Kreis und er belegt nur einen Slot, sodass wir maximal 3 andere Beschwörungen hinzufügen können.
+Wir können ihn mit speziellen Gaben von Beliar und Fähigkeiten unterstützen, die uns Xardas lehrt.
+Seine Statistiken steigen mit seinem Levelaufstieg, und er erhält Erfahrung, wenn er Monster tötet/wir Monster töten, während er beschworen ist.
+Daher lohnt es sich nicht, die Karte früher zu säubern, wenn wir planen, mit Hubaxis zu spielen
+
+Beschwörung des eigenen Dämons (Anforderungen: Lernpunkte: 20)
+Feuerball (Anforderungen: Hubaxis-Level: 10, Lernpunkte: 3)
+Vampirismus (Anforderungen: Hubaxis-Level: 15, Lernpunkte: 2)
+Erhöhung der Bewegungsgeschwindigkeit (Anforderungen: Hubaxis-Level: 20, Lernpunkte: 2)
+Feuerwelle (Anforderungen: Hubaxis-Level: 30, Lernpunkte: 5)
+Reduzierung der Manakosten pro Sekunde (Anforderungen: Hubaxis-Level: 50, Lernpunkte: 5)
+Zusätzlicher Schaden abhängig vom Heldenmana (Anforderungen: Hubaxis-Level: 80, Lernpunkte: 5)
+Erhöhung des Feuerballschadens (Anforderungen: Hubaxis-Level: 85, Lernpunkte: 4)
+Erhöhung des Feuerwellenschadens (Anforderungen: Hubaxis-Level: 90, Lernpunkte: 8)",,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,"Starke Dämonenessenz
+Teamruk
+in Lesters Festung oder
+Düsterer Schnitter
+in der Höhle des Schmerzes",,"MÄCHTIGER DÄMON
+LP: 3000 (1 INT = 3 LP) 300%
+STÄRKE: 325 (2 INT = 1 STÄRKE) 50%
+GESCHICKLICHKEIT: 275
+Widerstand: 230/250/250/175/175
+(keine Widerstandsskalierung)",,,3
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,"Schwache Erzdämonenessenz
+Gewöhnlicher Erzdämon oder
+Shemron aus Xardas' versunkenem Turm oder
+Nebiros (Assassinenwald)",,"GERINGERER ERZDÄMON
+LP: 4500 (1 INT = 4 LP) 400%
+STÄRKE: 400 (5 INT = 4 STÄRKE) 80%
+GESCHICKLICHKEIT: 550
+Widerstand: 250/260/260/175/175
+(5 INT = 1 WIDERSTAND) 20%",,,4
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,"Erzdämonenessenz
+Mor'Bar Hand des Chaos
+im alten Lager der Träumenden Bruderschaft in der Minenkolonie oder vom fünften getöteten Erzdämon",,"HÖHERER ERZDÄMON
+LP: 4700 (1 INT = 4 LP) 400%
+STÄRKE: 450 (10 INT = 9 STÄRKE) 90%
+GESCHICKLICHKEIT: 600
+WIDERSTAND: 275/280/275/200/200
+(4 INT = 1 WIDERSTAND) 25%",,,5
+,,,,,,,,,,,,,,,,,
+Dämonologie,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+"Wenn wir uns für die Dämonologie entscheiden, sollten wir die hohen Manakosten für spätere Erzdämonen bedenken, die
+unsere Möglichkeiten übersteigen können. Ein wichtiger Aspekt ist auch das Beschwörungslimit von 4 (ein Dämon belegt 2 Slots)
+Dämonologie ist eine spezielle Fähigkeit des Nekromanten, die das Beschwören von Dämonen ermöglicht (gewöhnliche, nicht Hubaxis).
+Die Dämonologenrune verbessern wir am Dämonologietisch, der sich bei Kreol oder Xardas befindet.
+Wir tun dies mit Hilfe von Dämonessenzen, die von Dämonenbossen im ganzen Spiel fallen.
+Das Erlernen der Grunddämonologie kostet 5 LP, und die fortgeschrittene weitere 10 LP.
+Dämonenbeschwörungsrune 20 LP - insgesamt 35 LP für die gesamte Dämonologie.",,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,"Starke Erzdämonenessenz
+Irh'Tar Hand des Chaos
+in der Orkmine oder
+Dramtar in Ravens Alptraum oder Senyak",,"MÄCHTIGER ERZDÄMON
+LP: 6000 (1 INT = 4 LP) 400%
+STÄRKE: 600 (1 INT = 1 STÄRKE) 100%
+GESCHICKLICHKEIT: 800
+WIDERSTAND: 300/320/300/225/225
+(4 INT = 1 WIDERSTAND) 25%",,,6
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+"Runenpräsentation (Screenshots mit INT = 0 | Magische Macht = 1%)
+Skalierung 1 INT = 0,75 Schaden (75%)
+1% Magische Macht = +1% Chance auf +65% Schaden",,,,,,,,,,,,Sakta Nomen,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,"Spezielle Fähigkeit, die es dem Nekromanten erlaubt, Zauber auf Kosten des Lebens zu wirken
+
+Wenn der Held nicht genug Mana hat, um einen Zauber zu wirken, zahlt er dafür mit Lebenspunkten im doppelten Wert der Manakosten.
+Das Aufrechterhalten von Beschwörungen erfolgt ebenfalls auf Kosten des Lebens, wenn das Mana 0 beträgt
+
+Sakta Nomen erlaubt es, mit Gesundheit nur für Nekromantenzauber, Beliars Klaue und das Aufrechterhalten von Beschwörungen zu zahlen.
+
+Die Verwendung von mehr LP als derzeit besessen tötet unseren Charakter
+
+Kosten: 25 LP und 30.000 Gold
+",,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+VIDEO PRÄSENTIERT ZAUBER,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,"Spezieller periodischer Zauber, skaliert bis zum Spielende",,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,"Opfern von Herzen, Waffen und Innos-Karma",,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,"Alle dunklen Gilden haben die Möglichkeit, verfluchte Waffen Beliar zu opfern.
+Für jede Waffe erhalten wir 1 Karma
+
+Wir können Innos-Karma für Gold verkaufen
+
+Wir können auch Dämonenherzen an Xardas oder Kreol geben, für 1 Mana oder 2 LP",,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,Spezielle Gaben,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,3% Magische Macht,,,,,200 Karma
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+GILDENRÜSTUNGEN,,,,,,,,,,,,2% Hubaxis-Verstärkung (mehrfach) +100 Karma für jede weitere (ohne Limit),,,,,50 Karma
+,,,,,,,,,,,,,,,,,
+Name,,,Anforderungen,Hieb/Stumpf/Stich/Magie/Feuer,,,Sonstiges,Erhaltungsbedingung,,,,,,,,,
+Gewand des Dunkelheitsnovizen,,,---,35/25/15/10/15,,,---,Nach Beitritt zu den Nekromanten,,,,15% Stärke und Gesundheit für Hubaxis,,,,,"250
+LP"
+Nekromantengewand,,,Mana 75,65/40/35/20/40,,,---,Nach dem Nekromanten werden,,,,,,,,,
+Schweres Nekromantengewand,,,Mana 500,110/110/100/90/80,,,---,Erhalten nach dem Erlernen des 4. Kreises,,,,,,,,,
+Geweihtes Nekromantengewand,,,Mana 750,150/140/130/130/110,,,Mana 45,Weihe des Gewandes vom 4. Kreis,,,,5% Magische Macht,,,,,"250
+LP"
+Gewand des Erzmeisters der Nekromantie,,,Mana 800,200/170/100/130/160,,,Mana 70,Verkauft Kreol nach dem Erlernen des 5. Kreises,,,,,,,,,
+Blutgewand,,,Mana 1200,200/210/200/230/200,,,---,Nach dem Töten von Ile'Sil auf der Verlorenen Insel,,,,,,,,,

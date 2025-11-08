@@ -1,0 +1,97 @@
+Name,Verteidigungswerte,,,,,Andere,,Anforderungen,,Erwerbsart
+GÜRTEL,,,,,,,,,,
+,,,,,,,,,,
+Gürtel des Stadtwächters,"Hieb +5 Stumpf +5 Stich +5 Magie +0 Feuer +0
+(+ Bonus der Rüstung)",,,,,-,,Stärke: 30,,"Verkauft Mortis (nur an Stadtwache)
+In Lesters Tal in der Höhle im Sarkophag"
+Gürtel der Stadtwache,"Hieb +10 Stumpf +10 Stich +10 Magie +0 Feuer +0
+(+ Bonus der Rüstung)",,,,,-,,Stärke: 50,,Verkauft Mortis (nur an Stadtwache)
+Leichter Söldnergürtel,"Hieb +5 Stumpf +5 Stich +5 Magie +0 Feuer +0
+(+ Bonus der Rüstung)",,,,,-,,Stärke: 30,,"Verkauft Khaled (nur an Söldner)
+Liegt im Schrank in Silvios Zimmer"
+Söldnergürtel,"Hieb +20 Stumpf +20 Stich +20 Magie +0 Feuer +0
+(+ Bonus der Rüstung)",,,,,-,,Stärke: 60,,Verkauft Khaled (nur an Söldner)
+Schwerer Söldnergürtel,"Hieb +30 Stumpf +30 Stich +30 Magie +0 Feuer +0
+(+ Bonus der Rüstung)",,,,,-,,Stärke: 90,,Verkauft Khaled (nur an Söldner)
+Steinhautgürtel,Hieb +15 Stumpf +15 Stich +10 Magie +0 Feuer +0,,,,,-,,-,,Verkauft Khaled (nur an Söldner)
+Gladiatorengürtel,Hieb +10 Stumpf +10 Stich +0 Magie +0 Feuer +0,,,,,-,,-,,Verkauft Khaled
+Gürtel aus Kriecherplatten,"Hieb +20 Stumpf +20 Stich +20 Magie +0 Feuer +0
+(+ Bonus der Rüstung)",,,,,-,,-,,Verkauft Raff (1K) und Bennet (2K)
+Drachenjägergürtel,"Hieb +20 Stumpf +20 Stich +20 Magie +0 Feuer +0
+(x2 mit Drachenjägerrüstung)",,,,,-,,Stärke: 150,,Verkauft Bennet und Kjorn
+Gürtel des Bruderschaftsnovizen,Hieb +10 Stumpf +10 Stich +0 Magie +10 Feuer +0,,,,,-,,Stärke: 10,,Verkauft Joru (nur Bruderschaft)
+Gürtel des Tempelwächters,"Hieb +10 Stumpf +10 Stich +0 Magie +10 Feuer +0
+(+10 Bonus der Wächterrüstung)",,,,,Bonus auf Nahkampfwaffen +5%,,Stärke: 100,,Verkauft Gor Na Bar (nur Bruderschaft)
+Kraftgürtel,Hieb +0 Stumpf +0 Stich +0 Magie +0 Feuer +0,,,,,Stärke +5,,-,,Verkauft Canthar und Hakon
+Kraftgürtel,Hieb +0 Stumpf +0 Stich +0 Magie +0 Feuer +0,,,,,Stärke +10,,-,,Verkauft Jora und Tandor (3K). Liegt in Hosh-Paks Zelt
+Berserkergürtel,Hieb +35 Stumpf +35 Stich +35 Magie +20 Feuer +20,,,,,Stärke +35,,Stärke: 300,,Gibt Ur-Thrall nach dem Schlafenden Tempel
+Drachenschuppengürtel,Hieb +50 Stumpf +50 Stich +40 Magie +25 Feuer +25,,,,,Stärke +40,,Stärke: 450,,Fällt von Azgalor
+Grah Shah,Hieb +0 Stumpf +0 Stich +0 Magie +0 Feuer +0,,,,,LP +100 | Stärke +20,,-,,Belohnung für die Ork-Arena
+Guru-Schärpe,Hieb +20 Stumpf +20 Stich +0 Magie +20 Feuer +0,,,,,Int +20,,Mana: 200,,Verkauft Baal Tyon (nur Guru)
+Novizengürtel,Hieb +0 Stumpf +0 Stich +0 Magie +10 Feuer +10,,,,,Int +5,,Mana: 30,,"Verkauft Gorax, Cronos, Isgaroth und Xardas"
+Magiergürtel,Hieb +0 Stumpf +0 Stich +0 Magie +20 Feuer +20,,,,,Int +10,,Mana: 100,,"Verkauft Gorax, Cronos, Isgaroth und Xardas (2K)"
+Priestergürtel,Hieb +0 Stumpf +0 Stich +0 Magie +30 Feuer +30,,,,,Int +15,,Mana: 300,,"Verkauft Gorax, Cronos, Isgaroth und Xardas (3K)"
+Erzmagiergürtel,Hieb +0 Stumpf +0 Stich +0 Magie +40 Feuer +40,,,,,Int +20,,Mana: 500,,"Verkauft Gorax, Cronos, Isgaroth und Xardas (4K)
+Verkauft Kreol an FM/WM/Guru/Dunkle Magier (2K)"
+Xarthisius' Schärpe,Hieb +0 Stumpf +0 Stich +0 Magie +50 Feuer +50,,,,,Int +35,,Mana: 800,,Fällt von Xarthisius (Boss-Magier aus dem Schattental)
+Taschendiebesgürtel,Hieb +5 Stumpf +5 Stich +5 Magie +0 Feuer +0,,,,," Geschicklichkeit +5
+(+10 mit Geschicklichkeitsrüstung)",,-,,Verkauft Ramirez
+Schattengürtel,Hieb +10 Stumpf +10 Stich +10 Magie +0 Feuer +0,,,,,"Geschicklichkeit +10
+(+15 mit Geschicklichkeitsrüstung)",,-,,Verkauft Ramirez (2K)
+Meisterdiebesgürtel,Hieb +15 Stumpf +15 Stich +15 Magie +0 Feuer +0,,,,," Geschicklichkeit +15
+(+25 mit Geschicklichkeitsrüstung)",,-,,Verkauft Ramirez (3K)
+Geschicklichkeitsgürtel,Hieb +0 Stumpf +0 Stich +0 Magie +0 Feuer +0,,,,,Geschicklichkeit +5,,-,,"Verkauft Hakon, Canthar, Bosper (2K), Orlan (2K) und Rengaru
+Liegt auf dem Dach von Theklas Küche"
+Geschicklichkeitsgürtel,Hieb +0 Stumpf +0 Stich +0 Magie +0 Feuer +0,,,,,Geschicklichkeit +10,,-,,Verkauft Bosper und Lutero im 3. Kapitel
+Drachenhautgürtel,Hieb +40 Stumpf +40 Stich +40 Magie +0 Feuer +15,,,,,Geschicklichkeit +30,,Geschicklichkeit: 400,,Fällt von Azgalor
+Ledergürtel,"Hieb +5 Stumpf +5 Stich +5 Magie +0 Feuer +0
+(+5 physisch mit Taschendieberüstung)",,,,,-,,-,,Verkauft Bosper und Orlan
+Gürtel des magischen Schutzes,Hieb +0 Stumpf +0 Stich +0 Magie +5 Feuer +0,,,,,-,,-,,Verkauft Zuris und Gorax
+Feuerschutzgürtel,Hieb +0 Stumpf +0 Stich +0 Magie +0 Feuer +25,,,,,Gut um Goblin-Schamanen-Zauber im 1K zu überleben,,-,,"Liegt über dem Eingang zur Mine in Dexters Lager
+Verkauft Constantino und Tondar"
+Steinhautgürtel,Hieb +15 Stumpf +15 Stich +15 Magie +5 Feuer +0,,,,,-,,-,,Erhalten von Garrett für Aufträge falls nicht gekauft
+Gürtel der Unantastbarkeit,Hieb +10 Stumpf +10 Stich +10 Magie +10 Feuer +10,,,,,-,,-,,Liegt in der Höhle beim Teleportstein zum zerstörten Fort
+Echsenhautgürtel,Hieb +15 Stumpf +15 Stich +15 Magie +0 Feuer +0,,,,,-,,-,,Verkauft Raff
+Wolfshautgürtel,Hieb +20 Stumpf +20 Stich +20 Magie +0 Feuer +0,,,,,-,,-,,"Verkauft Raff nach Abgabe der Wolfstrophäe an Falk und Erledigung der Quest ""Sendung für Bosper"""
+Warghautgürtel,Hieb +25 Stumpf +25 Stich +25 Magie +0 Feuer +0,,,,,-,,-,,"Verkauft Raff nach Abgabe der Wargtrophäe an Falk und Erledigung der Quest ""Sendung für Bosper"""
+Trollhautgürtel,"Hieb +30 Stumpf +30 Stich +30 Magie +0 Feuer +0 
+Sturz +1",,,,,-,,-,,"Verkauft Raff nach Abgabe der Trolltrophäe an Falk und Erledigung der Quest ""Bester Jäger"""
+Schwarztrollhautgürtel,"Hieb +40 Stumpf +40 Stich +40 Magie +0 Feuer +0 
+Sturz +2",,,,,-,,-,,Verkauft Raff nach Abgabe der Schwarztrolltrophäe an Falk
+HELME,,,,,,,,,,
+,,,,,,,,,,
+Lederkappe,Hieb +5 Stumpf +0 Stich +0 Magie +0 Feuer +0,,,,,-,,-,,In der Truhe des Richters
+Kapuze,Hieb +5 Stumpf +0 Stich +0 Magie +0 Feuer +5,,,,,-,,-,,In Rätschens Truhe in den Kanälen
+Diebeskapuze,Hieb +5 Stumpf +5 Stich +0 Magie +0 Feuer +0,,,,,-,,-,,Verkauft Jesper
+Kapitänsmütze,Hieb +10 Stumpf +0 Stich +5 Magie +0 Feuer +0,,,,,-,,-,,Liegt neben Kapitän Drake
+Dämonenkrone,Hieb +100 Stumpf +100 Stich +100 Magie +100 Feuer +100,,,,,-,,-,,7K Quest mit Dämon (7. Kapitel gestrichen)
+Eisenhelm,Hieb +10 Stumpf +5 Stich +5 Magie +0 Feuer +0,,,,,-,,Stärke 75 Gewicht 1,,Verkauft Hakon im 1K
+Stahlhelm,Hieb +15 Stumpf +25 Stich +15 Magie +0 Feuer +0,,,,,-,,Stärke 120 Gewicht 2,,Liegt im Banditenturm neben dem Piratenlager
+Söldnerhelm,Hieb +20 Stumpf +30 Stich +15 Magie +0 Feuer +0,,,,,-,,Stärke 150 Gewicht 2,,Auf dem Altar mit Zombie im Banditen-Tempel
+Gehörnter Helm,Hieb +30 Stumpf +40 Stich +10 Magie +5 Feuer +5,,,,,Sturz +1,,Stärke 180 Gewicht 3,,"In Xardas' Versunkenen Turm
+Verkauft Hakon im 2K"
+"Paladinhelm 
+(offenes/geschlossenes Visier)",Hieb +30 Stumpf +60 Stich +15 Magie +10 Feuer +10,,,,,-,,Stärke 200,,Verkauft Hagen im 4K (Nur an Paladine)
+"Paladinhelm
+(geschlossenes Visier)",Hieb +30 Stumpf +60 Stich +15 Magie +10 Feuer +10,,,,,-,,Stärke 200,,"Zur Auswahl als Belohnung von Lord Hagen für die Quest ""Dunkles Netz"""
+Drachenjägerhelm,Hieb +40 Stumpf +70 Stich +20 Magie +5 Feuer +5,,,,,-,,Stärke 200,,Verkauft Bennet nach Freischaltung der Schweren Drachenjägerrüstung
+Berserkerkapuze,Hieb +40 Stumpf +50 Stich +45 Magie +10 Feuer +10,,,,,Sturz +1,,Stärke 275 Gewicht 3,,Im Lager des Weißen Trolls in den Eisigen Orkbergen
+Paladinhauptmannshelm,Hieb +30 Stumpf +45 Stich +20 Magie +10 Feuer +10,,,,,Sturz +1,,Stärke 200,,Gibt Albert für Drakkar-Aufgaben (Nur an Paladine)
+Schwarzer Helm,Hieb +50 Stumpf +65 Stich +50 Magie +20 Feuer +35,,,,,Sturz +2,,Stärke 350,,Neben Itu'Sed, Sphärenwächter in der Orkmine
+Drachenhelm,Hieb +55 Stumpf +70 Stich +70 Magie +20 Feuer +20,,,,,Sturz +2,,Stärke 375 Gewicht 4,,Fällt vom Feuerdrachen
+Uralter Helm,Hieb +65 Stumpf +80 Stich +50 Magie +25 Feuer +25,,,,,Sturz +3,,Stärke 425 Gewicht 5,,Fällt von Raven in Ravens Albtraum
+Bluthelm,Hieb +100 Stumpf +110 Stich +100 Magie +50 Feuer +50,,,,,Sturz +3,,Stärke 450 Gewicht 5,,Fällt von Azgalor im Schattental
+Eiskrone (Adanos),Hieb +0 Stumpf +0 Stich +0 Magie +50 Feuer +25,,,,,Stärke +10,,-,,In der Truhe nach Erledigung der Aufgaben in der Großen Pyramide auf Adanos' Wüste
+Bogenschützenhelm,Hieb +10 Stumpf +5 Stich +10 Magie +0 Feuer +0,,,,,-,,Geschicklichkeit 90,,Im Schwarztrolllager in Khorinis
+Meisterjägerhelm,Hieb +15 Stumpf +15 Stich +15 Magie +0 Feuer +0,,,,,-,,Geschicklichkeit 150,,In Ashtars Geschicklichkeitstruhe
+Königlicher Schützenhelm,Hieb +20 Stumpf +20 Stich +25 Magie +0 Feuer +0,,,,,-,,Geschicklichkeit 175,,An der Westküste in der Truhe mit Kapitän Ramars Skarabäus
+Verstärkter Lederhelm,Hieb +30 Stumpf +30 Stich +45 Magie +10 Feuer +10,,,,,-,,Geschicklichkeit 230,,In der Goldmine über dem Ausgang vom GD-Pass
+Baumeisterkriegerhelm,Hieb +50 Stumpf +30 Stich +60 Magie +30 Feuer +40,,,,,-,,Geschicklichkeit 320,,Im Tempel der Tränen im Kriegerzimmer
+Er'Hazirs Helm,Hieb +65 Stumpf +50 Stich +80 Magie +50 Feuer +50,,,,,Sturz +1,,Geschicklichkeit 450,,"In Chel'Draks Truhe, Handlungsstrang mit dem verschwundenen Bruder"
+Eiskrone (Adanos),Hieb +0 Stumpf +0 Stich +0 Magie +50 Feuer +25,,,,,Geschicklichkeit +10,,-,,In der Truhe nach Erledigung der Aufgaben in der Großen Pyramide auf Adanos' Wüste
+Kapuze der Geisteskraft,Hieb +0 Stumpf +0 Stich +0 Magie +5 Feuer +5,,,,,Mana +5,,-,,Liegt auf dem Tisch in Pyrokars Schlafzimmer
+Königskrone,Hieb +0 Stumpf +0 Stich +0 Magie +25 Feuer +15,,,,,Mana +15,,-,,In der Truhe in der Bibliothek in Jarkendarr
+Geistesdiadem,Hieb +0 Stumpf +0 Stich +0 Magie +30 Feuer +30,,,,,Mana +40 Int +15,,-,,Fällt von Hosh-Pak im GD
+Eiskrone (Adanos),Hieb +0 Stumpf +0 Stich +0 Magie +50 Feuer +25,,,,,"Mana +100
+Wüstenuntote mögen uns",,-,,In der Truhe nach Erledigung der Aufgaben in der Großen Pyramide auf Adanos' Wüste
+Maske des Schlafenden,Hieb +35 Stumpf +35 Stich +35 Magie +30 Feuer +30,,,,,Int +50,,Mana 650 Gewicht 2,,Fällt von Hoshkar

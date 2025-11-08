@@ -1,0 +1,141 @@
+Name,Anforderungen,Schaden,Andere Eigenschaften,,Fundort
+Bögen mit Stärkeanforderung (Schadensskalierung mit Geschicklichkeit),,,,,
+Söldnerbogen,Stärke 50,30,---,,Fällt überall
+Knochenbogen,Stärke 130,110,---,,Verkauft Khaled auf Onars Farm
+Eichenbogen,Stärke 150,120,---,,Verkauft Khaled auf Onars Farm
+Kampfbogen,Stärke 170,130,---,,Verkauft Khaled auf Onars Farm
+Drachenbogen,Stärke 200,150,---,,Verkauft Khaled auf Onars Farm
+Schattenbogen,Stärke 200,170,---,,Wald der Assassinen
+Nordmarer Bogen,Stärke 240,190,---,,Im Schatz des Eisdrachen
+Schützenbogen,Stärke 200,200,---,,Fällt vom Bogenschützen-Boss in der Arena der Narbe
+Bögen zum Herstellen,,,,,
+Kurzbogen,"Geschicklichkeit: 10,
+Beherrschung: 0%",10,Bonus zur Beherrschung 1%,,"Schema lehrt Bosper, wenn wir sein Lehrling sind"
+Weidenbogen,"Geschicklichkeit: 20,
+Beherrschung: 15%",25,Bonus zur Beherrschung 2%,,"Schema lehrt Bosper, wenn wir sein Lehrling sind"
+Ulmen-Bogen,"Geschicklichkeit: 30,
+Beherrschung: 25%",55,Bonus zur Beherrschung 3%,,"Schema lehrt Bosper, wenn wir sein Lehrling sind"
+Eschenbogen,"Geschicklichkeit: 80,
+Beherrschung: 30%",80,Bonus zur Beherrschung 4%,,"Schema lehrt Bosper, wenn wir sein Lehrling sind"
+Buchenbogen,"Geschicklichkeit 120,
+Beherrschung 40%",110,Bonus zur Beherrschung 5%,,"Schema lehrt Bosper, wenn wir sein Lehrling sind"
+Allgemein verfügbare Bögen,,,,,
+Kurzbogen,"Geschicklichkeit: 10,
+Beherrschung: 0%",10,---,,Liegt beim Teich neben Xardas' Turm
+Jägerglück,"Geschicklichkeit: 25,
+Beherrschung: 15%",20,Zusätzliche 15 Schaden gegen Tiere,,Verkauft Bosper
+Weidenbogen,"Geschicklichkeit: 20,
+Beherrschung: 10%",15,---,,Liegt bei den Echsen gegenüber dem Eingang zur Vino-Brennerei
+Jagdbogen,"Geschicklichkeit: 30,
+Beherrschung: 15%",25,---,,In Truhe rechts vom Eingang in der Höhle bei den Kräutersammlern bei Grimbald
+Jägerbogen,"Geschicklichkeit: 10,
+Beherrschung: 15%",20,---,,Bekommen wir von Bosper fürs Werden seines Lehrlings
+Ulmen-Bogen,"Geschicklichkeit: 50,
+Beherrschung: 20%",45,---,,Verkauft Bosper
+Kompositbogen,"Geschicklichkeit: 60,
+Beherrschung: 25%",60,---,,Liegt in Truhe bei Ragnars Echsen
+Eschenbogen,"Geschicklichkeit: 80,
+Beherrschung: 30%",70,---,,Verkauft Raff
+Betäuber,"Geschicklichkeit: 50,
+Beherrschung: 25%",75,Magieresistenz: 10,,Fällt vom Banditen Kurdupl in Khorinis
+Langbogen,"Geschicklichkeit: 90,
+Beherrschung: 35%",80,---,,Verkauft Raff
+Buchenbogen,"Geschicklichkeit: 120,
+Beherrschung: 40%",100,---,,Verkauft Raff
+Bogen des erf. Jägers,"Geschicklichkeit: 145,
+Beherrschung: 45%",125,---,,Verkauft Raff
+Falkenauge,"Geschicklichkeit: 175,
+Beherrschung: 50%",145,---,,Verkauft Raff
+Diegos Bogen,"Geschicklichkeit: 170,
+Beherrschung: 40%",70,---,,"Fällt von Diego, wenn er beim Schießen stirbt"
+Nachtwanderer,"Geschicklichkeit: 160,
+Beherrschung: 50%",140,Magie-/Feuerresistenz: 5,,Liegt in der Höhle mit Schattenwesen unter der Brücke zu den Ausgrabungen der Wassermagier in Khorinis
+Yakulus,"Geschicklichkeit: 190,
+Beherrschung: 55%",160,Physische Resistenz: 10,,Liegt auf der Klippe in der Nähe der Kriegertruhe im Tal von Ashtar
+Kudzu,"Geschicklichkeit: 210,
+Beherrschung: 55%",180,Bonus zu LP: 200,,"Bekommen wir von Netbek für die Quest ""Ungebetener Gast"""
+Kerenbogen,"Geschicklichkeit: 230,
+Beherrschung: 60%",220(stumpf),"Benötigt spezielle Pfeile, die Bosper für uns macht oder uns lehrt herzustellen (nur Lehrling)",,"Bekommen wir von Falk für die Quest ""Großer Jäger"""
+Heiliger Bote,"Geschicklichkeit: 250,
+Beherrschung: 60%",200,Effektiv gegen Geister und Untote,,Im letzten Raum im Tempel der Tränen in der Wüste Adanos
+Hamasin,"Geschicklichkeit: 270,
+Beherrschung: 60%",230,"Magieresistenz: 25
+Schadensbonus von Geschicklichkeit: 5%
+Zusätzlicher Schaden: 50",,Fällt vom Mörder Gor Hanis in der Quest der verschwundenen Novizen (3. Kapitel)
+Stille Tod,"Geschicklichkeit: 260,
+Beherrschung: 50%",275,"Feuerresistenz: 25
+Schadensbonus von Geschicklichkeit: 5%
+Zusätzlicher Schaden: 50",,"Bekommen wir von Gonzales nach Abschluss des Assassinen-Wald-Handlungsstrangs"
+Er'Hazir,"Geschicklichkeit: 310,
+Beherrschung: 70%",320,"Physische Resistenz: 20
+Schadensbonus von Geschicklichkeit: 15%
+Bonus-Gesundheit: 200
+Zusätzlicher Schaden: 50",,In Truhe im Heiligtum der Wahrheit nach Abschluss der Quests
+Aufschlitzer,"Geschicklichkeit: 370,
+Beherrschung: 75%",350,"Feuer- und Magieresistenz: 20
+Schadensbonus von Geschicklichkeit: 25%
+Zusätzlicher Schaden: 85",,Fällt von Hoshkar
+Sher Gar Mal,"Geschicklichkeit: 350,
+Beherrschung: 85%",350,"Physische Resistenz: 40
+Schadensbonus von Geschicklichkeit: 33%
+Zusätzlicher Schaden: 150",,Fällt von Senyak
+Beliars Klaue,"Geschicklichkeit: 320,
+Beherrschung: 85%",350,Schadensbonus von Geschicklichkeit: 18% Zusätzlicher Schaden: 20,,"Fällt von Raven, muss in der Kapelle umgearbeitet werden"
+Beliars Klaue mit Seele,"Geschicklichkeit: 350,
+Beherrschung: 95%",390,"Schadensbonus von Geschicklichkeit: 30%
+Lebensraub: 25
+Zusätzlicher Schaden: 250",,Bekommen nach Einsetzen von Senyaks Seele in den Bogen
+Blutbogen,"Geschicklichkeit: 425,
+Beherrschung: 100%",450,"Magie-/Feuerresistenz: 50
+Schadensbonus von Geschicklichkeit: 40%
+Lebensraub: 30
+Zusätzlicher Schaden: 150",,Fällt vom Boss auf dem Verlorenen Bruder
+Farbe des Todes,"Geschicklichkeit: 420,
+Beherrschung: 100%",475,"Magieresistenz: 50
+Schadensbonus von Geschicklichkeit: 50%
+Zusätzlicher Schaden: 200",,Fällt vom Dementor auf Irdorath
+Hand des Chaos,"Geschicklichkeit: 500,
+Beherrschung: 100%",500,Magieresistenz: 75,,"Fällt vom Boss während des 7. Kapitel-Handlungsstrangs
+(7. Kapitel entfernt)"
+Armbrüste,,,,,
+Name,Anforderungen,Schaden,Andere Eigenschaften,,Fundort
+Alte leichte Armbrust,Stärke: 10,10,---,,Fällt von Brago
+Leichte Armbrust der Stadtwache,"Stärke: 15,
+Beherrschung: 5%",15,---,,Verkauft Hakon
+Söldner-Armbrust,"Stärke: 55,
+Beherrschung: 10%",35,---,,Verkauft Hakon
+Rekruten-Armbrust des Ordens,"Stärke: 25,
+Beherrschung: 5%",45,---,,Bekommen kostenlos von Viland nach Beitritt zu den Dämonenjägern
+Leichte verstärkte Armbrust,"Stärke: 75,
+Beherrschung: 10%",50,---,,Verkauft Hakon
+Drag Mal,"Stärke: 120, Beherrschung: 20%",50,---,,Fällt vom Ork-Jäger
+Dragomirs Armbrust,"Stärke: 70,
+Beherrschung: 20%",75,---,,Liegt im Sonnenkreis
+Dämonenjäger-Armbrust,"Stärke: 60,
+Beherrschung: 20%",80,---,,Verkauft der Schmied der Dämonenjäger in ihrer Festung (nur DH)
+Armbrust der Stadtwache,"Stärke: 100, Beherrschung: 15%",80,---,,"Fällt von Wachen auf den Mauern und Wache Ruga
+Verkauft Mortis
+In Truhe beim Teleporter auf der Burg in MD"
+Banditen-Armbrust,"Stärke: 120, Beherrschung: 20%",90,---,,Fällt von Banditen in Khorinis
+Sengraths Armbrust,"Stärke: 130, Beherrschung: 40%",100,---,,Liegt in Sengraths Leiche bei der Palisade im Minental
+Jagd-Armbrust,"Stärke: 145, Beherrschung: 25%",105,---,,"Verkauft Tandor
+Liegt zwischen Echsen gegenüber der Vino-Brennerei"
+Armbrust,"Stärke: 170, Beherrschung: 30%",120,---,,Verkauft Tandor
+Leichte Paladin-Armbrust,"Stärke: 210, Beherrschung: 40%",140,---,,"Verkauft Tandor
+Fällt von namenlosen Rittern"
+Drag Mora,"Stärke: 200, Beherrschung: 30%",150,---,,Fällt von Schwarzen Ork-Armbrustschützen
+Kriegs-Armbrust,"Stärke: 220, Beherrschung: 45%",160,---,,"In der Höhle mit Schattenwesen unter der Brücke zu den Ausgrabungen der Wassermagier
+In der Höhle mit Echsenmenschen vor der Steinfestung"
+Untotenschreck,"Stärke: 185, Beherrschung: 50%",175,Effektiv gegen Untote und Geister,,"Schema liegt beim Eingang zur
+Verlassenen Mine im Minental"
+Kreuzritter-Armbrust,"Stärke: 250, Beherrschung: 50%",200,---,,Verkauft Tandor/Liegt im Lager in Fort Azgan
+Paladin-Armbrust,"Stärke: 300, Beherrschung: 60%",240,---,,Fällt von namenlosen Paladinen
+Schwere Armbrust,"Stärke: 350, Beherrschung: 70%",265,---,,Verkauft Tandor/Trägt Udar
+Drachenjäger-Armbrust,"Stärke: 400, Beherrschung: 80%",300,---,,Verkauft Tandor im 4. Kapitel
+Beliars Klaue,"Stärke: 320, Beherrschung: 85%",330,Schadensbonus von Stärke: 18% Zusätzlicher Schaden: 20,,"Fällt von Raven, muss in der Kapelle umgearbeitet werden"
+Beliars Klaue mit Seele,"Stärke: 350, Beherrschung: 95%",375,"Schadensbonus von Stärke: 30%
+Zusätzlicher Schaden: 100
+Lebensraub: 25",,Bekommen nach Einsetzen von Senyaks Seele in die Armbrust
+Böses Omen,"Stärke: 375, Beherrschung: 90%",375 + 75,Effektiv gegen Untote und Geister,,Fällt von Raven in Ravens Albtraum
+Drag Nimrod,"Stärke: 450, Beherrschung: 100%",450,---,,"Quest ""Armbrust des Großen Jägers"""
+Henker,----,1000 + 2000,Nur 50 Bolzen,,Liegt auf dem Sarkophag in der Stadt der Toten im Tal der Schatten neben Lord Niorret

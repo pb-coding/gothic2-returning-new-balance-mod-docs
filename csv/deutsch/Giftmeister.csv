@@ -1,0 +1,92 @@
+Allgemeine Informationen,,,,,,,,,,,,
+"Der Giftmeister ist eine Unterklasse, die keine besonderen Privilegien hat, außer der Möglichkeit, spezielle Gifte zu erlernen, die wir auf Nahkampfwaffen auftragen können - nur auf Stärke- und Geschicklichkeitswaffen, die Schnittschaden verursachen.
+Es wird empfohlen, Gifte in Kombination mit Speeren/Hellebarden/Einhandwaffen zu verwenden, da andere Waffen bereits ausreichend hohen Schaden haben, den man nicht durch das Trinken eines Tranks verringern sollte, oder sie haben schlechtere Animationen für das effektive Auftragen von Giften.",,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Allgemeine Beschreibung,,,,,,,,,,,,
+"Zum Giftmeister werden wir beim Druiden Fregyals, der sich in einer Höhle im Wald hinter Onars Farm befindet (Wolf schickt uns dorthin mit einer Mission).
+Um zu ihm zu gelangen, muss man sich an der ""Wand"" hinter dem Lager in der Nähe des Hirten Pepe halten und gehen, bis man auf den Druidenstein trifft.
+Wir müssen für den Druiden eine Aufgabe erfüllen, die darin besteht, einen giftigen Schnapper zu töten. Dafür erhalten wir einen Trank, der nach dem Trinken
+unseren Nahkampf- und Fernkampfschaden um 50% reduziert und uns auch Giftresistenz verleiht.",,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Weitere Hinweise,,,,,,,,,,,,
+,,,,,,,,,,,,
+"Gifte kann man nur bis zum Ende des 2. Kapitels erlernen. Weder Schamane noch Dunkler Ritter können sie erlernen.
+
+Um Rezepte für spezielle Gifte lesen zu können, muss man zuerst lernen, sie zu verwenden
+(Erlernen erst ab Stufe 3 der Giftherstellung möglich).
+
+Gifte verwenden wir, indem wir sie im Inventar ""anklicken"", und in der oberen Ecke wird uns die Anzahl der Ladungen angezeigt, die wir
+nach jedem Treffer gegen einen Feind verlieren.
+
+Das Tragen von Muritans Fang erhöht den Giftschaden um 25%
+
+Unsere Statistiken haben auch Einfluss auf den Giftschaden:
+50 Ausdauer = +1 Schaden pro Tick
+4% Waffenbeherrschung = +1 Schaden pro Tick
+20 Stärke, Geschicklichkeit = +1 Schaden pro Tick
+",,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+"Giftherstellung, Stufe 1",,,,,,,,,4LP,,,Worin zu Beginn investieren?
+"Giftherstellung, Stufe 2 (15. Stufe)",,,,,,,,,6LP,,,"Immer nach dem Erreichen der nächsten Giftstufe sollte man so schnell wie möglich die Tick-Geschwindigkeit/Vergiftungschancen erlernen, da selbst die stärksten Gifte hinter den vorherigen zurückbleiben werden, wenn sie nicht oft genug zuschlagen.
+
+Was die Charakterentwicklung angeht, sollte man sich vorrangig auf die Waffenbeherrschung konzentrieren, um schneller und häufiger Angriffe auszuführen und Gift-Stacks aufzubauen. Punkte rein in Statistiken zu investieren ist nicht so effektiv wegen der Strafe auf physischen Schaden, obwohl wir um Lernpunkte-Ausgaben nicht herumkommen, wenn wir die beste Ausrüstung tragen wollen."
+"Giftherstellung, Stufe 3 (25. Stufe)",,,,,,,,,8LP,,,
+"Giftherstellung, Stufe 4 (35. Stufe und 2. Kapitel)",,,,,,,,,12LP,,,
+"Giftherstellung, Stufe 5 (40. Stufe und 3. Kapitel)",,,,,,,,,15LP,,,
+"Tödliches Gift (4. Giftstufe) - Wenn die Gesundheit des Gegners unter 75% fällt, steigt die Giftstärke um 25%",,,,,,,,,7LP,,,
+"Herstellung spezieller Gifte (3. Giftstufe, 25. Charakterstufe)",,,,,,,,,10LP,,,
+"Vergiftung von Trollen, Golems, Steinwächtern (3. Giftstufe, 25. Charakterstufe)",,,,,,,,,5LP,,,
+"Verlangsamungschance (3. Giftstufe, 35. Charakterstufe)",,,,,,,,,7LP,,,
+"Lähmungschance (4. Giftstufe, 30. Charakterstufe)",,,,,,,,,5LP,,,
+Sofortschaden beim Treffer,,,,,,,,,3LP,,,
+"Anzahl Ladungen auf Waffe, Stufe 1 (1. Giftstufe, 12. Charakterstufe)",,,,,,,,,2LP,,,Spezielle vs. gewöhnliche Gifte
+"Anzahl Ladungen auf Waffe, Stufe 2 (2. Giftstufe, 20. Charakterstufe)",,,,,,,,,3LP,,,"Die Stärke spezieller Gifte skaliert mit der Stärke des grundlegenden ""tödlichen Gifts"", daher lohnt es sich am meisten, nach Möglichkeit die Giftarten zu wechseln, obwohl wir ab dem 4. Kapitel hauptsächlich magisches Gift verwenden, wegen der großen Anzahl von Untoten, die im Spiel verstreut sind (funktioniert aber auch gegen normale Gegner).
+
+Spezielles Gift wird immer das tödliche Gift im Schaden übertreffen, vorausgesetzt, wir verwenden es gegen den entsprechenden Gegner."
+"Anzahl Ladungen auf Waffe, Stufe 3 (3. Giftstufe, 30. Charakterstufe)",,,,,,,,,5LP,,,
+"Anzahl Ladungen auf Waffe, Stufe 4 (4. Giftstufe, 35. Charakterstufe)",,,,,,,,,7LP,,,
+"Anzahl Ladungen auf Waffe, Stufe 5 (5. Giftstufe, 45. Charakterstufe, 3. Kapitel)",,,,,,,,,8LP,,,
+"Vergiftungschance, Stufe 1 (1. Giftstufe, 15. Charakterstufe)",,,,,,,,,2LP,,,
+"Vergiftungschance, Stufe 2 (2. Giftstufe, 25. Charakterstufe)",,,,,,,,,3LP,,,
+"Vergiftungschance, Stufe 3 (3. Giftstufe, 35. Charakterstufe)",,,,,,,,,4LP,,,
+"Vergiftungschance, Stufe 4 (4. Giftstufe, 45. Charakterstufe)",,,,,,,,,4LP,,,
+"Vergiftungschance, Stufe 5 (5. Giftstufe, 50. Charakterstufe, 3. Kapitel)",,,,,,,,,5LP,,,
+"Anzahl Gift-Ticks, Stufe 1 (1. Giftstufe, 10. Charakterstufe)",,,,,,,,,3LP,,,
+"Anzahl Gift-Ticks, Stufe 2 (2. Giftstufe, 15. Charakterstufe)",,,,,,,,,4LP,,,
+"Anzahl Gift-Ticks, Stufe 3 (3. Giftstufe, 25. Charakterstufe)",,,,,,,,,5LP,,,
+"Anzahl Gift-Ticks, Stufe 4 (4. Giftstufe, 35. Charakterstufe)",,,,,,,,,6LP,,,
+"Anzahl Gift-Ticks, Stufe 5 (5. Giftstufe, 45. Charakterstufe, 3. Kapitel)",,,,,,,,,7LP,,,
+"Geschwindigkeit der Gift-Ticks, Stufe 1 (1. Giftstufe, 16. Charakterstufe)",,,,,,,,,3LP,,,
+"Geschwindigkeit der Gift-Ticks, Stufe 2 (2. Giftstufe, 28. Charakterstufe)",,,,,,,,,4LP,,,
+"Geschwindigkeit der Gift-Ticks, Stufe 3 (3. Giftstufe, 36. Charakterstufe)",,,,,,,,,5LP,,,
+"Geschwindigkeit der Gift-Ticks, Stufe 4 (4. Giftstufe, 44. Charakterstufe)",,,,,,,,,6LP,,,
+"Geschwindigkeit der Gift-Ticks, Stufe 5 (5. Giftstufe, 50. Charakterstufe, 3. Kapitel)",,,,,,,,,7LP,,,
+"Chance auf zusätzliche Vergiftung, Stufe 1 (1. Giftstufe, 25. Charakterstufe)",,,,,,,,,8LP,,,
+"Chance auf zusätzliche Vergiftung, Stufe 2 (Herstellung spezieller Gifte, 40. Charakterstufe)",,,,,,,,,12LP,,,
+Zusammenfassung LP,,,,,,,,,197,,,
+REZEPTE FÜR SPEZIELLE GIFTE:,,,,,,,,,,,,
+Magisches (gegen Untote) - nach Übergabe des Necronomicons an Xardas (2-3 Mal ansprechen) oder bei Constantino für 3000 Gold kaufbar,,,,,,,,,,,,
+"Ork-Gift (wirksam gegen Orks, Echsenmenschen und Drachen) - nach der Mission ""Orkjagd"" von Falk",,,,,,,,,,,,
+Tier-Gift (wirksam gegen alle Tiere und Monster) - neben dem Schwarzen Troll,,,,,,,,,,,,
+Universal-Gift (gegen alles) - verfügbar ab 3. Stufe der Giftherstellung und 28. Charakterstufe (3LP) - Herstellung erfordert 1 gewöhnliches Gift und je ein spezielles,,,,,,,,,,,,

@@ -1,0 +1,39 @@
+Name,Mana,Schaden,Reichweite,"Magischer Schaden 
+(Skalierung mit INT)",Intelligenz,Bedingungen für Erhalt,Zusätzliche Informationen
+STÄBE,,,,,,,BEDEUTUNG DES KREISES
+,,,,,,,
+Schülerstab,10,40 + 20,110,---,---,In der Höhle neben Cavalorn,Wie effektiv unsere Intelligenz den magischen Schaden von Schwert / Stab beeinflusst hängt von unserem Magiekreis ab
+Novizenstab,60,75,120,80,25,Verkauft von Gallahad und Isgaroth,
+Alter Stab,60,85,120,80,25,Erhalten von Fregyar nach dem Erlernen der Wildschweintransformation,
+Stab (Gildenabhängig),75,120,130,120,50,Erhalten nach dem Beitritt zu einer Magier-/Druidengilde,"6. Kreis erhöht nicht mehr unsere Skalierung für magischen Waffenschaden. Das Einzige was er uns gibt sind
++18 Int und +3% Magiemacht."
+Priesterstab aus Jarkendaru,210,175,140,175,85,"Schema liegt bei der Krabbenkönigin, die rechts im Vergessenen Canyon ist",
+Sah Tar Har,375,225,140,225,115,Fällt vom Echsenmenschen-Boss an der Westküste,1. Kreis: 10 Int = 2 Schaden (20%)
+Stab des Erzdruiden,500,175,140,275,145,Erhalten für das Erreichen von Level 25 des Druidensteins,"2. Kreis: 10 Int = 2,5 Schaden (25%)"
+Erzmagier-Stab,450,275,140,275,140,"Schema fällt in der Quest ""Dunkles Netz""
+Kann nur von Magiergilden hergestellt werden",3. Kreis: 10 Int = 5 Schaden (50%)
+Stab des Hohepriesters,600,325,140,325,170,In der Truhe im Heiligtum der Wahrheit nach Abschluss der Quests,4. Kreis: 10 Int = 7 Schaden (70%)
+Drachenstab,750,375,140,375,"215
++1 Manareg.",Fällt von Azgalor im Tal der Schatten,5. Kreis: 10 Int = 10 Schaden (100%)
+Beliars Klaue,900,400,140,400,235,"Fällt vom Raven, muss am Schrein bearbeitet werden",6. Kreis: 10 Int = 10 Schaden (100%)
+Beliars Klaue (mit Seele),900,425,140,425,265,Nach dem Einsetzen von Senyaks Seele in den Stab,CHANCE AUF MAGISCHEN SCHADEN
+Ar'Krah,1200,450,140,450,295,Fällt im Dungeon Verlorener Bruder,
+Seelenfresser,1200,475,140,500,300,Fällt von Trakanon (Drache auf Irdorath),
+MAGISCHE SCHWERTER,,,,,,,"Dies ist die Summe folgender Chancen:
+5% Grundwert
+1% Magiemacht = 1% Chance
+1% Waffenführung = 1% Chance"
+,,,,,,,
+Magischer Dolch,0,5,50,---,---,Auf der Spitze von Xardas' Turm (Ritual),
+Novizenschwert,60,50,90,50,20,Verkauft von Gallahad und Isgaroth,
+Magierschwert,100,90,90,90,45,Schema liegt in der Truhe in der Schatzkammer der Feuermagier,
+,,,,,,,
+Uralte Klinge,200,135,100,135,75,Liegt bei der Krabbenkönigin geradeaus im Vergessenen Canyon,
+Zauberbrecher,325,185,100,185,100,Fällt vom Goblin-Boss Maji an der Westküste,
+Gesandter,425,235,105,235,125,Fällt von Kajma in der Oase rechts vom Eingang zur Wüste Adanos',
+Donner,550,275,110,275,150,Vom Dämon Nebiron vor Cor Kalom (Assassinenwald),
+Finsternis,750,325,120,325,195,Nach dem Besiegen von Hoshkar im Tempel des Träumenden,
+Beliars Klaue,900,350,120,350,215,"Fällt vom Raven, muss am Schrein bearbeitet werden",
+Beliars Klaue (mit Seele),900,375,120,375,245,Nach dem Einsetzen von Senyaks Seele in die Klaue am Beliar-Schrein,
+Beliars Atem,1100,400,130,475,275,"Fällt im Dungeon Verlorener Bruder
+(nach dem Albtraum des Raven)",
