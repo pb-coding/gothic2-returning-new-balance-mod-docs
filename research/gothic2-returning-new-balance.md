@@ -70,7 +70,7 @@ npm install
 
 ### Hauptgilden (Gildie główne)
 
-#### 1. Dämonenjäger (Łowca demonów)
+#### 1. [Dämonenjäger](guilds/hauptgilden/daemonenjaeger.md) (Łowca demonów)
 
 **Grundvoraussetzungen:**
 
@@ -91,7 +91,7 @@ npm install
 - Dämonenjäger können sich nicht mit folgenden Nebengilden kombinieren: Dunkler Krieger, Dämonenbeschwörer und Schamane
 - Fokus auf Dämonenbekämpfung und Ordensaufgaben
 
-#### 2. Söldner/Drachenjäger (Najemnik/Łowca smoków)
+#### 2. [Söldner/Drachenjäger](guilds/hauptgilden/soeldner-drachenjaeger.md) (Najemnik/Łowca smoków)
 
 **Grundvoraussetzungen:**
 
@@ -152,7 +152,7 @@ Vatras sagt uns, dass wir einer der drei Gilden beitreten können, die den grö�
 
 > **Hinweis:** Man kann auch die Aufgabe der erleichterten Aufnahme in eine andere Gilde nehmen und später mit Lee über etwas anderes sprechen, die Aufgabe von Torlof nehmen und um Hilfe bitten und mit Cord sprechen.
 
-#### 3. Wachen (Straż)
+#### 3. [Wachen](guilds/hauptgilden/wachen.md) (Straż)
 
 **Klassentyp:** Krieger
 **Waffenbeherrschung:** Zweihändig
@@ -185,7 +185,7 @@ Bonusstärke in 1/2 Kapitel:
 
 - **Domina Pyronik**: +2 grüne Stärke in der Stadt Okov (in der Küche Gribo vor dem Eingang in die Eisenhütte), +2 grüne Stärke in der Sündige vor dem Dämon in Okov (bewachen Drak, Sentries).
 
-#### 4. Untotenbeschwörer
+#### 4. [Untotenbeschwörer](guilds/hauptgilden/untotenbeschwörer.md)
 
 **Lehrmeister:** Xardas (bzw. später dann Creol). Nach dem Beitritt zur dunklen Gilde gibt es drei Pfade, denen der Held folgen kann. Dies ist der Pfad des Untotenbeschwörers.
 
@@ -224,7 +224,7 @@ Ein Untotenbeschwörer verfügt über keinerlei Angriffsmagie. Schlimmer noch: S
 **Besonderes:**
 In Creols versteckter Truhe findet man eine Rune um einen Skelett-Schattenläufer zu beschwören (3. Magiekreis, belegt 2 Slots). Diese Rune ist exklusiv für den Untotenbeschwörer.
 
-#### 5. Dunkler Magier
+#### 5. [Dunkler Magier](guilds/hauptgilden/dunkler-magier.md)
 
 **Lehrmeister:** Xardas (bzw. später dann Creol). Nach dem Beitritt zur dunklen Gilde gibt es drei Pfade, denen der Held folgen kann. Dies ist der Pfad des Dunklen Magiers.
 
@@ -271,7 +271,7 @@ Aber auch abseits dieser Taktiken ist der Dunkle Magier ein gefährlicher Gegner
 | Fluch der Dunkelheit | 1          | 8   | -            | 40% INT (max: 25)    | 20   | 10 Ticks in 5 Sekunden                            |
 | Gedankenkontrolle    | 2          | 15  | -            | -                    | 125  | Das Ziel wird Diener des Magiers                  |
 
-#### 6. Magier-Klassen (Allgemein)
+#### 6. [Magier-Klassen](guilds/hauptgilden/magier-klassen.md) (Allgemein)
 
 **Alchemie-Entwicklung für alle Klassen:**
 
@@ -296,7 +296,7 @@ Aber auch abseits dieser Taktiken ist der Dunkle Magier ein gefährlicher Gegner
 
 ### Nebengilden (Gildie poboczne)
 
-#### 1. Druide
+#### 1. [Druide](guilds/nebengilden/druide.md)
 
 **Besonderheiten:**
 
@@ -315,7 +315,7 @@ Aber auch abseits dieser Taktiken ist der Dunkle Magier ein gefährlicher Gegner
 - **Vergiftung:** Verwandlungen können nicht vergiftet werden
 - **Ausdauer:** Verwandlungen verbrauchen keine Ausdauer
 
-#### 2. Giftmischer
+#### 2. [Giftmischer](guilds/nebengilden/giftmischer.md)
 
 **Spezialisierung:** Alchemie und Giftherstellung
 
@@ -328,7 +328,7 @@ Aber auch abseits dieser Taktiken ist der Dunkle Magier ein gefährlicher Gegner
 - Meisterschaft in der Herstellung von Giften und Gegengiften
 - Erweiterte Alchemie-Fähigkeiten über normale Magier-Klassen hinaus
 
-#### 3. Schamane
+#### 3. [Schamane](guilds/nebengilden/schamane.md)
 
 **Spezialisierung:** Spirituelle Magie und Naturverbundenheit
 
@@ -340,7 +340,7 @@ Aber auch abseits dieser Taktiken ist der Dunkle Magier ein gefährlicher Gegner
 - Verbindung zu natürlichen Kräften und Geistern
 - Einzigartige Zauber und Rituale, die andere Magier-Klassen nicht beherrschen
 
-#### 4. Dämonenbeschwörer
+#### 4. [Dämonenbeschwörer](guilds/nebengilden/daemonenbeschwörer.md)
 
 **Spezialisierung:** Dämonologie und dunkle Beschwörungen
 
@@ -352,7 +352,7 @@ Aber auch abseits dieser Taktiken ist der Dunkle Magier ein gefährlicher Gegner
 - Mächtige, aber gefährliche Beschwörungen
 - Spezielle Dämonologie-Zauber und -Fähigkeiten
 
-#### 5. Dunkler Krieger
+#### 5. [Dunkler Krieger](guilds/nebengilden/dunkler-krieger.md)
 
 **Spezialisierung:** Dunkle Kampfkunst
 
@@ -364,7 +364,7 @@ Aber auch abseits dieser Taktiken ist der Dunkle Magier ein gefährlicher Gegner
 - Spezielle Kampftechniken und magische Verstärkungen
 - Einzigartige Ausrüstung und Waffen
 
-#### 6. Späher
+#### 6. [Späher](guilds/nebengilden/spaeher.md)
 
 **Spezialisierung:** Aufklärung und Spionage
 
@@ -641,6 +641,28 @@ Während die technische Umsetzung und der Umfang der neuen Inhalte beeindruckend
 Die Mod eignet sich besonders für Spieler, die primär an erweiterten Gameplay-Mechaniken interessiert sind und bereit sind, Kompromisse bei Story und Atmosphäre einzugehen. Für Puristen des Gothic-Universums könnte die Mod weniger ansprechend sein.
 
 **Empfehlung**: Geeignet für Spieler, die Gothic 2 bereits mehrfach durchgespielt haben und nach neuen Herausforderungen suchen, ohne dabei hohe Ansprüche an narrative Qualität zu stellen. Das Gildensystem allein bietet genug Tiefe für mehrere Durchgänge mit unterschiedlichen Spezialisierungen.
+
+## Dokumentationsstruktur
+
+Diese Dokumentation ist modular aufgebaut. Detaillierte Informationen zu jeder Gilde finden Sie in den entsprechenden Einzeldateien:
+
+### Hauptgilden
+
+- [Dämonenjäger](guilds/hauptgilden/daemonenjaeger.md)
+- [Söldner/Drachenjäger](guilds/hauptgilden/soeldner-drachenjaeger.md)
+- [Wachen](guilds/hauptgilden/wachen.md)
+- [Untotenbeschwörer](guilds/hauptgilden/untotenbeschwörer.md)
+- [Dunkler Magier](guilds/hauptgilden/dunkler-magier.md)
+- [Magier-Klassen](guilds/hauptgilden/magier-klassen.md)
+
+### Nebengilden
+
+- [Druide](guilds/nebengilden/druide.md)
+- [Giftmischer](guilds/nebengilden/giftmischer.md)
+- [Schamane](guilds/nebengilden/schamane.md)
+- [Dämonenbeschwörer](guilds/nebengilden/daemonenbeschwörer.md)
+- [Dunkler Krieger](guilds/nebengilden/dunkler-krieger.md)
+- [Späher](guilds/nebengilden/spaeher.md)
 
 ---
 
