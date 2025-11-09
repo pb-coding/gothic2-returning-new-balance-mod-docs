@@ -1,0 +1,461 @@
+"Lehrer für Grundattribute
+(lohnt sich nur so viel zu lernen, um Ausrüstung anlegen zu können)",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+"Stärke (Immer 1 LP:1 Stärke)
+[Max. Grenze: 1500]",,,,"Geschicklichkeit (Immer 1 LP:1 Geschick)
+[Max. Grenze: 1500]",,,,"Mana (Immer 1 LP:2 Mana)
+[Max. Grenze: 1500]",,,,Leben (1 LP:10 HP) (Nach Erlernen von 2000HP steigen Kosten auf 2 LP:10 HP) [Max. Grenze: 10.000],,,,,"Ausdauer
+erste 20 Pkt 1LP : 1 Ausdauer
+danach 2LP : 1 Ausdauer",,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Beste Ausrüstung benötigt 600-650 Stärke,,,,Beste Ausrüstung benötigt 600-650 Geschick,,,,Beste Ausrüstung benötigt 1200 Mana,,,,"So viel wie möglich, HP sind nie zu viel",,,,,"Max. 20LP ausgeben, danach 2-3 Gaben",,,,,,
+Lehrer [max],,Bedingung,,Lehrer [max],,Bedingung,,Lehrer [max],,Bedingung,,Lehrer [max],,Bedingung,,,Lehrer [max],,,Bedingung,,,
+Harad [450],,Nur eigene Lehrlinge,,Ruga,,Nur Garde,,Gallahad,,Nach Wahl der Magieschulung,,Cavalorn,,---,,,Cavalorn [1000],,,---,,,
+Brandon [450],,Trank für Brandon,,Brandon [450],,Trank für Brandon,,Parlan,,---,,Alrik,,Nach Sieg im Kampf,,,Wulfgar [1000],,,Alle außer Söldnern,,,
+Lares [450],,---,,Lares [450],,---,,Vatras,,---,,Wulfgar,,Alle außer Söldnern,,,Cord [1000],,,---,,,
+Mortis [450],,Nur Stadtwache,,Lucia [450],,---,,Albrecht  [750],,Nur Paladine,,Torlof,,Nur Söldner,,,Gor na Kosh [1000],,,Nur SŚ,,,
+Carl [750],,Nach Bezahlung,,Cassia [1500],,Mitglied der Diebesgilde,,Baal Cadar,,Nur Gurus,,Gor na Kosh,,Nur SŚ,,,Haniar [1000],,,Während Masjafu-Quest,,,
+Erol [1500],,Nach Täfelchen-Mission,,Nix [1500],,Mitglied des Jägerlagers,,Gor Na Toth,,Nur SŚ,,Ork-Schamanen,,Nur Schamanen,,,Viland [1000],,,Nur Dämonenjäger,,,
+Torlof [1500],,Nur Söldner,,Torlof [750],,Nur Söldner,,Merdarion,,Nur Wassermagier,,Dunkler Mentor,,Nur Dunkle Ritter,,,Lares [1000],,,---,,,
+Gor na Kosh,,Nur SŚ,,Gor na Kosh,,Nur SŚ,,Pyrokar,,Nur Feuermagier,,Lee,,Auf Irdorath,,,---,,,---,,,
+Emnol [5000],,Im Tal der Schatten,,Noehfelden [5000],,Im Tal der Schatten,,Xardas,,Nur dunkle Magier,,Viland [1000],,Nur Dämonenjäger,,,---,,,---,,,
+Ingmar [5000],,Nur Paladine,,Diego [5000],,---,,Kreol,,Nur dunkle Magier,,---,,---,,,---,,,---,,,
+Viland,,Nur Dämonenjäger,,---,,---,,Viland,,Nur Dämonenjäger,,---,,---,,,---,,,---,,,
+"Lehrer und Schwellenwerte für Waffenführung
+(um 100% zu erreichen lernen wir bis etwa 70%, Rest durch Boni)",,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Einhändige Waffen,,,,,,Zweihändige Waffen,,,,,Bogen,,,,,Armbrust,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+"1-30% 1LP:1%
+31-45% 2LP:1%
+46-60% 3LP:1%
+61-90% 4LP:1%
+91%-100% 5LP:1%",,,,,,"1-30% 1LP:1%
+31-45% 2LP:1%
+46-60% 3LP:1%
+61-90% 4LP:1%
+91%-100% 5LP:1%",,,,,"1-30% 1LP:1%
+31-45% 2LP:1%
+46-60% 3LP:1%
+61-90% 4LP:1%
+91%-100% 5LP:1%",,,,,"1-30% 1LP:1%
+31-45% 2LP:1%
+46-60% 3LP:1%
+61-90% 4LP:1%
+91%-100% 5LP:1%",,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Lehrer [max],,,Bedingung,,,Lehrer [max],,Bedingung,,,Lehrer [max],,Bedingung,,,Lehrer [max],,,,Bedingung,,,
+Cavalorn [60%],,,---,,,Wulfgar [50%],,Alle außer Söldnern,,,Cavalorn [90%],,---,,,Udar [90%],,,,Mit Keroloth sprechen,,,
+Wulfgar [50%],,,Alle außer Söldnern,,,Falk [75%],,Mitglied des Jägerlagers,,,Niclas [60%],,---,,,Alrik [40%],,,,---,,,
+Keroloth [60%],,,---,,,Atilla [60%],,Mitglied der Diebesgilde,,,Bartok [60%],,---,,,Henry [60%],,,,Zugang zum Piratenlager,,,
+Alrik [60%],,,---,,,Cord [90%],,Söldner / Gildenlose,,,Wilk [60%],,Nur Söldner,,,Dragomir [60%],,,,Nach Bezahlung,,,
+Barem [75%],,,Mitglied des Jägerlagers,,,Girion [90%],,Nur Paladine,,,Raff [100%],,Mitglied des Jägerlagers,,,Gor Na Vid [100%],,,,Nur SŚ,,,
+Gor na Kosh [90%],,,Nur SŚ,,,Rod [90%],,Seine Achtung erlangen,,,Gunnar [100%],,Im Tal der Schatten,,,Gunnar [100%],,,,Im Tal der Schatten,,,
+Cedric [100%],,,Nur Paladine,,,Lord Hagen [100%],,Paladine über 90%,,,Jack Aligator,,Nach Rattenjagd,,,Viland [100%],,,,Nur Dämonenjäger,,,
+Cord [90%],,,Söldner / Gildenlose,,,Lee [100%],,Jeden über 75%,,,---,,---,,,---,,,,---,,,
+Asmal [100%],,,Mitglied der Assassinengilde,,,Gor na Kosh [90%],,Nur SŚ,,,---,,---,,,---,,,,---,,,
+Cadore [100%],,,Im Tal der Schatten,,,Cadore [100%],,Im Tal der Schatten,,,---,,---,,,---,,,,---,,,
+Viland [100%],,,Nur Dämonenjäger,,,Henry [60%],,Zugang zum Piratenlager,,,---,,---,,,---,,,,---,,,
+---,,,---,,,Viland [100%],,Nur Dämonenjäger,,,---,,---,,,---,,,,---,,,
+Kampffertigkeiten,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Name der Fertigkeit,,,Lehrer,,,,,,,,Beschreibung,,,,,,,,,,,,Kosten
+,,,,,,,,,,,,,,,,,,,,,,,
+Schildführung,,,"1. Alrik jeden
+2. Wulfgar alle außer Söldnern
+3. Jarvis Söldner",,,,"4. Cedrik lehrt Paladine
+5. Gor Na Kosh nur SŚ",,,,--> Klicke hier um separate Schild-Kategorie anzuzeigen <--,,,,,,,,,,,,5 - 126 LP
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Orkwaffen-Beherrschung,,,"1. Trainierender Ork in der Orkmine wenn wir seinen Bruder in der Arena für 10LP besiegen
+2. Ur-Karras wenn wir ihn in Kap. 1-2 in Khorinis gerettet haben für 10LP
+3. Ur-Azog lehrt nur Schamanen für 15LP bereits in Kap. 1",,,,,,,,"% Beherrschung hat immer 90% 2H Animationen
+Kritische Trefferchance ist weiterhin angemessen zur % Beherrschung",,,,,,,,,,,,10 / 15 LP
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Kampf mit zwei Waffen,,,"1. Gonzales (Nach Überbringen der Notiz vom Banditen Hannibal, der sich in den neuen Gebieten neben Xardas befindet)
+2. Notiz ""Tanz der zwei Klingen"" (Im Assassinenwald von Tiamant)",,,,,,,,"keine Schwellen 30/60/90%, zweite Stufe beschleunigt Animation
+% Beherrschung bezieht sich auf gewählte 1H oder 2H Beherrschung des Spielers",,,,,,,,,,,,15 + 15 LP
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Durchschlagender Schuss,,,"Lehrt Raff nach Beitritt zu den Jägern (150 Geschick, 45% Bogen, Kap. 2)
+Lehrt Eugene nach Beitritt zu den Kundschaftern (135 Geschick, 45% Bogen, Kap. 2)",,,,,,,,"Must have für Bogenschützen
+Erhöht Rüstungsdurchschlag, wichtig gegen Skelette / Golems / Trolle",,,,,,,,,,,,"30 LP
+8000 Gold"
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Ausweichschance beim Bogenhalten +20%,,,"Lehrt Raff nach Beitritt zum Jägerlager in Khorinis
+(300 Geschick, 50% Bogen, Kap. 2)",,,,,,,,"Must have für Bogenschützen
+Ausweichen hilft sicher beim Überleben von Kämpfen",,,,,,,,,,,,5 LP
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Diebesfertigkeiten,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Name der Fertigkeit,,,Lehrer,,,,,,,,Beschreibung,,,,,,,,,,,,Kosten
+,,,,,,,,,,,,,,,,,,,,,,,
+Akrobatik,,,"In SNC-Modi ohne LP mindestens 150 Geschicklichkeit erforderlich.
+1. Cassia (ab 100 Geschicklichkeit)
+2. Hart (ab 70 Geschicklichkeit, nach Sieg in der Arena und Schwert-Rückgabe)
+3. Allen nach Beitritt zu den Kundschaftern für 8 LP",,,,,,,,"Lohnt sich für jede Charakterklasse.
+Um Geschicklichkeitsanforderung zu erfüllen reicht es, Gürtel und Geschicklichkeits-Schmuck anzulegen.",,,,,,,,,,,,10 LP
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Schlösser mit Geschick öffnen,,,"In SNC-Modi ohne LP mindestens 75 Geschicklichkeit erforderlich
+1. Ramirez (nach Gildenbeitritt) 
+2. Thorben nach Rückgabe von Lehmars Buch oder als Mitglied einer ""guten"" Gilde",,,,,,,,"Lernen wir nur bei Geschicklichkeits-Charakteren.
+Ab 100 Geschicklichkeit kann man mit Shift+Y einbrechen",,,,,,,,,,,,5 LP
+,,,,,,,,,,,,,,,,,,,,,,,
+Schlösser mit Kraft aufbrechen,,,"In SNC-Modi ohne LP mindestens 75 Stärke erforderlich
+Carl",,,,,,,,Must have für Stärke-Charaktere.,,,,,,,,,,,,3 LP
+,,,,,,,,,,,,,,,,,,,,,,,
+Schlösser mit Magie öffnen,,,"Gallahad nach Wahl der Magieschulung bei ihm.
+Kriegergilde / keine Gilde benötigt 125 Mana und 1. Kreis
+Magiergilde benötigt 75 Mana und 1. Kreis",,,,,,,,"Magier nutzen Öffnungsrune von Gallahad.
+Runennutzung kostet 75 Mana",,,,,,,,,,,,5 LP
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Schleichen,,,"In SNC-Modi ohne LP mindestens 50 Geschicklichkeit erforderlich
+1. Bartok 
+2. Jasper (nach Beitritt zu den Dieben)
+3. Allen nach Beitritt zu den Kundschaftern für 3 LP",,,,,,,,"Fertigkeit gibt uns 2 Geschicklichkeit
+Gibt 10% Chance auf Taschendiebstahl, wenn wir schleichen",,,,,,,,,,,,4 LP
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Taschendiebstahl,,,"In SNC-Modi ohne LP mindestens 70 Geschicklichkeit erforderlich
+1. Cassia (nach Beitritt zur Diebesgilde)
+2. Bill (im Piratenlager)",,,,,,,,"Fertigkeit gibt uns 10 Geschicklichkeit
+Rentiert sich nur bei Geschicklichkeits-Charakteren (Bei 10LP/Level rentiert es sich immer)",,,,,,,,,,,,10 LP
+,,,,,,,,,,,,,,,,,,,,,,,
+Jägerfertigkeiten,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Name der Fertigkeit,,,Lehrer,,,,,,,,Beschreibung,,,,,,,,,,,,Kosten
+,,,,,,,,,,,,,,,,,,,,,,,
+Fleisch gewinnen,,,Alwin,,,,,,,,"Must have für jeden Charakter. Stärke-Charaktere lassen es für Kuchen liegen, der Rest verkauft es an Kardif. Wird auch für mehrere Missionen benötigt",,,,,,,,,,,,2 LP
+,,,,,,,,,,,,,,,,,,,,,,,
+Häuten,,,"1. Bosper für 4 LP
+2. praktisch jeder Jäger",,,,,,,,"Must have für jeden Charakter.
+Benötigt für viele Missionen, Verbesserungen und Verkauf an Alfred / Bosper",,,,,,,,,,,,5 LP
+,,,,,,,,,,,,,,,,,,,,,,,
+Flügel ausreißen,,,"In SNC-Modi ohne LP mindestens 20 Jagdfähigkeiten und 40 Geschicklichkeit erforderlich
+1. Gaan (nach Zahlung von 100 Gold)
+2. Grimbald (Nach Kampf mit Snappers) ",,,,,,,,"Lernen wir nur als Constantinos Lehrling, da er sie aufkauft.
+Benötigt für Sturz-Schutztränke",,,,,,,,,,,,2 LP
+,,,,,,,,,,,,,,,,,,,,,,,
+Stachel entfernen,,,"In SNC-Modi ohne LP mindestens 25 Jagdfähigkeiten und 35 Geschicklichkeit erforderlich
+1. Kostenlos aus Buch für Quest ""Dragomirs Armbrust""
+2. Gaan (nach Zahlung von 100 Gold)
+3. Grimbald (Nach Kampf mit Snappers)",,,,,,,,"Da kostenlos, must have für jeden Charakter.
+Constantino kauft sie auf, benötigt für Missionen und Heiltränke",,,,,,,,,,,,2 LP
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Krallen ausreißen,,,"In SNC-Modi ohne LP mindestens 10 Jagdfähigkeiten und 20 Geschicklichkeit erforderlich
+1. Gaan (nach Zahlung von 100 Gold) 
+2. Grimbald (Nach Kampf mit Snappers) 
+3. Alfred (nach Beitritt zu den Jägern)",,,,,,,,"Must have. Benötigt für Verbesserungen und Herstellung bestimmter Rüstungen
+Alfred kauft sie auf",,,,,,,,,,,,2 LP
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Reißzähne/Zähne ausreißen,,,"In SNC-Modi ohne LP mindestens 15 Jagdfähigkeiten und 30 Geschicklichkeit erforderlich
+1. Gaan (nach Zahlung von 100 Gold)
+2. Alfred (nach Beitritt zu den Jägern)
+3. Grom (Quest ""Hungriger Jäger"")
+4. Ur-Karras (Quest mit Muritans Reißzahn) [Kostenlos, aber lohnt sich nicht zu warten]",,,,,,,,"Must have. Benötigt für Verbesserungen und Herstellung bestimmter Rüstungen
+Alfred kauft sie auf",,,,,,,,,,,,3 LP
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Reptilien häuten,,,"In SNC-Modi ohne LP mindestens 30 Jagdfähigkeiten und 50 Geschicklichkeit erforderlich
+1. Alfred (nach Beitritt zu den Jägern)
+2. Jack Aligator in Jharkendar",,,,,,,,"Must have. Benötigt für Verbesserungen und Herstellung bestimmter Rüstungen
+Alfred kauft sie auf",,,,,,,,,,,,2 LP
+,,,,,,,,,,,,,,,,,,,,,,,
+Zungen herausschneiden,,,"In SNC-Modi ohne LP mindestens 60 Jagdfähigkeiten und 40 Geschicklichkeit erforderlich
+1. Grom (Quest ""Hungriger Jäger"")
+2. Gestath",,,,,,,,"Must have für jeden Charakter.
+Benötigt für Herstellung von Feuerresistenz-/Manatränken.",,,,,,,,,,,,3 LP
+,,,,,,,,,,,,,,,,,,,,,,,
+Schattenwesen-Hörner entfernen,,,"In SNC-Modi ohne LP mindestens 50 Jagdfähigkeiten und 65 Geschicklichkeit erforderlich
+Grom (Quest ""Hungriger Jäger"")",,,,,,,,"Must have für jeden Charakter. Nicht an Alfred verkaufen!
+Benötigt für Verbesserungen und Verkauf an Buster für EP+Gold.",,,,,,,,,,,,3 LP
+,,,,,,,,,,,,,,,,,,,,,,,
+Kiefer entfernen,,,"In SNC-Modi ohne LP mindestens 5 Jagdfähigkeiten und 15 Geschicklichkeit erforderlich
+1. Grom (Quest ""Hungriger Jäger"")
+2. Grimbald (Nach Kampf mit Snappers)
+3. Constantino (nur eigene Lehrlinge) ",,,,,,,,"Benötigt für Quest von Baal Tyon (nur Guru / SŚ)
+Constantino kauft sie auf, benötigt für Verbesserungen",,,,,,,,,,,,2 LP
+,,,,,,,,,,,,,,,,,,,,,,,
+Herzen herausschneiden,,,"In SNC-Modi ohne LP mindestens 70 Jagdfähigkeiten und 50 Geschicklichkeit erforderlich
+Grom (Quest ""Hungriger Jäger"")",,,,,,,,"Must have. Benötigt für HP-Tränke, Golem-Herz-Resistenz, Runenherstellung
+Golemherzen kauft Constantino auf, Dämonenherzen Xardas / Kreol",,,,,,,,,,,,3 LP
+,,,,,,,,,,,,,,,,,,,,,,,
+"Drachenschnapper-
+Hörner entfernen",,,"In SNC-Modi ohne LP mindestens 55 Jagdfähigkeiten und 55 Geschicklichkeit erforderlich
+Grimbald (Nach Kampf mit Snappers)",,,,,,,,"Benötigt für Schmuck-Verbesserungen, bestimmte Quests
+Alfred kauft sie auf",,,,,,,,,,,,2 LP
+,,,,,,,,,,,,,,,,,,,,,,,
+Lurker-Häute abnehmen,,,"In SNC-Modi ohne LP mindestens 45 Jagdfähigkeiten und 40 Geschicklichkeit erforderlich
+1. Grimbald (Nach Kampf mit Snappers) 
+2. Wilk nach Annahme der Quest für Barems Rüstung",,,,,,,,"Must have. Benötigt für Verbesserungen und Herstellung bestimmter Rüstungen
+Alfred kauft sie auf",,,,,,,,,,,,2 LP
+,,,,,,,,,,,,,,,,,,,,,,,
+Drachenblut gewinnen,,,"In SNC-Modi ohne LP mindestens 50 Jagdfähigkeiten und 50 Geschicklichkeit erforderlich
+Gestath
+(Lernkosten sinken auf 0 LP für Quest ""Herz der Harpien-Königin"")",,,,,,,,Must have. Benötigt für Schwarzerz-Schmuck. Nicht an Jan verkaufen!,,,,,,,,,,,,3 LP
+,,,,,,,,,,,,,,,,,,,,,,,
+Drachenschuppen gewinnen,,,"In SNC-Modi ohne LP mindestens 50 Jagdfähigkeiten und 50 Geschicklichkeit erforderlich
+Gestath
+(Lernkosten sinken auf 2 LP für Quest ""Herz der Harpien-Königin"")",,,,,,,,"Nutzen wir erst am Ende von Irdorath für Rüstungsproduktion.
+Söldner können Schuppen an Bennet verkaufen.",,,,,,,,,,,,3 LP
+,,,,,,,,,,,,,,,,,,,,,,,
+Schmiedekunst / Bergbau,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Name der Fertigkeit,,,Lehrer,,,,,,,,Beschreibung,,,,,,,,,,,,Kosten
+,,,,,,,,,,,,,,,,,,,,,,,
+Gold schürfen,,,"1. Finn
+2. Scatty",,,,,,,,Must have. Riesiger Geldzufluss in Zehntausenden von Münzen. Außerdem hilfreich für mehrere Quests und Verbesserungsmodus.  ,,,,,,,,,,,,3LP
+"Magisches Erz und 
+Eisen schürfen",,,"1. Snipes (Schmiedekunst lernen, mit Harad sprechen, mit Schlange sprechen)
+2. Grimes (Marcos' Mine in GD) 
+3. Clovis (kostenlos in Quest ""Tägliche Erzportion"")",,,,,,,,"Must have. Ohne das verlieren wir viel Geld, Verbesserungsmöglichkeiten und blockieren uns mehrere Dinge durch Erzmangel.",,,,,,,,,,,,3LP
+Erz schmelzen,,,"Schlange in der Hafentaverne (Schmiedekunst lernen, mit Harad sprechen)",,,,,,,,Must have. Ohne das können wir geschürfte Brocken nicht verwerten,,,,,,,,,,,,"3LP
+800 Gold"
+Gold schmelzen,,,"1. (Kann kostenlos aus Buch in verlassener Mine gelernt werden)
+2. Crimson 
+3. Buch bei Scatty für 4500 Gold kaufbar",,,,,,,,"Da kostenlos, must have. Brocken nicht an Crimson geben!
+Barren werden für Münzprägung, Schmuck und Verbesserungen benötigt",,,,,,,,,,,,2LP
+Orkwaffen schmelzen,,,"Dobar (Muss in Kap. 2 oder 3 gelernt werden, ab Kap. 4 ist Dobar tot)",,,,,,,,"Must have. Für 1LP erhalten wir riesige Eisenmengen, wenn wir GD/Khorinis erst in Kap. 4 säubern.",,,,,,,,,,,,"1LP
+10 m.Erz"
+Waffen schärfen,,,"1. Brian
+2. Hodges",,,,,,,,"Erhöht Schaden um 8% (12% nach Verbesserung aus GD-Festung)
+Schärfen mit Numpad 9",,,,,,,,,,,,3LP
+Schmiedekunst,,,"1. Carl
+2. Bennet (Söldner)
+3. Harad (Lehrlinge)",,,,,,,,"Must have für jeden Charakter wenn wir Waffen oder Pfeile / Bolzen schmieden wollen.
+Um Eisen gut zu nutzen sollte man 1. und 2. Schwert sowie Dietriche schmieden.",,,,,,,,,,,,3LP
+Gewöhnliche Schwerter schmieden,,,Harad (Nur Lehrlinge),,,,,,,,"Können in Kap. 1 verwendet werden, ansonsten Einnahmequelle.
+Empfohlen so schnell wie möglich bis zum letzten Schwert zu lernen um keine Stäbe zu verschwenden.",,,,,,,,,,,,nur Gold
+Schwerter aus magischem Erz schmieden,,,Bennet (Nur Söldner),,,,,,,,"Diese Schwerter haben sehr niedrige Stärkeanforderungen im Verhältnis zum Schaden, wodurch sie in Modi mit begrenzten LP sehr nützlich sein können",,,,,,,,,,,,nur Gold
+Säbel schmieden,,,Ramirez (Nur Diebesgilde-Mitglieder),,,,,,,,"Benötigt für Quest von Rączka. Schmiedekunst erforderlich.
+Lernen kostenlos aus Rezepten, außer den 3 schwächsten Säbeln, für die wir zahlen",,,,,,,,,,,,nur Gold
+Orkwaffen schmieden,,,"Hush-Tor nach Erlernen der Orkwaffen-Beherrschung
+(oder nach Tod des Lehrers in der Orkmine)",,,,,,,,"Lernen nur wenn wir mit Orkwaffen spielen wollen.",,,,,,,,,,,,"Brocken
+m. Erz"
+"Rüstungen
+umschmieden",,,"Stufe 1: Carl (Nach Beitritt zum Wasserkreis) / Gilden-Schmiede
+Stufe 2: Darrion (In Netbeks Lager in GD) / Gilden-Schmiede",,,,,,,,"Must have für Geschick/Stärke-Charaktere (Roben können nicht umgeschmiedet werden).
+ACHTUNG: Wenn wir verbessern (+1/+2), erst nach dem Umschmieden, da Verbesserungen verloren gehen wenn umgekehrt.",,,,,,,,,,,,"1 Stufe 2 LP
+2 Stufe 4 LP"
+Bögen herstellen,,,Bosper (nur Lehrling nach Bogen-Rückgabe),,,,,,,,"Können in Kap. 1 verwendet werden, ansonsten Einnahmequelle.",,,,,,,,,,,,1 LP
+Explosive Pfeile,,,"1. Ignaz(Kap.2)(Nach Quest ""Mensch in Bestiengestalt"")
+2. Constantino(Kap.2)(Nach Quest ""Geheimnisvoller Mord"")",,,,,,,,Flächenschaden,,,,,,,,,,,,"10 LP
+2500 Gold"
+Magische Pfeile,,,Ignaz / Constantino,,,,,,,,Frieren Ziel ein,,,,,,,,,,,,"10 LP
+2500 Gold"
+Feuerpfeile,,,Ignaz / Constantino,,,,,,,,Zusätzlicher Feuerschaden,,,,,,,,,,,,"8 LP
+1500 Gold"
+Giftpfeile,,,Nrozas im Assassinenwald / Constantino,,,,,,,,Zusätzlicher Giftschaden,,,,,,,,,,,,"3 LP
+3500 Gold"
+Keren-Pfeile,,,Bosper (Nur Lehrling) nach Erhalt des Keren-Bogens,,,,,,,,"Must have für Bogen-Charaktere, aber wenn wir nicht Bosperas Lehrling sind, können wir sie nur von ihm kaufen",,,,,,,,,,,,"0 LP
+3000 Gold"
+"Pfeile herstellen
+Bolzen herstellen",,,Niclas / Alfred,,,,,,,,"Must have für Bogen-Charaktere.
+Ermöglicht Geldverdienen mit Eisen (Pfeile geben 25 Gold, Dietriche 20 Gold pro Stab)",,,,,,,,,,,,3 LP
+"Geweihte Bolzen
+Geweihte Pfeile",,,"Zur Auswahl als Belohnung bei Lord Hagen für Quest ""Dunkles Netz""",,,,,,,,"Must have für Bogen-/Armbrust-Charaktere.
+Ansonsten lohnt es sich nicht, das zu lernen",,,,,,,,,,,,keine
+Magische Fertigkeiten / Sonstige,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Name der Fertigkeit,,,Lehrer,,,,,,,,Beschreibung,,,,,,,,,,,,Kosten
+,,,,,,,,,,,,,,,,,,,,,,,
+Magiekreise,,,"Gallahad (Nach Wahl der Magieschulung, nur erste 3 Kreise, Krieger lernen 2. Kreis in Kap. 2, 3. in Kap. 3)
+Parlan (1/2) Karras (3/4) Pyrokar (5/6)
+Baal Orun 1-6, Saturas 1-6, Xardas/Kreol 1-6",,,,,,,,"Grundlage für jeden Magier.
+Auch als Nicht-Magier ist das Erlernen von 3 Magiekreisen möglich.
+
+Wenn wir mit Stäben / magischen Schwertern spielen, müssen wir trotzdem Kreise lernen,
+da diese das magische Schadenspotential unserer Waffe freischalten.
+Erst beim 5. Kreis erhalten wir 100% Potenzial.",,,,,,,,,,,,"1. Kreis
+10 LP"
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,"2. Kreis
+15 LP"
+,,,,,,,,,,,,,,,,,,,,,,,"3. Kreis
+20LP"
+,,,"Anforderungen für nächsten Kreis bei Magiergilden:
+1. Kreis: keine
+2. Kreis: Kap. 2 oder 200 Mana
+3. Kreis: Kap. 3 oder 400 Mana
+4. Kreis: Kap. 4 oder Kap. 3 und 600 Mana
+5. Kreis: Kap. 5 oder Kap. 4 und 900 Mana
+6. Kreis: Kap. 6 oder Kap. 4 und 1200 Mana",,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,"4. Kreis
+25LP"
+,,,,,,,,,,,,,,,,,,,,,,,"5. Kreis
+30LP"
+,,,,,,,,,,,,,,,,,,,,,,,"6. Kreis
+40LP"
+HP-Regeneration,,,"1. Vatras
+2. Haniar im Assassinenwald in Kap. 3 (0 Gold und 10 LP)",,,,,,,,"Abhängig vom aktuellen maximalen Lebenswert, daher erst ab ~2k HP wirklich effektiv.
+Regeneration beschleunigt sich wenn HP unter 10% fallen",,,,,,,,,,,,"12LP
+10k Gold"
+Mana-Regeneration,,,"Benötigt 2. Kreis oder Kap. 2
+1. Vatras
+2. Xardas wenn wir Beschwörer werden (8000 Gold und 10 LP)",,,,,,,,Must have für jeden Charakter der regelmäßig Runen nutzt. Die Fertigkeit gibt grundsätzlich 1 Mana/Sekunde + zusätzlich 1 Mana pro Sekunde je 100 Mana.,,,,,,,,,,,,"12LP
+10k Gold"
+Ausdauer-Regeneration I/II,,,Vatras,,,,,,,,"Regenerationswert ist konstant, daher besten Effekt bei frühem Erlernen.
+Erste Stufe gibt 1Pkt/Sek Regeneration
+Zweite Stufe gibt 4Pkt/Sek Regeneration (zusammen mit erster Stufe)",,,,,,,,,,,,"5/10LP
+3k/10k Gold"
+Hitzeresistenz,,,"1. Gonzales (Nach Quest ""Waffe für Gonzales"")
+2. Eligors Flamme trinken (Nicht zugeben, Kaufmannsgilde-Mitglied zu sein in Quest ""Gefallen für Jora"")",,,,,,,,"Benötigt in der Adanos-Wüste (Kann umgangen werden durch Reisen zwischen 19-10 Uhr) und im Feuerdrachen-Lager. Definitiv lohnenswert für LP zu lernen, Kälteresistenz durch Eisschutz erhalten. Ausnahme ist Wassermagier, der Eisschutz kostenlos finden kann.",,,,,,,,,,,,4LP
+Kälteresistenz,,,"1. Lee (Bei Quest ""Alter Freund Lee"")
+2. Eisschutz trinken (Quest von Nefarius)",,,,,,,,"Benötigt im verschneiten GD-Teil und in den Eisigen Orkbergen. Unbedingt lernen wenn wir in diesen Gebieten effektiv agieren wollen. Kann kostenlos erhalten werden durch Quest von Nefarius, nachdem wir Zuris unsere Zusammenarbeit mit Lutero gestehen beim Flammen-Abgeben",,,,,,,,,,,,4LP
+Giftresistenz,,,"- Lehrt Constantino nach Lehrlingsbeitritt bei einem der Meister (3LP)
+- Giftresistenz-Elixier verkauft Constantino in Kap. 3
+- Giftresistenz-Elixier fällt von Pandrodor
+- Giftresistenz-Elixier steht auf Podest nach Kampf mit Raven in Jharkendar
+- Charaktere mit Gift-Spezialisierung oder Pfad des Verdammten erhalten +2 Resistenzstufen zu Beginn
+- Weitere Stufe bei Erreichen von Alchemie-Level 100
+- Noch eine weitere in Masjafu-Notiz",,,,,,,,"Benötigt in GD-Sümpfen und gegen Vergiftungen durch Sumpftruthen/Zombies/Fallen.
+Vollständige Giftimmunität wurde entfernt – stattdessen fünf Resistenzstufen.
+Je höher die Resistenz, desto langsamer bewegt sich der Vergiftungsbalken und desto schneller verschwindet der Effekt.
+Vergiftung reduziert kritische Trefferchance, verlangsamt Laufgeschwindigkeit und schwächt andere Parameter",,,,,,,,,,,,-
+Schriftrollen herstellen,,,Gallahad (Nach Wahl der Magieschulung bei Belohnungsabholung),,,,,,,,"Goldkosten sind hoch, benötigte Schriftrollenmengen können problemlos in der Spielwelt gefunden werden. +1 Intelligenz pro gelernter Schriftrolle",,,,,,,,,,,,nur Gold
+Sprachen der Alten,,,"1. Myxir
+2. Eremit (Lehrt uns nur eine, die wir noch nicht können
+Priorität: Bauern>Rest)",,,,,,,,"Must have. Lernen immer Bauernsprache und eine der beiden höheren. Ausnahmen sind z.B. Dunkler Ritter, Paladin, Druide und Hybride, die beide Statistiken benötigen.",,,,,,,,,,,,"5LP 1200g
+10LP 3000g
+10LP 3000g"
+Druidensprache,,,Kormak an der Westküste,,,,,,,,"Must have. Benötigt für Hauptquest der Region, zum Erlernen druidischer Fähigkeiten und zum Lesen von Westküsten-Tafeln",,,,,,,,,,,,3LP
+Orksprache,,,"1. Notiz in Truhe in Xardas' Altem Turm
+2. Ur-Azog (nach Schamanen-Beitritt für 2 LP)",,,,,,,,"Must have. Ohne sie kann der Ork-Quest nicht begonnen werden.
+Wenn Turm-Monster Probleme bereiten, kann Notiz auf Schwarzer Galeere geholt werden.",,,,,,,,,,,,"2 LP oder
+kostenlos"
+Dämonensprache Lenga,,,"Lehrt Kreol
+Außer LP-Kosten muss man ihm 15k Gold oder 300 Karma zahlen
+oder Errungenschaft ""Beliars Hand"" haben, die man für 100 Menschentötungen erhält",,,,,,,,"Must have. Gibt 25 Intelligenz und ermöglicht das Lesen dämonischer Tafeln
+Lernen über Errungenschaft, die wir locker durch Banditen-Tötungen in Khorinis und Jharkendar erhalten.",,,,,,,,,,,,10 LP
+Suppen kochen,,,"1. Edda (aus dunklen Pilzen / Schildkrötenfleisch / Fischsuppe / aus Rüben)
+2. Snaf (aus dunklen Pilzen / Buddlerfleisch / Käferfleisch)",,,,,,,,"Must have. Geringer Goldaufwand für permanente Statistiken.
+Pilzsuppen sind mehrfach verwendbar",,,,,,,,,,,,nur Gold
+Kuchen backen,,,Thekla (erst nach Blick auf ihren Ofen),,,,,,,,"Must have für jeden Charakter. Rechts angegebener Preis ist pro Kuchen.
+Bei Honig- und Apfelkuchen könnte Honig und Äpfel knapp werden",,,,,,,,,,,,"2 LP
+Apfelkuchen: 250 Gold
+Fleischkuchen: 500 Gold
+Pilzkuchen: 750 Gold
+Fisch- und Honigkuchen: 1000 Gold"
+Kompott kochen,,,Cliff (In GD-Burg),,,,,,,,Must have für jeden Charakter,,,,,,,,,,,,"2x 5LP
+10 m.Erz"
+"Schmuck herstellen
+(4 Stufen)",,,"1. Matteo (Stufe 1-3 nach Überbringen der Ringformen)
+2. Notiz von Lord Ginnok in Kap. 5 (Stufe 4 wenn vorherige bekannt)",,,,,,,,--> klicke hier für Informationen <--,,,,,,,,,,,,8 / 10 / 15 LP
+Alchemie-Fertigkeiten,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Name der Fertigkeit,,,Lehrer,,,,,Rezept,,,,Beschreibung,,,,,,,,,,,Kosten
+,,,,,,,,,,,,,,,,,,,,,,,
+Reiner Alkohol,,,"1. Gin zu Alkohol (Rezept verkauft Constantino)
+2. Grog zu Alkohol (Rezept verkauft Fisk)
+3. Rum zu Alkohol (Rezept verkauft Samuel)",,,,,"1. 2x Gin
+2. 2x Grog
+3. 2x Rum",,,,"Must have. Einfache Intelligenz-Quelle durch Alchemie und Alkohol für Tränke (der einzeln gekauft recht teuer ist).
+Am günstigsten mit Grog.",,,,,,,,,,,nur Gold
+,,,,,,,,,,,,,,,,,,,,,,,
+"Essenz / Extrakt / Elixier
+der Heilung",,,"Constantino(Muss Lehrling sein oder Quest ""Erster Trank"" machen)
+Sagitta (nach Quest Sonnen-Aloe)
+Ignaz",,,,,"1x reiner Alkohol, 1x Serafis
+1x Heilpflanze / -kraut / -wurzel",,,,"Heiltrank wird für Lebensfülle benötigt.
+Magiern können Heilzauber / gefundene Tränke reichen.",,,,,,,,,,,3/4/5LP
+,,,,,,,,,,,,,,,,,,,,,,,
+"Essenz / Extrakt / Elixier
+des Manas",,,"Constantino(Muss Lehrling sein oder Quest ""Erster Trank"" machen)
+Sagitta (nach Quest Sonnen-Aloe)
+Ignaz",,,,,"1x reiner Alkohol, 1x Serafis
+1x Feuerpflanze / -kraut / -wurzel",,,,"Manatrank wird für Fülle benötigt, die Magier brauchen.
+Krieger können überlegen ob gefundene Tränke reichen.",,,,,,,,,,,3/4/5LP
+,,,,,,,,,,,,,,,,,,,,,,,
+Elixier aus Blutfliegen-Stacheln,,,"Rezept verkauft Salandril ab Kap. 2,",,,,,"2x reiner Alkohol, 5x Blutfliegen-Stachel,
+1x Heilpflanze, 1x Feldklee,
+2x Serafis",,,,"Alternative zum Heiltrank,
+heilt prozentual mehr und grundsätzlich weniger",,,,,,,,,,,"2000
+Gold"
+,,,,,,,,,,,,,,,,,,,,,,,
+Lebensfülle,,,"Rezept fällt von Cor Kalom im Assassinenwald
+(Muss Heiltrank herstellen können)",,,,,"1x reiner Alkohol, 1x Feldklee,
+3x Heilessenz, 1x Serafis",,,,"Lohnt sich zu machen, nützlich in Dungeons",,,,,,,,,,,----
+Manafülle,,,"Rezept fällt von Im'Arah in der Adanos-Wüste
+(Muss Manatrank herstellen können)",,,,,"1x reiner Alkohol, 1x Feldklee,
+3x Manaessenz, 1x Serafis",,,,"Lohnt sich zu machen, nützlich in Dungeons",,,,,,,,,,,----
+"Elixier reiner Energie
+ (kombinierte HP- und Manafülle)",,,"Rezept erhält Constantinos Lehrling nach Zugang zu seinem Keller.
+(Benötigt Kap. 3, Level 40 und 100 Alchemie-Punkte)",,,,,"1x Lebensfülle, 1x Manafülle,
+1x reiner Alkohol, 1x Feldklee,
+1x Serafis",,,,"Lohnt sich zu machen, nützlich in Dungeons",,,,,,,,,,,----
+Ausdauertrank,,,"Constantino, Sagitta, Ignaz",,,,,"1x reiner Alkohol, 1x Serafis,
+1x Feldklee",,,,Beste Option für kostenloses Lernen als Constantinos Lehrling. Regeneriert 50% Ausdauer,,,,,,,,,,,3LP
+"Ausdauer-Elixier
+(+10 Ausdauer)",,,"Constantino, Sagitta",,,,,"1x reiner Alkohol, 1x Trollkraut",,,,"Must have für jede Klasse. Elixier benötigt keinen Königssauerklee,
+daher kann man alle Trollkräuter dafür verwenden.",,,,,,,,,,,6LP
+Lebenselixier (+20 HP),,,"Constantino (nach Lehrlingsbeitritt oder Quest ""Erster Trank"")",,,,,"1x reiner Alkohol, 3x Heilwurzel,
+1x Königssauerklee",,,,"Wenn wir mehr als 200 LP für HP-Lernen ausgeben können
+ist Lebenselixier die rentabelste Option.
+Ab 1000 HP verdoppeln sich HP-Lernkosten, während
+Stärke / Geschick / Mana-Kosten gleich bleiben.",,,,,,,,,,,20LP
+Stärke-Elixier (+2 Stärke),,,"Constantino (nach Lehrlingsbeitritt oder Quest ""Erster Trank"")",,,,,"1x reiner Alkohol, 1x Drachenwurzel,
+1x Königssauerklee",,,,Optional bei Stärke-Charakteren. Weniger Wurzeln als Sauerklee vorhanden.,,,,,,,,,,,20LP
+"Geschicklichkeits-Elixier
+(+2 Geschick)",,,Sagitta,,,,,"1x reiner Alkohol, 1x Goblin-Beere,
+1x Königssauerklee",,,,Optional bei Geschicklichkeits-Charakteren. Weniger Beeren als Sauerklee vorhanden.,,,,,,,,,,,20LP
+Geist-Elixier (+4 Mana),,,Sagitta,,,,,"1x reiner Alkohol, 3x Feuerwurzel,
+1x Königssauerklee",,,,"Must have für Magier, wenn wir kein Lebenselixier machen",,,,,,,,,,,20LP
+Amun-Su (+8 Mana),,,"Nach Rezept aus Schatzkammer und Erlernen normaler Manaessenz zu Neoras gehen
+(Über 60 Alchemie benötigt)",,,,,"1x Feuerwurzel, 1x Skelett-Knochen,
+1x Aquamarin, 1x schwarze Perle,
+1x Feuerechsen-Zunge,
+1x Sumpfkraut, 1x Lurker-Kiefer,
+1x Steingolem-Herz,
+1x Lurker-Ei, 1x Königssauerklee",,,,"Must have.
+Denk daran Grom nach Ei-Abgabe zu schlagen. Lurker-Eier werden für Schmuck-Verbesserung auf +5 benötigt
+(Verbesserung ist standardmäßig deaktiviert, wenn du es nicht in gothic.ini aktiviert hast, kannst du alle Eier ausgeben)",,,,,,,,,,,8LP
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+Geist-Elixier (+2 Int),,,Rezept verkauft Cronos in Jharkendar,,,,,"1x reiner Alkohol, 3x Feldlurker-Kopf, 1x Sumpfkraut, 1x Feldklee",,,,"Must have für Magier und Krieger die Intelligenz nutzen
+(Dunkler Ritter, Paladin, Tempelwächter, Schamane, Druide)",,,,,,,,,,,"3000
+Gold"
+"Balsam der Vorsehung
+(+3 Mana)",,,Verkauft Constantino,,,,,"2x Weintrauben, 2x Sumpfkraut,
+1x Feuerechsen-Zunge, 1x Rum",,,,"Must have für Magier.
+Alle Weintrauben dafür ausgeben wenn wir Magiergilde sind",,,,,,,,,,,"2500
+Gold"
+"Wein des Vergessens
+(+12 HP)",,,Verkauft Salandril,,,,,"3x Weintraube, 2x Dämonenherz,
+3x Feldklee",,,,"Must have für Nicht-Magier.
+Alle Weintrauben dafür ausgeben wenn wir kein Mana brauchen",,,,,,,,,,,"2000
+Gold"
+Embarla Firgasto,,,Rezept im Dunkelnovizen-Raum auf Irdorath,,,,,"1x Schwefel, 1x schwarze Perle,
+9x Drachenei",,,,"Nach Eier-Sammeln in Khorinis können wir 3 davon machen
+Gibt die Statistik von der wir am meisten haben.",,,,,,,,,,,----
+Sturz-Schutztrank,,,Rezept verkauft Samuel in Jharkendar,,,,,"1x reiner Alkohol, 15x Blutfliegen-Flügel, 1x Unkraut, 1x Feldklee",,,,Rezept lohnt sich nur wenn wir 2000 Gold für 1 Int zahlen wollen.,,,,,,,,,,,"2000
+Gold"
+Beschleunigungstrank,,,"Constantino, Sagitta, Ignaz",,,,,"1x reiner Alkohol, 1x Stachelkraut,
+1x Feldklee",,,,"Unrentabel. Gibt 2 Minuten kostenlosen normalen Sprint.
+In Kap. 3-4 erhalten wir kostenloses Schwarzer-Schnapper-Rezept.",,,,,,,,,,,3LP
+Doppel-Beschleunigungstrank,,,"Constantino, Sagitta",,,,,"1x reiner Alkohol,
+1x Beschleunigungstrank,
+1x Feldklee",,,,"Unrentabel. Gibt 4 Minuten kostenlosen normalen Sprint.
+In Kap. 3-4 erhalten wir kostenloses Schwarzer-Schnapper-Rezept.",,,,,,,,,,,5LP
+Schwarzer Schnapper,,,Rezept liegt in Ahirons Truhe in neuen Gebieten und vom Boss im Wüstenturm,,,,,"1x reiner Alkohol, 1x Schwarzschnapper-Leber, 1x Grog, 1x Feldklee",,,,"Einziger Geschwindigkeitstrank der sich lohnt, Zutaten sind allgemein verfügbar.",,,,,,,,,,,----

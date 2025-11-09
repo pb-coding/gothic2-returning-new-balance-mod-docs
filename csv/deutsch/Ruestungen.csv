@@ -1,0 +1,156 @@
+NAME,,,,ANFORDERUNGEN,,HIEB,STUMPF,STICH,FEUER,MAGIE,SONSTIGES,,BESCHREIBUNG
+,,,,,,,,,,,,,
+"GILDENKLEIDUNG BEFINDET SICH IN IHREN EIGENEN ARBEITSBLÄTTERN, KLICKEN SIE AUF DEN LINK UNTEN",,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+GARDIST / PALADIN,,,,,,,,,FEUERMAGIER,,,,
+,,,,,,,,,,,,,
+SÖLDNER / DRACHENJÄGER,,,,,,,,,WASSERMAGIER,,,,
+,,,,,,,,,,,,,
+TEMPELWÄCHTER,,,,,,,,,GURU,,,,
+,,,,,,,,,,,,,
+DUNKLER RITTER,,,,,,,,,NEKROMANT,,,,
+,,,,,,,,,,,,,
+DÄMONENJÄGER,,,,,,,,,SCHWARZMAGIER,,,,
+,,,,,,,,,,,,,
+KUNDSCHAFTER,,,,,,,,,BESCHWÖRER,,,,
+,,,,,,,,,,,,,
+SCHAMANE,,,,,,,,,DRUIDE,,,,
+,,,,,,,,,,,,,
+"NEUTRALE KLEIDUNG, VERFÜGBAR FÜR JEDE GILDE:",,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+DIEBESGILDE IN KHORINIS,,,,,,,,,,,,,
+Taschendieb-Rüstung,,,,Geschicklichkeit 35 Gewicht 0,,20,10,15,5,5,Ausweichen 10%,,Verkauft Jasper
+Geschmiedete Taschendieb-Rüstung,,,,Geschicklichkeit 40 Gewicht 0,,30,20,20,5,5,Ausweichen 10%,,Grundlegendes Schmieden (Carl / Gildenschmiede)
+Alte Schattenrüstung,,,,"Gewicht 1
+Haltbarkeit 50 ",,30,30,15,0,0,"Ausweichen 10% Sturz 0,5",,"Truhe von Rączka in den Kanälen, Schlüssel gibt Jasper"
+Geschmiedete alte Schattenrüstung,,,,"Gewicht 1
+Haltbarkeit 50 ",,45,45,20,5,0,"Ausweichen 10% Sturz 0,5",,Grundlegendes Schmieden (Carl / Gildenschmiede)
+Diebesrüstung,,,,Geschicklichkeit 50 Gewicht 0,,40,20,10,5,5,Ausweichen 10%,,Verkauft Jasper (2K oder 1K bei hohem Ruf durch Aufträge) 
+Geschmiedete Diebesrüstung,,,,Geschicklichkeit 60 Gewicht 0,,60,30,30,5,5,Ausweichen 10%,,Grundlegendes Schmieden (Carl / Gildenschmiede)
+Räuberrüstung,,,,"Geschicklichkeit 110 Gewicht 1
+Haltbarkeit 100",,70,50,30,10,5,Ausweichen 10%,,Verkauft Jasper (2K Keine Rufanforderung)
+Geschmiedete Räuberrüstung,,,,"Geschicklichkeit 120 Gewicht 1
+Haltbarkeit 100",,85,60,45,15,5,Ausweichen 10%,,Grundlegendes Schmieden (Carl / Gildenschmiede)
+Schurkenrüstung,,,,"Geschicklichkeit 150 Gewicht 2
+Haltbarkeit 150",,90,60,70,15,10,Ausweichen 10%,,Verkauft Jasper (2K Keine Rufanforderung)
+Geschmiedete Schurkenrüstung,,,,"Geschicklichkeit 150 Gewicht 2
+Haltbarkeit 150",,110,80,90,25,20,Ausweichen 10%,,Grundlegendes Schmieden (Carl / Gildenschmiede)
+Geistrüstung,,,,"Geschicklichkeit 180 Gewicht 2
+Haltbarkeit 250",,120,80,100,20,15,Ausweichen 10%,,Verkauft Jasper (2K Keine Rufanforderung)
+Geschmiedete Geistrüstung,,,,"Geschicklichkeit 180 Gewicht 2
+Haltbarkeit 250",,140,95,110,30,25,Ausweichen 10%,,Grundlegendes Schmieden (Carl / Gildenschmiede)
+Meisterdieb-Rüstung,,,,"Geschicklichkeit 230 Gewicht 3
+Haltbarkeit 350",,140,110,130,25,20,Ausweichen 10% Sturz 2,,Verkauft Jasper (3K oder 2K bei hohem Ruf durch Aufträge) 
+Geschmiedete Meisterdieb-Rüstung,,,,"Geschicklichkeit 230 Gewicht 3
+Haltbarkeit 350",,160,135,140,35,35,Ausweichen 10% Sturz 3,,Grundlegendes Schmieden (Carl / Gildenschmiede)
+Diebekönig-Rüstung,,,,"Geschicklichkeit 350 Gewicht 5
+Haltbarkeit 500",,170,160,120,30,25,Ausweichen 10% Sturz 3,,Verkauft Jasper (3K)
+Geschmiedete Diebekönig-Rüstung,,,,"Geschicklichkeit 350 Gewicht 5
+Haltbarkeit 500",,190,180,140,45,45,Ausweichen 10% Sturz 4,,Fortgeschrittenes Schmieden (Darion / Gildenschmiede)
+JÄGERLAGER IN KHORINIS,,,,,,,,,,,,,
+Wolfsfelrüstung,,,,"Haltbarkeit 150
+Gewicht 1",,60,40,30,10,10,LP 35 Sturz 1,,"Lehrt Falk für Trophäe vom Wolfsboss neben dem Steinkreis 
+im Dunklen Wald, dort wo wir das Ornament holen"
+Wargrüstung,,,,"Haltbarkeit 250
+Gewicht 1",,90,60,75,15,10,LP 60 Sturz 2,,"Lehrt Falk für Trophäe vom Warg-Boss beim Schrein des dunklen Mentors hinter Onars Farm, tief im Wald"
+Trollrüstung,,,,"Haltbarkeit 400
+Gewicht 2",,150,150,130,40,20,LP 170 Sturz 3,,"Lehrt Falk für Trophäe vom Troll aus Netbeks Mission / Thatchs Schatz
+(Lutero nimmt nur 1 Stoßzahn, den zweiten kann man verwenden)"
+Meisterjäger-Rüstung,,,,"Haltbarkeit 550
+Gewicht 3",,190,160,120,50,25,LP 200 Sturz 4,,Lehrt Falk für Trophäe vom Schwarzen Troll in der Wüste
+BANDITEN AUS JARKENDARU,,,,,,,,,,,,,
+Leichte Banditenrüstung,,,,Gewicht 1,,45,25,10,0,0,LP 25,,Gibt Greg für das Säubern der Schlucht von Rasierklingen
+Banditenrüstung,,,,"Gewicht 1
+Haltbarkeit 150",,60,30,15,0,0,---,,Verkauft Huno
+Schwere Banditenrüstung,,,,"Gewicht 2
+Haltbarkeit 200",,70,40,20,0,0,---,,Verkauft Huno
+Schwere Gardenrüstung,,,,"Stärke 105 Gewicht 3
+Haltbarkeit 300",,110,100,90,0,0,LP 100,,Gibt Thorus nach Vertreibung von Raven aus Jarkendaru
+Geschmiedete schwere Gardenrüstung,,,,"Stärke 100 Gewicht 3
+Haltbarkeit 350",,120,120,100,15,15,LP 150,,Grundlegendes Schmieden (Carl / Gildenschmiede)
+PIRATEN AUS JARKENDARU,,,,,,,,,,,,,
+Leichte Piratenrüstung,,,,Gewicht 2,,60,50,35,0,0,Ausweichen 10% Sturz 1,,Gibt Greg nach Auftrag für Schluchten-Mission
+Piratenrüstung,,,,Gewicht 2,,80,70,60,20,10,Ausweichen 10% Sturz 2,,Verkauft Greg
+Schwere Piratenrüstung,,,,Gewicht 3,,105,100,90,15,15,Ausweichen 10% Sturz 3,,Verkauft Greg nach Vertreibung von Raven aus Jarkendaru
+ASSASSINEN / MASYAF,,,,,,,,,,,,,
+Masyaf-Schattenrüstung,,,,Gewicht 2,,110,80,60,15,5,Sturz 3,,Fällt vom Assassinen zu Beginn des Masyaf-Handlungsstrangs
+Assassinenrüstung,,,,"Geschicklichkeit 400 Gewicht 5
+Haltbarkeit 600",,200,190,220,90,40,Ausweichen 10% Sturz 3,,Gibt Gonzales nach Abschluss des Masyaf-Handlungsstrangs
+Geschmiedete Assassinenrüstung,,,,"Geschicklichkeit 400 Gewicht 4
+Haltbarkeit 650",,210,215,230,100,60,Ausweichen 15% Sturz 3,,Fortgeschrittenes Schmieden (Darion / Gildenschmiede)
+Masyaf-Priorenrüstung,,,,"Stärke 200 Gewicht 2
+Haltbarkeit 500",,240,240,220,40,45,LP 250 Sturz 6,,Liegt im Geheimraum im Masyaf-Heiligtum
+Geschmiedete Masyaf-Priorenrüstung,,,,"Stärke 250 Gewicht 2
+Haltbarkeit 550",,280,280,250,40,45,LP 300 Sturz 8,,Fortgeschrittenes Schmieden (Darion / Gildenschmiede)
+MÖRDERGILDE IN KHORINIS,,,,,,,,,,,,,
+Mörderrüstung,,,,Gewicht 1,,50,40,35,5,5,Ausweichen 10%,,Gibt Asmal nach Tötung von Lehmar
+Geschmiedete Mörderrüstung,,,,Gewicht 1,,60,55,45,10,10,Ausweichen 10%,,Grundlegendes Schmieden (Carl / Gildenschmiede)
+Meistermörder-Rüstung,,,,Gewicht 2,,70,50,45,15,5,Ausweichen 10%,,Erhalten nach Tötung von Asmal
+Geschmiedete Meistermörder-Rüstung,,,,Gewicht 3,,90,80,50,25,10,Ausweichen 10%,,Grundlegendes Schmieden (Carl / Gildenschmiede)
+ORK-SÖLDNER-RÜSTUNGEN,,,,,,,,,,,,,
+Ork-Kundschafter-Rüstung,,,,"Geschicklichkeit 300 Gewicht 3
+Haltbarkeit 450",,150,180,170,25,35,Ausweichen 10% Sturz 3,,Zur Auswahl nach Tötung des Dämons in der Orkmine von Ur-Thrall
+Geschmiedete Ork-Kundschafter-Rüstung,,,,"Geschicklichkeit 330 Gewicht 3
+Haltbarkeit 500",,175,210,210,35,55,Ausweichen 10% Sturz 4,,Fortgeschrittenes Schmieden (Darion / Gildenschmiede)
+Ork-Söldner-Rüstung,,,,"Stärke 300 Gewicht 5
+Haltbarkeit 650",,220,220,200,40,40,LP 300 Sturz 5,,Zur Auswahl nach Tötung des Dämons in der Orkmine von Ur-Thrall
+Geschmiedete Ork-Söldner-Rüstung,,,,"Stärke 350 Gewicht 5
+Haltbarkeit 700",,245,245,220,50,50,LP 350 Sturz 5,,Fortgeschrittenes Schmieden (Darion / Gildenschmiede)
+Ork-Söldner-Robe,,,,Mana 600 Gewicht 4,,120,130,100,110,50,---,,Zur Auswahl nach Tötung des Dämons in der Orkmine von Ur-Thrall
+RÜSTUNGEN VON GINNOK /,,,,,,,,,VERLORENER BRUDER (ENDGAME),,,,
+Blutrobe,,,,Mana 1200 Gewicht 2,,200,210,200,230,200,"25 Int, 30% Chance auf +5% Mana pro Tötung",,Nach Tötung von Ile'Sil auf dem Verlorenen Bruder
+Robe des Gleichgewichtshüters,,,,Mana 1200 Gewicht 2,,200,210,200,230,230,"Intelligenz 25, Ausweichen 12%",,"Nach Tötung von Ile'Sil auf dem Verlorenen Bruder
+(Gute Gilden statt Blutrobe)"
+Er'hazir-Rüstung,,,,"Geschicklichkeit 500 Gewicht 4
+Haltbarkeit 800",,275,275,240,165,185,LP 275 Sturz 9,,Fällt vom Geisterboss auf dem Verlorenen Bruder
+Geschmiedete Er'hazir-Rüstung,,,,"Geschicklichkeit 550 Gewicht 4
+Haltbarkeit 850",,290,290,265,180,200,LP 320 Sturz 9,,Schmieden der Er'hazir-Rüstung
+Blutrüstung,,,,"Stärke 625 Gewicht 6
+Haltbarkeit 900",,320,320,320,170,170,LP 500 Sturz 12 stellt 200 LP pro Tötung wieder her,,Ile'Sil auf dem Verlorenen Bruder
+Rüstung der Dunkelheit,,,,"Geschick 600 Gewicht 4
+Haltbarkeit 850",,340,325,360,190,220,Ausweichen 15% Sturz 12,,Besiege Ginnok in Kapitel 5 mit mehr Geschicklichkeit als Stärke
+Rüstung des Lichts,,,,"Stärke 625 Gewicht 6
+Haltbarkeit 900",,350,350,350,100,100,LP 500 Sturz 15,,Besiege Ginnok in Kapitel 5 mit mehr Stärke als Geschicklichkeit
+Drachentöter-Rüstung,,,,"Stärke 550 Gewicht 6
+Haltbarkeit 950",,390,390,300,150,130,LP 600 Sturz 15,,Bennet fertigt sie in Kapitel 6 auf Irdorath
+SONSTIGES,,,,,,,,,,,,,
+Novizen-Stirnband,,,,---,,5,0,0,0,0,---,,Liegt neben Lester im Tal unter Xardas' Turm
+Bauernkleidung,,,,---,,15,0,0,0,0,---,,Verkauft Lobart nach Erledigung der Farmaufgaben
+Bürgerkleidung,,,,---,,10,10,5,0,0,---,,"Verkaufen Matteo und Hanna
+Liegt im Lager links vom Südtor"
+Schmiedlehrling-Kleidung,,,,---,,15,10,0,0,5,---,,Werde Lehrling von Harad
+Alchemisten-Kleidung,,,,---,,15,10,5,0,5,---,,Werde Lehrling von Constantino
+Luxuriöse Bürgerkleidung,,,,---,,20,10,5,0,0,---,,"Auf dem Dach von Gerbrandts Haus in der Oberstadt
+(Beste Option für Pablos Auftrag)"
+Lederrüstung,,,,Gewicht 1,,25,15,10,0,0,Ausweichen 10%,,"Geben Jäger und Bosper seinem Lehrling
+Verkauft Orlan in der Taverne Tote Harpie"
+Schwere Lederrüstung,,,,Gewicht 1,,30,20,15,0,0,Ausweichen 10%,,Verkauft Bosper an Lehrling
+Abenteurer-Rüstung,,,,---,,40,35,40,0,0,---,,Verkauft Alrik für 500 Gold
+Wasserkreis-Rüstung,,,,Gewicht 1,,60,65,50,10,10,LP 25,,"Erhalten nach Beitritt zum Wasserkreis
+(Bringe Ornamente zu den Wassermagiern und setze Fernando fest)"
+Geschmiedete Wasserkreis-Rüstung,,,,Gewicht 2,,80,85,75,15,20,LP 50,,Grundlegendes Schmieden (Carl / Gildenschmiede)
+Kriecher-Plattenrüstung,,,,"Stärke 65 Gewicht 1
+Haltbarkeit 150",,50,60,70,15,5,LP 100,,"Fertigt Wolf für uns in der Aufgabe ""Rüstung für Barem"""
+Geschmiedete Kriecher-Plattenrüstung,,,,"Stärke 80 Gewicht 2
+Haltbarkeit 150",,70,80,90,25,10,LP 125,,Grundlegendes Schmieden (Carl / Gildenschmiede)
+Robe des uralten Priesters,,,,Mana 250 Gewicht 1,,75,50,40,40,50,---,,In Truhe in der Bibliothek in Jarkendaru
+Schwere Schattenrüstung,,,,"Geschick 100 Gewicht 2
+Haltbarkeit 250",,100,100,90,0,0,"Ausweichen 10% Sturz 2
+Bogen | 1H +5%
+",,"Truhe von Rączka im Minental
+Braucht 250 Geschicklichkeit und bestehle Rączka in Azgan"
+Geschmiedete schwere Schattenrüstung,,,,"Geschick 150 Gewicht 2
+Haltbarkeit 300",,140,130,110,0,0,"Ausweichen 10% Sturz 3
+Bogen | 1H +5%",,Fortgeschrittenes Schmieden (Darion / Gildenschmiede)
+Stahlrüstung,,,,"Stärke 250 Gewicht 3
+Haltbarkeit 350",,150,120,100,15,25,---,,Gibt Erol nach Abschluss des Lager-Handlungsstrangs
+Geschmiedete Stahlrüstung,,,,"Stärke 275 Gewicht 3
+Haltbarkeit 350",,165,140,120,20,45,---,,Fortgeschrittenes Schmieden (Darion / Gildenschmiede)
+Magnaten-Rüstung,,,,"Stärke 160 Gewicht 3
+Haltbarkeit 400",,150,150,140,10,10,LP 175,,Liegt in der Truhe des Magnaten in der Steinfestung im MT
+Geschmiedete Magnaten-Rüstung,,,,"Stärke 230 Gewicht 4
+Haltbarkeit 450",,180,180,160,20,20,LP 235,,Fortgeschrittenes Schmieden (Darion / Gildenschmiede)
+Robe des Uralten Magiers,,,,Mana 550 Gewicht 2,,175,175,150,120,110,---,,"In der Schmerzhöhle im Minental
+(Kapitel 3, Aufgabe Antiken)"

@@ -1,0 +1,219 @@
+Verbesserungen sind standardmäßig deaktiviert. Um das Spiel mit Verbesserungen zu starten muss extModeActivate auf 1 in Gothic.ini gesetzt werden ,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+"Verbesserung von Gegenständen erfolgt am Amboss.
+Dies kann max. 5 mal gemacht werden. Wir lernen es aus einer Notiz von Lutero/Hakon für 3LP",,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+"Bei der Verbesserung von Schmuck wählen wir die Statistik (Stärke / Geschicklichkeit / Mana), die während der Verbesserung steigen wird
+Waffen aus verschiedenen Spielphasen benötigen immer vielfältigere Materialien, sowie
+erhöhte Materialmengen im Vergleich zur vorherigen Verbesserung",,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+Verbesserungsstufe,"Rüstung
+(Widerstandswerte steigen)",,,,"Nahkampfwaffen
+(Schaden steigt)",,,,"Fernkampfwaffen
+(Schaden steigt)",,,,"Helm
+(Widerstandswerte steigen)",,,,"Amulette
+(Statistik steigt)",,,,,"Ringe
+(Statistik steigt)"
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+1,Reißzähne Wolfsfell Magisches Erz,,,,"Reißzähne Wolfsfell Magisches Erz
+Eisenbarren",,,,Wolfsfell Holzstück Stahlstab,,,,Reißzähne Wolfsfell Magisches Erz,,,,Magisches Erz Eisenbrocken,,,,,Magisches Erz Eisenbrocken
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+2,"Reißzähne Wolfsfell Magisches Erz
+Stahlstab Klauen Eisenbrocken",,,,"Reißzähne Wolfsfell Magisches Erz
+Eisenbarren Wildschweinfell Wargfell",,,,"Wolfsfell Holzstück Stahlstab
+Ulmenstück Wargfell",,,,"Reißzähne Wolfsfell Magisches Erz
+Stahlstab Eisenbrocken",,,,"Magisches Erz Eisenbrocken Klauen
+Schwarze Perle Stahlstab",,,,,"Magisches Erz Eisenbrocken Klauen
+Schwarze Perle Stahlstab"
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+3,"Reißzähne Wolfsfell Magisches Erz Stahlstab
+Klauen Eisenbrocken Echsenhaut Wildschweinfell
+Krabblerpanzerplatten",,,,"""Reißzähne Wolfsfell Magisches Erz
+Eisenbarren Wildschweinfell Wargfell Goldbarren Schwarze Perle Eisenbrocken",,,,"Wolfsfell Holzstück Stahlstab
+Ulmenstück Wargfell
+Schwarze Perle Eisenbrocken Goldbarren",,,,"""Reißzähne Wolfsfell Magisches Erz
+Stahlstab Eisenbrocken Echsenhaut
+Wildschweinfell Krabblerpanzerplatten",,,,"Magisches Erz Eisenbrocken Klauen
+Schwarze Perle Stahlstab Goldbarren
+Krabblerkiefer Schattenläuferhorn",,,,,"Magisches Erz Eisenbrocken Klauen
+Schwarze Perle Stahlstab Goldbarren
+Krabblerkiefer Schattenläuferhorn"
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+4,"""Reißzähne Wolfsfell Magisches Erz Stahlstab
+Klauen Eisenbrocken Echsenhaut Wildschweinfell
+Krabblerpanzerplatten Wargfell
+Schattenläuferhorn Trollhaut",,,,"Reißzähne Wolfsfell Magisches Erz
+Eisenbarren Wildschweinfell Wargfell Goldbarren Schwarze Perle Eisenbrocken Trollhaut Schattenläuferhorn",,,,"Wolfsfell Holzstück Stahlstab
+Ulmenstück Wargfell Schwarze Perle Eisenbrocken Goldbarren Trollhaut Schattenläuferhorn",,,,"Reißzähne Wolfsfell Magisches Erz Klauen
+Stahlstab Eisenbrocken Echsenhaut
+Wildschweinfell Krabblerpanzerplatten 
+Wargfell Schattenläuferhorn Trollhaut",,,,"Magisches Erz Eisenbrocken Klauen
+Schwarze Perle Stahlstab Goldbarren
+Krabblerkiefer Drachenzahn",,,,,"""Magisches Erz Eisenbrocken Klauen
+Schwarze Perle Stahlstab Goldbarren
+Krabblerkiefer Schattenläuferhorn"
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+5,"Reißzähne Wolfsfell Magisches Erz Stahlstab
+Klauen Eisenbrocken Echsenhaut Wildschweinfell
+Krabblerpanzerplatten  Wargfell
+Schattenläuferhorn Trollhaut
+Schwarztrollhaut",,,,"Reißzähne Wolfsfell Magisches Erz
+Eisenbarren Wildschweinfell Wargfell Goldbarren Schwarze Perle Eisenbrocken Trollhaut Schattenläuferhorn Krabblerei
+Schwarztrollhaut Schwarzes Erz",,,,"Wolfsfell Holzstück Stahlstab Ulmenstück Wargfell
+Schwarze Perle Eisenbrocken Goldbarren Trollhaut Schattenläuferhorn
+Schwarzes Erz Schwarztrollhaut",,,,"Reißzähne Wolfsfell Magisches Erz Stahlstab
+Eisenbrocken Echsenhaut Wildschweinfell Klauen
+Krabblerpanzerplatten Wargfell
+Schattenläuferhorn Trollhaut
+Schwarztrollhaut",,,,"Magisches Erz Eisenbrocken Klauen
+Schwarze Perle Stahlstab Goldbarren
+Krabblerkiefer Drachenzahn
+ Krabblerei",,,,,"""Magisches Erz Eisenbrocken Klauen
+Schwarze Perle Stahlstab Goldbarren
+Krabblerkiefer Schattenläuferhorn
+ Krabblerei"
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+SIEGEL UND IHRE FUNDORTE,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+"Siegel finden wir in der Spielwelt von Bossen und Truhen, und setzen sie mit Hilfe eines Handwerkstisches ein (z.B. bei Thorben oder in Dexters Lager)
+In Waffen können maximal 10 Siegel eingesetzt werden (müssen nicht vom gleichen Typ sein).
+Ein Siegel fügt 10 Schadenspunkte hinzu. Siegel können nicht aus Waffen entfernt werden.
+Feuer- und Magiesiegel erhöhen nicht nur den Waffenschaden, sondern auch den Schaden unserer Zauber.",,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+Siegel der Präzision,,,,Siegel des Riesen,,,,,,Siegel des Fechters,,,,,Siegel des Feuers,,,,,Siegel der Magie,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+"Fügt der Waffe
+Stichschaden hinzu",,,,"Fügt der Waffe
+Stumpfschaden hinzu",,,,,,"Fügt der Waffe
+Hiebschaden hinzu",,,,,"Fügt der Waffe
+Feuerschaden hinzu",,,,,"Fügt der Waffe
+Magieschaden hinzu",,
+"KHORINIS, FORT AZGAN, ASSASSINENWALD, ETLU",,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+In Truhe in einem der Räume in der Toten Harpyie,,,,In Truhe in Höhle neben Sammler-Lager beim Schwarzen Troll,,,,,,In Truhe neben Bandit Brzytwa,,,,,Truhe in Pyrokars Raum im Kloster,,,,,In Truhe in Vinos Brennerei,,
+,,,,,,,,,,,,,,,,,,,,,,
+In Truhe der Banditen neben Brücke bei Akils Farm,,,,In Sarkophag in Höhle in Lesters Tal,,,,,,"In Fischkopf, Wasserleiche Erol",,,,,Truhe bei Sekob (3. Kapitel),,,,,In Truhe von Ulf im Kloster,,
+,,,,,,,,,,,,,,,,,,,,,,
+In Truhe im Diebeskeller,,,,Truhe in einer der Hütten im Bruderschaftslager,,,,,,Truhe in Luteros Haus im Obergeschoss,,,,,"Truhe in Skelett-Mine
+hinter Dexters Lager",,,,,Rechte Truhe im Klosterkeller,,
+,,,,,,,,,,,,,,,,,,,,,,
+Fällt von Boss Ungoliath (2 Stück),,,,Fällt von Wildschwein Karthus,,,,,,"In Truhe beim Geist in Höhle unter
+Sonnenkreis",,,,,In Höhle mit Schattenläufern unter Brücke zu Wassermagier-Ausgrabungen,,,,,In Truhe bei Matteo,,
+,,,,,,,,,,,,,,,,,,,,,,
+Fällt von Boss Steinbrecher,,,,Am Strand bei Palme direkt neben Eingang zu Fort Azgan,,,,,,In Truhe im Lager in Fort Azgan,,,,,Fällt von Ur-Azog (2 Stück),,,,,Fällt von Boss Lucian (2 Stück),,
+,,,,,,,,,,,,,,,,,,,,,,
+Bei Schattenläufer in Fort Azgan,,,,In Truhe im Lager in Fort Azgan,,,,,,Am Strand bei Palme direkt neben Eingang zu Fort Azgan,,,,,Fällt von Boss Feueratem (2 Stück),,,,,"In Truhe im Lager in Fort Azgan
+(2 Stück)",,
+,,,,,,,,,,,,,,,,,,,,,,
+In Truhe oben beim Goblin-Lager in Fort Azgan,,,,In einem der Stollen der Schwefelmine im Assassinenwald,,,,,,In einem der Stollen der Schwefelmine im Assassinenwald,,,,,Fällt von Boss Grimgash (2 Stück),,,,,"Bei Schrein bei Osairas Höhle
+im Assassinenwald",,
+,,,,,,,,,,,,,,,,,,,,,,
+"In Truhe in einem der Gebäude auf
+Insel Etlu (2 Stück)",,,,In Truhe in einem der Gebäude auf Insel Etlu (2 Stück),,,,,,Fällt von Haniar im Assassinenwald,,,,,In Truhe unter Palme in Fort Azgan,,,,,"In Truhe hinter Salantinos Hütte auf Etlu
+(2 Stück)",,
+,,,,,,,,,,,,,,,,,,,,,,
+Liegt in Osairas Höhle im Assassinenwald,,,,Fällt von Haniar im Assassinenwald,,,,,,In Truhe in einem der Gebäude auf Insel Etlu (2 Stück),,,,,In Truhe im Lager in Fort Azgan,,,,,Fällt von Cor Kalom im Assassinenwald,,
+,,,,,,,,,,,,,,,,,,,,,,
+Fällt von Nebiros im Assassinenwald,,,,Fällt von Gavin auf Etlu,,,,,,Fällt von Gavin auf Etlu,,,,,"Neben Sklaven in Osairas Höhle
+im Assassinenwald",,,,,Fällt von Magnus auf Etlu,,
+,,,,,,,,,,,,,,,,,,,,,,
+In Truhe in Vatras' Haus,,,,Fällt von Cor Kalom im Assassinenwald,,,,,,Fällt von Izu'Tzeld aus dem Dunklen Netz,,,,,"In Truhe in einem der Gebäude
+auf Insel Etlu",,,,,Fällt von Magnus auf Etlu,,
+,,,,,,,,,,,,,,,,,,,,,,
+JARKENDAR UND ASHTARA-TAL,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+In Truhe im Sumpftempel,,,,In Truhe in Juans Höhle,,,,,,"In Truhe auf Felsen im Sumpf
+über Teleporter",,,,,In Quahodrons Sarkophag,,,,,In Truhe in Lous Lager,,
+"Truhe auf Spitze des Banditenturms, neben Piratenlager",,,,"Truhe in Mine in Schlucht
+neben Teleporter zur Wüste",,,,,,Truhe in Ruinen vor Quahodrons Grab,,,,,Truhe im linken Seitengang vor Rademes in Adanos-Tempel,,,,,Truhe im rechten Seitengang vor Rademes in Adanos-Tempel,,
+In Truhe in Goblinhöhle unter schwarzem Troll,,,,Truhe in Skips Hütte im Piratenlager,,,,,,Truhe bei Beliars Schrein neben Eremit,,,,,Truhe im Ork-Schamanen-Zelt in Schlucht,,,,,Truhe in Bibliothek in Schlucht,,
+"In Truhe des Diebs im Ashtara-Tal
+(2 Stück)",,,,In Truhe des Diebs im Ashtara-Tal,,,,,,"In Truhe des Diebs im Ashtara-Tal
+(2 Stück)",,,,,In Sarkophag in Goldmine bei Banditen,,,,,In Truhe des Magiers im Ashtara-Tal (2 Stück),,
+"In Truhe des Kriegers im Ashtara-Tal
+(2 Stück)",,,,"In Truhe des Kriegers im Ashtara-Tal
+(2 Stück)",,,,,,"In Truhe des Kriegers im Ashtara-Tal
+(2 Stück)",,,,,In Truhe des Magiers im Ashtara-Tal (3 Stück),,,,,Fällt von Sumpfdrohne Zestoblum,,
+Fällt von Boss Warge Gaalar (2 Stück),,,,Fällt von Boss Alligator,,,,,,Fällt von Warg Teneklyk,,,,,Fällt von Spinne Ageliadas in Jarkendar,,,,,Fällt von Dämon Keyron,,
+Fällt von Boss Puma (2 Stück),,,,"Fällt von Boss Spinnen im Sumpftempel",,,,,,Fällt von Boss Alligator,,,,,Fällt von Dämon Keyron,,,,,Fällt von Kapitän Drake,,
+"Fällt von Boss Garantul
+(Spinne im Sumpftempel)",,,,Fällt von Aasfresser,,,,,,Fällt von Aasfresser,,,,,Fällt von Kapitän Drake,,,,,Von Boss Schamanen im Kriegertempel,,
+Fällt von Boss Schamanen im Goblintempel (2 Stück),,,,Fällt von Bloodwyn,,,,,,"Fällt von Boss Schamanen im Tempel
+neben schwarzem Troll",,,,,Von Boss Schamanen im Sumpftempel,,,,,,,
+,,,,"Fällt von Boss Schamanen im Tempel
+neben schwarzem Troll",,,,,,,,,,,,,,,,,,
+ADANOS-WÜSTE UND TRÄNENTEMPEL,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+"In Truhe mit Adanos-Krone
+im Sanktuarium der Wahrheit",,,,"In Truhe mit Adanos-Krone
+im Sanktuarium der Wahrheit",,,,,,"In Truhe mit Adanos-Krone
+im Sanktuarium der Wahrheit",,,,,"In Truhe mit Adanos-Krone
+im Sanktuarium der Wahrheit",,,,,"In Truhe mit Adanos-Krone
+im Sanktuarium der Wahrheit",,
+In Oase nahe Imarahs Turm,,,,In Truhe im Goblin-Lager,,,,,,In Oase in Kleiner Pyramide,,,,,In Oase in Kleiner Pyramide,,,,,In Imarahs Turm,,
+In Oase nahe Imarahs Turm,,,,"In Großer Pyramide, auf einem der Altäre",,,,,,In Truhe im Goblin-Lager,,,,,Bei Wasserkessel neben Magolemus,,,,,Fällt von Im'Arah (2 Stück),,
+"In einem der Respawns der Steinwächter
+rechts vom Gazkul-Felsen",,,,Im Ogerlager vor Großer Pyramide,,,,,,In Oase neben Höhle mit Drachenei,,,,,Fällt von Magolemus (2 Stück),,,,,Fällt von Meliax im Tränentempel,,
+Links vor Boss Steinwächter im Tränentempel,,,,Rechts vom Eingang zum Tränentempel,,,,,,"In Höhle mit Erzfressern
+unter Tränentempel",,,,,Fällt von Malsur im Tränentempel,,,,,Fällt von Goblin Shakzi,,
+Fällt von Ishi'Kurat (2 Stück),,,,Fällt von Amul'Sah (2 Stück),,,,,,Fällt von Amul'Rough (2 Stück),,,,,Fällt von Im'Arah (2 Stück),,,,,,,
+BERGBAUTAL UND SEINE UNTERLOKATIONEN,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+In Truhe auf Dach über arbeitenden Sklaven in Burg,,,,In Truhe in einer der Hütten im Kessel der Freien Mine,,,,,,In Truhe neben Darrion im Kloster der Gestaltwandler,,,,,In Truhe in einem der Räume in Garonds Gebäude,,,,,In Truhe auf Ork-Drakkar,,
+In Truhe im Turm mit Gomez,,,,In Truhe in Höhle mit Schattenläufer bei Küste neben Alter Mine,,,,,,In Truhe neben Darrion im Kloster der Gestaltwandler,,,,,In Truhe im Paladin-Lager,,,,,"In Truhe mit Dokumenten für Saturas
+neben Eisdrache",,
+In Truhe im Turm rechts von Udar,,,,In Truhe auf Ork-Drakkar,,,,,,In Truhe von Rączka,,,,,In Truhe in Fallenhöhle vor Eisbiom,,,,,"In Truhe in einem der Räume
+in Garonds Gebäude",,
+In Truhe in Krypta mit Chromanin,,,,In Truhe neben Feuerechsen hinter Palisade,,,,,,In Truhe des Sumpfdrachen,,,,,In Truhe auf Mauer vor Kloster der Gestaltwandler,,,,,In Raum wo Kreol steht,,
+In Truhe im Lager in Alter Mine,,,,In Truhe bei Ians Arbeitsplatz in Alter Mine,,,,,,"In Truhe im Zelt auf dem Weg
+zur Freien Mine",,,,,In Truhe in Xardas' Versunkenen Turm,,,,,In verstecktem Raum bei Kreol,,
+"Fällt von Agat, Eiswolf",,,,Fällt von Wildschwein Vetrinus,,,,,,In Truhe auf Gerüst in Alter Mine,,,,,In Truhe in Xardas' Versunkenen Turm,,,,,In Truhe in Xardas' Versunkenen Turm,,
+Fällt von Harpyie Ryukyava,,,,Fällt von Dämon in Ork-Mine,,,,,,"In Truhe bei Ians Arbeitsplatz
+in Alter Mine",,,,,"In Truhe bei Ians Arbeitsplatz
+in Alter Mine",,,,,In Truhe im Lager in Alter Mine,,
+Fällt von Spinne Anansay (2 Stück),,,,Fällt von Malbar,,,,,,In Truhe in Höhle des Schmerzes (2 Stück),,,,,In Truhe in Höhle des Schmerzes (2 Stück),,,,,Fällt von Goblin Resheb,,
+"Fällt von Dämon in Ork-Mine
+(2 Stück)",,,,Fällt von Steindrache (5 Stück),,,,,,Fällt von Beißer Kostoglod,,,,,Fällt von Dämon Teamruk,,,,,Fällt von Golem Oktogor,,
+In Truhe im Lager hinter Ur-Thrall,,,,In Truhe in Schmiede in Ork-Stadt,,,,,,Fällt von Flussschlange,,,,,Fällt von Hosh-Pak (2 Stück),,,,,Fällt von Dämon Teamruk,,
+Fällt von Titrax im Alten Bruderschaftslager,,,,In Truhe in einem der Wohnräume der Orks neben Ur-Karras,,,,,,Fällt von Malbar,,,,,Fällt von Hosh-Pak,,,,,In Truhe neben Ur-Thrall,,
+In Truhe neben Erzhaufen in Ork-Mine,,,,Fällt von Sphärenwächter in Alter Mine,,,,,,Liegt auf unterer Ebene der Ork-Mine,,,,,Fällt von Feuerdrache (5 Stück),,,,,Fällt von Eisdrache (5 Stück),,
+"Liegt auf unterer Ebene der Ork-Mine
+(2 Stück)",,,,Im Tempel des Träumenden im Raum mit zerquetschender Decke,,,,,,"Im Seitengang rechts vom AUSGANG
+aus Ork-Stadt",,,,,Liegt auf unterer Ebene der Ork-Mine,,,,,Fällt von Actameron (2 Stück),,
+In Truhe im Lager in Ork-Stadt,,,,,,,,,,In Truhe neben Tag-Nor in Ork-Stadt,,,,,Fällt von Sphärenwächter des Felsens,,,,,Liegt auf unterer Ebene der Ork-Mine,,
+In Truhe hinter Gitter neben Schamane in Ork-Stadt,,,,,,,,,,Fällt von Miragul in Höhle des Schmerzes,,,,,In Truhe hinter Gitter neben Schamane in Ork-Stadt (2 Stück),,,,,Fällt von Sphärenwächter des Felsens,,
+Fällt von Shiva in Alter Mine,,,,,,,,,,Fällt von Likerh im Tempel des Träumenden,,,,,Fällt von Hoshkar im Tempel des Träumenden,,,,,In Truhe neben Ur-Thrall,,
+Fällt von Sphärenwächter in Alter Mine,,,,,,,,,,Liegt bei Notiz von Geistern der Vergangenheit im Tempel des Träumenden,,,,,"Im Raum mit Hoshkar, bei umgestürzter Säule",,,,,"In Truhe über Grab nahe Eingang
+zur Ork-Stadt",,
+Fällt von Miragul in Höhle des Schmerzes,,,,Fällt von Hoshkar im Tempel des Träumenden,,,,,,Fällt von Sumpfdrache (2 Stück),,,,,Im Raum mit Stacheln unter Boden,,,,,Fällt von Likerh im Tempel des Träumenden,,
+"In einem der Seitengänge beim Ork-Boss
+im Tempel des Träumenden (2 Stück)",,,,"Im Tempel des Träumenden
+am Ende des Korridors bei Lava",,,,,,Im Schatz des Sumpfdrachen,,,,,In einem der Seitengänge mit Schaltern,,,,,Fällt von Hoshkar im Tempel des Träumenden,,
+"Fällt von Boss Untoten-Orks
+im Tempel des Träumenden (2 Stück)",,,,Fällt von Sumpfdrache (2 Stück),,,,,,"Im Tempel des Träumenden im Raum
+mit Schaltern zu Erzdämonen",,,,,"Im Tempel des Träumenden
+im Raum mit Hoshkar",,,,,"Im Tempel des Träumenden links
+vom ersten Saal",,

@@ -1,0 +1,208 @@
+ALLGEMEINE INFORMATIONEN,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+"Späher basieren auf Geschicklichkeit. Um beizutreten, muss man die Aufgabe von Gunnar beginnen und den Brief an Lord Andre überbringen.
+Uns wird ein völlig neuer Aufgabenpfad angeboten, eine zusätzliche Lokation und für andere nicht verfügbare Methoden zur Bekämpfung von Gegnern.",,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+DETAILLIERTE INFORMATIONEN,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+"Die Gilde besitzt die besten Rüstungen für Geschicklichkeit, die Möglichkeit zusätzliche Helme für Geschicklichkeit zu erhalten,
+sowie meuchlerische Fähigkeiten wie z.B. Unsichtbarkeit oder besseres Schleichen.
+
+Der Späher kann spezielle Sprengladungen verwenden, die seine Feinde entzünden, betäuben, wegschleudern und verletzen können.
+Außerdem haben wir geringere Kosten beim Erlernen von geschicklichkeitsbezogenen Fertigkeiten (z.B. Schleichen, Akrobatik).
+Man kann Giftmeister werden.",,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Fertigkeiten des Spähers,,,,,,,,,,,,,Gildenkopfbedeckungen
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Name,,,Beschreibung,,,,,Anforderungen,,,,LP,1. Nach dem Späher werden
+,,,,,,,,,,,,,
+Schlösser öffnen,,,Schlösser mit Geschicklichkeit öffnen,,,,,keine,,,,5,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Ausweichen +2%,,,"Zusätzliche Chance auf Ausweichen
+stapelt sich mit anderen Chancen
+Insgesamt +5%",,,,,keine,,,,3,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Ausweichen +3%,,,,,,,,"Geschicklichkeit: 125
+Ausweichen +2%",,,,4,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,2. Nach Eintritt in Kapitel 2
+Akrobatik,,,"LP-Kosten um 2 günstiger als bei Casia
+Erlernen fügt 10 Geschicklichkeit hinzu",,,,,Geschicklichkeit: 65,,,,8,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Präziser Schuss,,,"Erhöht die Genauigkeit von Bogen oder Armbrust, verringert die Streuung der Schüsse",,,,,Stufe: 10,,,,4,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Schnelle Reaktion,,,Zusätzliche 20% Chance auf Ausweichen während Akrobatik-Rollen,,,,,"Stufe: 30, Geschicklichkeit: 200
+Akrobatik",,,,5,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Schleichen,,,"LP-Kosten um 1 günstiger als bei Jasper / Bartok
+Erlernen fügt 2 Geschicklichkeit hinzu",,,,,keine,,,,3,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+"Meisterliches
+Schleichen",,,Schnellere Bewegung während des Schleichens,,,,,"Geschicklichkeit: 60
+Schleichen",,,,2,"3. Für Aufgabe: ""Taktischer Vorteil"""
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Überraschungsangriff,,,Zusätzlicher Schaden beim Schleichen,,,,,"Geschicklichkeit: 75
+Schleichen",,,,5,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Verschwinden,,,Unsichtbarkeit während des Schleichens,,,,,"Geschicklichkeit: 100
+Meisterliches Schleichen",,,,10,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+"Kenntnis der Schwachstellen",,,"Zusätzliche 10% Rüstungsdurchdringung
+des Gegners im Nahkampf",,,,,"Stufe: 30
+70% Waffenbeherrschung",,,,10,
+,,,,,,,,,,,,,4. In Rächkas Schatzkammer ab Kapitel 4
+,,,,,,,,,,,,,
+Späherlauf,,,20% schnelleres Laufen,,,,,Ausdauer: 400,,,,5,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Erschöpfungsresistenz,,,"Resistenz gegen Debuff, der die verbrauchte Ausdauer verdoppelt",,,,,"Stufe: 25
+Geschicklichkeit: 200",,,,3,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Pfeile und Bolzen herstellen,,,Wir stellen am Handwerkstisch und Amboss her,,,,,keine,,,,3,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,"5. Vom ersten Boss, Echse in Ravens Albtraum"
+Durchdringender Schuss,,,"Ignoriert Resistenz von Trollen, Skeletten und Golems",,,,,"Geschicklichkeit: 135
+Bogenbeherrschung: 45%",,,,30,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Späherpulver,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+"Grundlegende
+Pulverherstellung",,,,"Fortgeschrittene
+Pulverherstellung",,,,"Meisterliche
+Pulverherstellung",,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+"1. Stufe, 5 LP",,,,"15. Stufe, 6 LP",,,,"25. Stufe, 8 LP",,,,,"6. Aus Aufgabe ""Dunkler Orden"" in Kap. 5"
+,,,,,,,,,,,,,
+"Pulver: Feuerwand
+Entzündet kleinen Bereich und verursacht Feuerschaden über Zeit",,,"Anforderungen:
+1. Stufe
+50 Geschick.
+10 LP","Pulver: Giftiger Zerfall
+Vergiftet Gegner im Bereich. Giftschaden.",,,"Anforderungen:
+20. Stufe
+100 Geschick.
+12 LP","Pulver: Böses vertreiben
+Verursacht magische Explosion
+Wirkt nur auf Beliars Kreaturen",,,,"Anforderungen:
+25. Stufe
+150 Geschick.
+15 LP",
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,"Pulver: Explosion
+Flächenschaden plus Feuerschaden über Zeit",,,,"Anforderungen:
+25. Stufe
+175 Geschick.
+15 LP",
+,,,,,,,,,,,,,
+,,,,"Pulver: Rauchschleier
+Betäubt Gegner,
+kein Cooldown auf zusätzlichen Schleichschaden.",,,"Anforderungen:
+15. Stufe
+100 Geschick.
+10 LP",,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,"Pulver: Magischer Knall
+Verursacht magischen Flächenschaden",,,,"Anforderungen:
+35. Stufe
+350 Geschick.
+18 LP",
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+"Zusätzliche 1 Sek. Pulverwirkungsdauer
+Stufe 1: 75 Geschicklichkeit, 3 LP",,,,"Zusätzliche 1 Sek. Pulverwirkungsdauer
+Stufe 2: 120 Geschicklichkeit, 3 LP
+Stufe 3: 165 Geschicklichkeit, 3 LP",,,,"Zusätzliche 1 Sek. Pulverwirkungsdauer
+Stufe 4: 225 Geschicklichkeit, 3 LP
+Stufe 5: 300 Geschicklichkeit, 3 LP",,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+"Erhöhte Pulverwirkungsreichweite
+Stufe 1: 15. Stufe, 85 Geschicklichkeit, 3 LP",,,,"Erhöhte Pulverwirkungsreichweite
+Stufe 2: 20. Stufe, 135 Geschicklichkeit, 3 LP
+Stufe 3: 25. Stufe, 185 Geschicklichkeit, 3 LP",,,,"Erhöhte Pulverwirkungsreichweite
+Stufe 4: 30. Stufe, 250 Geschicklichkeit, 3 LP
+Stufe 5: 40. Stufe, 350 Geschicklichkeit, 3 LP",,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+"Erhöhte Pulverwurfreichweite
+Stufe 1: 2 LP",,,,"Erhöhte Pulverwurfreichweite
+Stufe 2: 20. Stufe, 3 LP",,,,"Erhöhte Pulverwurfreichweite
+Stufe 3: 30. Stufe, 3 LP",,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+"Erhöhte Pulverwurfgeschwindigkeit
+2 LP",,,,"Erhöhter periodischer Schaden (über Zeit)
+Stufe 1: 25. Stufe, 2 LP",,,,"Erhöhter periodischer Schaden (über Zeit)
+Stufe 2: 35. Stufe, 5 LP",,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,"Zusätzl. Schaden beim Aufprall
+Stufe 1: +15% Schaden, 15. Stufe, 5 LP
+Stufe 2: +30% Schaden, 30. Stufe, 5 LP",,,,"Zusätzl. Schaden beim Aufprall
+Stufe 3: +50% Schaden, 40. Stufe, 5 LP",,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Gildenrüstungen,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Name,,,Anforderungen,,,Hieb/Stumpf/Stich/Feuer/Magie,,,Ausweichen,Erhaltungsbedingung,,,
+,,,,,,,,,,,,,
+Rüstung des jungen Spähers,,,Geschicklichkeit 50 Gewicht 1,,,65/50/70/10/10,,,0.1,Nach dem Späher werden,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Umgeschmiedete Rüstung des jungen Spähers,,,Geschicklichkeit 50 Gewicht 2,,,85/75/85/15/15,,,0.1,Umschmieden der jungen Späherrüstung,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Späherrüstung,,,"Geschicklichkeit 100
+Ausdauer 250 Gewicht 2",,,110/90/100/20/20,,,0.1,"Für Aufgabe
+""Ravens Sklaven""",,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Umgeschmiedete Späherrüstung,,,"Geschicklichkeit 120
+Ausdauer 250 Gewicht 3",,,130/115/120/30/30,,,0.1,Umschmieden der Späherrüstung,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Rüstung des erfahrenen Spähers,,,"Geschicklichkeit 250
+Ausdauer 400 Gewicht 3",,,160/140/145/40/50,,,0.15,Für Bennets Befreiung,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Umgeschmiedete Rüstung des erfahrenen Spähers,,,"Geschicklichkeit 280
+Ausdauer 400 Gewicht 4",,,190/160/200/60/65,,,0.15,Fortg. Schmieden lehrt Daron in Netbeks Lager,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Meisterrüstung des Spähers,,,"Geschicklichkeit 400
+Ausdauer 800 Gewicht 4",,,240/230/280/100/120,,,0.15,Rezept fällt vom Boss in Itu-Sedas Orkmine,,,

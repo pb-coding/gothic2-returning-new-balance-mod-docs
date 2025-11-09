@@ -1,0 +1,52 @@
+"Die Verwendung eines Schildes reduziert unseren erlittenen Schaden um 12%
+Die Grundchance auf Block beträgt 21%, die maximale 85%.
+Das Erlernen jeder weiteren Schildfertigkeit erhöht die Blockchance um 5%",,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+Name,,Mindestblock,Blockierter Schaden,,Hieb,Stumpf,Stich,Magie,Feuer,Sturz,Anforderungen,,Bedingungen für Erhalt
+Alriks Schild,,20,0.15,,10,10,10,0,0,0,Stärke 20,,Besiege Alrik und nimm seinen Schild
+Holzschild,,40,0.15,,10,10,10,0,0,0,Stärke 30,,Verkauft Hakon/Erhalten nach Erlernen der Schildführung
+Söldnerschild,,50,0.2,,40,25,25,0,0,1,Stärke 50 Ausdauer 200,,Gibt Jarvis nach dem Söldner werden (Schildführung erforderlich)
+Wachenschild,,50,0.2,,25,25,40,0,0,1,Stärke 50 Ausdauer 200,,Gibt Wulfgar nach dem Wächter werden (Schildführung erforderlich)
+Solider Schild,,70,0.25,,45,40,40,0,0,2,Stärke 110 Ausdauer 280,,"Gibt Lord Andre für die Quest ""Tot oder lebendig"" als Schildkämpfer"
+Nordmarschild,,90,0.3,,50,50,50,0,0,3,Stärke 130 Ausdauer 350,,"Fällt von Skinner in Jharkendar
+Fällt von Colder in der Arena"
+Berserkerschild,,105,0.35,,40,60,40,15,0,4,Stärke 175 Ausdauer 400,,Für das Abschließen der Orkarena
+Schild aus Khorinis,,120,0.35,,45,70,60,15,15,5,Stärke 175 Ausdauer 400,,Gehe zu Wolf nach dem Töten von Kharakust
+Paladinschild,,135,0.4,,60,80,80,20,20,6,Stärke 250 Ausdauer 500,,"Erhalten von Albert für das Zerschlagen der Orkgruppe
+Erhalten von Ingmar nach dem Paladin werden (50% in 1H-Waffen)
+Zur Auswahl als Belohnung bei Lord Hagen für die Quest ""Dunkles Netz"""
+Bastion,,150,0.4,,90,50,45,30,60,7,Stärke 300 Ausdauer 650,,Fällt von Itu'Sed in der Orkmine
+Drachenschild,,165,0.5,,90,50,80,50,40,8,Stärke 350 Ausdauer 700,,Fällt vom Feuerdrachen
+Wächter der Untoten,,175,0.55,,80,60,70,60,80,9,Stärke 400 Ausdauer 800,,Fällt von Azgalor
+Uralter Schild,,200,0.6,,80,100,70,40,60,10,Stärke 500 Ausdauer 850,,Fällt vom Drachen Trakanon auf Irdorath
+Schildkämpfer-Fertigkeiten,,,,,Stärke,Kosten,,,,,,,
+,,,,,,,,,,,,,
+Fertigkeit Schildführung,,,,,30,5 LP 750 Gold,,,,,,,
+"Blockchance, Stufe 1",,,,,45,"10 LP 1500 Gold
+Voraussetzung: Schild 10%",,,,,,,
+"Sturzschutz +5, 
+Blutungsschaden -15% | Stufe 1",,,,,50,"10 LP 1500 Gold
+Voraussetzung: Schild 15%",,,,,,,
+"Blockchance, Stufe 2",,,,,150,"10 LP 2250 Gold
+Voraussetzung: Schild 25%",,,,,,,
+"Sturzschutz +10 
+Blutungsschaden -30% | Stufe 2",,,,,150,"15 LP 2250 Gold
+Voraussetzung: Schild 30%",,,,,,,
+"Blockchance, Stufe 3",,,,,300,"10 LP 3000 Gold
+Voraussetzung: Schild 40%",,,,,,,
+"Sturzschutz +15  
+Blutungsschaden -45% | Stufe 3",,,,,350,"20 LP 2250 Gold
+Voraussetzung: Schild 55%",,,,,,,
+Reduzierung von Magieschaden um 20%,,,,,150,"8 LP 3000 Gold
+Voraussetzung: Schild 60%",,,,,,,
+5% Chance auf vollständige Schadensblockierung,,,,,30,"10 LP
+Voraussetzung: Schild 65%",,,,,,,
+Reduzierung von Feuerschaden um 20%,,,,,150,"8 LP 3000 Gold
+Voraussetzung: Schild 70%",,,,,,,
+Chance den Gegner beim Angriff zu betäuben,,,,,300,"10 LP 7500 Gold
+Voraussetzung: Schild 85%",,,,,,,
+Reduzierung des erlittenen Schadens um 5%,,,,,50,"10 LP 3000 Gold
+Voraussetzung: Schild 90%",,,,,,,
