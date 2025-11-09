@@ -2,7 +2,7 @@
 
 ## Einführung
 
-Das Elixier-System in Gothic 2 Returning New Balance bietet eine umfangreiche Sammlung von Tränken, die verschiedene Attribute und Fähigkeiten des Helden verstärken. Diese Dokumentation bietet eine vollständige Übersicht über alle verfügbaren Elixiere, ihre Fundorte und Verwendungsmöglichkeiten.
+Das Elixier-System in Gothic 2 Returning New Balance bietet eine umfangreiche Sammlung von Tränken, die verschiedene Attribute und Fähigkeiten des Helden verstärken. Diese Dokumentation bietet eine Übersicht über alle verfügbaren Elixiere, ihre Fundorte und Verwendungsmöglichkeiten.
 
 ## Übersicht der Elixier-Arten
 

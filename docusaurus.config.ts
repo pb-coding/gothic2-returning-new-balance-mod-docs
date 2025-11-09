@@ -6,7 +6,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
   title: "Gothic 2 Returning New Balance",
-  tagline: "Komplette Dokumentation für den Gothic 2 RNB Mod",
+  tagline: "Dokumentation für den Gothic 2 Returning New Balance Mod",
   favicon: "img/gothic2-favicon.ico",
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future

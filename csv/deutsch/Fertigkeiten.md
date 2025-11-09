@@ -618,4 +618,4 @@ Die Grundlage für jeden Magier und wichtig für Stab-/Magieschwert-Nutzer.
 
 ---
 
-_Diese Dokumentation basiert auf Gothic 2 Returning New Balance und deckt das komplette Fertigkeitssystem mit allen 461 verfügbaren Fertigkeiten ab. Für spezifische Builds und Strategien konsultieren Sie die verlinkten Klassen-Guides._
+_Diese Dokumentation basiert auf Gothic 2 Returning New Balance und deckt das Fertigkeitssystem mit allen 461 verfügbaren Fertigkeiten ab. Für spezifische Builds und Strategien konsultieren Sie die verlinkten Klassen-Guides._

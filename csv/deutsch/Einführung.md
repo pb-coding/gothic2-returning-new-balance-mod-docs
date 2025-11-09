@@ -10,7 +10,7 @@ Willkommen zur umfassenden Dokumentation des **Gothic 2 Returning New Balance** 
 
 ## 📖 Über diese Dokumentation
 
-Diese Dokumentation bietet eine vollständige Übersicht über alle Aspekte des Gothic 2 Returning New Balance Mods. Sie ist strukturiert aufgebaut und ermöglicht sowohl Einsteigern als auch erfahrenen Spielern einen schnellen Zugang zu allen wichtigen Informationen.
+Diese Dokumentation bietet eine Übersicht über alle Aspekte des Gothic 2 Returning New Balance Mods. Sie ist strukturiert aufgebaut und ermöglicht sowohl Einsteigern als auch erfahrenen Spielern einen schnellen Zugang zu allen wichtigen Informationen.
 
 ---
 

@@ -34,8 +34,8 @@ export default function Home(): ReactNode {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`${siteConfig.title} - Komplette Dokumentation`}
-      description="Vollständige Dokumentation für Gothic 2 Returning New Balance - Charakterklassen, Ausrüstung, Magie und mehr"
+      title={`${siteConfig.title} - Dokumentation`}
+      description="Dokumentation für Gothic 2 Returning New Balance - Charakterklassen, Ausrüstung, Magie und mehr"
     >
       <HomepageHeader />
       <main>

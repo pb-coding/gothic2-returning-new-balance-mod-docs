@@ -225,7 +225,7 @@ Ermöglicht das Abfeuern von zwei Bolzen bei einem Nachladevorgang:
 - [`Boegen_und_Armbrueste.md`](Boegen_und_Armbrueste.md) - Detaillierte Waffenübersicht
 - [`Ruestungen.md`](Ruestungen.md) - Allgemeine Rüstungsinformationen
 - [`Zauber_und_Schriftrollen.csv`](Zauber_und_Schriftrollen.csv) - Magische Fähigkeiten
-- [`Boss_Verzeichnis.csv`](Boss_Verzeichnis.csv) - Vollständige Boss-Liste
+- [`Boss_Verzeichnis.csv`](Boss_Verzeichnis.csv) - Boss-Liste
 
 ### Weitere Gilden
 

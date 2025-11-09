@@ -2,7 +2,7 @@
 
 ## Einführung
 
-Diese Dokumentation bietet eine vollständige Übersicht über alle verfügbaren Fernkampfwaffen im Gothic 2 Returning New Balance Mod. Die Sammlung umfasst sowohl traditionelle Bögen als auch mächtige Armbrüste, die im Laufe des Spiels erworben werden können.
+Diese Dokumentation bietet eine Übersicht über alle verfügbaren Fernkampfwaffen im Gothic 2 Returning New Balance Mod. Die Sammlung umfasst sowohl traditionelle Bögen als auch mächtige Armbrüste, die im Laufe des Spiels erworben werden können.
 
 ## Übersicht
 

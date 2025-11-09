@@ -125,5 +125,5 @@ Nach der ersten Einrichtung ist das Deployment automatisch:
 
 Falls Probleme auftreten:
 1. Überprüfen Sie die GitHub Actions Logs
-2. Lesen Sie die vollständige Dokumentation in `DEPLOYMENT.md`
+2. Lesen Sie die Dokumentation in `DEPLOYMENT.md`
 3. Docusaurus Dokumentation: https://docusaurus.io/docs/deployment
