@@ -252,9 +252,9 @@ Viele Teleporter-Steine schalten sich kostenlos durch Questfortschritte frei:
 
 ### Verwandte Guides
 
-- [Karten](Karten.md) - Detaillierte Gebietskarten
-- [Quests und Storyline](README.md) - Hauptquest-Verlauf
-- [Charakterentwicklung](Fertigkeiten.md) - Skill-Entwicklung für optimale Erkundung
+- [Karten](../welt/karten) - Detaillierte Gebietskarten
+- [Quests und Storyline](../intro) - Hauptquest-Verlauf
+- [Charakterentwicklung](../entwicklung/fertigkeiten) - Skill-Entwicklung für optimale Erkundung
 
 ### Tipps für Teleporter-Sammler
 

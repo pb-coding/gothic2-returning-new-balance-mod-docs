@@ -151,10 +151,10 @@ Die benötigten Zutaten sind begrenzt verfügbar:
 
 ### Verwandte Dokumentationen
 
-- [`Zauber_und_Schriftrollen.csv`](Zauber_und_Schriftrollen.csv) - Allgemeine Zauberinformationen
-- [`Boss_Verzeichnis.csv`](Boss_Verzeichnis.csv) - Standorte der Kriecherköniginen
-- [`Staebe_und_Magische_Schwerter.md`](Staebe_und_Magische_Schwerter.md) - Magische Waffen
-- [`Ruestungen.md`](Ruestungen.md) - Weitere Rüstungsinformationen
+- [`Zauber_und_Schriftrollen.csv`](#) - Allgemeine Zauberinformationen
+- [`Boss_Verzeichnis.csv`](#) - Standorte der Kriecherköniginen
+- [`Staebe_und_Magische_Schwerter.md`](../waffen/staebe_und_magische_schwerter) - Magische Waffen
+- [`Ruestungen.md`](../ausruestung/ruestungen) - Weitere Rüstungsinformationen
 
 ---
 

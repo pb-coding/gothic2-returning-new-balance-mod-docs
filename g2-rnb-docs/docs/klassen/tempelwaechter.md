@@ -185,11 +185,11 @@ Alle Tempelwächter-Waffen sind zweihändige Schwerter mit HP-Boni:
 
 ### Verwandte Dokumentationen
 
-- [Boni-System](Boni.md) - Allgemeine Boni-Mechaniken
-- [Zauber und Schriftrollen](Zauber_und_Schriftrollen.md) - Magische Systeme
-- [Rüstungen](Ruestungen.md) - Allgemeine Rüstungsinformationen
-- [Dämonenjäger](Daemonenjäger.md) - Alternative Fernkampf-Gilde
-- [Guru](Guru.md) - Alternative Magie-Gilde
+- [Boni-System](../entwicklung/boni) - Allgemeine Boni-Mechaniken
+- [Zauber und Schriftrollen](../magie/zauber_und_schriftrollen) - Magische Systeme
+- [Rüstungen](../ausruestung/ruestungen) - Allgemeine Rüstungsinformationen
+- [Dämonenjäger](daemonenjäger) - Alternative Fernkampf-Gilde
+- [Guru](../klassen/guru) - Alternative Magie-Gilde
 
 ### Gameplay-Tipps
 

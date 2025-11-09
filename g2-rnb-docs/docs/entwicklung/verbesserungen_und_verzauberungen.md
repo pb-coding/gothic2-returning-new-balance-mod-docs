@@ -4,7 +4,7 @@
 
 Das Verbesserungs- und Verzauberungssystem in Gothic 2 Returning New Balance erweitert das Spiel um tiefgreifende Anpassungsmöglichkeiten für Ausrüstung. Dieses System ermöglicht es Spielern, ihre Waffen, Rüstungen und Schmuckstücke durch verschiedene Materialien und Siegel zu verstärken.
 
-**Wichtiger Hinweis:** Verbesserungen sind standardmäßig deaktiviert. Um das Spiel mit Verbesserungen zu starten, muss [`extModeActivate`](Gothic.ini) auf 1 in der Gothic.ini gesetzt werden.
+**Wichtiger Hinweis:** Verbesserungen sind standardmäßig deaktiviert. Um das Spiel mit Verbesserungen zu starten, muss [`extModeActivate`](#) auf 1 in der Gothic.ini gesetzt werden.
 
 ## Übersicht des Verbesserungssystems
 
@@ -463,13 +463,13 @@ Bei der Verbesserung von Schmuck (Amulette und Ringe) wählt der Spieler die Sta
 
 ### Verwandte Dokumentationen
 
-- [Nahkampfwaffen (Stärke)](Nahkampfwaffen_Staerke.md) - Detaillierte Waffenstatistiken
-- [Nahkampfwaffen (Geschicklichkeit)](Nahkampfwaffen_Geschicklichkeit.md) - Geschicklichkeitsbasierte Waffen
-- [Bögen und Armbrüste](Boegen_und_Armbrueste.md) - Fernkampfwaffen
-- [Rüstungen](Ruestungen.md) - Rüstungssysteme
-- [Schilde](Schilde.md) - Schildverteidigung
-- [Schmuck & Edelsteine](Schmuck_Edelsteine.md) - Schmuckstücke und Edelsteine
-- [Stäbe und Magische Schwerter](Staebe_und_Magische_Schwerter.md) - Magische Waffen
+- [Nahkampfwaffen (Stärke)](../waffen/nahkampfwaffen_staerke) - Detaillierte Waffenstatistiken
+- [Nahkampfwaffen (Geschicklichkeit)](../waffen/nahkampfwaffen_geschicklichkeit) - Geschicklichkeitsbasierte Waffen
+- [Bögen und Armbrüste](../waffen/boegen_und_armbrueste) - Fernkampfwaffen
+- [Rüstungen](../ausruestung/ruestungen) - Rüstungssysteme
+- [Schilde](../ausruestung/schilde) - Schildverteidigung
+- [Schmuck & Edelsteine](../ausruestung/schmuck_edelsteine) - Schmuckstücke und Edelsteine
+- [Stäbe und Magische Schwerter](../waffen/staebe_und_magische_schwerter) - Magische Waffen
 
 ---
 

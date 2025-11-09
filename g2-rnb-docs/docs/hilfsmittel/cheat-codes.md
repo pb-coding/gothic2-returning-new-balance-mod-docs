@@ -558,13 +558,13 @@ Verschiedene Materialien, Werkzeuge und besondere Gegenstände:
 
 ## Navigation und verwandte Dokumentationen
 
-- [`Ruestungen.md`](Ruestungen.md) - Detaillierte Rüstungsinformationen
-- [`Nahkampfwaffen_Staerke.md`](Nahkampfwaffen_Staerke.md) - Stärke-basierte Waffen
-- [`Nahkampfwaffen_Geschicklichkeit.md`](Nahkampfwaffen_Geschicklichkeit.md) - Geschicklichkeits-basierte Waffen
-- [`Boegen_und_Armbrueste.md`](Boegen_und_Armbrueste.md) - Fernkampfwaffen
-- [`Zauber_und_Schriftrollen.md`](Zauber_und_Schriftrollen.md) - Magische Gegenstände
-- [`Elixiere.md`](Elixiere.md) - Tränke und Elixiere
-- [`Schmuck_Edelsteine.md`](Schmuck_Edelsteine.md) - Schmuck und Accessoires
+- [`Ruestungen.md`](../ausruestung/ruestungen) - Detaillierte Rüstungsinformationen
+- [`Nahkampfwaffen_Staerke.md`](../waffen/nahkampfwaffen_staerke) - Stärke-basierte Waffen
+- [`Nahkampfwaffen_Geschicklichkeit.md`](../waffen/nahkampfwaffen_geschicklichkeit) - Geschicklichkeits-basierte Waffen
+- [`Boegen_und_Armbrueste.md`](../waffen/boegen_und_armbrueste) - Fernkampfwaffen
+- [`Zauber_und_Schriftrollen.md`](../magie/zauber_und_schriftrollen) - Magische Gegenstände
+- [`Elixiere.md`](../hilfsmittel/elixiere) - Tränke und Elixiere
+- [`Schmuck_Edelsteine.md`](../ausruestung/schmuck_edelsteine) - Schmuck und Accessoires
 
 ---
 

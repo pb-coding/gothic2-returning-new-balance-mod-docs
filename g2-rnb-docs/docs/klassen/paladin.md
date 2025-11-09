@@ -285,18 +285,18 @@ Mächtige Angriffszauber gegen die Kreaturen des Bösen mit doppeltem Schaden ge
 
 ### Verwandte Dokumentationen
 
-- [`Rüstungen`](Ruestungen.md) - Detaillierte Rüstungsinformationen
-- [`Nahkampfwaffen Stärke`](Nahkampfwaffen_Staerke.md) - Stärkebasierte Waffen
-- [`Schilde`](Schilde.md) - Schildkampf-Informationen
-- [`Zauber und Schriftrollen`](Zauber_und_Schriftrollen.csv) - Magiesystem
-- [`Gaben`](Gaben.csv) - Göttliche Gaben-System
-- [`Verbesserungen und Verzauberungen`](Verbesserungen_und_Verzauberungen.md) - Ausrüstungsverbesserungen
+- [`Rüstungen`](../ausruestung/ruestungen) - Detaillierte Rüstungsinformationen
+- [`Nahkampfwaffen Stärke`](../waffen/nahkampfwaffen_staerke) - Stärkebasierte Waffen
+- [`Schilde`](../ausruestung/schilde) - Schildkampf-Informationen
+- [`Zauber und Schriftrollen`](#) - Magiesystem
+- [`Gaben`](#) - Göttliche Gaben-System
+- [`Verbesserungen und Verzauberungen`](../entwicklung/verbesserungen_und_verzauberungen) - Ausrüstungsverbesserungen
 
 ### Klassen-Vergleiche
 
-- [`Tempelwächter`](Tempelwaechter.md) - Alternative heilige Kriegerklasse
-- [`Feuermagier`](Feuermagier.md) - Magische Alternative
-- [`Dämonenjäger`](Daemonenjäger.md) - Anti-Dämon-Spezialist
+- [`Tempelwächter`](../klassen/tempelwaechter) - Alternative heilige Kriegerklasse
+- [`Feuermagier`](../klassen/feuermagier) - Magische Alternative
+- [`Dämonenjäger`](daemonenjäger) - Anti-Dämon-Spezialist
 
 ---
 

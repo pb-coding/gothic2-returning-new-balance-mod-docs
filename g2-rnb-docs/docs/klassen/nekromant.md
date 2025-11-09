@@ -236,18 +236,18 @@ Das Sakta Nomen-System ermöglicht es dem Nekromanten, auch bei niedrigem Mana w
 
 ### Verwandte Klassen
 
-- [`Schwarzmagier`](Schwarzmagier.md) - Alternative dunkle Magieklasse
-- [`Dunkler Beschwörer`](Dunkler_Beschwörer.md) - Spezialisierte Beschwörerklasse
+- [`Schwarzmagier`](../klassen/schwarzmagier) - Alternative dunkle Magieklasse
+- [`Dunkler Beschwörer`](dunkler_beschwörer) - Spezialisierte Beschwörerklasse
 
 ### Ausrüstung
 
-- [`Stäbe und Magische Schwerter`](Staebe_und_Magische_Schwerter.md) - Waffen für Magier
-- [`Rüstungen`](Ruestungen.md) - Allgemeine Rüstungsinformationen
+- [`Stäbe und Magische Schwerter`](../waffen/staebe_und_magische_schwerter) - Waffen für Magier
+- [`Rüstungen`](../ausruestung/ruestungen) - Allgemeine Rüstungsinformationen
 
 ### Zauber und Magie
 
-- [`Zauber und Schriftrollen`](Zauber_und_Schriftrollen.md) - Magische Fähigkeiten
-- [`Dämonische Tafeln`](Daemonische_Tafeln.md) - Spezielle Magieartefakte
+- [`Zauber und Schriftrollen`](../magie/zauber_und_schriftrollen) - Magische Fähigkeiten
+- [`Dämonische Tafeln`](../magie/daemonische_tafeln) - Spezielle Magieartefakte
 
 ---
 

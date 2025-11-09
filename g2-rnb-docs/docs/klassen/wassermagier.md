@@ -153,15 +153,15 @@ Zauber können von Galahad nach Wahl der Wassermagie erlernt werden:
 
 ### Verwandte Dokumentationen
 
-- [`Zauber_und_Schriftrollen.md`](Zauber_und_Schriftrollen.md) - Vollständige Zauberliste
-- [`Staebe_und_Magische_Schwerter.md`](Staebe_und_Magische_Schwerter.md) - Magische Waffen
-- [`Ruestungen.md`](Ruestungen.md) - Rüstungsübersicht
-- [`Gaben.md`](Gaben.md) - Göttergaben-System
+- [`Zauber_und_Schriftrollen.md`](../magie/zauber_und_schriftrollen) - Vollständige Zauberliste
+- [`Staebe_und_Magische_Schwerter.md`](../waffen/staebe_und_magische_schwerter) - Magische Waffen
+- [`Ruestungen.md`](../ausruestung/ruestungen) - Rüstungsübersicht
+- [`Gaben.md`](../entwicklung/gaben) - Göttergaben-System
 
 ### Andere Magier-Klassen
 
-- [`Feuermagier.md`](Feuermagier.md) - Feuermagier-Klasse
-- [`Schwarzmagier.md`](Schwarzmagier.md) - Schwarzmagier-Klasse
+- [`Feuermagier.md`](../klassen/feuermagier) - Feuermagier-Klasse
+- [`Schwarzmagier.md`](../klassen/schwarzmagier) - Schwarzmagier-Klasse
 
 ---
 

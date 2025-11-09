@@ -190,19 +190,19 @@ Die Chance auf magischen Schaden setzt sich zusammen aus:
 
 ### Verwandte Dokumentationen
 
-- [Nahkampfwaffen (Stärke)](Nahkampfwaffen_Staerke.md) - Physische Nahkampfwaffen
-- [Nahkampfwaffen (Geschicklichkeit)](Nahkampfwaffen_Geschicklichkeit.md) - Geschicklichkeitsbasierte Waffen
-- [Bögen und Armbrüste](Boegen_und_Armbrueste.md) - Fernkampfwaffen
-- [Zauber und Schriftrollen](Zauber_und_Schriftrollen.csv) - Magische Zauber
-- [Feuermagier](Feuermagier.csv) - Feuermagier-Gilde
-- [Wassermagier](Wassermagier.csv) - Wassermagier-Gilde
-- [Druide](Druide.csv) - Druiden-Gilde
+- [Nahkampfwaffen (Stärke)](../waffen/nahkampfwaffen_staerke) - Physische Nahkampfwaffen
+- [Nahkampfwaffen (Geschicklichkeit)](../waffen/nahkampfwaffen_geschicklichkeit) - Geschicklichkeitsbasierte Waffen
+- [Bögen und Armbrüste](../waffen/boegen_und_armbrueste) - Fernkampfwaffen
+- [Zauber und Schriftrollen](#) - Magische Zauber
+- [Feuermagier](#) - Feuermagier-Gilde
+- [Wassermagier](#) - Wassermagier-Gilde
+- [Druide](#) - Druiden-Gilde
 
 ### Charakterklassen
 
-- [Schwarzmagier](Schwarzmagier.csv) - Dunkle Magie
-- [Nekromant](Nekromant.csv) - Totenbeschwörung
-- [Dunkler Beschwörer](Dunkler_Beschwörer.csv) - Dämonenbeschwörung
+- [Schwarzmagier](#) - Dunkle Magie
+- [Nekromant](#) - Totenbeschwörung
+- [Dunkler Beschwörer](#) - Dämonenbeschwörung
 
 ---
 

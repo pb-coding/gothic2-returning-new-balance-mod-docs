@@ -155,9 +155,9 @@ Die Schreine von Beliar und Innos sind über die gesamte Spielwelt verteilt:
 
 ## Verwandte Dokumentationen
 
-- [Boni-System](Boni.md) - Weitere Charakterverbesserungen
-- [Zauber und Schriftrollen](Zauber_und_Schriftrollen.md) - Magische Fähigkeiten
-- [Charakterklassen](README.md) - Übersicht aller verfügbaren Klassen
+- [Boni-System](../entwicklung/boni) - Weitere Charakterverbesserungen
+- [Zauber und Schriftrollen](../magie/zauber_und_schriftrollen) - Magische Fähigkeiten
+- [Charakterklassen](../intro) - Übersicht aller verfügbaren Klassen
 
 ---
 

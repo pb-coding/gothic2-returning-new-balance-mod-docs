@@ -258,11 +258,11 @@ _Schutzwerte: H = Hieb, S = Stumpf, St = Stich, F = Feuer, M = Magie_
 
 ### Verwandte Dokumentationen
 
-- [`Nahkampfwaffen_Geschicklichkeit.md`](Nahkampfwaffen_Geschicklichkeit.md) - Waffen für Geschicklichkeits-Builds
-- [`Boegen_und_Armbrueste.md`](Boegen_und_Armbrueste.md) - Fernkampfwaffen
-- [`Ruestungen.md`](Ruestungen.md) - Allgemeine Rüstungsinformationen
-- [`Giftmeister.md`](Giftmeister.md) - Spezialisierung für Späher
-- [`Fertigkeiten.csv`](Fertigkeiten.csv) - Detaillierte Fertigkeitsinformationen
+- [`Nahkampfwaffen_Geschicklichkeit.md`](../waffen/nahkampfwaffen_geschicklichkeit) - Waffen für Geschicklichkeits-Builds
+- [`Boegen_und_Armbrueste.md`](../waffen/boegen_und_armbrueste) - Fernkampfwaffen
+- [`Ruestungen.md`](../ausruestung/ruestungen) - Allgemeine Rüstungsinformationen
+- [`Giftmeister.md`](../klassen/giftmeister) - Spezialisierung für Späher
+- [`Fertigkeiten.csv`](#) - Detaillierte Fertigkeitsinformationen
 
 ### Aufgaben-Guides
 

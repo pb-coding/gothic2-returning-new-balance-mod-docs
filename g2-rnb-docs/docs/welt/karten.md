@@ -6,7 +6,7 @@ Das Karten-System in Gothic 2 Returning New Balance ist ein geplantes Feature zu
 
 ## Aktueller Status
 
-⚠️ **Hinweis**: Die Datei [`Karten.csv`](Karten.csv) ist derzeit **leer** und enthält keine Kartendaten.
+⚠️ **Hinweis**: Die Datei [`Karten.csv`](#) ist derzeit **leer** und enthält keine Kartendaten.
 
 Dies deutet darauf hin, dass:
 
@@ -45,7 +45,7 @@ Da das Karten-System noch nicht verfügbar ist, können folgende Dokumentationen
 
 ### 🚀 Teleporter-System
 
-Für schnelle Fortbewegung siehe: [`Teleporter.md`](Teleporter.md)
+Für schnelle Fortbewegung siehe: [`Teleporter.md`](../welt/teleporter)
 
 - Alle verfügbaren Teleporter-Standorte
 - Freischaltbedingungen und Kosten
@@ -53,15 +53,15 @@ Für schnelle Fortbewegung siehe: [`Teleporter.md`](Teleporter.md)
 
 ### 🏰 Wichtige Standorte
 
-- **Boss-Verzeichnis**: [`Boss_Verzeichnis.md`](Boss_Verzeichnis.md) - Fundorte aller Bosse
-- **Rohstoffvorkommen**: [`Gold_und_Eisenvorkommen.md`](Gold_und_Eisenvorkommen.md) - Abbaugebiete
-- **Pflanzenstandorte**: [`Pflanzen.md`](Pflanzen.md) - Alchemie-Ressourcen
+- **Boss-Verzeichnis**: [`Boss_Verzeichnis.md`](../hilfsmittel/boss_verzeichnis) - Fundorte aller Bosse
+- **Rohstoffvorkommen**: [`Gold_und_Eisenvorkommen.md`](../welt/gold_und_eisenvorkommen) - Abbaugebiete
+- **Pflanzenstandorte**: [`Pflanzen.md`](../hilfsmittel/pflanzen) - Alchemie-Ressourcen
 
 ### 🎯 Spezielle Sammelobjekte
 
-- **Ognik-Trophäen**: [`Ognik_Trophäen.md`](Ognik_Trophäen.md) - Seltene Fundstücke
-- **Dämonische Tafeln**: [`Daemonische_Tafeln.md`](Daemonische_Tafeln.md) - Magische Artefakte
-- **Tafeln**: [`Tafeln.md`](Tafeln.md) - Wissensobjekte
+- **Ognik-Trophäen**: [`Ognik-Trophäen`](../hilfsmittel/ognik_trophaeen) - Seltene Fundstücke
+- **Dämonische Tafeln**: [`Daemonische_Tafeln.md`](../magie/daemonische_tafeln) - Magische Artefakte
+- **Tafeln**: [`Tafeln.md`](../magie/tafeln) - Wissensobjekte
 
 ## Verwandte Dokumentationen
 
@@ -69,16 +69,16 @@ Für schnelle Fortbewegung siehe: [`Teleporter.md`](Teleporter.md)
 
 Jede Gilde hat spezifische Gebiete und Standorte:
 
-- [`Paladin.md`](Paladin.md) - Kloster und heilige Stätten
-- [`Feuermagier.md`](Feuermagier.md) - Magische Türme und Bibliotheken
-- [`Soeldner.md`](Soeldner.md) - Lager und Handelsrouten
-- [`Druide.md`](Druide.md) - Naturheiligtümer und Steinkreise
+- [`Paladin.md`](../klassen/paladin) - Kloster und heilige Stätten
+- [`Feuermagier.md`](../klassen/feuermagier) - Magische Türme und Bibliotheken
+- [`Soeldner.md`](../klassen/paladin) - Lager und Handelsrouten
+- [`Druide.md`](../klassen/druide) - Naturheiligtümer und Steinkreise
 
 ### ⚔️ Ausrüstung und Handel
 
-- [`Ruestungen.md`](Ruestungen.md) - Rüstungshändler-Standorte
-- [`Nahkampfwaffen_Staerke.md`](Nahkampfwaffen_Staerke.md) - Waffenschmiede
-- [`Zauber_und_Schriftrollen.md`](Zauber_und_Schriftrollen.md) - Magische Händler
+- [`Ruestungen.md`](../ausruestung/ruestungen) - Rüstungshändler-Standorte
+- [`Nahkampfwaffen_Staerke.md`](../waffen/nahkampfwaffen_staerke) - Waffenschmiede
+- [`Zauber_und_Schriftrollen.md`](../magie/zauber_und_schriftrollen) - Magische Händler
 
 ## Entwicklungshinweise
 
@@ -99,11 +99,11 @@ Name,Typ,X-Koordinate,Y-Koordinate,Z-Koordinate,Beschreibung,Verfügbar_ab,Telep
 
 ## Fazit
 
-Obwohl das Karten-System derzeit nicht verfügbar ist, bietet Gothic 2 Returning New Balance bereits umfangreiche Navigationshilfen durch das Teleporter-System und detaillierte Standortdokumentationen. Die leere [`Karten.csv`](Karten.csv) deutet auf zukünftige Erweiterungen hin, die das Spielerlebnis weiter verbessern werden.
+Obwohl das Karten-System derzeit nicht verfügbar ist, bietet Gothic 2 Returning New Balance bereits umfangreiche Navigationshilfen durch das Teleporter-System und detaillierte Standortdokumentationen. Die leere [`Karten.csv`](#) deutet auf zukünftige Erweiterungen hin, die das Spielerlebnis weiter verbessern werden.
 
 ---
 
 _Letzte Aktualisierung: November 2024_  
 _Status: Karten-System in Entwicklung - Datei leer_
 
-> 💡 **Tipp**: Nutzen Sie die [`Teleporter.md`](Teleporter.md) Dokumentation für effiziente Navigation, bis das Karten-System verfügbar ist!
+> 💡 **Tipp**: Nutzen Sie die [`Teleporter.md`](../welt/teleporter) Dokumentation für effiziente Navigation, bis das Karten-System verfügbar ist!

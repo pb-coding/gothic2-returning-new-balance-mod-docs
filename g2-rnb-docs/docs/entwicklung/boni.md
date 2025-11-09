@@ -213,20 +213,20 @@ Diese Boni können nur einmal pro Spielstand erhalten werden:
 
 ### Verwandte Dokumentationen
 
-- [`Elixiere.csv`](Elixiere.csv) - Detaillierte Elixier-Informationen
-- [`Gaben.csv`](Gaben.csv) - Göttliche Gaben und Belohnungen
-- [`Daemonische_Tafeln.csv`](Daemonische_Tafeln.csv) - Dämonische Steintafeln
-- [`Tafeln.csv`](Tafeln.csv) - Normale Steintafeln
-- [`Fertigkeiten.csv`](Fertigkeiten.csv) - Fertigkeitssystem
-- [`Boss_Verzeichnis.csv`](Boss_Verzeichnis.csv) - Boss-Belohnungen
+- [`Elixiere.csv`](#) - Detaillierte Elixier-Informationen
+- [`Gaben.csv`](#) - Göttliche Gaben und Belohnungen
+- [`Daemonische_Tafeln.csv`](#) - Dämonische Steintafeln
+- [`Tafeln.csv`](#) - Normale Steintafeln
+- [`Fertigkeiten.csv`](#) - Fertigkeitssystem
+- [`Boss_Verzeichnis.csv`](#) - Boss-Belohnungen
 
 ### Charakterklassen-Guides
 
-- [`Schwarzmagier.csv`](Schwarzmagier.csv) - Dunkle Magie-Builds
-- [`Feuermagier.csv`](Feuermagier.csv) - Feuermagie-Builds
-- [`Wassermagier.csv`](Wassermagier.csv) - Wassermagie-Builds
-- [`Paladin.csv`](Paladin.csv) - Paladin-Builds
-- [`Soeldner.csv`](Soeldner.csv) - Söldner-Builds
+- [`Schwarzmagier.csv`](#) - Dunkle Magie-Builds
+- [`Feuermagier.csv`](#) - Feuermagie-Builds
+- [`Wassermagier.csv`](#) - Wassermagie-Builds
+- [`Paladin.csv`](#) - Paladin-Builds
+- [`Soeldner.csv`](#) - Söldner-Builds
 
 ---
 

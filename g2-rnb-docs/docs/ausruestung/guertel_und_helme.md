@@ -265,16 +265,16 @@ Schwerere Helme bieten mehr Schutz, erfordern aber höhere Stärke-Werte und kö
 
 ### Verwandte Dokumentationen
 
-- [`Ruestungen.md`](Ruestungen.md) - Hauptrüstungen und Rüstungssets
-- [`Schilde.md`](Schilde.md) - Schilde und Armschutz
-- [`Schmuck_Edelsteine.csv`](Schmuck_Edelsteine.csv) - Ringe und Amulette
-- [`Boni.csv`](Boni.csv) - Detaillierte Bonus-Erklärungen
+- [`Ruestungen.md`](../ausruestung/ruestungen) - Hauptrüstungen und Rüstungssets
+- [`Schilde.md`](../ausruestung/schilde) - Schilde und Armschutz
+- [`Schmuck_Edelsteine.csv`](#) - Ringe und Amulette
+- [`Boni.csv`](#) - Detaillierte Bonus-Erklärungen
 
 ### Charakterklassen-Guides
 
-- [`Paladin.csv`](Paladin.csv) - Paladin-spezifische Ausrüstung
-- [`Soeldner.csv`](Soeldner.csv) - Söldner-Ausrüstung
-- [`Guru.csv`](Guru.csv) - Guru-spezifische Gürtel
+- [`Paladin.csv`](#) - Paladin-spezifische Ausrüstung
+- [`Soeldner.csv`](#) - Söldner-Ausrüstung
+- [`Guru.csv`](#) - Guru-spezifische Gürtel
 
 ---
 

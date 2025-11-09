@@ -247,7 +247,7 @@ Nach dem Gespräch mit **Riordian** können dem Irrlicht verschiedene Sammel-Fä
 
 ### Verwandte Dokumentationen
 
-- [`boss_verzeichnis.md`](boss_verzeichnis.md) - Vollständige Boss-Liste
+- [`boss_verzeichnis.md`](../hilfsmittel/boss_verzeichnis) - Vollständige Boss-Liste
 - [`../ausruestung/ruestungen.md`](../ausruestung/ruestungen.md) - Rüstungssystem und -herstellung
 - [`../magie/zauber_und_schriftrollen.md`](../magie/zauber_und_schriftrollen.md) - Magiesystem
 - [`../entwicklung/boni.md`](../entwicklung/boni.md) - Übersicht aller Boni-Systeme

@@ -222,16 +222,16 @@ Ermöglicht das Abfeuern von zwei Bolzen bei einem Nachladevorgang:
 
 ### Verwandte Dokumentationen
 
-- [`Boegen_und_Armbrueste.md`](Boegen_und_Armbrueste.md) - Detaillierte Waffenübersicht
-- [`Ruestungen.md`](Ruestungen.md) - Allgemeine Rüstungsinformationen
-- [`Zauber_und_Schriftrollen.csv`](Zauber_und_Schriftrollen.csv) - Magische Fähigkeiten
-- [`Boss_Verzeichnis.csv`](Boss_Verzeichnis.csv) - Vollständige Boss-Liste
+- [`Boegen_und_Armbrueste.md`](../waffen/boegen_und_armbrueste) - Detaillierte Waffenübersicht
+- [`Ruestungen.md`](../ausruestung/ruestungen) - Allgemeine Rüstungsinformationen
+- [`Zauber_und_Schriftrollen.csv`](#) - Magische Fähigkeiten
+- [`Boss_Verzeichnis.csv`](#) - Vollständige Boss-Liste
 
 ### Weitere Gilden
 
-- [`Paladin.csv`](Paladin.csv) - Kompatible Klasse
-- [`Soeldner.csv`](Soeldner.csv) - Alternative Kampfklasse
-- [`Feuermagier.md`](Feuermagier.md) - Magische Ergänzung
+- [`Paladin.csv`](#) - Kompatible Klasse
+- [`Soeldner.csv`](#) - Alternative Kampfklasse
+- [`Feuermagier.md`](../klassen/feuermagier) - Magische Ergänzung
 
 ---
 

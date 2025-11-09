@@ -273,11 +273,11 @@ _Ur-Azog lehrt nur Stufe I und II, weitere Stufen sind in der Orkstadt verfügba
 
 ### Verwandte Dokumentationen
 
-- [`Orkwaffen und Ausrüstung`](Nahkampfwaffen_Staerke.md) - Kompatible Waffen für Sturmwut
-- [`Magische Schwerter und Stäbe`](Staebe_und_Magische_Schwerter.md) - Für Magier-Hybride
-- [`Söldner`](Soeldner.md) - Empfohlene Hauptgilde
-- [`Schwarzmagier`](Schwarzmagier.md) - Alternative Hauptgilde
-- [`Rüstungen`](Ruestungen.md) - Schamanen-spezifische Ausrüstung
+- [`Orkwaffen und Ausrüstung`](../waffen/nahkampfwaffen_staerke) - Kompatible Waffen für Sturmwut
+- [`Magische Schwerter und Stäbe`](../waffen/staebe_und_magische_schwerter) - Für Magier-Hybride
+- [`Söldner`](../klassen/paladin) - Empfohlene Hauptgilde
+- [`Schwarzmagier`](../klassen/schwarzmagier) - Alternative Hauptgilde
+- [`Rüstungen`](../ausruestung/ruestungen) - Schamanen-spezifische Ausrüstung
 
 ### Tipps für Einsteiger
 

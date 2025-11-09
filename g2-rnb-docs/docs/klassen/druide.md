@@ -301,11 +301,11 @@ Die Verwandlungsstatistiken basieren auf:
 
 ### Verwandte Dokumentationen
 
-- [Schwarzmagier](Schwarzmagier.md) - Empfohlene Kombination
-- [Nekromant](Nekromant.md) - Empfohlene Kombination
-- [Guru](Guru.md) - Empfohlene Kombination
-- [Zauber und Schriftrollen](Zauber_und_Schriftrollen.csv) - Magische Unterstützung
-- [Elixiere](Elixiere.csv) - Unterstützende Tränke
+- [Schwarzmagier](../klassen/schwarzmagier) - Empfohlene Kombination
+- [Nekromant](../klassen/nekromant) - Empfohlene Kombination
+- [Guru](../klassen/guru) - Empfohlene Kombination
+- [Zauber und Schriftrollen](#) - Magische Unterstützung
+- [Elixiere](#) - Unterstützende Tränke
 
 ---
 

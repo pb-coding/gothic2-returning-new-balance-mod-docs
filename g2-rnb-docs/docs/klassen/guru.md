@@ -155,17 +155,17 @@ Nach dem Werden zum Guru erhält der Charakter:
 
 ### Verwandte Dokumentationen
 
-- [`Zauber_und_Schriftrollen.csv`](Zauber_und_Schriftrollen.md) - Detaillierte Zauberinformationen
-- [`Staebe_und_Magische_Schwerter.csv`](Staebe_und_Magische_Schwerter.md) - Waffen für Hybrid-Builds
-- [`Elixiere.csv`](Elixiere.md) - Alchemie und Tränke
-- [`Druide.csv`](Druide.md) - Alternative Entwicklung
-- [`Schamane.csv`](Schamane.md) - Alternative Entwicklung
+- [`Zauber_und_Schriftrollen.csv`](../magie/zauber_und_schriftrollen) - Detaillierte Zauberinformationen
+- [`Staebe_und_Magische_Schwerter.csv`](../waffen/staebe_und_magische_schwerter) - Waffen für Hybrid-Builds
+- [`Elixiere.csv`](../hilfsmittel/elixiere) - Alchemie und Tränke
+- [`Druide.csv`](../klassen/druide) - Alternative Entwicklung
+- [`Schamane.csv`](../klassen/schamane) - Alternative Entwicklung
 
 ### Weitere Ressourcen
 
-- [`Boni.csv`](Boni.md) - Allgemeine Bonus-Systeme
-- [`Ruestungen.csv`](Ruestungen.md) - Rüstungsvergleiche
-- [`Fertigkeiten.csv`](Fertigkeiten.md) - Allgemeine Fähigkeiten
+- [`Boni.csv`](../entwicklung/boni) - Allgemeine Bonus-Systeme
+- [`Ruestungen.csv`](../ausruestung/ruestungen) - Rüstungsvergleiche
+- [`Fertigkeiten.csv`](../entwicklung/fertigkeiten) - Allgemeine Fähigkeiten
 
 ---
 

@@ -323,12 +323,12 @@ Die **Stärke** ist das wichtigste Attribut für alle hier aufgeführten Waffen.
 
 ## Navigation
 
-- [Zurück zur Hauptübersicht](README.md)
-- [Nahkampfwaffen für Geschicklichkeit](Nahkampfwaffen_Geschicklichkeit.md)
-- [Bögen und Armbrüste](Boegen_und_Armbrueste.md)
-- [Stäbe und Magische Schwerter](Staebe_und_Magische_Schwerter.md)
-- [Rüstungen](Ruestungen.md)
-- [Schilde](Schilde.md)
+- [Zurück zur Hauptübersicht](../intro)
+- [Nahkampfwaffen für Geschicklichkeit](../waffen/nahkampfwaffen_geschicklichkeit)
+- [Bögen und Armbrüste](../waffen/boegen_und_armbrueste)
+- [Stäbe und Magische Schwerter](../waffen/staebe_und_magische_schwerter)
+- [Rüstungen](../ausruestung/ruestungen)
+- [Schilde](../ausruestung/schilde)
 
 ---
 

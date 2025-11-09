@@ -144,11 +144,11 @@ Spezielle Gabe für 200 Karma mit temporären Effekten:
 
 ### Schützling-System
 
-| Fähigkeit                | Kosten              | Beschreibung                                                    | Anforderungen                                         |
-| ------------------------ | ------------------- | --------------------------------------------------------------- | ----------------------------------------------------- |
-| **Schützling**           | S1-S5: 5/4/4/4/4 LP | Beschwört Diener der folgt und im Kampf hilft                   | S1: 12. Stufe; S2: Älterer, 25. Stufe; S3-S5: Meister |
-| **Gabe des Schützlings** | 10 LP               | Schützling verstärkt Besitzer mit zufälligen positiven Effekten | Älterer, 32. Stufe                                    |
-| **Letzte Chance**        | 7 LP                | Schützling heilt bei <30% Gesundheit, verliert aber Energie     | Meister, 32. Stufe, 175 Stärke/Geschicklichkeit       |
+| Fähigkeit                | Kosten              | Beschreibung                                                           | Anforderungen                                         |
+| ------------------------ | ------------------- | ---------------------------------------------------------------------- | ----------------------------------------------------- |
+| **Schützling**           | S1-S5: 5/4/4/4/4 LP | Beschwört Diener der folgt und im Kampf hilft                          | S1: 12. Stufe; S2: Älterer, 25. Stufe; S3-S5: Meister |
+| **Gabe des Schützlings** | 10 LP               | Schützling verstärkt Besitzer mit zufälligen positiven Effekten        | Älterer, 32. Stufe                                    |
+| **Letzte Chance**        | 7 LP                | Schützling heilt bei weniger als 30% Gesundheit, verliert aber Energie | Meister, 32. Stufe, 175 Stärke/Geschicklichkeit       |
 
 ## Magier-Fähigkeiten
 
@@ -243,14 +243,14 @@ Im Schwierigkeitsmodus betragen die Kosten aller Fähigkeiten **70% der normalen
 
 ### Verwandte Dokumentationen
 
-- [`Schwarzmagier.md`](Schwarzmagier.md) - Ähnliche dunkle Magie
-- [`Nekromant.md`](Nekromant.md) - Andere Untoten-Klasse
-- [`Zauber_und_Schriftrollen.md`](Zauber_und_Schriftrollen.md) - Magische Grundlagen
-- [`Ruestungen.md`](Ruestungen.md) - Allgemeine Rüstungsinformationen
+- [Schwarzmagier](schwarzmagier) - Ähnliche dunkle Magie
+- [Nekromant](nekromant) - Andere Untoten-Klasse
+- [Zauber und Schriftrollen](../magie/zauber_und_schriftrollen) - Magische Grundlagen
+- [Rüstungen](../ausruestung/ruestungen) - Allgemeine Rüstungsinformationen
 
 ### Hauptübersicht
 
-- [`README.md`](README.md) - Zurück zur Hauptübersicht
+- [Zurück zur Hauptübersicht](../intro) - Zurück zur Hauptübersicht
 
 ---
 

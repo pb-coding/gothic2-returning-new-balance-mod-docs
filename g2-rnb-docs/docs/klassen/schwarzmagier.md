@@ -212,11 +212,11 @@ _Hinweis: Um die HP-Gabe zu erhalten, muss man mindestens 1000 HP haben._
 
 ### Verwandte Dokumentationen
 
-- [`Nekromant.md`](Nekromant.md) - Ähnliche Klasse mit anderen Schwerpunkten
-- [`Zauber_und_Schriftrollen.csv`](Zauber_und_Schriftrollen.csv) - Detaillierte Zauberinformationen
-- [`Gaben.csv`](Gaben.csv) - Allgemeine Gaben-Übersicht
-- [`Daemonische_Tafeln.csv`](Daemonische_Tafeln.csv) - Dämonische Magie
-- [`Ruestungen.md`](Ruestungen.md) - Allgemeine Rüstungsübersicht
+- [`Nekromant.md`](../klassen/nekromant) - Ähnliche Klasse mit anderen Schwerpunkten
+- [`Zauber_und_Schriftrollen.csv`](#) - Detaillierte Zauberinformationen
+- [`Gaben.csv`](#) - Allgemeine Gaben-Übersicht
+- [`Daemonische_Tafeln.csv`](#) - Dämonische Magie
+- [`Ruestungen.md`](../ausruestung/ruestungen) - Allgemeine Rüstungsübersicht
 
 ---
 

@@ -184,10 +184,10 @@ Das gefährlichste, aber auch ertragreichste Gebiet für Tafeljäger. Viele Tafe
 
 ## Navigation
 
-- [Zurück zur Hauptübersicht](README.md)
-- [Normale Tafeln](Tafeln.csv)
-- [Verbesserungen und Verzauberungen](Verbesserungen_und_Verzauberungen.md)
-- [Schmuck und Edelsteine](Schmuck_Edelsteine.md)
+- [Zurück zur Hauptübersicht](../intro)
+- [Normale Tafeln](#)
+- [Verbesserungen und Verzauberungen](../entwicklung/verbesserungen_und_verzauberungen)
+- [Schmuck und Edelsteine](../ausruestung/schmuck_edelsteine)
 
 ---
 

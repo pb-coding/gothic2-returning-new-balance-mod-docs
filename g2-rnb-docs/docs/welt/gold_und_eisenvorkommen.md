@@ -286,10 +286,10 @@ Das Bergbau-System in Gothic 2 Returning New Balance bietet umfangreiche Möglic
 
 ### Verwandte Dokumentationen
 
-- [`Schmuck_Edelsteine.md`](Schmuck_Edelsteine.md) - Verarbeitung von Golderz
-- [`Verbesserungen_und_Verzauberungen.md`](Verbesserungen_und_Verzauberungen.md) - Verwendung magischer Erze
-- [`Nahkampfwaffen_Staerke.md`](Nahkampfwaffen_Staerke.md) - Eisenwaffen
-- [`Ruestungen.md`](Ruestungen.md) - Rüstungsherstellung
+- [`Schmuck_Edelsteine.md`](../ausruestung/schmuck_edelsteine) - Verarbeitung von Golderz
+- [`Verbesserungen_und_Verzauberungen.md`](../entwicklung/verbesserungen_und_verzauberungen) - Verwendung magischer Erze
+- [`Nahkampfwaffen_Staerke.md`](../waffen/nahkampfwaffen_staerke) - Eisenwaffen
+- [`Ruestungen.md`](../ausruestung/ruestungen) - Rüstungsherstellung
 
 ### Hilfreiche Guides
 

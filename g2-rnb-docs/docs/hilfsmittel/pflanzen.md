@@ -424,6 +424,6 @@ Pflanzen sind Grundzutaten für:
 
 ### Verwandte Dokumentationen
 
-- [Elixiere](elixiere.md) - Detaillierte Alchemie-Rezepte
+- [Elixiere](../hilfsmittel/elixiere) - Detaillierte Alchemie-Rezepte
 - [Händler-Übersicht](../intro.md) - Alle Händler und ihre Waren
 - [

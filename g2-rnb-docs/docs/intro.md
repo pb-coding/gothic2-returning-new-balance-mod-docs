@@ -20,9 +20,9 @@ Diese Dokumentation bietet eine vollständige Übersicht über alle Aspekte des 
 
 #### **Rüstungen und Schutzausrüstung**
 
-- **[Gildenrüstungen](Ruestungen.md)** - Spezielle Rüstungen der verschiedenen Gilden
-- **[Neutrale Rüstungen](Ruestungen.md)** - Allgemein verfügbare Schutzausrüstung
-- **[Schilde](Schilde.md)** - Defensive Ausrüstung für den Nahkampf
+- **[Gildenrüstungen](ausruestung/ruestungen)** - Spezielle Rüstungen der verschiedenen Gilden
+- **[Neutrale Rüstungen](ausruestung/ruestungen)** - Allgemein verfügbare Schutzausrüstung
+- **[Schilde](ausruestung/schilde)** - Defensive Ausrüstung für den Nahkampf
 
 #### **Gürtel und Helme**
 
@@ -37,26 +37,26 @@ Diese Dokumentation bietet eine vollständige Übersicht über alle Aspekte des 
 
 #### **Nahkampfwaffen**
 
-- **[Degen](Nahkampfwaffen_Geschicklichkeit.md)** - Elegante Fechtwaffen
-- **[Speere](Nahkampfwaffen_Staerke.md)** - Reichweitenwaffen für den Nahkampf
-- **[Kordeläxte](Nahkampfwaffen_Staerke.md)** - Mächtige Zweihandäxte
-- **[Einhändige Waffen Stärke](Nahkampfwaffen_Staerke.md)** - Kraftbasierte Einhandwaffen
-- **[Zweihändige Waffen Stärke](Nahkampfwaffen_Staerke.md)** - Mächtige Zweihandwaffen
-- **[Duale Waffen](Nahkampfwaffen_Geschicklichkeit.md)** - Beidhändige Kampftechniken
+- **[Degen](waffen/nahkampfwaffen_geschicklichkeit)** - Elegante Fechtwaffen
+- **[Speere](waffen/nahkampfwaffen_staerke)** - Reichweitenwaffen für den Nahkampf
+- **[Kordeläxte](waffen/nahkampfwaffen_staerke)** - Mächtige Zweihandäxte
+- **[Einhändige Waffen Stärke](waffen/nahkampfwaffen_staerke)** - Kraftbasierte Einhandwaffen
+- **[Zweihändige Waffen Stärke](waffen/nahkampfwaffen_staerke)** - Mächtige Zweihandwaffen
+- **[Duale Waffen](waffen/nahkampfwaffen_geschicklichkeit)** - Beidhändige Kampftechniken
 
 #### **Fernkampfwaffen**
 
-- **[Bögen](Boegen_und_Armbrueste.md)** - Traditionelle Fernkampfwaffen
-- **[Armbrüste](Boegen_und_Armbrueste.md)** - Mechanische Fernkampfwaffen
+- **[Bögen](waffen/boegen_und_armbrueste)** - Traditionelle Fernkampfwaffen
+- **[Armbrüste](waffen/boegen_und_armbrueste)** - Mechanische Fernkampfwaffen
 
 #### **Magische Waffen**
 
-- **[Stäbe und magische Schwerter](Staebe_und_Magische_Schwerter.md)** - Verzauberte Waffen für Magier
+- **[Stäbe und magische Schwerter](waffen/staebe_und_magische_schwerter)** - Verzauberte Waffen für Magier
 
 #### **Schmuck und Wertsachen**
 
-- **[Schmuck](Schmuck_Edelsteine.md)** - Ringe, Amulette und andere Schmuckstücke
-- **[Tragbare Trophäen](Ognik_Trophäen.md)** - Besondere Sammelobjekte
+- **[Schmuck](ausruestung/schmuck_edelsteine)** - Ringe, Amulette und andere Schmuckstücke
+- **[Tragbare Trophäen](hilfsmittel/ognik_trophaeen)** - Besondere Sammelobjekte
 
 ---
 
@@ -64,28 +64,28 @@ Diese Dokumentation bietet eine vollständige Übersicht über alle Aspekte des 
 
 #### **Kampffertigkeiten**
 
-- **[Schildführung](Fertigkeiten.md)** - Defensive Kampftechniken
-- **[Waffenführung](Fertigkeiten.md)** - Offensive Kampffertigkeiten
-- **[Statistiken lernen](Fertigkeiten.md)** - Attributsverbesserungen
+- **[Schildführung](entwicklung/fertigkeiten)** - Defensive Kampftechniken
+- **[Waffenführung](entwicklung/fertigkeiten)** - Offensive Kampffertigkeiten
+- **[Statistiken lernen](entwicklung/fertigkeiten)** - Attributsverbesserungen
 
 #### **Handwerksfertigkeiten**
 
-- **[Schmiedekunst/Bergbau](Fertigkeiten.md)** - Herstellung und Rohstoffgewinnung
-- **[Alchemie](Fertigkeiten.md)** - Tränke und Elixiere brauen
+- **[Schmiedekunst/Bergbau](entwicklung/fertigkeiten)** - Herstellung und Rohstoffgewinnung
+- **[Alchemie](entwicklung/fertigkeiten)** - Tränke und Elixiere brauen
 
 #### **Soziale Fertigkeiten**
 
-- **[Diebstahl](Fertigkeiten.md)** - Heimliche Beschaffung von Gegenständen
-- **[Rhetorik](Rhetorik.md)** - Überzeugungskunst und Gesprächsführung
+- **[Diebstahl](entwicklung/fertigkeiten)** - Heimliche Beschaffung von Gegenständen
+- **[Rhetorik](hilfsmittel/rhetorik)** - Überzeugungskunst und Gesprächsführung
 
 #### **Überlebensfertigkeiten**
 
-- **[Jagd](Fertigkeiten.md)** - Tierjagd und Nahrungsbeschaffung
+- **[Jagd](entwicklung/fertigkeiten)** - Tierjagd und Nahrungsbeschaffung
 
 #### **Magische Fertigkeiten**
 
-- **[Regeneration/Resistenzen/Sprachen/Magie/Kreise](Fertigkeiten.md)** - Grundlegende magische Fähigkeiten
-- **[Allgemeine Zauber](Zauber_und_Schriftrollen.md)** - Universelle Magie
+- **[Regeneration/Resistenzen/Sprachen/Magie/Kreise](entwicklung/fertigkeiten)** - Grundlegende magische Fähigkeiten
+- **[Allgemeine Zauber](magie/zauber_und_schriftrollen)** - Universelle Magie
 
 ---
 
@@ -93,33 +93,33 @@ Diese Dokumentation bietet eine vollständige Übersicht über alle Aspekte des 
 
 #### **Magische Gilden**
 
-- **[Wassermagier](Wassermagier.md)** - Meister der Wassermagie
-- **[Feuermagier](Feuermagier.md)** - Beherrscher der Flammen
-- **[Schwarzmagier](Schwarzmagier.md)** - Praktiker der dunklen Künste
-- **[Guru](Guru.md)** - Spirituelle Führer und Sumpfkraut-Meister
-- **[Nekromant](Nekromant.md)** - Totenbeschwörer und Untote-Meister
-- **[Dunkler Beschwörer](Dunkler_Beschwörer.md)** - Dämonische Magie-Praktiker
+- **[Wassermagier](klassen/wassermagier)** - Meister der Wassermagie
+- **[Feuermagier](klassen/feuermagier)** - Beherrscher der Flammen
+- **[Schwarzmagier](klassen/schwarzmagier)** - Praktiker der dunklen Künste
+- **[Guru](klassen/guru)** - Spirituelle Führer und Sumpfkraut-Meister
+- **[Nekromant](klassen/nekromant)** - Totenbeschwörer und Untote-Meister
+- **[Dunkler Beschwörer](klassen/dunkler_beschwörer)** - Dämonische Magie-Praktiker
 
 #### **Kriegergilden**
 
-- **[Dunkler Ritter](Dunkler_Ritter.md)** - Gefallene Paladine der Finsternis
-- **[Tempelwächter](Tempelwaechter.md)** - Beschützer heiliger Stätten
-- **[Söldner](Soeldner.md)** - Professionelle Kämpfer
-- **[Paladin](Paladin.md)** - Heilige Krieger des Lichts
+- **[Dunkler Ritter](klassen/dunkler_ritter)** - Gefallene Paladine der Finsternis
+- **[Tempelwächter](klassen/tempelwaechter)** - Beschützer heiliger Stätten
+- **[Söldner](klassen/paladin)** - Professionelle Kämpfer
+- **[Paladin](klassen/paladin)** - Heilige Krieger des Lichts
 
 #### **Spezialisierte Gilden**
 
-- **[Dämonenjäger](Daemonenjäger.md)** - Jäger übernatürlicher Kreaturen
-- **[Späher](Späher.md)** - Meister der Heimlichkeit und Fernkampf
-- **[Verdammter](Verdammter.md)** - Gefallene Seelen mit besonderen Kräften
+- **[Dämonenjäger](klassen/daemonenjäger)** - Jäger übernatürlicher Kreaturen
+- **[Späher](klassen/spaeher)** - Meister der Heimlichkeit und Fernkampf
+- **[Verdammter](klassen/verdammter)** - Gefallene Seelen mit besonderen Kräften
 
 ---
 
 ### 🌿 **NEBENKLASSEN / UNTERGILDEN**
 
-- **[Schamane](Schamane.md)** - Naturverbundene Heiler und Geisterbeschwörer
-- **[Druide](Druide.md)** - Hüter der Natur und Tierverwandlung
-- **[Giftmeister](Giftmeister.md)** - Experten für Toxine und Gifte
+- **[Schamane](klassen/schamane)** - Naturverbundene Heiler und Geisterbeschwörer
+- **[Druide](klassen/druide)** - Hüter der Natur und Tierverwandlung
+- **[Giftmeister](klassen/giftmeister)** - Experten für Toxine und Gifte
 
 ---
 
@@ -127,27 +127,27 @@ Diese Dokumentation bietet eine vollständige Übersicht über alle Aspekte des 
 
 #### **Nützliche Ressourcen**
 
-- **[Nützliche Karten](Karten.csv)** - Orientierungshilfen für die Spielwelt
-- **[Pflanzen](Pflanzen.md)** - Alchemistische Zutaten und ihre Fundorte
-- **[Elixiere](Elixiere.md)** - Fertige Tränke und ihre Wirkungen
-- **[Tafeln](Tafeln.md)** - Lehrschriften und Wissensobjekte
-- **[Dämonische Tafeln](Daemonische_Tafeln.md)** - Verbotenes Wissen der Finsternis
+- **[Nützliche Karten](welt/karten)** - Orientierungshilfen für die Spielwelt
+- **[Pflanzen](hilfsmittel/pflanzen)** - Alchemistische Zutaten und ihre Fundorte
+- **[Elixiere](hilfsmittel/elixiere)** - Fertige Tränke und ihre Wirkungen
+- **[Tafeln](magie/tafeln)** - Lehrschriften und Wissensobjekte
+- **[Dämonische Tafeln](magie/daemonische_tafeln)** - Verbotenes Wissen der Finsternis
 
 #### **Spielhilfen**
 
-- **[Boss Verzeichnis](Boss_Verzeichnis.md)** - Übersicht aller Bosskämpfe
-- **[Boni](Boni.md)** - Permanente Verbesserungen und Belohnungen
-- **[Erzvorkommen](Gold_und_Eisenvorkommen.md)** - Rohstoffquellen in der Spielwelt
-- **[Ognik und seine Verbesserungen](Ognik_Trophäen.md)** - Spezielle Upgrade-Mechaniken
-- **[Cheat-Codes](Cheat-Codes.md)** - Entwickler-Befehle und Cheats
+- **[Boss Verzeichnis](hilfsmittel/boss_verzeichnis)** - Übersicht aller Bosskämpfe
+- **[Boni](entwicklung/boni)** - Permanente Verbesserungen und Belohnungen
+- **[Erzvorkommen](welt/gold_und_eisenvorkommen)** - Rohstoffquellen in der Spielwelt
+- **[Ognik und seine Verbesserungen](hilfsmittel/ognik_trophaeen)** - Spezielle Upgrade-Mechaniken
+- **[Cheat-Codes](hilfsmittel/cheat-codes)** - Entwickler-Befehle und Cheats
 
 #### **Erweiterte Systeme**
 
-- **[Verbesserungen und Siegel](Verbesserungen_und_Verzauberungen.md)** - Ausrüstungs-Upgrades
-- **[Teleporter](Teleporter.md)** - Schnellreise-System
-- **[Edelsteine](Schmuck_Edelsteine.md)** - Wertvolle Steine und ihre Verwendung
-- **[Wichtige Schriftrollen](Zauber_und_Schriftrollen.md)** - Einmalige Zaubersprüche
-- **[Gaben](Gaben.md)** - Besondere Belohnungen und Geschenke
+- **[Verbesserungen und Siegel](entwicklung/verbesserungen_und_verzauberungen)** - Ausrüstungs-Upgrades
+- **[Teleporter](welt/teleporter)** - Schnellreise-System
+- **[Edelsteine](ausruestung/schmuck_edelsteine)** - Wertvolle Steine und ihre Verwendung
+- **[Wichtige Schriftrollen](magie/zauber_und_schriftrollen)** - Einmalige Zaubersprüche
+- **[Gaben](entwicklung/gaben)** - Besondere Belohnungen und Geschenke
 
 ---
 
@@ -171,7 +171,7 @@ Investiere Lernpunkte strategisch in [Fertigkeiten](#fertigkeiten), die zu deine
 
 ### 5. **Erkunde die Welt**
 
-Nutze [Karten](Karten.csv) und [Teleporter](Teleporter.md) zur effizienten Navigation.
+Nutze [Karten](welt/karten) und [Teleporter](welt/teleporter) zur effizienten Navigation.
 
 ---
 
@@ -231,27 +231,27 @@ Erklärungen zu erweiterten Spielsystemen wie Verbesserungen, Boni und spezielle
 
 ### **Für Einsteiger:**
 
-- [Fertigkeiten](Fertigkeiten.md) - Grundlagen der Charakterentwicklung
-- [Rüstungen](Ruestungen.md) - Schutzausrüstung für alle Gilden
-- [Cheat-Codes](Cheat-Codes.md) - Hilfen für den Einstieg
+- [Fertigkeiten](entwicklung/fertigkeiten) - Grundlagen der Charakterentwicklung
+- [Rüstungen](ausruestung/ruestungen) - Schutzausrüstung für alle Gilden
+- [Cheat-Codes](hilfsmittel/cheat-codes) - Hilfen für den Einstieg
 
 ### **Für Kampf-Enthusiasten:**
 
-- [Nahkampfwaffen Stärke](Nahkampfwaffen_Staerke.md) - Mächtige Nahkampfwaffen
-- [Bögen und Armbrüste](Boegen_und_Armbrueste.md) - Fernkampfoptionen
-- [Boss Verzeichnis](Boss_Verzeichnis.md) - Herausforderungen meistern
+- [Nahkampfwaffen Stärke](waffen/nahkampfwaffen_staerke) - Mächtige Nahkampfwaffen
+- [Bögen und Armbrüste](waffen/boegen_und_armbrueste) - Fernkampfoptionen
+- [Boss Verzeichnis](hilfsmittel/boss_verzeichnis) - Herausforderungen meistern
 
 ### **Für Magie-Liebhaber:**
 
-- [Zauber und Schriftrollen](Zauber_und_Schriftrollen.md) - Magische Künste
-- [Stäbe und Magische Schwerter](Staebe_und_Magische_Schwerter.md) - Magische Waffen
-- [Dämonische Tafeln](Daemonische_Tafeln.md) - Verbotenes Wissen
+- [Zauber und Schriftrollen](magie/zauber_und_schriftrollen) - Magische Künste
+- [Stäbe und Magische Schwerter](waffen/staebe_und_magische_schwerter) - Magische Waffen
+- [Dämonische Tafeln](magie/daemonische_tafeln) - Verbotenes Wissen
 
 ### **Für Sammler:**
 
-- [Schmuck und Edelsteine](Schmuck_Edelsteine.md) - Wertvolle Schätze
-- [Ognik Trophäen](Ognik_Trophäen.md) - Besondere Sammelobjekte
-- [Gaben](Gaben.md) - Einzigartige Belohnungen
+- [Schmuck und Edelsteine](ausruestung/schmuck_edelsteine) - Wertvolle Schätze
+- [Ognik Trophäen](hilfsmittel/ognik_trophaeen) - Besondere Sammelobjekte
+- [Gaben](entwicklung/gaben) - Einzigartige Belohnungen
 
 ---
 

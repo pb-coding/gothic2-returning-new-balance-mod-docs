@@ -181,16 +181,16 @@ Auren sind charakteristische Runen für den Beschwörer, die Xardas direkt nach 
 
 ### Verwandte Dokumentationen
 
-- [`Schwarzmagier.md`](Schwarzmagier.md) - Vergleichbare dunkle Magierklasse
-- [`Nekromant.md`](Nekromant.md) - Alternative Untoten-Klasse
-- [`Zauber_und_Schriftrollen.md`](Zauber_und_Schriftrollen.md) - Magische Grundlagen
-- [`Daemonische_Tafeln.md`](Daemonische_Tafeln.md) - Dunkle Magie-Ressourcen
+- [`Schwarzmagier.md`](../klassen/schwarzmagier) - Vergleichbare dunkle Magierklasse
+- [`Nekromant.md`](../klassen/nekromant) - Alternative Untoten-Klasse
+- [`Zauber_und_Schriftrollen.md`](../magie/zauber_und_schriftrollen) - Magische Grundlagen
+- [`Daemonische_Tafeln.md`](../magie/daemonische_tafeln) - Dunkle Magie-Ressourcen
 
 ### Weitere Ressourcen
 
-- [`Ruestungen.md`](Ruestungen.md) - Allgemeine Rüstungsinformationen
-- [`Boni.md`](Boni.md) - Charakterverbesserungen
-- [`Fertigkeiten.csv`](Fertigkeiten.csv) - Allgemeine Fähigkeiten
+- [`Ruestungen.md`](../ausruestung/ruestungen) - Allgemeine Rüstungsinformationen
+- [`Boni.md`](../entwicklung/boni) - Charakterverbesserungen
+- [`Fertigkeiten.csv`](#) - Allgemeine Fähigkeiten
 
 ---
 

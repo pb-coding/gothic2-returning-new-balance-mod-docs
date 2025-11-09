@@ -210,10 +210,10 @@ Waffen mit Lebensraub oder Effektivität gegen bestimmte Gegnertypen können in 
 
 ## Verwandte Dokumentationen
 
-- [Nahkampfwaffen (Stärke)](Nahkampfwaffen_Staerke.md) - Stärkebasierte Nahkampfwaffen
-- [Bögen und Armbrüste](Boegen_und_Armbrueste.md) - Fernkampfwaffen
-- [Stäbe und Magische Schwerter](Staebe_und_Magische_Schwerter.md) - Magische Waffen
-- [Verbesserungen und Verzauberungen](Verbesserungen_und_Verzauberungen.md) - Waffenupgrades
+- [Nahkampfwaffen (Stärke)](../waffen/nahkampfwaffen_staerke) - Stärkebasierte Nahkampfwaffen
+- [Bögen und Armbrüste](../waffen/boegen_und_armbrueste) - Fernkampfwaffen
+- [Stäbe und Magische Schwerter](../waffen/staebe_und_magische_schwerter) - Magische Waffen
+- [Verbesserungen und Verzauberungen](../entwicklung/verbesserungen_und_verzauberungen) - Waffenupgrades
 
 ---
 

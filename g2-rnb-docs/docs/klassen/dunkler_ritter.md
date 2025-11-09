@@ -205,7 +205,7 @@ Der **Dunkle Diener (Uma)** ist ein spezieller Beschwörter exklusiv für den Du
 
 | Fähigkeit              | Kosten | Gold | Level | Beschreibung                                 |
 | ---------------------- | ------ | ---- | ----- | -------------------------------------------- |
-| Diener heilt Held      | 5 LP   | 1200 | 1     | Bei <33% Gesundheit                          |
+| Diener heilt Held      | 5 LP   | 1200 | 1     | Bei weniger als 33% Gesundheit               |
 | Dienerschutz +50       | 4 LP   | 800  | 1     | 2x erlernbar, +500 HP, +50 Karma             |
 | Diener heilt sich      | 3 LP   | 750  | 1     | Bei Feind-Tötung, +500 HP, +100 Karma        |
 | Diener-Geschwindigkeit | 6 LP   | 2000 | 1     | +10% Angriff/Bewegung, +5% Speed, +100 Karma |

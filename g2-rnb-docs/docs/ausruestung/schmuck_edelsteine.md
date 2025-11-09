@@ -31,21 +31,21 @@ Schmuck stellen wir mit Hilfe einer Ringform an einem speziellen Tisch bei Matte
 
 #### Ringe aus Stahl
 
-| Edelstein | Name                  | Eigenschaften                                                                    |
-| --------- | --------------------- | -------------------------------------------------------------------------------- |
-| Rubin     | Rubinring aus Stahl   | Stärke: 10<br>Schutz vor Hiebschäden: 5                                          |
-| Smaragd   | Smaragdring aus Stahl | Geschicklichkeit: 10<br>Schutz vor Wuchtschäden: 5<br>Schutz vor Stichschäden: 5 |
-| Diamant   | Diamantring aus Stahl | Schutz vor jeder Art von Schäden: 10                                             |
-| Opal      | Opalring aus Stahl    | Gesundheit: 25<br>Schutz vor Feuer: 5<br>Schutz vor Sturz: 2                     |
-| Saphir    | Saphirring aus Stahl  | Mana: 15<br>Intelligenz: 10<br>Schutz vor Magie: 5                               |
+| Edelstein | Name                  | Eigenschaften                                                                |
+| --------- | --------------------- | ---------------------------------------------------------------------------- |
+| Rubin     | Rubinring aus Stahl   | Stärke: 10, Schutz vor Hiebschäden: 5                                        |
+| Smaragd   | Smaragdring aus Stahl | Geschicklichkeit: 10, Schutz vor Wuchtschäden: 5, Schutz vor Stichschäden: 5 |
+| Diamant   | Diamantring aus Stahl | Schutz vor jeder Art von Schäden: 10                                         |
+| Opal      | Opalring aus Stahl    | Gesundheit: 25, Schutz vor Feuer: 5, Schutz vor Sturz: 2                     |
+| Saphir    | Saphirring aus Stahl  | Mana: 15, Intelligenz: 10, Schutz vor Magie: 5                               |
 
 #### Amulette aus Stahl
 
-| Typ     | Name                      | Eigenschaften                                                                  |
-| ------- | ------------------------- | ------------------------------------------------------------------------------ |
-| Krieger | Stahlamulett des Kriegers | Gesundheit: 50<br>Stärke: 15<br>Reduzierter Ausdauerverbrauch um 10%           |
-| Schurke | Stahlamulett des Schurken | Gesundheit: 30<br>Geschicklichkeit: 15<br>Reduzierter Ausdauerverbrauch um 15% |
-| Magier  | Stahlamulett des Magiers  | Gesundheit: 30<br>Mana: 30<br>Intelligenz: 10                                  |
+| Typ     | Name                      | Eigenschaften                                                              |
+| ------- | ------------------------- | -------------------------------------------------------------------------- |
+| Krieger | Stahlamulett des Kriegers | Gesundheit: 50, Stärke: 15, Reduzierter Ausdauerverbrauch um 10%           |
+| Schurke | Stahlamulett des Schurken | Gesundheit: 30, Geschicklichkeit: 15, Reduzierter Ausdauerverbrauch um 15% |
+| Magier  | Stahlamulett des Magiers  | Gesundheit: 30, Mana: 30, Intelligenz: 10                                  |
 
 ### Gold (3. Kapitel)
 
@@ -53,13 +53,13 @@ Schmuck stellen wir mit Hilfe einer Ringform an einem speziellen Tisch bei Matte
 
 #### Ringe aus Gold
 
-| Edelstein | Name                 | Eigenschaften                                                                      |
-| --------- | -------------------- | ---------------------------------------------------------------------------------- |
-| Rubin     | Rubinring aus Gold   | Stärke: 18<br>Schutz vor Hiebschäden: 10                                           |
-| Smaragd   | Smaragdring aus Gold | Geschicklichkeit: 18<br>Schutz vor Wuchtschäden: 10<br>Schutz vor Stichschäden: 10 |
-| Diamant   | Diamantring aus Gold | Schutz vor jeder Art von Schäden: 20                                               |
-| Opal      | Opalring aus Gold    | Gesundheit: 50<br>Schutz vor Feuer: 10<br>Schutz vor Sturz: 3                      |
-| Saphir    | Saphirring aus Gold  | Mana: 30<br>Intelligenz: 15<br>Schutz vor Magie: 10                                |
+| Edelstein | Name                 | Eigenschaften                                                                  |
+| --------- | -------------------- | ------------------------------------------------------------------------------ |
+| Rubin     | Rubinring aus Gold   | Stärke: 18, Schutz vor Hiebschäden: 10                                         |
+| Smaragd   | Smaragdring aus Gold | Geschicklichkeit: 18, Schutz vor Wuchtschäden: 10, Schutz vor Stichschäden: 10 |
+| Diamant   | Diamantring aus Gold | Schutz vor jeder Art von Schäden: 20                                           |
+| Opal      | Opalring aus Gold    | Gesundheit: 50, Schutz vor Feuer: 10, Schutz vor Sturz: 3                      |
+| Saphir    | Saphirring aus Gold  | Mana: 30, Intelligenz: 15, Schutz vor Magie: 10                                |
 
 ### Magisches Erz (4. Kapitel)
 
@@ -67,23 +67,23 @@ Schmuck stellen wir mit Hilfe einer Ringform an einem speziellen Tisch bei Matte
 
 #### Ringe aus magischem Erz
 
-| Edelstein | Name                          | Eigenschaften                                                                      |
-| --------- | ----------------------------- | ---------------------------------------------------------------------------------- |
-| Rubin     | Rubinring aus magischem Erz   | Stärke: 25<br>Schutz vor Hiebschäden: 15                                           |
-| Smaragd   | Smaragdring aus magischem Erz | Geschicklichkeit: 25<br>Schutz vor Wuchtschäden: 15<br>Schutz vor Stichschäden: 15 |
-| Diamant   | Diamantring aus magischem Erz | Schutz vor jeder Art von Schäden: 30                                               |
-| Opal      | Opalring aus magischem Erz    | Gesundheit: 100<br>Schutz vor Feuer: 15<br>Schutz vor Sturz: 4                     |
-| Saphir    | Saphirring aus magischem Erz  | Mana: 45<br>Intelligenz: 25<br>Schutz vor Magie: 15                                |
+| Edelstein | Name                          | Eigenschaften                                                                  |
+| --------- | ----------------------------- | ------------------------------------------------------------------------------ |
+| Rubin     | Rubinring aus magischem Erz   | Stärke: 25, Schutz vor Hiebschäden: 15                                         |
+| Smaragd   | Smaragdring aus magischem Erz | Geschicklichkeit: 25, Schutz vor Wuchtschäden: 15, Schutz vor Stichschäden: 15 |
+| Diamant   | Diamantring aus magischem Erz | Schutz vor jeder Art von Schäden: 30                                           |
+| Opal      | Opalring aus magischem Erz    | Gesundheit: 100, Schutz vor Feuer: 15, Schutz vor Sturz: 4                     |
+| Saphir    | Saphirring aus magischem Erz  | Mana: 45, Intelligenz: 25, Schutz vor Magie: 15                                |
 
 #### Amulette aus magischem Erz
 
-| Edelstein | Name                             | Eigenschaften                                                                      |
-| --------- | -------------------------------- | ---------------------------------------------------------------------------------- |
-| Rubin     | Rubinamulett aus magischem Erz   | Stärke: 30<br>Schutz vor Hiebschäden: 20                                           |
-| Smaragd   | Smaragdamulett aus magischem Erz | Geschicklichkeit: 30<br>Schutz vor Wuchtschäden: 20<br>Schutz vor Stichschäden: 20 |
-| Diamant   | Diamantamulett aus magischem Erz | Schutz vor jeder Art von Schäden: 40                                               |
-| Opal      | Opalamulett aus magischem Erz    | Gesundheit: 150<br>Schutz vor Feuer: 20<br>Schutz vor Sturz: 6                     |
-| Saphir    | Saphiramulett aus magischem Erz  | Mana: 60<br>Intelligenz: 25<br>Schutz vor Magie: 20                                |
+| Edelstein | Name                             | Eigenschaften                                                                  |
+| --------- | -------------------------------- | ------------------------------------------------------------------------------ |
+| Rubin     | Rubinamulett aus magischem Erz   | Stärke: 30, Schutz vor Hiebschäden: 20                                         |
+| Smaragd   | Smaragdamulett aus magischem Erz | Geschicklichkeit: 30, Schutz vor Wuchtschäden: 20, Schutz vor Stichschäden: 20 |
+| Diamant   | Diamantamulett aus magischem Erz | Schutz vor jeder Art von Schäden: 40                                           |
+| Opal      | Opalamulett aus magischem Erz    | Gesundheit: 150, Schutz vor Feuer: 20, Schutz vor Sturz: 6                     |
+| Saphir    | Saphiramulett aus magischem Erz  | Mana: 60, Intelligenz: 25, Schutz vor Magie: 20                                |
 
 ### Schwarzes Erz (5. Kapitel)
 
@@ -91,19 +91,19 @@ Schmuck stellen wir mit Hilfe einer Ringform an einem speziellen Tisch bei Matte
 
 #### Ringe aus schwarzem Erz
 
-| Typ     | Name                                | Eigenschaften                                                                         |
-| ------- | ----------------------------------- | ------------------------------------------------------------------------------------- |
-| Rubin   | Glänzender Ring aus schwarzem Erz   | Stärke: 25<br>Geschicklichkeit: 25<br>Schutz vor Sturz: 5                             |
-| Diamant | Schimmernder Ring aus schwarzem Erz | Gesundheit: 100<br>Schutz vor jeder Art von Schäden: 35                               |
-| Saphir  | Kristallring aus schwarzem Erz      | Mana: 60<br>Intelligenz: 30<br>Schutz vor Magie: 20<br>Manaregeneration 1 Pkt/Sekunde |
+| Typ     | Name                                | Eigenschaften                                                                   |
+| ------- | ----------------------------------- | ------------------------------------------------------------------------------- |
+| Rubin   | Glänzender Ring aus schwarzem Erz   | Stärke: 25, Geschicklichkeit: 25, Schutz vor Sturz: 5                           |
+| Diamant | Schimmernder Ring aus schwarzem Erz | Gesundheit: 100, Schutz vor jeder Art von Schäden: 35                           |
+| Saphir  | Kristallring aus schwarzem Erz      | Mana: 60, Intelligenz: 30, Schutz vor Magie: 20, Manaregeneration 1 Pkt/Sekunde |
 
 #### Amulette aus schwarzem Erz
 
-| Typ     | Name                                   | Eigenschaften                                                                             |
-| ------- | -------------------------------------- | ----------------------------------------------------------------------------------------- |
-| Rubin   | Glänzendes Amulett aus schwarzem Erz   | Stärke: 35<br>Geschicklichkeit: 35<br>Schutz vor Stichschäden: 30<br>Schutz vor Sturz: 10 |
-| Diamant | Schimmerndes Amulett aus schwarzem Erz | Gesundheit: 200<br>Schutz vor jeder Art von Schäden: 50                                   |
-| Saphir  | Kristallamulett aus schwarzem Erz      | Mana: 90<br>Intelligenz: 35<br>Schutz vor Magie: 30<br>Manaregeneration 1 Pkt/Sekunde     |
+| Typ     | Name                                   | Eigenschaften                                                                       |
+| ------- | -------------------------------------- | ----------------------------------------------------------------------------------- |
+| Rubin   | Glänzendes Amulett aus schwarzem Erz   | Stärke: 35, Geschicklichkeit: 35, Schutz vor Stichschäden: 30, Schutz vor Sturz: 10 |
+| Diamant | Schimmerndes Amulett aus schwarzem Erz | Gesundheit: 200, Schutz vor jeder Art von Schäden: 50                               |
+| Saphir  | Kristallamulett aus schwarzem Erz      | Mana: 90, Intelligenz: 35, Schutz vor Magie: 30, Manaregeneration 1 Pkt/Sekunde     |
 
 ## Spezieller Stahlschmuck
 
@@ -111,17 +111,17 @@ Kann nach dem Erlernen von Stahl-/Goldschmuck bei Matteo am Tisch im Reiter "Spe
 
 ### Spezialringe
 
-| Name                        | Eigenschaften                                               | Besonderheiten                             |
-| --------------------------- | ----------------------------------------------------------- | ------------------------------------------ |
-| Ring des Gräbers            | Reduziert Ausdauerverbrauch beim Graben um 50%              | -                                          |
-| Ring der Kraft              | Ausdauerregeneration 1/Sek<br>Gesundheitsregeneration 1/Sek | -                                          |
-| Ring des Taschendiebs       | Erhöht Diebstahlschance um 10%                              | Kann zwei gleichzeitig getragen werden     |
-| Ring des Metzgers           | Erhöht Waffenbeherrschung jeder Waffe um 4%                 | -                                          |
-| Ring des Raufbolds          | Erhöht Waffenbeherrschung 1h und 2h um 7%                   | Erfordert Goldschmuckherstellung (3. Kap.) |
-| Ring des Boten              | Reduziert Ausdauerverbrauch beim Laufen um 25%              | -                                          |
-| Ring der magischen Energie  | Manaregeneration 1/Sek                                      | Kann zwei gleichzeitig getragen werden     |
-| Ring des magischen Schutzes | Magieresistenz und Feuerresistenz um 40                     | Kann zwei gleichzeitig getragen werden     |
-| Ring des Schützen           | Erhöht Armbrust- und Bogenfertigkeit um 7%                  | Erfordert Goldschmuckherstellung (3. Kap.) |
+| Name                        | Eigenschaften                                             | Besonderheiten                             |
+| --------------------------- | --------------------------------------------------------- | ------------------------------------------ |
+| Ring des Gräbers            | Reduziert Ausdauerverbrauch beim Graben um 50%            | -                                          |
+| Ring der Kraft              | Ausdauerregeneration 1/Sek, Gesundheitsregeneration 1/Sek | -                                          |
+| Ring des Taschendiebs       | Erhöht Diebstahlschance um 10%                            | Kann zwei gleichzeitig getragen werden     |
+| Ring des Metzgers           | Erhöht Waffenbeherrschung jeder Waffe um 4%               | -                                          |
+| Ring des Raufbolds          | Erhöht Waffenbeherrschung 1h und 2h um 7%                 | Erfordert Goldschmuckherstellung (3. Kap.) |
+| Ring des Boten              | Reduziert Ausdauerverbrauch beim Laufen um 25%            | -                                          |
+| Ring der magischen Energie  | Manaregeneration 1/Sek                                    | Kann zwei gleichzeitig getragen werden     |
+| Ring des magischen Schutzes | Magieresistenz und Feuerresistenz um 40                   | Kann zwei gleichzeitig getragen werden     |
+| Ring des Schützen           | Erhöht Armbrust- und Bogenfertigkeit um 7%                | Erfordert Goldschmuckherstellung (3. Kap.) |
 
 ## Legendäre Schmucksets
 
@@ -177,42 +177,42 @@ Kann nach dem Erlernen von Stahl-/Goldschmuck bei Matteo am Tisch im Reiter "Spe
 
 ### Geschicklichkeits-Schmuck
 
-| Name                         | Eigenschaften                          | Fundort                                     |
-| ---------------------------- | -------------------------------------- | ------------------------------------------- |
-| Amulett der Geschickten Hand | Gesundheit: 10<br>Geschicklichkeit: 10 | Liegt in Rączkas Truhe in den Kanälen       |
-| Ring des Betrügers           | Geschicklichkeit: 6                    | Liegt in Bromors Zimmer in der linken Truhe |
-| Ring des Betrügers           | Geschicklichkeit: 6                    | Für die Aufgabe "Blutige Kelche"            |
+| Name                         | Eigenschaften                        | Fundort                                     |
+| ---------------------------- | ------------------------------------ | ------------------------------------------- |
+| Amulett der Geschickten Hand | Gesundheit: 10, Geschicklichkeit: 10 | Liegt in Rączkas Truhe in den Kanälen       |
+| Ring des Betrügers           | Geschicklichkeit: 6                  | Liegt in Bromors Zimmer in der linken Truhe |
+| Ring des Betrügers           | Geschicklichkeit: 6                  | Für die Aufgabe "Blutige Kelche"            |
 
 ### Mana-Schmuck
 
-| Name                  | Eigenschaften              | Fundort                                              |
-| --------------------- | -------------------------- | ---------------------------------------------------- |
-| Amulett der Magie     | Mana: 10                   | Verkauft von Isgaroth                                |
-| Ring der Magie        | Mana: 5                    | Von Xardas für ein Gespräch über Lester              |
-| Ring der Sternenmacht | Mana: 10                   | Zwischen dem Stein und dem Turm beim verwundeten Ork |
-| Ring der Energie      | Gesundheit: 30<br>Mana: 10 | Für die Aufgabe "Parlans Vorwürfe"                   |
+| Name                  | Eigenschaften            | Fundort                                              |
+| --------------------- | ------------------------ | ---------------------------------------------------- |
+| Amulett der Magie     | Mana: 10                 | Verkauft von Isgaroth                                |
+| Ring der Magie        | Mana: 5                  | Von Xardas für ein Gespräch über Lester              |
+| Ring der Sternenmacht | Mana: 10                 | Zwischen dem Stein und dem Turm beim verwundeten Ork |
+| Ring der Energie      | Gesundheit: 30, Mana: 10 | Für die Aufgabe "Parlans Vorwürfe"                   |
 
 ## Besondere Schmuckstücke
 
 ### Einzigartige Ringe
 
-| Name                      | Eigenschaften                                                 | Fundort                                                                   |
-| ------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| Ring der Macht            | Stärke: 6<br>Geschicklichkeit: 6                              | Über dem Eingang zur Höhle neben Kräutersammlern nahe dem schwarzen Troll |
-| Ring des Faustkämpfers    | Erhöht Faustkampfschaden um 20                                | Gewinn gegen Alrik und Durchsuchung der Leiche                            |
-| Ring des Narren           | Erhöht Faustkampfschaden um 20<br>Gibt Resistenz gegen Fallen | Skip gibt es für 20 Flaschen Grog im Piratenlager im 2. Kapitel           |
-| Ring des Adanos-Priesters | Gesundheit: 250                                               | Erhalten für die Mission bei den Goblins in der Wüste Adanos              |
-| Ring des Fellangor        | Mana: 65<br>Intelligenz: 30<br>Gesundheit: 100                | Erhalten von magischen Gilden während der Aufgabe "Mora Ulartu"           |
+| Name                      | Eigenschaften                                               | Fundort                                                                   |
+| ------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------- |
+| Ring der Macht            | Stärke: 6, Geschicklichkeit: 6                              | Über dem Eingang zur Höhle neben Kräutersammlern nahe dem schwarzen Troll |
+| Ring des Faustkämpfers    | Erhöht Faustkampfschaden um 20                              | Gewinn gegen Alrik und Durchsuchung der Leiche                            |
+| Ring des Narren           | Erhöht Faustkampfschaden um 20, Gibt Resistenz gegen Fallen | Skip gibt es für 20 Flaschen Grog im Piratenlager im 2. Kapitel           |
+| Ring des Adanos-Priesters | Gesundheit: 250                                             | Erhalten für die Mission bei den Goblins in der Wüste Adanos              |
+| Ring des Fellangor        | Mana: 65, Intelligenz: 30, Gesundheit: 100                  | Erhalten von magischen Gilden während der Aufgabe "Mora Ulartu"           |
 
 ### Einzigartige Amulette
 
-| Name                   | Eigenschaften                                                                                 | Fundort                                                                                                                |
-| ---------------------- | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| Amulett der Eichenhaut | Resistenz gegen Wuchtschäden: 20                                                              | Im Schatz von Kapitän Greg beim Jägerlager                                                                             |
-| Amulett des Jägers     | Bogenfertigkeit: 10%                                                                          | Besitzt der Feldkriecher aus der Mission „Suche". Dauerhaft von Ben nach „Lange erwartetes Treffen" bei min. 30% Bogen |
-| Amulett des Frank      | Stärke: 6<br>Geschicklichkeit: 6<br>Gesundheit: 50                                            | Fällt von Frank in Jarkendare im Banditenlager 2. Kap.                                                                 |
-| Amulett der Sterne     | Stärke: 10, Mana: 15<br>Geschicklichkeit: 10, Int: 12<br>Schutz vor jeder Art von Schäden: 15 | Fällt von Imarah in der Wüste Adanos                                                                                   |
-| Heilige Aura Innos'    | Mana: 35<br>Intelligenz: 35                                                                   | Erhält der Feuermagier für die Weihe von Schreinen                                                                     |
+| Name                   | Eigenschaften                                                                             | Fundort                                                                                                                |
+| ---------------------- | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Amulett der Eichenhaut | Resistenz gegen Wuchtschäden: 20                                                          | Im Schatz von Kapitän Greg beim Jägerlager                                                                             |
+| Amulett des Jägers     | Bogenfertigkeit: 10%                                                                      | Besitzt der Feldkriecher aus der Mission „Suche". Dauerhaft von Ben nach „Lange erwartetes Treffen" bei min. 30% Bogen |
+| Amulett des Frank      | Stärke: 6, Geschicklichkeit: 6, Gesundheit: 50                                            | Fällt von Frank in Jarkendare im Banditenlager 2. Kap.                                                                 |
+| Amulett der Sterne     | Stärke: 10, Mana: 15, Geschicklichkeit: 10, Int: 12, Schutz vor jeder Art von Schäden: 15 | Fällt von Imarah in der Wüste Adanos                                                                                   |
+| Heilige Aura Innos'    | Mana: 35, Intelligenz: 35                                                                 | Erhält der Feuermagier für die Weihe von Schreinen                                                                     |
 
 ## Edelsteine und ihre Eigenschaften
 
@@ -357,10 +357,10 @@ Kann nach dem Erlernen von Stahl-/Goldschmuck bei Matteo am Tisch im Reiter "Spe
 
 ### Verwandte Dokumentationen
 
-- [`Boni.md`](Boni.md) - Übersicht aller Boni-Systeme
-- [`Ruestungen.md`](Ruestungen.md) - Rüstungen und Schutzausrüstung
-- [`Staebe_und_Magische_Schwerter.md`](Staebe_und_Magische_Schwerter.md) - Magische Waffen
-- [`Verbesserungen_und_Verzauberungen.csv`](Verbesserungen_und_Verzauberungen.csv) - Ausrüstungsverbesserungen
+- [`Boni.md`](../entwicklung/boni) - Übersicht aller Boni-Systeme
+- [`Ruestungen.md`](../ausruestung/ruestungen) - Rüstungen und Schutzausrüstung
+- [`Staebe_und_Magische_Schwerter.md`](../waffen/staebe_und_magische_schwerter) - Magische Waffen
+- [`Verbesserungen_und_Verzauberungen.csv`](#) - Ausrüstungsverbesserungen
 
 ### Tipps für Spieler
 

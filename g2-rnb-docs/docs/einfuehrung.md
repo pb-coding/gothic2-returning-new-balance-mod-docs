@@ -104,7 +104,7 @@ Diese Dokumentation bietet eine vollständige Übersicht über alle Aspekte des 
 
 - **[Dunkler Ritter](klassen/dunkler_ritter.md)** - Gefallene Paladine der Finsternis
 - **[Tempelwächter](klassen/tempelwaechter.md)** - Beschützer heiliger Stätten
-- **[Söldner](klassen/soeldner.md)** - Professionelle Kämpfer
+- **[Söldner](klassen/paladin)** - Professionelle Kämpfer
 - **[Paladin](klassen/paladin.md)** - Heilige Krieger des Lichts
 
 #### **Spezialisierte Gilden**

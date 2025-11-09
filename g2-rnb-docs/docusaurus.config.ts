@@ -80,11 +80,10 @@ const config: Config = {
       items: [
         {
           type: "docSidebar",
-          sidebarId: "tutorialSidebar",
+          sidebarId: "mainSidebar",
           position: "left",
           label: "Dokumentation",
         },
-        { to: "/blog", label: "News", position: "left" },
         {
           href: "https://github.com/gothic2-rnb/g2-rnb-docs",
           label: "GitHub",
@@ -104,11 +103,11 @@ const config: Config = {
             },
             {
               label: "Charakterklassen",
-              to: "/docs/klassen",
+              to: "/docs/klassen/paladin",
             },
             {
               label: "Waffen & Ausrüstung",
-              to: "/docs/waffen",
+              to: "/docs/waffen/nahkampfwaffen_staerke",
             },
           ],
         },
@@ -132,10 +131,6 @@ const config: Config = {
         {
           title: "Mehr",
           items: [
-            {
-              label: "News",
-              to: "/blog",
-            },
             {
               label: "GitHub",
               href: "https://github.com/gothic2-rnb/g2-rnb-docs",

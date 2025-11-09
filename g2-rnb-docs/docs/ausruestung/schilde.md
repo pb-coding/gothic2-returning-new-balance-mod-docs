@@ -180,10 +180,10 @@ Das Schildkämpfer-System bietet spezialisierte Fertigkeiten, die die Effektivit
 
 ## Verwandte Dokumentationen
 
-- [Nahkampfwaffen (Stärke)](Nahkampfwaffen_Staerke.md) - Waffen für Schildkämpfer
-- [Rüstungen](Ruestungen.md) - Ergänzende Schutzausrüstung
-- [Fertigkeiten](Fertigkeiten.md) - Allgemeine Fertigkeitsentwicklung
-- [Boss-Verzeichnis](Boss_Verzeichnis.md) - Informationen zu Boss-Kämpfen für Schild-Drops
+- [Nahkampfwaffen (Stärke)](../waffen/nahkampfwaffen_staerke) - Waffen für Schildkämpfer
+- [Rüstungen](../ausruestung/ruestungen) - Ergänzende Schutzausrüstung
+- [Fertigkeiten](../entwicklung/fertigkeiten) - Allgemeine Fertigkeitsentwicklung
+- [Boss-Verzeichnis](../hilfsmittel/boss_verzeichnis) - Informationen zu Boss-Kämpfen für Schild-Drops
 
 ---
 

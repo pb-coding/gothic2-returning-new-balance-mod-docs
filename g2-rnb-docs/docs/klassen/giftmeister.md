@@ -233,21 +233,21 @@ Das Gift-System funktioniert am besten mit:
 
 ### Verwandte Klassen
 
-- [`Druide.md`](Druide.md) - Naturverbundene Magie
-- [`Schamane.md`](Schamane.md) - Spirituelle Kräfte
-- [`Schwarzmagier.md`](Schwarzmagier.md) - Dunkle Magie
+- [`Druide.md`](../klassen/druide) - Naturverbundene Magie
+- [`Schamane.md`](../klassen/schamane) - Spirituelle Kräfte
+- [`Schwarzmagier.md`](../klassen/schwarzmagier) - Dunkle Magie
 
 ### Ausrüstung und Waffen
 
-- [`Nahkampfwaffen_Staerke.md`](Nahkampfwaffen_Staerke.md) - Stärkebasierte Waffen
-- [`Nahkampfwaffen_Geschicklichkeit.md`](Nahkampfwaffen_Geschicklichkeit.md) - Geschicklichkeitswaffen
-- [`Elixiere.csv`](Elixiere.csv) - Alchemie und Tränke
+- [`Nahkampfwaffen_Staerke.md`](../waffen/nahkampfwaffen_staerke) - Stärkebasierte Waffen
+- [`Nahkampfwaffen_Geschicklichkeit.md`](../waffen/nahkampfwaffen_geschicklichkeit) - Geschicklichkeitswaffen
+- [`Elixiere.csv`](#) - Alchemie und Tränke
 
 ### Allgemeine Informationen
 
-- [`README.md`](README.md) - Hauptübersicht
-- [`Fertigkeiten.csv`](Fertigkeiten.csv) - Allgemeine Fähigkeiten
-- [`Verbesserungen_und_Verzauberungen.md`](Verbesserungen_und_Verzauberungen.md) - Ausrüstungsverbesserungen
+- [`README.md`](../intro) - Hauptübersicht
+- [`Fertigkeiten.csv`](#) - Allgemeine Fähigkeiten
+- [`Verbesserungen_und_Verzauberungen.md`](../entwicklung/verbesserungen_und_verzauberungen) - Ausrüstungsverbesserungen
 
 ---
 

@@ -329,17 +329,17 @@ Ein nützlicher Zauber, der große Gegner temporär verkleinert und damit schwä
 
 ### Verwandte Dokumentationen:
 
-- [Staebe und Magische Schwerter](Staebe_und_Magische_Schwerter.md) - Magische Waffen für Zauberer
-- [Elixiere](Elixiere.md) - Alchemistische Unterstützung für Magier
-- [Boni](Boni.md) - Permanente Charakterverbesserungen
-- [Fertigkeiten](Fertigkeiten.md) - Magische Fertigkeiten und deren Entwicklung
+- [Staebe und Magische Schwerter](../waffen/staebe_und_magische_schwerter) - Magische Waffen für Zauberer
+- [Elixiere](../hilfsmittel/elixiere) - Alchemistische Unterstützung für Magier
+- [Boni](../entwicklung/boni) - Permanente Charakterverbesserungen
+- [Fertigkeiten](../entwicklung/fertigkeiten) - Magische Fertigkeiten und deren Entwicklung
 
 ### Gilden-spezifische Guides:
 
-- [Feuermagier](Feuermagier.md) - Spezialisierung auf Feuerzauber
-- [Wassermagier](Wassermagier.md) - Heilung und Wasserzauber
-- [Nekromant](Nekromant.md) - Totenbeschwörung und dunkle Magie
-- [Schwarzmagier](Schwarzmagier.md) - Dunkle Künste und Beliar-Magie
+- [Feuermagier](../klassen/feuermagier) - Spezialisierung auf Feuerzauber
+- [Wassermagier](../klassen/wassermagier) - Heilung und Wasserzauber
+- [Nekromant](../klassen/nekromant) - Totenbeschwörung und dunkle Magie
+- [Schwarzmagier](../klassen/schwarzmagier) - Dunkle Künste und Beliar-Magie
 
 ---
 

@@ -76,15 +76,15 @@ _Diese Bögen können als Lehrling von Bosper hergestellt werden_
 
 | Name                    | Geschicklichkeit | Beherrschung | Schaden | Besondere Eigenschaften                                                                                                 | Fundort                                                                         |
 | ----------------------- | ---------------- | ------------ | ------- | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| Hamasin                 | 270              | 60%          | 230     | Magieresistenz: 25<br>Schadensbonus von Geschicklichkeit: 5%<br>Zusätzlicher Schaden: 50                                | Fällt vom Mörder Gor Hanis in der Quest der verschwundenen Novizen (3. Kapitel) |
-| Stille Tod              | 260              | 50%          | 275     | Feuerresistenz: 25<br>Schadensbonus von Geschicklichkeit: 5%<br>Zusätzlicher Schaden: 50                                | Bekommen wir von Gonzales nach Abschluss des Assassinen-Wald-Handlungsstrangs   |
-| Er'Hazir                | 310              | 70%          | 320     | Physische Resistenz: 20<br>Schadensbonus von Geschicklichkeit: 15%<br>Bonus-Gesundheit: 200<br>Zusätzlicher Schaden: 50 | In Truhe im Heiligtum der Wahrheit nach Abschluss der Quests                    |
-| Aufschlitzer            | 370              | 75%          | 350     | Feuer- und Magieresistenz: 20<br>Schadensbonus von Geschicklichkeit: 25%<br>Zusätzlicher Schaden: 85                    | Fällt von Hoshkar                                                               |
-| Sher Gar Mal            | 350              | 85%          | 350     | Physische Resistenz: 40<br>Schadensbonus von Geschicklichkeit: 33%<br>Zusätzlicher Schaden: 150                         | Fällt von Senyak                                                                |
-| Beliars Klaue           | 320              | 85%          | 350     | Schadensbonus von Geschicklichkeit: 18%<br>Zusätzlicher Schaden: 20                                                     | Fällt von Raven, muss in der Kapelle umgearbeitet werden                        |
-| Beliars Klaue mit Seele | 350              | 95%          | 390     | Schadensbonus von Geschicklichkeit: 30%<br>Lebensraub: 25<br>Zusätzlicher Schaden: 250                                  | Bekommen nach Einsetzen von Senyaks Seele in den Bogen                          |
-| Blutbogen               | 425              | 100%         | 450     | Magie-/Feuerresistenz: 50<br>Schadensbonus von Geschicklichkeit: 40%<br>Lebensraub: 30<br>Zusätzlicher Schaden: 150     | Fällt vom Boss auf dem Verlorenen Bruder                                        |
-| Farbe des Todes         | 420              | 100%         | 475     | Magieresistenz: 50<br>Schadensbonus von Geschicklichkeit: 50%<br>Zusätzlicher Schaden: 200                              | Fällt vom Dementor auf Irdorath                                                 |
+| Hamasin                 | 270              | 60%          | 230     | Magieresistenz: 25, Schadensbonus von Geschicklichkeit: 5%, Zusätzlicher Schaden: 50                                | Fällt vom Mörder Gor Hanis in der Quest der verschwundenen Novizen (3. Kapitel) |
+| Stille Tod              | 260              | 50%          | 275     | Feuerresistenz: 25, Schadensbonus von Geschicklichkeit: 5%, Zusätzlicher Schaden: 50                                | Bekommen wir von Gonzales nach Abschluss des Assassinen-Wald-Handlungsstrangs   |
+| Er'Hazir                | 310              | 70%          | 320     | Physische Resistenz: 20, Schadensbonus von Geschicklichkeit: 15%, Bonus-Gesundheit: 200, Zusätzlicher Schaden: 50 | In Truhe im Heiligtum der Wahrheit nach Abschluss der Quests                    |
+| Aufschlitzer            | 370              | 75%          | 350     | Feuer- und Magieresistenz: 20, Schadensbonus von Geschicklichkeit: 25%, Zusätzlicher Schaden: 85                    | Fällt von Hoshkar                                                               |
+| Sher Gar Mal            | 350              | 85%          | 350     | Physische Resistenz: 40, Schadensbonus von Geschicklichkeit: 33%, Zusätzlicher Schaden: 150                         | Fällt von Senyak                                                                |
+| Beliars Klaue           | 320              | 85%          | 350     | Schadensbonus von Geschicklichkeit: 18%, Zusätzlicher Schaden: 20                                                     | Fällt von Raven, muss in der Kapelle umgearbeitet werden                        |
+| Beliars Klaue mit Seele | 350              | 95%          | 390     | Schadensbonus von Geschicklichkeit: 30%, Lebensraub: 25, Zusätzlicher Schaden: 250                                  | Bekommen nach Einsetzen von Senyaks Seele in den Bogen                          |
+| Blutbogen               | 425              | 100%         | 450     | Magie-/Feuerresistenz: 50, Schadensbonus von Geschicklichkeit: 40%, Lebensraub: 30, Zusätzlicher Schaden: 150     | Fällt vom Boss auf dem Verlorenen Bruder                                        |
+| Farbe des Todes         | 420              | 100%         | 475     | Magieresistenz: 50, Schadensbonus von Geschicklichkeit: 50%, Zusätzlicher Schaden: 200                              | Fällt vom Dementor auf Irdorath                                                 |
 | Hand des Chaos          | 500              | 100%         | 500     | Magieresistenz: 75                                                                                                      | Fällt vom Boss während des 7. Kapitel-Handlungsstrangs (7. Kapitel entfernt)    |
 
 ---
@@ -108,19 +108,19 @@ _Diese Bögen können als Lehrling von Bosper hergestellt werden_
 | Drag Mal                | 120    | 20%          | 50      | ---                     | Fällt vom Ork-Jäger                                                                                              |
 | Dragomirs Armbrust      | 70     | 20%          | 75      | ---                     | Liegt im Sonnenkreis                                                                                             |
 | Dämonenjäger-Armbrust   | 60     | 20%          | 80      | ---                     | Verkauft der Schmied der Dämonenjäger in ihrer Festung (nur DH)                                                  |
-| Armbrust der Stadtwache | 100    | 15%          | 80      | ---                     | Fällt von Wachen auf den Mauern und Wache Ruga<br>Verkauft Mortis<br>In Truhe beim Teleporter auf der Burg in MD |
+| Armbrust der Stadtwache | 100    | 15%          | 80      | ---                     | Fällt von Wachen auf den Mauern und Wache Ruga, Verkauft Mortis, In Truhe beim Teleporter auf der Burg in MD |
 | Banditen-Armbrust       | 120    | 20%          | 90      | ---                     | Fällt von Banditen in Khorinis                                                                                   |
 | Sengraths Armbrust      | 130    | 40%          | 100     | ---                     | Liegt in Sengraths Leiche bei der Palisade im Minental                                                           |
-| Jagd-Armbrust           | 145    | 25%          | 105     | ---                     | Verkauft Tandor<br>Liegt zwischen Echsen gegenüber der Vino-Brennerei                                            |
+| Jagd-Armbrust           | 145    | 25%          | 105     | ---                     | Verkauft Tandor, Liegt zwischen Echsen gegenüber der Vino-Brennerei                                            |
 | Armbrust                | 170    | 30%          | 120     | ---                     | Verkauft Tandor                                                                                                  |
 
 ### Schwere Armbrüste
 
 | Name                     | Stärke | Beherrschung | Schaden | Besondere Eigenschaften           | Fundort                                                                                                                                      |
 | ------------------------ | ------ | ------------ | ------- | --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| Leichte Paladin-Armbrust | 210    | 40%          | 140     | ---                               | Verkauft Tandor<br>Fällt von namenlosen Rittern                                                                                              |
+| Leichte Paladin-Armbrust | 210    | 40%          | 140     | ---                               | Verkauft Tandor, Fällt von namenlosen Rittern                                                                                              |
 | Drag Mora                | 200    | 30%          | 150     | ---                               | Fällt von Schwarzen Ork-Armbrustschützen                                                                                                     |
-| Kriegs-Armbrust          | 220    | 45%          | 160     | ---                               | In der Höhle mit Schattenwesen unter der Brücke zu den Ausgrabungen der Wassermagier<br>In der Höhle mit Echsenmenschen vor der Steinfestung |
+| Kriegs-Armbrust          | 220    | 45%          | 160     | ---                               | In der Höhle mit Schattenwesen unter der Brücke zu den Ausgrabungen der Wassermagier, In der Höhle mit Echsenmenschen vor der Steinfestung |
 | Untotenschreck           | 185    | 50%          | 175     | Effektiv gegen Untote und Geister | Schema liegt beim Eingang zur Verlassenen Mine im Minental                                                                                   |
 | Kreuzritter-Armbrust     | 250    | 50%          | 200     | ---                               | Verkauft Tandor/Liegt im Lager in Fort Azgan                                                                                                 |
 | Paladin-Armbrust         | 300    | 60%          | 240     | ---                               | Fällt von namenlosen Paladinen                                                                                                               |
@@ -131,8 +131,8 @@ _Diese Bögen können als Lehrling von Bosper hergestellt werden_
 
 | Name                    | Stärke | Beherrschung | Schaden     | Besondere Eigenschaften                                                      | Fundort                                                                               |
 | ----------------------- | ------ | ------------ | ----------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| Beliars Klaue           | 320    | 85%          | 330         | Schadensbonus von Stärke: 18%<br>Zusätzlicher Schaden: 20                    | Fällt von Raven, muss in der Kapelle umgearbeitet werden                              |
-| Beliars Klaue mit Seele | 350    | 95%          | 375         | Schadensbonus von Stärke: 30%<br>Zusätzlicher Schaden: 100<br>Lebensraub: 25 | Bekommen nach Einsetzen von Senyaks Seele in die Armbrust                             |
+| Beliars Klaue           | 320    | 85%          | 330         | Schadensbonus von Stärke: 18%, Zusätzlicher Schaden: 20                    | Fällt von Raven, muss in der Kapelle umgearbeitet werden                              |
+| Beliars Klaue mit Seele | 350    | 95%          | 375         | Schadensbonus von Stärke: 30%, Zusätzlicher Schaden: 100, Lebensraub: 25 | Bekommen nach Einsetzen von Senyaks Seele in die Armbrust                             |
 | Böses Omen              | 375    | 90%          | 375 + 75    | Effektiv gegen Untote und Geister                                            | Fällt von Raven in Ravens Albtraum                                                    |
 | Drag Nimrod             | 450    | 100%         | 450         | ---                                                                          | Quest "Armbrust des Großen Jägers"                                                    |
 | Henker                  | ---    | ---          | 1000 + 2000 | Nur 50 Bolzen                                                                | Liegt auf dem Sarkophag in der Stadt der Toten im Tal der Schatten neben Lord Niorret |
@@ -191,9 +191,9 @@ Sowie Boni wie:
 
 ## Navigation
 
-- [Zurück zur Hauptübersicht](README.md)
-- [Nahkampfwaffen (Stärke)](Nahkampfwaffen_Staerke.md)
-- [Nahkampfwaffen (Geschicklichkeit)](Nahkampfwaffen_Geschicklichkeit.md)
-- [Stäbe und Magische Schwerter](Staebe_und_Magische_Schwerter.md)
-- [Rüstungen](Ruestungen.md)
-- [Schilde](Schilde.md)
+- [Zurück zur Hauptübersicht](../intro)
+- [Nahkampfwaffen (Stärke)](../waffen/nahkampfwaffen_staerke)
+- [Nahkampfwaffen (Geschicklichkeit)](../waffen/nahkampfwaffen_geschicklichkeit)
+- [Stäbe und Magische Schwerter](../waffen/staebe_und_magische_schwerter)
+- [Rüstungen](../ausruestung/ruestungen)
+- [Schilde](../ausruestung/schilde)

@@ -397,12 +397,12 @@ Die Grundlage für jeden Magier und wichtig für Stab-/Magieschwert-Nutzer.
 
 ### Sprachen
 
-| Sprache              | Kosten                                                        | Lehrer                         | Beschreibung                          |
-| -------------------- | ------------------------------------------------------------- | ------------------------------ | ------------------------------------- |
-| Sprachen der Alten   | 5 LP + 1.200 Gold<br>10 LP + 3.000 Gold<br>10 LP + 3.000 Gold | Myxir, Eremit                  | Must-have, immer Bauernsprache zuerst |
-| Druidensprache       | 3 LP                                                          | Kormak                         | Must-have für Westküsten-Quest        |
-| Orksprache           | 2 LP oder kostenlos                                           | Notiz in Xardas' Turm, Ur-Azog | Must-have für Ork-Quest               |
-| Dämonensprache Lenga | 10 LP                                                         | Kreol                          | Must-have, +25 Intelligenz            |
+| Sprache              | Kosten                                                    | Lehrer                         | Beschreibung                          |
+| -------------------- | --------------------------------------------------------- | ------------------------------ | ------------------------------------- |
+| Sprachen der Alten   | 5 LP + 1.200 Gold, 10 LP + 3.000 Gold, 10 LP + 3.000 Gold | Myxir, Eremit                  | Must-have, immer Bauernsprache zuerst |
+| Druidensprache       | 3 LP                                                      | Kormak                         | Must-have für Westküsten-Quest        |
+| Orksprache           | 2 LP oder kostenlos                                       | Notiz in Xardas' Turm, Ur-Azog | Must-have für Ork-Quest               |
+| Dämonensprache Lenga | 10 LP                                                     | Kreol                          | Must-have, +25 Intelligenz            |
 
 ### Sonstige magische Fertigkeiten
 
@@ -585,36 +585,36 @@ Die Grundlage für jeden Magier und wichtig für Stab-/Magieschwert-Nutzer.
 
 ### Ausrüstungs-Guides
 
-- [Nahkampfwaffen (Stärke)](Nahkampfwaffen_Staerke.md) - Schwerter und Äxte
-- [Nahkampfwaffen (Geschicklichkeit)](Nahkampfwaffen_Geschicklichkeit.md) - Säbel und Dolche
-- [Bögen und Armbrüste](Boegen_und_Armbrueste.md) - Fernkampfwaffen
-- [Stäbe und Magische Schwerter](Staebe_und_Magische_Schwerter.md) - Magierwaffen
-- [Schilde](Schilde.md) - Defensive Ausrüstung
-- [Rüstungen](Ruestungen.md) - Schutzausrüstung
-- [Schmuck und Edelsteine](Schmuck_Edelsteine.md) - Accessoires
+- [Nahkampfwaffen (Stärke)](../waffen/nahkampfwaffen_staerke) - Schwerter und Äxte
+- [Nahkampfwaffen (Geschicklichkeit)](../waffen/nahkampfwaffen_geschicklichkeit) - Säbel und Dolche
+- [Bögen und Armbrüste](../waffen/boegen_und_armbrueste) - Fernkampfwaffen
+- [Stäbe und Magische Schwerter](../waffen/staebe_und_magische_schwerter) - Magierwaffen
+- [Schilde](../ausruestung/schilde) - Defensive Ausrüstung
+- [Rüstungen](../ausruestung/ruestungen) - Schutzausrüstung
+- [Schmuck und Edelsteine](../ausruestung/schmuck_edelsteine) - Accessoires
 
 ### Klassen-Guides
 
-- [Söldner](Soeldner.md) - Stärke-basierte Kämpfer
-- [Paladin](Paladin.md) - Heilige Krieger
-- [Feuermagier](Feuermagier.md) - Offensive Magie
-- [Wassermagier](Wassermagier.md) - Heilung und Unterstützung
-- [Dämonenjäger](Daemonenjäger.md) - Universelle Kämpfer
-- [Dunkler Ritter](Dunkler_Ritter.md) - Magische Krieger
+- [Söldner](../klassen/paladin) - Stärke-basierte Kämpfer
+- [Paladin](../klassen/paladin) - Heilige Krieger
+- [Feuermagier](../klassen/feuermagier) - Offensive Magie
+- [Wassermagier](../klassen/wassermagier) - Heilung und Unterstützung
+- [Dämonenjäger](../klassen/daemonenjäger) - Universelle Kämpfer
+- [Dunkler Ritter](../klassen/dunkler_ritter) - Magische Krieger
 
 ### Spezial-Systeme
 
-- [Zauber und Schriftrollen](Zauber_und_Schriftrollen.md) - Magische Fähigkeiten
-- [Elixiere](Elixiere.md) - Alchemie-Produkte
-- [Gaben](Gaben.md) - Göttliche Segnungen
-- [Verbesserungen und Verzauberungen](Verbesserungen_und_Verzauberungen.md) - Item-Upgrades
-- [Boni](Boni.md) - Passive Effekte
+- [Zauber und Schriftrollen](../magie/zauber_und_schriftrollen) - Magische Fähigkeiten
+- [Elixiere](../hilfsmittel/elixiere) - Alchemie-Produkte
+- [Gaben](gaben) - Göttliche Segnungen
+- [Verbesserungen und Verzauberungen](verbesserungen_und_verzauberungen) - Item-Upgrades
+- [Boni](boni) - Passive Effekte
 
 ### Ressourcen und Materialien
 
-- [Gold- und Eisenvorkommen](Gold_und_Eisenvorkommen.md) - Bergbau-Standorte
-- [Pflanzen](Pflanzen.md) - Alchemie-Zutaten
-- [Dämonische Tafeln](Daemonische_Tafeln.md) - Spezialwissen
+- [Gold- und Eisenvorkommen](../welt/gold_und_eisenvorkommen) - Bergbau-Standorte
+- [Pflanzen](../hilfsmittel/pflanzen) - Alchemie-Zutaten
+- [Dämonische Tafeln](../magie/daemonische_tafeln) - Spezialwissen
 
 ---
 
