@@ -1,4 +1,4 @@
-# Gold- und Eisenvorkommen - Gothic 2 Returning New Balance
+# Gold- und Eisenvorkommen
 
 ## Einführung
 
@@ -299,4 +299,4 @@ Das Bergbau-System in Gothic 2 Returning New Balance bietet umfangreiche Möglic
 
 ---
 
-_Diese Dokumentation basiert auf den Daten von Gothic 2 Returning New Balance und wird regelmäßig aktualisiert._
+_Diese Dokumentation wird regelmäßig aktualisiert._

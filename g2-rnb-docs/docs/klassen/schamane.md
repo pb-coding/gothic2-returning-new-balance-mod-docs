@@ -1,4 +1,4 @@
-# Schamane - Gothic 2 Returning New Balance
+# Schamane
 
 ## Einführung
 
@@ -289,4 +289,4 @@ _Ur-Azog lehrt nur Stufe I und II, weitere Stufen sind in der Orkstadt verfügba
 
 ---
 
-_Diese Dokumentation basiert auf Gothic 2 Returning New Balance und kann sich mit Updates ändern._
+_Diese Dokumentation kann sich mit Updates ändern._

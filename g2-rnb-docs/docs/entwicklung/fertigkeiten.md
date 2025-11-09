@@ -1,4 +1,4 @@
-# Fertigkeiten - Gothic 2 Returning New Balance
+# Fertigkeiten
 
 ## Einführung
 

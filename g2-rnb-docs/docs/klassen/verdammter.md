@@ -1,4 +1,4 @@
-# Verdammter - Gothic 2 Returning New Balance
+# Verdammter
 
 ## Einführung
 
@@ -254,4 +254,4 @@ Im Schwierigkeitsmodus betragen die Kosten aller Fähigkeiten **70% der normalen
 
 ---
 
-_Diese Dokumentation basiert auf Gothic 2 Returning New Balance und dem AB_PathOfDamned_Mod Plugin._
+_Diese Dokumentation basiert auf dem AB_PathOfDamned_Mod Plugin._

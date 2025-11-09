@@ -1,4 +1,4 @@
-# Gaben-System - Gothic 2 Returning New Balance
+# Gaben-System
 
 ## Einführung
 

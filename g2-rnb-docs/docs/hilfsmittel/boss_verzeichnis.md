@@ -1,4 +1,4 @@
-# Boss-Verzeichnis - Gothic 2 Returning New Balance
+# Boss-Verzeichnis
 
 ## Einführung
 

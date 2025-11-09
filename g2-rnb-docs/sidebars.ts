@@ -10,7 +10,6 @@ const sidebars: SidebarsConfig = {
   // Gothic 2 RNB Hauptsidebar
   mainSidebar: [
     "intro",
-    "einfuehrung",
     {
       type: "category",
       label: "⚔️ Charakterklassen",

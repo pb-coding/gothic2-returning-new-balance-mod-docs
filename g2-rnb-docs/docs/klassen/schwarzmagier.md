@@ -1,4 +1,4 @@
-# Schwarzmagier - Gothic 2 Returning New Balance
+# Schwarzmagier
 
 ## Einführung
 
@@ -220,4 +220,4 @@ _Hinweis: Um die HP-Gabe zu erhalten, muss man mindestens 1000 HP haben._
 
 ---
 
-_Diese Dokumentation basiert auf den Daten aus Gothic 2 Returning New Balance. Bei Fehlern oder Korrekturen bitte Kommentare erstellen._
+_Bei Fehlern oder Korrekturen bitte Kommentare erstellen._

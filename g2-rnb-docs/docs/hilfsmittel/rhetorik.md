@@ -1,4 +1,4 @@
-# Rhetorik-System - Gothic 2 Returning New Balance
+# Rhetorik-System
 
 ## Einführung
 

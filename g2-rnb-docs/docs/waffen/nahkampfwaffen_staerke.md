@@ -1,7 +1,5 @@
 # Nahkampfwaffen für Stärke-basierte Charaktere
 
-## Gothic 2 Returning New Balance
-
 ---
 
 ## Inhaltsverzeichnis
@@ -24,7 +22,7 @@
 
 ## Übersicht
 
-Diese Dokumentation behandelt alle Nahkampfwaffen, die auf dem **Stärke-Attribut** basieren. Im Gothic 2 Returning New Balance Mod gibt es verschiedene Waffenkategorien:
+Diese Dokumentation behandelt alle Nahkampfwaffen, die auf dem **Stärke-Attribut** basieren. Es gibt verschiedene Waffenkategorien:
 
 - **Einhandwaffen**: Schwerter, Keulen und Hämmer
 - **Zweihandwaffen**: Hellebarden, Ork-Waffen, Schwerter, Äxte, Keulen und Hämmer
@@ -332,4 +330,4 @@ Die **Stärke** ist das wichtigste Attribut für alle hier aufgeführten Waffen.
 
 ---
 
-_Diese Dokumentation basiert auf Gothic 2 Returning New Balance und kann sich von der Originalversion unterscheiden._
+_Diese Dokumentation kann sich von der Originalversion unterscheiden._

@@ -1,4 +1,4 @@
-# Feuermagier - Gothic 2 Returning New Balance
+# Feuermagier
 
 ## Einführung
 

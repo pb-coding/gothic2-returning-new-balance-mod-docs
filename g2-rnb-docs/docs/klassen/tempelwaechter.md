@@ -1,4 +1,4 @@
-# Tempelwächter - Gothic 2 Returning New Balance
+# Tempelwächter
 
 ## Einführung
 
@@ -200,4 +200,4 @@ Alle Tempelwächter-Waffen sind zweihändige Schwerter mit HP-Boni:
 
 ---
 
-_Diese Dokumentation basiert auf Gothic 2 Returning New Balance Mod-Daten. Für aktuelle Updates und Änderungen konsultieren Sie die offiziellen Mod-Quellen._
+_Für aktuelle Updates und Änderungen konsultieren Sie die offiziellen Mod-Quellen._

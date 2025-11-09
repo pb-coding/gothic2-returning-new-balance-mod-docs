@@ -1,8 +1,8 @@
-# Karten-System - Gothic 2 Returning New Balance
+# Karten-System
 
 ## Übersicht
 
-Das Karten-System in Gothic 2 Returning New Balance ist ein geplantes Feature zur besseren Navigation und Orientierung in der Spielwelt. Diese Dokumentation behandelt den aktuellen Status und mögliche zukünftige Entwicklungen.
+Das Karten-System ist ein geplantes Feature zur besseren Navigation und Orientierung in der Spielwelt. Diese Dokumentation behandelt den aktuellen Status und mögliche zukünftige Entwicklungen.
 
 ## Aktueller Status
 
@@ -99,7 +99,7 @@ Name,Typ,X-Koordinate,Y-Koordinate,Z-Koordinate,Beschreibung,Verfügbar_ab,Telep
 
 ## Fazit
 
-Obwohl das Karten-System derzeit nicht verfügbar ist, bietet Gothic 2 Returning New Balance bereits umfangreiche Navigationshilfen durch das Teleporter-System und detaillierte Standortdokumentationen. Die leere [`Karten.csv`](#) deutet auf zukünftige Erweiterungen hin, die das Spielerlebnis weiter verbessern werden.
+Obwohl das Karten-System derzeit nicht verfügbar ist, bietet der Mod bereits umfangreiche Navigationshilfen durch das Teleporter-System und detaillierte Standortdokumentationen. Die leere [`Karten.csv`](#) deutet auf zukünftige Erweiterungen hin, die das Spielerlebnis weiter verbessern werden.
 
 ---
 

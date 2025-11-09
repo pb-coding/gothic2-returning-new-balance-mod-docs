@@ -1,4 +1,4 @@
-# Schilde - Gothic 2 Returning New Balance
+# Schilde
 
 ## Einführung
 

@@ -1,4 +1,4 @@
-# Späher - Gothic 2 Returning New Balance
+# Späher
 
 ## Einführung
 
@@ -274,4 +274,4 @@ _Schutzwerte: H = Hieb, S = Stumpf, St = Stich, F = Feuer, M = Magie_
 
 ---
 
-_Diese Dokumentation basiert auf Gothic 2 Returning New Balance und kann sich mit Updates ändern. Für die neuesten Informationen konsultieren Sie die offiziellen Mod-Ressourcen._
+_Diese Dokumentation kann sich mit Updates ändern. Für die neuesten Informationen konsultieren Sie die offiziellen Mod-Ressourcen._

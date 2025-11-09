@@ -1,4 +1,4 @@
-# Druide - Gothic 2 Returning New Balance
+# Druide
 
 ## Einführung
 

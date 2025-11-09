@@ -159,15 +159,15 @@ Wähle deine Startattribute weise - sie bestimmen, welche Gilden dir später off
 
 ### 2. **Gildenwahl**
 
-Informiere dich über die verschiedenen [Hauptgilden](#hauptgilden) und ihre Spezialisierungen.
+Informiere dich über die verschiedenen [Hauptgilden](#️-hauptgilden) und ihre Spezialisierungen.
 
 ### 3. **Ausrüstung**
 
-Beginne mit der Grundausstattung und arbeite dich zu besseren [Gegenständen](#gegenstände) vor.
+Beginne mit der Grundausstattung und arbeite dich zu besseren [Gegenständen](#️-gegenstände) vor.
 
 ### 4. **Fertigkeiten entwickeln**
 
-Investiere Lernpunkte strategisch in [Fertigkeiten](#fertigkeiten), die zu deinem Spielstil passen.
+Investiere Lernpunkte strategisch in [Fertigkeiten](#️-fertigkeiten), die zu deinem Spielstil passen.
 
 ### 5. **Erkunde die Welt**
 

@@ -1,4 +1,4 @@
-# Nahkampfwaffen (Geschicklichkeit) - Gothic 2 Returning New Balance
+# Nahkampfwaffen (Geschicklichkeit)
 
 ## Einführung
 
@@ -217,4 +217,4 @@ Waffen mit Lebensraub oder Effektivität gegen bestimmte Gegnertypen können in 
 
 ---
 
-_Diese Dokumentation basiert auf Gothic 2 Returning New Balance und kann sich mit Updates des Mods ändern._
+_Diese Dokumentation kann sich mit Updates des Mods ändern._

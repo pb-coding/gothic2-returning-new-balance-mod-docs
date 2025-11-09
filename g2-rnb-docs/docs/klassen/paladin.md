@@ -1,4 +1,4 @@
-# Paladin - Gothic 2 Returning New Balance
+# Paladin
 
 ## Einführung
 

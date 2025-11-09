@@ -1,4 +1,4 @@
-# Ognik-Trophäen System - Gothic 2 Returning New Balance
+# Ognik-Trophäen System
 
 ## Einführung
 

@@ -1,3 +1,3 @@
-# Karten - Gothic 2 Returning New Balance
+# Karten
 
 _Inhalt wird noch hinzugefügt_

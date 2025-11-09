@@ -1,4 +1,4 @@
-# Zauber und Schriftrollen - Gothic 2 Returning New Balance
+# Zauber und Schriftrollen
 
 ## Einführung
 
@@ -343,4 +343,4 @@ Ein nützlicher Zauber, der große Gegner temporär verkleinert und damit schwä
 
 ---
 
-_Diese Dokumentation basiert auf Gothic 2 Returning New Balance und kann sich mit Updates des Mods ändern. Letzte Aktualisierung: November 2024_
+_Diese Dokumentation kann sich mit Updates des Mods ändern. Letzte Aktualisierung: November 2024_

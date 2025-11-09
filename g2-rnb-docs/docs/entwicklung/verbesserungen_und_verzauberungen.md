@@ -1,4 +1,4 @@
-# Verbesserungen und Verzauberungen - Gothic 2 Returning New Balance
+# Verbesserungen und Verzauberungen
 
 ## Einführung
 

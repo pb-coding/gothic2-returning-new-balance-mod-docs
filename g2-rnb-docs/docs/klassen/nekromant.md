@@ -1,4 +1,4 @@
-# Nekromant - Gothic 2 Returning New Balance
+# Nekromant
 
 ## Einführung
 

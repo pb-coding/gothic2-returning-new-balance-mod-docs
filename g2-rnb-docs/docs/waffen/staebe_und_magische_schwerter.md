@@ -1,4 +1,4 @@
-# Stäbe und Magische Schwerter - Gothic 2 Returning New Balance
+# Stäbe und Magische Schwerter
 
 ## Einführung
 
@@ -206,4 +206,4 @@ Die Chance auf magischen Schaden setzt sich zusammen aus:
 
 ---
 
-_Diese Dokumentation basiert auf Gothic 2 Returning New Balance und kann sich mit Updates des Mods ändern._
+_Diese Dokumentation kann sich mit Updates des Mods ändern._

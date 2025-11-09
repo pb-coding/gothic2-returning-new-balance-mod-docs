@@ -1,4 +1,4 @@
-# Gürtel und Helme - Gothic 2 Returning New Balance
+# Gürtel und Helme
 
 ## Einführung
 

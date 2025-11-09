@@ -1,4 +1,4 @@
-# Dunkler Ritter - Gothic 2 Returning New Balance
+# Dunkler Ritter
 
 ## Einführung
 

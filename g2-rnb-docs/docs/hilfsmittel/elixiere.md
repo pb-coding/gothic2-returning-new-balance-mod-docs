@@ -1,4 +1,4 @@
-# Elixiere - Gothic 2 Returning New Balance
+# Elixiere
 
 ## Einführung
 

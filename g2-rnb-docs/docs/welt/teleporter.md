@@ -1,8 +1,8 @@
-# Teleporter-System - Gothic 2 Returning New Balance
+# Teleporter-System
 
 ## Einführung
 
-Das Teleporter-System in Gothic 2 Returning New Balance bietet ein umfassendes Reise-Netzwerk durch alle Spielgebiete. Es besteht aus zwei Hauptkomponenten: **Teleporter-Plättchen** (tragbare Gegenstände) und **Teleporter-Steinen** (feste Teleportationspunkte). Dieses System ermöglicht es dem Spieler, schnell zwischen verschiedenen Orten zu reisen und macht die Navigation durch die große Spielwelt erheblich effizienter.
+Das Teleporter-System bietet ein umfassendes Reise-Netzwerk durch alle Spielgebiete. Es besteht aus zwei Hauptkomponenten: **Teleporter-Plättchen** (tragbare Gegenstände) und **Teleporter-Steinen** (feste Teleportationspunkte). Dieses System ermöglicht es dem Spieler, schnell zwischen verschiedenen Orten zu reisen und macht die Navigation durch die große Spielwelt erheblich effizienter.
 
 ## Übersicht des Teleporter-Systems
 
@@ -265,6 +265,6 @@ Viele Teleporter-Steine schalten sich kostenlos durch Questfortschritte frei:
 
 ## Fazit
 
-Das Teleporter-System in Gothic 2 Returning New Balance ist ein mächtiges Werkzeug für effiziente Welterkundung. Mit insgesamt 51 Plättchen und 47 Teleporter-Steinen bietet es eine umfassende Abdeckung aller Spielgebiete. Die Kombination aus sammelbaren Plättchen und quest-basierten Teleporter-Aktivierungen belohnt sowohl gründliche Erkundung als auch Story-Progression.
+Das Teleporter-System ist ein mächtiges Werkzeug für effiziente Welterkundung. Mit insgesamt 51 Plättchen und 47 Teleporter-Steinen bietet es eine umfassende Abdeckung aller Spielgebiete. Die Kombination aus sammelbaren Plättchen und quest-basierten Teleporter-Aktivierungen belohnt sowohl gründliche Erkundung als auch Story-Progression.
 
 Durch strategische Sammlung und Nutzung der Teleporter kann die Spielzeit erheblich optimiert und die Erkundung der großen Spielwelt deutlich angenehmer gestaltet werden.

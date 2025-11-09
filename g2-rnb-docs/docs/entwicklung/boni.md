@@ -1,4 +1,4 @@
-# Boni-System - Gothic 2 Returning New Balance
+# Boni-System
 
 ## Einführung
 

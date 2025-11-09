@@ -1,4 +1,4 @@
-# Gothic 2 Returning New Balance - Cheat-Codes
+# Cheat-Codes
 
 ## Einführung
 

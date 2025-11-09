@@ -1,4 +1,4 @@
-# Pflanzen-System in Gothic 2 Returning New Balance
+# Pflanzen-System
 
 ## Einführung
 

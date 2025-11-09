@@ -1,4 +1,4 @@
-# Schmuck und Edelsteine - Gothic 2 Returning New Balance
+# Schmuck und Edelsteine
 
 ## Einführung
 

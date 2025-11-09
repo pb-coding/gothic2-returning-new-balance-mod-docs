@@ -1,4 +1,4 @@
-# Wassermagier - Gothic 2 Returning New Balance
+# Wassermagier
 
 ## Einführung
 
@@ -165,4 +165,4 @@ Zauber können von Galahad nach Wahl der Wassermagie erlernt werden:
 
 ---
 
-_Diese Dokumentation basiert auf den Daten aus Gothic 2 Returning New Balance und wird regelmäßig aktualisiert._
+_Diese Dokumentation wird regelmäßig aktualisiert._

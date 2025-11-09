@@ -1,4 +1,4 @@
-# Giftmeister - Gothic 2 Returning New Balance
+# Giftmeister
 
 ## Einführung
 

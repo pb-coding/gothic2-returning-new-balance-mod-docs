@@ -1,4 +1,4 @@
-# Rüstungen - Gothic 2 Returning New Balance
+# Rüstungen
 
 ## Einführung
 
