@@ -2,46 +2,65 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Willkommen bei Gothic 2 Returning New Balance
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Willkommen zur kompletten Dokumentation für **Gothic 2 Returning New Balance** - eine der umfangreichsten und beliebtesten Modifikationen für Gothic 2: Die Nacht des Raben.
 
-## Getting Started
+## Was ist Gothic 2 Returning New Balance?
 
-Get started by **creating a new site**.
+Gothic 2 Returning New Balance (RNB) ist eine umfassende Modifikation, die das ursprüngliche Gothic 2-Erlebnis erweitert und verbessert. Der Mod bietet:
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+- **Neue Charakterklassen** mit einzigartigen Fähigkeiten und Spielstilen
+- **Erweiterte Ausrüstung** mit hunderten neuen Waffen, Rüstungen und magischen Gegenständen
+- **Überarbeitete Spielmechaniken** für ein ausgewogeneres und herausfordernderes Spielerlebnis
+- **Neue Zauber und Alchemie-Rezepte** für erweiterte magische Möglichkeiten
+- **Verbesserte KI und Kampfsystem** für spannendere Kämpfe
 
-### What you'll need
+## Wie nutze ich diese Dokumentation?
 
-- [Node.js](https://nodejs.org/en/download/) version 20.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+Diese Dokumentation ist in verschiedene Kategorien unterteilt:
 
-## Generate a new site
+### 🛡️ [Charakterklassen](/docs/klassen)
 
-Generate a new Docusaurus site using the **classic template**.
+Detaillierte Informationen zu allen verfügbaren Klassen, ihren Fähigkeiten und Entwicklungsmöglichkeiten.
 
-The classic template will automatically be added to your project after you run the command:
+### ⚔️ [Waffen](/docs/waffen)
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+Komplette Übersicht aller Waffen - von Nahkampfwaffen bis zu magischen Stäben.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+### 🛡️ [Ausrüstung](/docs/ausruestung)
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+Rüstungen, Schilde, Schmuck und andere Schutzausrüstung mit allen Statistiken.
 
-## Start your site
+### 📈 [Charakterentwicklung](/docs/entwicklung)
 
-Run the development server:
+Fertigkeiten, Boni und Strategien für die optimale Charakterentwicklung.
 
-```bash
-cd my-website
-npm run start
-```
+### 🔮 [Magie & Alchemie](/docs/magie)
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+Zauber, Elixiere, Pflanzen und alles rund um die magischen Künste.
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+### 🗺️ [Spielwelt & Referenzen](/docs/welt)
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Karten, Teleporter, Fundorte und wichtige Spielwelt-Informationen.
+
+### 🛠️ [Tools & Cheats](/docs/hilfsmittel)
+
+Nützliche Cheat-Codes und Tools für Spieler und Modder.
+
+## Installation und erste Schritte
+
+1. **Download**: Lade die neueste Version von [ModDB](https://www.moddb.com/mods/gothic-2-returning-20-new-balance) herunter
+2. **Installation**: Folge den Installationsanweisungen in der README-Datei
+3. **Charaktererstellung**: Wähle deine gewünschte Klasse und beginne dein Abenteuer
+4. **Dokumentation**: Nutze diese Seite als Referenz für alle Spielmechaniken
+
+## Community und Support
+
+- **Forum**: [World of Gothic Forum](https://forum.worldofgothic.de/)
+- **ModDB**: [Gothic 2 RNB Seite](https://www.moddb.com/mods/gothic-2-returning-20-new-balance)
+- **GitHub**: [Dokumentation Repository](https://github.com/gothic2-rnb/g2-rnb-docs)
+
+---
+
+_Diese Dokumentation wird kontinuierlich aktualisiert. Bei Fragen oder Verbesserungsvorschlägen erstelle gerne ein Issue auf GitHub._

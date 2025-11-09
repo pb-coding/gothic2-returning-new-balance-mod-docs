@@ -279,4 +279,226 @@ Eine besondere Traumsequenz mit einzigartigen Bossen:
 | **Chel'Drak**                   | Skelett im Tempel                                                                  | 4   | Tempel-Skelett      |
 | **Ile'Sil**                     | Töten mit Kreuz der Elemente vor Chel'Drak. Letzte Kammer nach Töten von Chel'Drak | 6   | Endgegner           |
 
-###
+### Irdorath
+
+Die finale Region mit den mächtigsten Gegnern:
+
+| Boss                         | Fundort                                                       | EP  | Besonderheiten      |
+| ---------------------------- | ------------------------------------------------------------- | --- | ------------------- |
+| **Ur-Trax**                  | Ork-Schamane am Lagerfeuer vor Pedro                          | 2   | Lagerfeuer-Schamane |
+| **Ur-Vatah**                 | Häuptling, der an der Wand mit den Schaltern sitzt            | 2   | Schalter-Häuptling  |
+| **Trakanon**                 | Drache vor der Brücke mit den Schaltern                       | 7   | Mächtiger Drache    |
+| **Xylb Dämonischer Goblin**  | Goblin-Skelett hinter der Brücke                              | 2   | Dämonischer Goblin  |
+| **Lord Archol**              | Schattenlord vor dem Tempeleingang                            | 3   | Tempel-Lord         |
+| **Mario**                    | Wartet vor Argol auf uns, wenn wir ihn an Bord genommen haben | 1   | Begleiter-Boss      |
+| **Lord Argol**               | Schattenlord vor dem Siegel zum Hauptsaal                     | 3   | Siegel-Lord         |
+| **Dementor, Bestienwächter** | Sucher vor dem Durchgang zum Sanktuarium                      | 3   | Bestien-Wächter     |
+| **Aru'Tar**                  | Echsenmensch nach Interaktion mit dem ersten Opferaltar       | 2   | Altar-Wächter       |
+| **Ish'Thar**                 | Echsenmensch nach Interaktion mit dem zweiten Opferaltar      | 2   | Altar-Wächter       |
+| **Avatar Beliars**           | Am Ende des Sanktuariums                                      | 8   | Endgegner           |
+
+### Assassinenwald / Masyaf
+
+| Boss                  | Fundort                                        | EP  | Besonderheiten    |
+| --------------------- | ---------------------------------------------- | --- | ----------------- |
+| **Haniar der Blinde** | Kampf nach Abschluss des Haupthandlungsstrangs | 2   | Story-Abschluss   |
+| **Nebiros**           | Dämon nach dem Kampf mit Haniar                | 2   | Folge-Dämon       |
+| **Cor Calom**         | Kampf am Ende der Region                       | 5   | Regions-Endgegner |
+
+### Schattental
+
+Eine düstere Region voller Untoten und dunkler Kreaturen:
+
+| Boss             | Fundort                                                                             | EP  | Besonderheiten      |
+| ---------------- | ----------------------------------------------------------------------------------- | --- | ------------------- |
+| **Eratu**        | Argul auf dem Hügel auf dem Weg zum Ork-Lager                                       | 1   | Hügel-Argul         |
+| **Xarthisius**   | Untoter Magier vor der Feuerprobe-Höhle                                             | 4   | Feuerprobe-Magier   |
+| **Lord Dakkat**  | Schattenlord am Ort der Feuerprobe                                                  | 3   | Feuerprobe-Lord     |
+| **Ihyal**        | Untoter Priester am Ort der Drachenverderbnis                                       | 3   | Verderbnis-Priester |
+| **Targ'Zar**     | Drachenbeißer beim Sonnenkreis                                                      | 2   | Drachen-Beißer      |
+| **Lord Kabbas**  | Skelett vor dem Eingang zur Stadt der Toten                                         | 3   | Stadt-Wächter       |
+| **Fenrir**       | Schattenwolf vor dem Eingang zum Ork-Lager                                          | 1   | Schatten-Wolf       |
+| **Cerberus**     | Schattenwolf im Ork-Lager                                                           | 1   | Lager-Wolf          |
+| **Tarantula**    | Spinne in der Höhle unter der Brücke zum Ork-Lager                                  | 2   | Brücken-Spinne      |
+| **Lord Niorret** | Schattenlord bei der Armbrust Vollstrecker in der Stadt der Toten                   | 3   | Armbrust-Lord       |
+| **Izulg**        | Geist im Hauptraum der Stadt der Toten                                              | 4   | Haupt-Geist         |
+| **Höllengolem**  | Feuergolem hinter dem Lavafluss unter der Brücke zum Ork-Lager                      | 2   | Lava-Golem          |
+| **Azgalor**      | Drache, der nach Beschwörung mit dem Auge des Zorns erscheint (Tal-Handlungsstrang) | 8   | Beschwörungs-Drache |
+
+### Orte im Minental (Spezialgebiete)
+
+#### Orkstadt
+
+| Boss          | Fundort                          | EP  | Besonderheiten   |
+| ------------- | -------------------------------- | --- | ---------------- |
+| **Farrok**    | Bewacht den Eingang zu Ur-Thrall | 1   | Eingangs-Wächter |
+| **Hush-Nar**  | Ork-Schamane                     | 2   | Stadt-Schamane   |
+| **Ur-Thrall** | Ork-Häuptling                    | 4   | Haupt-Boss       |
+
+#### Verlassene Mine
+
+| Boss                | Fundort                      | EP  | Besonderheiten  |
+| ------------------- | ---------------------------- | --- | --------------- |
+| **Uralter Wächter** | Ganz unten nahe dem Erzdämon | 1   | Tiefen-Wächter  |
+| **Trak'Tor**        | Wächter der Wassersphäre     | 3   | Sphären-Wächter |
+
+#### Versunkener Xardas-Turm
+
+| Boss                | Fundort                                   | EP  | Besonderheiten      |
+| ------------------- | ----------------------------------------- | --- | ------------------- |
+| **Uralter Wächter** | Steht in der Mitte                        | 1   | Zentral-Wächter     |
+| **Val'Zar**         | Wächter der Dunkelheitssphäre             | 3   | Dunkelheits-Wächter |
+| **Shemron**         | Dämon, erscheint nach Aufheben der Sphäre | 3   | Sphären-Dämon       |
+
+#### Alte Mine
+
+| Boss                | Fundort                                    | EP  | Besonderheiten  |
+| ------------------- | ------------------------------------------ | --- | --------------- |
+| **Uralter Wächter** | Ganz unten, nahe der Sphäre                | 1   | Sphären-Wächter |
+| **Dag'Kar**         | Wächter der Feuersphäre                    | 2   | Feuer-Wächter   |
+| **Shiva**           | Spinne in einem der Äste am Grund der Mine | 1   | Grund-Spinne    |
+| **Giftkriecher**    | Ganz unten, nahe der Sphäre                | 1   | Gift-Kriecher   |
+
+#### Ork-Friedhof
+
+| Boss         | Fundort                                                                 | EP  | Besonderheiten |
+| ------------ | ----------------------------------------------------------------------- | --- | -------------- |
+| **Hush-Gor** | Ork-Schamane im Zusammenhang mit der Quest "Schatten der Vergangenheit" | 3   | Quest-Schamane |
+
+#### Ork-Mine
+
+| Boss        | Fundort                 | EP  | Besonderheiten |
+| ----------- | ----------------------- | --- | -------------- |
+| **Itu'Sed** | Wächter der Steinsphäre | 3   | Stein-Wächter  |
+| **Irh'Tar** | Erzdämon in der Arena   | 4   | Arena-Erzdämon |
+
+#### Tempel des Träumenden
+
+| Boss            | Fundort                                           | EP  | Besonderheiten    |
+| --------------- | ------------------------------------------------- | --- | ----------------- |
+| **Lik'Her**     | Geist im Raum, der mit Schalter verschlossen wird | 3   | Schalter-Geist    |
+| **Hash-Necron** | Untoter Ork bei den lichtversiegelten Durchgängen | 3   | Licht-Ork         |
+| **Gor Boba**    | Tempelwächter vor Hoshkar                         | 2   | Vor-Wächter       |
+| **Hoshkar**     | Nekromant am Ende der Region                      | 6   | Regions-Nekromant |
+
+#### Höhle des Schmerzes
+
+| Boss                   | Fundort                                                     | EP  | Besonderheiten    |
+| ---------------------- | ----------------------------------------------------------- | --- | ----------------- |
+| **Düsterer Schnitter** | Dunkler Wächter mit dem Schlüssel zum Gitter des Hauptraums | 2   | Schlüssel-Wächter |
+| **Miragul**            | Skelett im Hauptraum der Region                             | 2   | Hauptraum-Skelett |
+
+### Eisberge der Orks
+
+Die eisige nördliche Region:
+
+| Boss                            | Fundort                                                   | EP  | Besonderheiten      |
+| ------------------------------- | --------------------------------------------------------- | --- | ------------------- |
+| **Nimrata**                     | Erzverschlinger in einer der Höhlen                       | 2   | Höhlen-Verschlinger |
+| **Kuta**                        | Spinne im Grabmal mit dem Eishammer                       | 2   | Grabmal-Spinne      |
+| **Uratan, Orkjäger**            | Schattenherr im Grabmal mit dem Eishammer                 | 3   | Grabmal-Herr        |
+| **Avabyul, Beliars Priesterin** | Nach Annahme der Gabe aus der Mission "Grenzenlose Macht" | 2   | Missions-Priesterin |
+| **Fregarah**                    | Golem aus der Mission "Feuermagier-Expedition"            | 2   | Expeditions-Golem   |
+
+### Etlu-Insel
+
+Eine kleine, aber gefährliche Insel:
+
+| Boss           | Fundort                               | EP  | Besonderheiten |
+| -------------- | ------------------------------------- | --- | -------------- |
+| **Magnus**     | Magier im Gebäude mit der Schatztruhe | 1   | Schatz-Magier  |
+| **Lord Gavin** | Ritter im Gebäude mit der Schatztruhe | 1   | Schatz-Ritter  |
+
+---
+
+## Boss-Strategien und Empfehlungen
+
+### Frühe Spielphase (Level 1-20)
+
+**Empfohlene Bosse für 1 EP:**
+
+- Alptraum des Bauern
+- Schlächter
+- Skelett-Killer
+- Steinbeißer
+- Ur-Azog
+- Feueratem
+
+### Mittlere Spielphase (Level 20-40)
+
+**Empfohlene Bosse für 2-3 EP:**
+
+- Wütende Trolle (2+1 EP)
+- Fleischfresser (2 EP)
+- Ungoliant (2 EP)
+- Berg (2 EP)
+- Karthus (2 EP)
+
+### Späte Spielphase (Level 40+)
+
+**Mächtige Bosse für 4-6 EP:**
+
+- Ahiron (4 EP)
+- Im'Arah (5 EP)
+- Ile'Sil (6 EP)
+- Hoshkar (6 EP)
+
+### Endgame-Bosse (Level 50+)
+
+**Die mächtigsten Drachen (7-8 EP):**
+
+- Pedrakhan (7 EP) - Steindrache
+- Finkreght (7 EP) - Eisdrache
+- Trakanon (7 EP) - Irdorath-Drache
+- Pandrodor (8 EP) - Sumpfdrache
+- Feomathar (8 EP) - Feuerdrache
+- Avatar Beliars (8 EP) - Endgegner
+- Azgalor (8 EP) - Beschwörungs-Drache
+
+## Besondere Mechaniken
+
+### Quest-abhängige Bosse
+
+Einige Bosse erscheinen nur unter bestimmten Bedingungen:
+
+- **Zipperius**: Erscheint nach dem Töten von 20 Kaninchen
+- **Rudelführer**: Erscheint nur nach Gespräch mit Bilgot
+- **Dunkler Mentor**: Kann mit Regilions Notiz respawnt werden
+
+### Spezielle Tötungsmethoden
+
+- **Dunkler Golem**: Muss mit der Heiligen Flamme getötet werden
+- **Adanar**: Kann mit dem Kreuz der Elemente getötet werden
+- **Ile'Sil**: Muss mit dem Kreuz der Elemente vor Chel'Drak getötet werden
+
+### Kapitel-spezifische Bosse
+
+Viele Bosse sind an bestimmte Spielkapitel gebunden und erscheinen nur zu bestimmten Zeiten der Hauptquest.
+
+## Belohnungssystem
+
+### EP-Modifikatoren
+
+- **Standard-Modus**: Volle EP-Werte wie angegeben
+- **SnC-Modus**: EP-Werte halbiert (aufgerundet bei ungeraden Zahlen)
+- **Nightmare-Modus**:
+  - Bosse mit >8 EP geben maximal 8 EP
+  - Bosse mit 5 EP geben 4 EP
+
+### Besondere Drops
+
+Viele Bosse droppen einzigartige Gegenstände, Waffen oder Rüstungsteile. Die genauen Drops variieren je nach Boss und Schwierigkeitsgrad.
+
+## Navigation
+
+**Verwandte Dokumentationen:**
+
+- [Rüstungen](Ruestungen.md) - Schutzausrüstung für Boss-Kämpfe
+- [Nahkampfwaffen Stärke](Nahkampfwaffen_Staerke.md) - Waffen für Nahkampf-Bosse
+- [Stäbe und Magische Schwerter](Staebe_und_Magische_Schwerter.md) - Magische Waffen
+- [Bögen und Armbrüste](Boegen_und_Armbrueste.md) - Fernkampfwaffen
+- [Elixiere](Elixiere.md) - Tränke zur Vorbereitung auf Boss-Kämpfe
+
+---
+
+_Diese Dokumentation basiert auf der offiziellen Boss-Verzeichnis CSV-Datei von Gothic 2 Returning New Balance und wird regelmäßig aktualisiert._
