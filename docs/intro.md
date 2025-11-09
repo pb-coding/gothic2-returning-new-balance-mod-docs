@@ -1,16 +1,16 @@
-# Gothic 2 Returning New Balance - Einführung und Dokumentationsübersicht
+# Übersicht
 
 ## 🎮 Willkommen zum Gothic 2 Returning New Balance Mod
 
 Willkommen zur umfassenden Dokumentation des **Gothic 2 Returning New Balance** Mods! Diese Mod erweitert das klassische Gothic 2-Erlebnis um zahlreiche neue Features, Klassen, Waffen, Zauber und Spielmechaniken.
 
-> **📅 Hinweis zur Aktualisierung:** Das Verzeichnis wird ab dem 28.12.2024 fortgesetzt. Bei Unstimmigkeiten oder Fragen besucht gerne den Discord-Kanal **#nb-dyskusja**. Stay tuned! 😉
+> **🤖 Hinweis zur Dokumentation:** Diese Dokumentation ist eine **KI-basierte Übersetzung** des [polnischen Original-Spreadsheets](https://docs.google.com/spreadsheets/d/1d0TUCKi6J3Mn57zedb9cbAmzvgR1Uc3KuVOuTazZXxo/edit?gid=0#gid=0). Sie befindet sich noch im Aufbau (Work in Progress) und kann Übersetzungs-, Formatierungs- und andere KI-bedingte Fehler enthalten. Jeder ist herzlich eingeladen, durch Pull Requests im [GitHub Repository](https://github.com/pb-coding/gothic2-returning-new-balance-mod-docs) zur Verbesserung beizutragen!
 
 ---
 
 ## 📖 Über diese Dokumentation
 
-Diese Dokumentation bietet eine vollständige Übersicht über alle Aspekte des Gothic 2 Returning New Balance Mods. Sie ist strukturiert aufgebaut und ermöglicht sowohl Einsteigern als auch erfahrenen Spielern einen schnellen Zugang zu allen wichtigen Informationen.
+Diese Dokumentation bietet eine vollständige Übersicht über alle Aspekte des Gothic 2 Returning New Balance Mods. Sie basiert auf der umfangreichen polnischen Community-Dokumentation und wurde automatisch ins Deutsche übersetzt. Die Dokumentation ist strukturiert aufgebaut und ermöglicht sowohl Einsteigern als auch erfahrenen Spielern einen schnellen Zugang zu allen wichtigen Informationen.
 
 ---
 
@@ -257,14 +257,14 @@ Erklärungen zu erweiterten Spielsystemen wie Verbesserungen, Boni und spezielle
 
 ## 🤝 Weitere Ressourcen
 
-### **Community und Support**
+### **Community und Support (Polnisch)**
 
-- **Discord:** Besucht den Kanal **#nb-dyskusja** für Diskussionen und Hilfe
+- **Discord:** Besucht den Kanal **#nb-dyskusja** (polnisch) für Diskussionen und Hilfe
 - **Updates:** Regelmäßige Aktualisierungen der Dokumentation
 
-### **Mitwirkende**
+### **Mitwirkende der Original-Dokumentation (Polnisch)**
 
-Besonderen Dank für die Zusammenarbeit bei der Erstellung der Dokumentation an:
+Besonderen Dank für die Zusammenarbeit bei der Erstellung der polnischen Original-Dokumentation an:
 
 - **Flakes**
 - **Buzka555**
@@ -273,6 +273,10 @@ Besonderen Dank für die Zusammenarbeit bei der Erstellung der Dokumentation an:
 - **Qlaczek**
 - **Licoya**
 
+### **Deutsche Übersetzung**
+
+Diese deutsche Version wurde durch KI-basierte Übersetzung des [polnischen Spreadsheets](https://docs.google.com/spreadsheets/d/1d0TUCKi6J3Mn57zedb9cbAmzvgR1Uc3KuVOuTazZXxo/edit?gid=0#gid=0) erstellt. Contributions zur Verbesserung sind im [GitHub Repository](https://github.com/pb-coding/gothic2-returning-new-balance-mod-docs) willkommen!
+
 ---
 
 ## 📝 Hinweise zur Nutzung
@@ -280,7 +284,8 @@ Besonderen Dank für die Zusammenarbeit bei der Erstellung der Dokumentation an:
 - Alle Dokumentationen sind miteinander verlinkt für einfache Navigation
 - Deutsche Umlaute und Sonderzeichen werden korrekt dargestellt
 - Die Dokumentation wird kontinuierlich aktualisiert und erweitert
-- Bei Fragen oder Problemen nutzt die Community-Kanäle
+- Bei Fragen oder Problemen nutzt die Community-Kanäle (polnisch) oder erstellt ein Issue im GitHub Repository
+- **Wichtig:** Diese Dokumentation ist eine automatische Übersetzung und kann Fehler enthalten - Verbesserungsvorschläge sind willkommen!
 
 ---
 

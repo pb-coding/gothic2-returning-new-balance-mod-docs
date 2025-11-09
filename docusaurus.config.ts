@@ -97,49 +97,15 @@ const config: Config = {
       style: "dark",
       links: [
         {
-          title: "Dokumentation",
+          title: "Quellen & Beiträge",
           items: [
             {
-              label: "Einführung",
-              to: "/docs/intro",
+              label: "📊 Polnisches Original-Spreadsheet",
+              href: "https://docs.google.com/spreadsheets/d/1d0TUCKi6J3Mn57zedb9cbAmzvgR1Uc3KuVOuTazZXxo/edit?gid=0#gid=0",
             },
             {
-              label: "Charakterklassen",
-              to: "/docs/klassen/paladin",
-            },
-            {
-              label: "Waffen & Ausrüstung",
-              to: "/docs/waffen/nahkampfwaffen_staerke",
-            },
-          ],
-        },
-        {
-          title: "Community",
-          items: [
-            {
-              label: "Gothic 2 Forum",
-              href: "https://forum.worldofgothic.de/",
-            },
-            {
-              label: "ModDB",
-              href: "https://www.moddb.com/mods/gothic-2-returning-20-new-balance",
-            },
-            {
-              label: "YouTube",
-              href: "https://www.youtube.com/results?search_query=gothic+2+returning+new+balance",
-            },
-          ],
-        },
-        {
-          title: "Mehr",
-          items: [
-            {
-              label: "GitHub",
+              label: "🔧 GitHub Repository (Contributions)",
               href: "https://github.com/pb-coding/gothic2-returning-new-balance-mod-docs",
-            },
-            {
-              label: "Download Mod",
-              href: "https://www.moddb.com/mods/gothic-2-returning-20-new-balance/downloads",
             },
           ],
         },
