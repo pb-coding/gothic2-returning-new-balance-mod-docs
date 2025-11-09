@@ -1,30 +1,402 @@
 /**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
+ * Gothic 2 Returning New Balance - Custom Styling
+ * Medieval-inspired dark theme with Gothic 2 color palette
  */
 
-/* You can override the default Infima variables here. */
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap");
+
+/* Gothic 2 Color Palette */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  /* Primary Gothic Colors - Gold/Bronze theme */
+  --ifm-color-primary: #d4af37;
+  --ifm-color-primary-dark: #b8941f;
+  --ifm-color-primary-darker: #a6851c;
+  --ifm-color-primary-darkest: #8a6e17;
+  --ifm-color-primary-light: #dbb94f;
+  --ifm-color-primary-lighter: #dfc162;
+  --ifm-color-primary-lightest: #e7d088;
+
+  /* Secondary Colors - Deep Forest Green */
+  --ifm-color-secondary: #2d4a2b;
+  --ifm-color-secondary-dark: #253f23;
+  --ifm-color-secondary-darker: #1f3520;
+  --ifm-color-secondary-darkest: #19291a;
+  --ifm-color-secondary-light: #355533;
+  --ifm-color-secondary-lighter: #3d603b;
+  --ifm-color-secondary-lightest: #4d704b;
+
+  /* Background Colors */
+  --ifm-background-color: #1a1611;
+  --ifm-background-surface-color: #2a2318;
+  --ifm-color-content: #e8dcc0;
+  --ifm-color-content-secondary: #c4b896;
+
+  /* Gothic UI Elements */
+  --ifm-navbar-background-color: #1f1b14;
+  --ifm-navbar-shadow: 0 2px 8px rgba(0, 0, 0, 0.6);
+  --ifm-footer-background-color: #141209;
+
+  /* Typography */
+  --ifm-font-family-base: "Crimson Text", "Times New Roman", serif;
+  --ifm-heading-font-family: "Cinzel", "Times New Roman", serif;
+  --ifm-font-size-base: 16px;
+  --ifm-line-height-base: 1.6;
+  --ifm-heading-line-height: 1.3;
+
+  /* Code styling */
   --ifm-code-font-size: 95%;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --ifm-code-background: rgba(42, 35, 24, 0.8);
+  --ifm-code-border-radius: 4px;
+  --docusaurus-highlighted-code-line-bg: rgba(212, 175, 55, 0.1);
+
+  /* Borders and shadows */
+  --ifm-global-border-width: 1px;
+  --ifm-border-color: #3d3426;
+  --ifm-card-border-radius: 8px;
+  --ifm-button-border-radius: 6px;
+
+  /* Hover effects */
+  --ifm-hover-overlay: rgba(212, 175, 55, 0.1);
+  --ifm-menu-color-background-active: rgba(212, 175, 55, 0.15);
+  --ifm-menu-color-background-hover: rgba(212, 175, 55, 0.08);
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+/* Dark theme adjustments */
+[data-theme="dark"] {
+  /* Enhanced dark theme with Gothic colors */
+  --ifm-color-primary: #e7d088;
+  --ifm-color-primary-dark: #dfc162;
+  --ifm-color-primary-darker: #dbb94f;
+  --ifm-color-primary-darkest: #d4af37;
+  --ifm-color-primary-light: #ebd89f;
+  --ifm-color-primary-lighter: #efdfb6;
+  --ifm-color-primary-lightest: #f3e6cd;
+
+  --ifm-background-color: #0f0d0a;
+  --ifm-background-surface-color: #1a1611;
+  --ifm-color-content: #f0e6d2;
+  --ifm-color-content-secondary: #d4c4a0;
+
+  --ifm-navbar-background-color: #141209;
+  --ifm-footer-background-color: #0a0907;
+
+  --docusaurus-highlighted-code-line-bg: rgba(231, 208, 136, 0.15);
+}
+
+/* Light theme with parchment feel */
+[data-theme="light"] {
+  --ifm-background-color: #f5f1e8;
+  --ifm-background-surface-color: #faf7f0;
+  --ifm-color-content: #2c2416;
+  --ifm-color-content-secondary: #4a3f2e;
+
+  --ifm-navbar-background-color: #faf7f0;
+  --ifm-navbar-shadow: 0 2px 4px rgba(42, 35, 24, 0.1);
+  --ifm-footer-background-color: #ede7d8;
+
+  --ifm-border-color: #d4c4a0;
+  --ifm-code-background: rgba(212, 175, 55, 0.1);
+}
+
+/* Typography enhancements */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--ifm-heading-font-family);
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: var(--ifm-color-primary);
+}
+
+h2 {
+  font-size: 2rem;
+  color: var(--ifm-color-primary-light);
+}
+
+h3 {
+  font-size: 1.5rem;
+  color: var(--ifm-color-primary-lighter);
+}
+
+/* Navigation styling */
+.navbar {
+  border-bottom: 2px solid var(--ifm-color-primary-dark);
+  backdrop-filter: blur(10px);
+}
+
+.navbar__brand {
+  font-family: var(--ifm-heading-font-family);
+  font-weight: 700;
+  font-size: 1.3rem;
+  color: var(--ifm-color-primary) !important;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+.navbar__item {
+  font-weight: 500;
+}
+
+.navbar__link {
+  transition: all 0.3s ease;
+  border-radius: 4px;
+  padding: 0.5rem 1rem !important;
+}
+
+.navbar__link:hover {
+  background-color: var(--ifm-hover-overlay);
+  color: var(--ifm-color-primary-light) !important;
+  transform: translateY(-1px);
+}
+
+/* Sidebar styling */
+.theme-doc-sidebar-container {
+  border-right: 2px solid var(--ifm-border-color);
+  background: linear-gradient(
+    180deg,
+    var(--ifm-background-surface-color) 0%,
+    var(--ifm-background-color) 100%
+  );
+}
+
+.menu__link {
+  border-radius: 6px;
+  transition: all 0.3s ease;
+  font-weight: 500;
+}
+
+.menu__link:hover {
+  background-color: var(--ifm-menu-color-background-hover);
+  color: var(--ifm-color-primary-light);
+  transform: translateX(4px);
+}
+
+.menu__link--active {
+  background-color: var(--ifm-menu-color-background-active);
+  color: var(--ifm-color-primary);
+  border-left: 3px solid var(--ifm-color-primary);
+  font-weight: 600;
+}
+
+/* Content area styling */
+.main-wrapper {
+  background: linear-gradient(
+    135deg,
+    var(--ifm-background-color) 0%,
+    var(--ifm-background-surface-color) 100%
+  );
+  min-height: 100vh;
+}
+
+/* Card and content styling */
+.card {
+  background: var(--ifm-background-surface-color);
+  border: 1px solid var(--ifm-border-color);
+  border-radius: var(--ifm-card-border-radius);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  transition: all 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
+  border-color: var(--ifm-color-primary-dark);
+}
+
+/* Button styling */
+.button {
+  font-family: var(--ifm-heading-font-family);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  transition: all 0.3s ease;
+  border-radius: var(--ifm-button-border-radius);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.button--primary {
+  background: linear-gradient(
+    135deg,
+    var(--ifm-color-primary) 0%,
+    var(--ifm-color-primary-dark) 100%
+  );
+  border: 1px solid var(--ifm-color-primary-dark);
+}
+
+.button--primary:hover {
+  background: linear-gradient(
+    135deg,
+    var(--ifm-color-primary-light) 0%,
+    var(--ifm-color-primary) 100%
+  );
+  transform: translateY(-2px);
+  box-shadow: 0 4px 16px rgba(212, 175, 55, 0.3);
+}
+
+.button--secondary {
+  background: linear-gradient(
+    135deg,
+    var(--ifm-color-secondary) 0%,
+    var(--ifm-color-secondary-dark) 100%
+  );
+  border: 1px solid var(--ifm-color-secondary-dark);
+  color: var(--ifm-color-content);
+}
+
+.button--secondary:hover {
+  background: linear-gradient(
+    135deg,
+    var(--ifm-color-secondary-light) 0%,
+    var(--ifm-color-secondary) 100%
+  );
+  transform: translateY(-2px);
+}
+
+/* Code blocks */
+.prism-code {
+  background: var(--ifm-code-background) !important;
+  border: 1px solid var(--ifm-border-color);
+  border-radius: var(--ifm-code-border-radius);
+}
+
+/* Footer styling */
+.footer {
+  background: linear-gradient(
+    180deg,
+    var(--ifm-footer-background-color) 0%,
+    #000 100%
+  );
+  border-top: 2px solid var(--ifm-color-primary-dark);
+}
+
+.footer__title {
+  color: var(--ifm-color-primary);
+  font-family: var(--ifm-heading-font-family);
+  font-weight: 600;
+}
+
+.footer__link-item {
+  transition: all 0.3s ease;
+}
+
+.footer__link-item:hover {
+  color: var(--ifm-color-primary-light);
+  transform: translateX(2px);
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--ifm-background-color);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--ifm-color-primary-dark);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--ifm-color-primary);
+}
+
+/* Table styling */
+table {
+  border-collapse: separate;
+  border-spacing: 0;
+  border: 1px solid var(--ifm-border-color);
+  border-radius: var(--ifm-card-border-radius);
+  overflow: hidden;
+}
+
+th {
+  background: linear-gradient(
+    135deg,
+    var(--ifm-color-primary-dark) 0%,
+    var(--ifm-color-primary-darker) 100%
+  );
+  color: var(--ifm-background-color);
+  font-family: var(--ifm-heading-font-family);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+tr:nth-child(even) {
+  background-color: rgba(42, 35, 24, 0.3);
+}
+
+tr:hover {
+  background-color: var(--ifm-hover-overlay);
+}
+
+/* Admonitions */
+.admonition {
+  border-radius: var(--ifm-card-border-radius);
+  border-left: 4px solid var(--ifm-color-primary);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.admonition-heading {
+  font-family: var(--ifm-heading-font-family);
+  font-weight: 600;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  h1 {
+    font-size: 2rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+
+  .navbar__brand {
+    font-size: 1.1rem;
+  }
+}
+
+/* Animation for page transitions */
+.main-wrapper {
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Custom Gothic decorative elements */
+.hero__title::before,
+.hero__title::after {
+  content: "⚔";
+  color: var(--ifm-color-primary);
+  margin: 0 1rem;
+  font-size: 0.8em;
+  opacity: 0.7;
+}
+
+/* Enhanced focus states for accessibility */
+*:focus {
+  outline: 2px solid var(--ifm-color-primary);
+  outline-offset: 2px;
+  border-radius: 4px;
 }

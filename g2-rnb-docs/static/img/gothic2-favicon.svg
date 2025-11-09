@@ -1,0 +1,28 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="goldGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e7d088;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#d4af37;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#b8941f;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="darkGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2a2318;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a1611;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background circle -->
+  <circle cx="16" cy="16" r="15" fill="url(#darkGradient)" stroke="url(#goldGradient)" stroke-width="1"/>
+  
+  <!-- Gothic shield shape -->
+  <path d="M16 6 L24 9 L24 18 L22 22 L20 24 L16 26 L12 24 L10 22 L8 18 L8 9 Z" 
+        fill="url(#goldGradient)" 
+        stroke="#8a6e17" 
+        stroke-width="0.5"/>
+  
+  <!-- Gothic cross -->
+  <path d="M16 10 L16 22 M12 14 L20 14" 
+        stroke="#1a1611" 
+        stroke-width="1.5" 
+        stroke-linecap="round"/>
+</svg>

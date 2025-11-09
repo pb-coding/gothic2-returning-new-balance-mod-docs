@@ -1,0 +1,68 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="goldGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e7d088;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#d4af37;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#b8941f;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="darkGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2a2318;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a1611;stop-opacity:1" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge> 
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Background circle -->
+  <circle cx="100" cy="100" r="95" fill="url(#darkGradient)" stroke="url(#goldGradient)" stroke-width="3"/>
+  
+  <!-- Outer decorative ring -->
+  <circle cx="100" cy="100" r="85" fill="none" stroke="url(#goldGradient)" stroke-width="1" opacity="0.6"/>
+  
+  <!-- Gothic shield shape -->
+  <path d="M100 30 L130 50 L130 90 L125 110 L115 125 L100 135 L85 125 L75 110 L70 90 L70 50 Z" 
+        fill="url(#goldGradient)" 
+        stroke="#8a6e17" 
+        stroke-width="2" 
+        filter="url(#glow)"/>
+  
+  <!-- Inner shield details -->
+  <path d="M100 40 L120 55 L120 85 L115 100 L110 110 L100 120 L90 110 L85 100 L80 85 L80 55 Z" 
+        fill="none" 
+        stroke="#1a1611" 
+        stroke-width="1.5"/>
+  
+  <!-- Gothic cross -->
+  <path d="M100 50 L100 110 M85 70 L115 70 M95 55 L105 55 M95 105 L105 105" 
+        stroke="#1a1611" 
+        stroke-width="3" 
+        stroke-linecap="round"/>
+  
+  <!-- Decorative elements around shield -->
+  <g transform="translate(100,100)">
+    <!-- Top ornament -->
+    <path d="M0,-75 L-8,-85 L0,-95 L8,-85 Z" fill="url(#goldGradient)"/>
+    <!-- Bottom ornament -->
+    <path d="M0,75 L-8,85 L0,95 L8,85 Z" fill="url(#goldGradient)"/>
+    <!-- Left ornament -->
+    <path d="M-75,0 L-85,-8 L-95,0 L-85,8 Z" fill="url(#goldGradient)"/>
+    <!-- Right ornament -->
+    <path d="M75,0 L85,-8 L95,0 L85,8 Z" fill="url(#goldGradient)"/>
+  </g>
+  
+  <!-- Gothic text elements -->
+  <text x="100" y="170" text-anchor="middle" font-family="serif" font-size="14" font-weight="bold" fill="url(#goldGradient)">G2 RNB</text>
+  
+  <!-- Decorative corner elements -->
+  <g opacity="0.4">
+    <path d="M20,20 L30,15 L35,25 L25,30 Z" fill="url(#goldGradient)"/>
+    <path d="M180,20 L170,15 L165,25 L175,30 Z" fill="url(#goldGradient)"/>
+    <path d="M20,180 L30,185 L35,175 L25,170 Z" fill="url(#goldGradient)"/>
+    <path d="M180,180 L170,185 L165,175 L175,170 Z" fill="url(#goldGradient)"/>
+  </g>
+</svg>

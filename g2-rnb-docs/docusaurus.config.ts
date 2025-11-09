@@ -7,7 +7,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 const config: Config = {
   title: "Gothic 2 Returning New Balance",
   tagline: "Komplette Dokumentation für den Gothic 2 RNB Mod",
-  favicon: "img/favicon.ico",
+  favicon: "img/gothic2-favicon.ico",
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -67,13 +67,15 @@ const config: Config = {
     // Replace with your project's social card
     image: "img/docusaurus-social-card.jpg",
     colorMode: {
-      respectPrefersColorScheme: true,
+      defaultMode: "dark",
+      disableSwitch: false,
+      respectPrefersColorScheme: false,
     },
     navbar: {
       title: "Gothic 2 RNB",
       logo: {
         alt: "Gothic 2 RNB Logo",
-        src: "img/logo.svg",
+        src: "img/gothic2-logo.svg",
       },
       items: [
         {
@@ -149,7 +151,8 @@ const config: Config = {
     },
     prism: {
       theme: prismThemes.github,
-      darkTheme: prismThemes.dracula,
+      darkTheme: prismThemes.vsDark,
+      additionalLanguages: ["bash", "diff", "json"],
     },
   } satisfies Preset.ThemeConfig,
 };
