@@ -4,7 +4,7 @@ Diese Anleitung erklärt, wie Sie die Docusaurus-Dokumentation auf GitHub Pages 
 
 ## Voraussetzungen
 
-- Ein GitHub-Repository unter `gothic2-rnb/g2-rnb-docs`
+- Ein GitHub-Repository unter `pb-coding/gothic2-returning-new-balance-mod-docs`
 - GitHub Actions aktiviert in Ihrem Repository
 
 ## Konfiguration
@@ -14,10 +14,10 @@ Die folgenden Dateien wurden bereits konfiguriert:
 ### 1. `docusaurus.config.ts`
 
 Die wichtigsten Einstellungen:
-- `url`: `https://gothic2-rnb.github.io`
-- `baseUrl`: `/g2-rnb-docs/`
-- `organizationName`: `gothic2-rnb`
-- `projectName`: `g2-rnb-docs`
+- `url`: `https://pb-coding.github.io`
+- `baseUrl`: `/gothic2-returning-new-balance-mod-docs/`
+- `organizationName`: `pb-coding`
+- `projectName`: `gothic2-returning-new-balance-mod-docs`
 - `deploymentBranch`: `gh-pages`
 - `trailingSlash`: `false`
 
@@ -68,7 +68,7 @@ Um das Deployment zu aktivieren, müssen Sie folgende Schritte in Ihrem GitHub R
 
 Nach erfolgreichem Deployment ist Ihre Website verfügbar unter:
 ```
-https://gothic2-rnb.github.io/g2-rnb-docs/
+https://pb-coding.github.io/gothic2-returning-new-balance-mod-docs/
 ```
 
 ## Lokales Testen
@@ -116,8 +116,8 @@ USE_SSH=true npm run deploy
 ### 404 Fehler nach Deployment
 
 1. Überprüfen Sie die `baseUrl` in `docusaurus.config.ts`
-2. Für ein Repository `gothic2-rnb/g2-rnb-docs` sollte `baseUrl: '/g2-rnb-docs/'` sein
-3. Für ein Organization Pages Repository (`gothic2-rnb.github.io`) sollte `baseUrl: '/'` sein
+2. Für ein Repository `pb-coding/gothic2-returning-new-balance-mod-docs` sollte `baseUrl: '/gothic2-returning-new-balance-mod-docs/'` sein
+3. Für ein Organization Pages Repository (`pb-coding.github.io`) sollte `baseUrl: '/'` sein
 
 ### CSS/JS Dateien werden nicht geladen
 

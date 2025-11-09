@@ -15,15 +15,15 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: "https://gothic2-rnb.github.io",
+  url: "https://pb-coding.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/g2-rnb-docs/",
+  baseUrl: "/gothic2-returning-new-balance-mod-docs/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "gothic2-rnb", // Usually your GitHub org/user name.
-  projectName: "g2-rnb-docs", // Usually your repo name.
+  organizationName: "pb-coding", // Usually your GitHub org/user name.
+  projectName: "gothic2-returning-new-balance-mod-docs", // Usually your repo name.
   deploymentBranch: "gh-pages", // Branch where the built site will be deployed
   trailingSlash: false, // GitHub Pages adds trailing slashes by default
 
@@ -87,7 +87,7 @@ const config: Config = {
           label: "Dokumentation",
         },
         {
-          href: "https://github.com/gothic2-rnb/g2-rnb-docs",
+          href: "https://github.com/pb-coding/gothic2-returning-new-balance-mod-docs",
           label: "GitHub",
           position: "right",
         },
@@ -135,7 +135,7 @@ const config: Config = {
           items: [
             {
               label: "GitHub",
-              href: "https://github.com/gothic2-rnb/g2-rnb-docs",
+              href: "https://github.com/pb-coding/gothic2-returning-new-balance-mod-docs",
             },
             {
               label: "Download Mod",
