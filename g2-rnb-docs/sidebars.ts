@@ -10,6 +10,7 @@ const sidebars: SidebarsConfig = {
   // Gothic 2 RNB Hauptsidebar
   mainSidebar: [
     "intro",
+    "einfuehrung",
     {
       type: "category",
       label: "⚔️ Charakterklassen",
@@ -90,35 +91,34 @@ const sidebars: SidebarsConfig = {
         "entwicklung/fertigkeiten",
         "entwicklung/boni",
         "entwicklung/gaben",
-        "entwicklung/rhetorik",
+        "entwicklung/verbesserungen_und_verzauberungen",
       ],
     },
     {
       type: "category",
       label: "🔮 Magie & Alchemie",
       items: [
-        "magie/zauber-schriftrollen",
-        "magie/elixiere",
-        "magie/pflanzen",
+        "magie/zauber_und_schriftrollen",
         "magie/tafeln",
-        "magie/daemonische-tafeln",
+        "magie/daemonische_tafeln",
       ],
     },
     {
       type: "category",
       label: "🌍 Spielwelt & Referenzen",
-      items: [
-        "welt/karten",
-        "welt/teleporter",
-        "welt/gold-eisenvorkommen",
-        "welt/boss-verzeichnis",
-        "welt/ognik-trophäen",
-      ],
+      items: ["welt/karten", "welt/teleporter", "welt/gold_und_eisenvorkommen"],
     },
     {
       type: "category",
       label: "🛠️ Hilfsmittel",
-      items: ["hilfsmittel/cheat-codes"],
+      items: [
+        "hilfsmittel/cheat-codes",
+        "hilfsmittel/boss_verzeichnis",
+        "hilfsmittel/elixiere",
+        "hilfsmittel/ognik_trophaeen",
+        "hilfsmittel/pflanzen",
+        "hilfsmittel/rhetorik",
+      ],
     },
   ],
 };
