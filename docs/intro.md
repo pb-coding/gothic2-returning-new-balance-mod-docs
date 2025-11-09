@@ -4,7 +4,11 @@
 
 Willkommen zur umfassenden Dokumentation des **Gothic 2 Returning New Balance** Mods! Diese Mod erweitert das klassische Gothic 2-Erlebnis um zahlreiche neue Features, Klassen, Waffen, Zauber und Spielmechaniken.
 
-> **🤖 Hinweis zur Dokumentation:** Diese Dokumentation ist eine **KI-basierte Übersetzung** des [polnischen Original-Spreadsheets](https://docs.google.com/spreadsheets/d/1d0TUCKi6J3Mn57zedb9cbAmzvgR1Uc3KuVOuTazZXxo/edit?gid=0#gid=0). Sie befindet sich noch im Aufbau (Work in Progress) und kann Übersetzungs-, Formatierungs- und andere KI-bedingte Fehler enthalten. Jeder ist herzlich eingeladen, durch Pull Requests im [GitHub Repository](https://github.com/pb-coding/gothic2-returning-new-balance-mod-docs) zur Verbesserung beizutragen!
+> **🤖 Hinweis zur Dokumentation (Deutsch):** Diese Dokumentation ist eine **KI-basierte Übersetzung** des [polnischen Original-Spreadsheets](https://docs.google.com/spreadsheets/d/1d0TUCKi6J3Mn57zedb9cbAmzvgR1Uc3KuVOuTazZXxo/edit?gid=0#gid=0). Sie befindet sich noch im Aufbau (Work in Progress) und kann Übersetzungs-, Formatierungs- und andere KI-bedingte Fehler enthalten. Jeder ist herzlich eingeladen, durch Pull Requests im [GitHub Repository](https://github.com/pb-coding/gothic2-returning-new-balance-mod-docs) zur Verbesserung beizutragen!
+>
+> **🤖 Documentation Notice (English):** This documentation is an **AI-based translation** of the [Polish original spreadsheet](https://docs.google.com/spreadsheets/d/1d0TUCKi6J3Mn57zedb9cbAmzvgR1Uc3KuVOuTazZXxo/edit?gid=0#gid=0). It is still a work in progress and may contain translation, formatting, and other AI-related errors. Everyone is welcome to contribute improvements via pull requests in the [GitHub repository](https://github.com/pb-coding/gothic2-returning-new-balance-mod-docs)!
+>
+> **🤖 Uwaga dotycząca dokumentacji (Polski):** Ta dokumentacja jest **tłumaczeniem opartym na AI** [oryginalnego polskiego arkusza kalkulacyjnego](https://docs.google.com/spreadsheets/d/1d0TUCKi6J3Mn57zedb9cbAmzvgR1Uc3KuVOuTazZXxo/edit?gid=0#gid=0). Jest nadal w trakcie tworzenia (Work in Progress) i może zawierać błędy tłumaczeniowe, formatowania i inne błędy związane z AI. Każdy jest mile widziany, aby przyczynić się do ulepszeń poprzez pull requesty w [repozytorium GitHub](https://github.com/pb-coding/gothic2-returning-new-balance-mod-docs)!
 
 ---
 
@@ -255,16 +259,20 @@ Erklärungen zu erweiterten Spielsystemen wie Verbesserungen, Boni und spezielle
 
 ---
 
-## 🤝 Weitere Ressourcen
+## 🤝 Weitere Ressourcen / Additional Resources / Dodatkowe zasoby
 
-### **Community und Support (Polnisch)**
+### **Community und Support (Polnisch) / Community and Support (Polish) / Społeczność i wsparcie (Polski)**
 
-- **Discord:** Besucht den Kanal **#nb-dyskusja** (polnisch) für Diskussionen und Hilfe
-- **Updates:** Regelmäßige Aktualisierungen der Dokumentation
+- **Discord:** Besucht den Kanal **#nb-dyskusja** (polnisch) für Diskussionen und Hilfe / Visit the **#nb-dyskusja** channel (Polish) for discussions and help / Odwiedź kanał **#nb-dyskusja** (polski) w celu dyskusji i pomocy
+- **Updates:** Regelmäßige Aktualisierungen der Dokumentation / Regular documentation updates / Regularne aktualizacje dokumentacji
 
-### **Mitwirkende der Original-Dokumentation (Polnisch)**
+### **Mitwirkende der Original-Dokumentation / Original Documentation Contributors / Współtwórcy oryginalnej dokumentacji**
 
 Besonderen Dank für die Zusammenarbeit bei der Erstellung der polnischen Original-Dokumentation an:
+
+Special thanks for the collaboration in creating the Polish original documentation to:
+
+Specjalne podziękowania za współpracę przy tworzeniu polskiej oryginalnej dokumentacji dla:
 
 - **Flakes**
 - **Buzka555**
@@ -273,9 +281,13 @@ Besonderen Dank für die Zusammenarbeit bei der Erstellung der polnischen Origin
 - **Qlaczek**
 - **Licoya**
 
-### **Deutsche Übersetzung**
+### **Deutsche Übersetzung / German Translation / Niemieckie tłumaczenie**
 
-Diese deutsche Version wurde durch KI-basierte Übersetzung des [polnischen Spreadsheets](https://docs.google.com/spreadsheets/d/1d0TUCKi6J3Mn57zedb9cbAmzvgR1Uc3KuVOuTazZXxo/edit?gid=0#gid=0) erstellt. Contributions zur Verbesserung sind im [GitHub Repository](https://github.com/pb-coding/gothic2-returning-new-balance-mod-docs) willkommen!
+**Deutsch:** Diese deutsche Version wurde durch KI-basierte Übersetzung des [polnischen Spreadsheets](https://docs.google.com/spreadsheets/d/1d0TUCKi6J3Mn57zedb9cbAmzvgR1Uc3KuVOuTazZXxo/edit?gid=0#gid=0) erstellt. Contributions zur Verbesserung sind im [GitHub Repository](https://github.com/pb-coding/gothic2-returning-new-balance-mod-docs) willkommen!
+
+**English:** This German version was created through AI-based translation of the [Polish spreadsheet](https://docs.google.com/spreadsheets/d/1d0TUCKi6J3Mn57zedb9cbAmzvgR1Uc3KuVOuTazZXxo/edit?gid=0#gid=0). Contributions for improvements are welcome in the [GitHub repository](https://github.com/pb-coding/gothic2-returning-new-balance-mod-docs)!
+
+**Polski:** Ta niemiecka wersja została stworzona poprzez tłumaczenie oparte na AI [polskiego arkusza kalkulacyjnego](https://docs.google.com/spreadsheets/d/1d0TUCKi6J3Mn57zedb9cbAmzvgR1Uc3KuVOuTazZXxo/edit?gid=0#gid=0). Wkłady w ulepszenia są mile widziane w [repozytorium GitHub](https://github.com/pb-coding/gothic2-returning-new-balance-mod-docs)!
 
 ---
 
