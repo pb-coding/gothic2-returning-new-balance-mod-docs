@@ -1,41 +1,53 @@
-# Website
+# Gothic 2 Returning New Balance - Dokumentation
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Deutsche Dokumentation für den Gothic 2 Returning New Balance Mod, basierend auf KI-Übersetzung des polnischen Original-Spreadsheets.
 
-## Installation
+## 🌐 Live-Dokumentation
 
-```bash
-yarn
-```
+Die Dokumentation ist verfügbar unter: [https://pb-coding.github.io/gothic2-returning-new-balance-mod-docs/](https://pb-coding.github.io/gothic2-returning-new-balance-mod-docs/)
 
-## Local Development
+## 📚 Über dieses Projekt
 
-```bash
-yarn start
-```
+Diese Dokumentation ist eine **KI-basierte Übersetzung** der [polnischen Original-Dokumentation](https://docs.google.com/spreadsheets/d/1d0TUCKi6J3Mn57zedb9cbAmzvgR1Uc3KuVOuTazZXxo/edit?gid=0#gid=0) für den Gothic 2 Returning New Balance Mod. Sie enthält umfassende Informationen zu:
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+- Charakterklassen und Gilden
+- Waffen und Ausrüstung
+- Magie und Zauber
+- Fertigkeiten und Entwicklung
+- Items und Sammelobjekte
 
-## Build
+## 🛠️ Technologie
 
-```bash
-yarn build
-```
+Diese Website wurde mit [Docusaurus](https://docusaurus.io/) erstellt.
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-## Deployment
-
-Using SSH:
+## 💻 Lokale Entwicklung
 
 ```bash
-USE_SSH=true yarn deploy
+npm install
+npm start
 ```
 
-Not using SSH:
+Die Website öffnet sich automatisch unter `http://localhost:3000`.
 
-```bash
-GIT_USER=<Your GitHub username> yarn deploy
-```
+## 🤝 Beitragen
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Fehler gefunden oder Verbesserungsvorschläge? Pull Requests sind willkommen!
+
+1. Fork das Repository
+2. Erstelle einen Feature Branch (`git checkout -b feature/verbesserung`)
+3. Commit deine Änderungen (`git commit -m 'Beschreibung'`)
+4. Push zum Branch (`git push origin feature/verbesserung`)
+5. Öffne einen Pull Request
+
+## 📝 Hinweis
+
+Diese Dokumentation ist eine automatische Übersetzung und kann Fehler enthalten. Contributions zur Verbesserung sind sehr willkommen!
+
+## 🔗 Links
+
+- [Polnisches Original-Spreadsheet](https://docs.google.com/spreadsheets/d/1d0TUCKi6J3Mn57zedb9cbAmzvgR1Uc3KuVOuTazZXxo/edit?gid=0#gid=0)
+- [Gothic 2 RNB auf ModDB](https://www.moddb.com/mods/gothic-2-returning-20-new-balance)
+
+## 📄 Lizenz
+
+Die Inhalte basieren auf der Community-Dokumentation der polnischen Gothic 2 RNB Community.
