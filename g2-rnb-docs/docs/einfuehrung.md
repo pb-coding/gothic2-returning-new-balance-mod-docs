@@ -1,0 +1,287 @@
+# Gothic 2 Returning New Balance - Einführung und Dokumentationsübersicht
+
+## 🎮 Willkommen zum Gothic 2 Returning New Balance Mod
+
+Willkommen zur umfassenden Dokumentation des **Gothic 2 Returning New Balance** Mods! Diese Mod erweitert das klassische Gothic 2-Erlebnis um zahlreiche neue Features, Klassen, Waffen, Zauber und Spielmechaniken.
+
+> **📅 Hinweis zur Aktualisierung:** Das Verzeichnis wird ab dem 28.12.2024 fortgesetzt. Bei Unstimmigkeiten oder Fragen besucht gerne den Discord-Kanal **#nb-dyskusja**. Stay tuned! 😉
+
+---
+
+## 📖 Über diese Dokumentation
+
+Diese Dokumentation bietet eine vollständige Übersicht über alle Aspekte des Gothic 2 Returning New Balance Mods. Sie ist strukturiert aufgebaut und ermöglicht sowohl Einsteigern als auch erfahrenen Spielern einen schnellen Zugang zu allen wichtigen Informationen.
+
+---
+
+## 🗂️ Hauptkategorien der Dokumentation
+
+### ⚔️ **GEGENSTÄNDE**
+
+#### **Rüstungen und Schutzausrüstung**
+
+- **[Gildenrüstungen](ausruestung/ruestungen.md)** - Spezielle Rüstungen der verschiedenen Gilden
+- **[Neutrale Rüstungen](ausruestung/ruestungen.md)** - Allgemein verfügbare Schutzausrüstung
+- **[Schilde](ausruestung/schilde.md)** - Defensive Ausrüstung für den Nahkampf
+
+#### **Gürtel und Helme**
+
+- **Gürtel Stärke** - Kraftverstärkende Gürtel
+- **Gürtel Geschicklichkeit** - Geschicklichkeitsfördernde Gürtel
+- **Gürtel Mana** - Mana-verstärkende Gürtel
+- **Neutrale Gürtel** - Allgemeine Gürtelvarianten
+- **Helme Stärke** - Kraftverstärkende Kopfbedeckungen
+- **Helme Geschicklichkeit** - Geschicklichkeitsfördernde Helme
+- **Helme Mana** - Mana-verstärkende Kopfbedeckungen
+- **Neutrale Helme** - Allgemeine Helmvarianten
+
+#### **Nahkampfwaffen**
+
+- **[Degen](waffen/nahkampfwaffen_geschicklichkeit.md)** - Elegante Fechtwaffen
+- **[Speere](waffen/nahkampfwaffen_staerke.md)** - Reichweitenwaffen für den Nahkampf
+- **[Kordeläxte](waffen/nahkampfwaffen_staerke.md)** - Mächtige Zweihandäxte
+- **[Einhändige Waffen Stärke](waffen/nahkampfwaffen_staerke.md)** - Kraftbasierte Einhandwaffen
+- **[Zweihändige Waffen Stärke](waffen/nahkampfwaffen_staerke.md)** - Mächtige Zweihandwaffen
+- **[Duale Waffen](waffen/nahkampfwaffen_geschicklichkeit.md)** - Beidhändige Kampftechniken
+
+#### **Fernkampfwaffen**
+
+- **[Bögen](waffen/boegen_und_armbrueste.md)** - Traditionelle Fernkampfwaffen
+- **[Armbrüste](waffen/boegen_und_armbrueste.md)** - Mechanische Fernkampfwaffen
+
+#### **Magische Waffen**
+
+- **[Stäbe und magische Schwerter](waffen/staebe_und_magische_schwerter.md)** - Verzauberte Waffen für Magier
+
+#### **Schmuck und Wertsachen**
+
+- **[Schmuck](ausruestung/schmuck_edelsteine.md)** - Ringe, Amulette und andere Schmuckstücke
+- **[Tragbare Trophäen](hilfsmittel/ognik_trophaeen.md)** - Besondere Sammelobjekte
+
+---
+
+### 🎯 **FERTIGKEITEN**
+
+#### **Kampffertigkeiten**
+
+- **[Schildführung](entwicklung/fertigkeiten.md)** - Defensive Kampftechniken
+- **[Waffenführung](entwicklung/fertigkeiten.md)** - Offensive Kampffertigkeiten
+- **[Statistiken lernen](entwicklung/fertigkeiten.md)** - Attributsverbesserungen
+
+#### **Handwerksfertigkeiten**
+
+- **[Schmiedekunst/Bergbau](entwicklung/fertigkeiten.md)** - Herstellung und Rohstoffgewinnung
+- **[Alchemie](entwicklung/fertigkeiten.md)** - Tränke und Elixiere brauen
+
+#### **Soziale Fertigkeiten**
+
+- **[Diebstahl](entwicklung/fertigkeiten.md)** - Heimliche Beschaffung von Gegenständen
+- **[Rhetorik](hilfsmittel/rhetorik.md)** - Überzeugungskunst und Gesprächsführung
+
+#### **Überlebensfertigkeiten**
+
+- **[Jagd](entwicklung/fertigkeiten.md)** - Tierjagd und Nahrungsbeschaffung
+
+#### **Magische Fertigkeiten**
+
+- **[Regeneration/Resistenzen/Sprachen/Magie/Kreise](entwicklung/fertigkeiten.md)** - Grundlegende magische Fähigkeiten
+- **[Allgemeine Zauber](magie/zauber_und_schriftrollen.md)** - Universelle Magie
+
+---
+
+### 🏛️ **HAUPTGILDEN**
+
+#### **Magische Gilden**
+
+- **[Wassermagier](klassen/wassermagier.md)** - Meister der Wassermagie
+- **[Feuermagier](klassen/feuermagier.md)** - Beherrscher der Flammen
+- **[Schwarzmagier](klassen/schwarzmagier.md)** - Praktiker der dunklen Künste
+- **[Guru](klassen/guru.md)** - Spirituelle Führer und Sumpfkraut-Meister
+- **[Nekromant](klassen/nekromant.md)** - Totenbeschwörer und Untote-Meister
+- **[Dunkler Beschwörer](klassen/dunkler_beschwörer.md)** - Dämonische Magie-Praktiker
+
+#### **Kriegergilden**
+
+- **[Dunkler Ritter](klassen/dunkler_ritter.md)** - Gefallene Paladine der Finsternis
+- **[Tempelwächter](klassen/tempelwaechter.md)** - Beschützer heiliger Stätten
+- **[Söldner](klassen/soeldner.md)** - Professionelle Kämpfer
+- **[Paladin](klassen/paladin.md)** - Heilige Krieger des Lichts
+
+#### **Spezialisierte Gilden**
+
+- **[Dämonenjäger](klassen/daemonenjäger.md)** - Jäger übernatürlicher Kreaturen
+- **[Späher](klassen/spaeher.md)** - Meister der Heimlichkeit und Fernkampf
+- **[Verdammter](klassen/verdammter.md)** - Gefallene Seelen mit besonderen Kräften
+
+---
+
+### 🌿 **NEBENKLASSEN / UNTERGILDEN**
+
+- **[Schamane](klassen/schamane.md)** - Naturverbundene Heiler und Geisterbeschwörer
+- **[Druide](klassen/druide.md)** - Hüter der Natur und Tierverwandlung
+- **[Giftmeister](klassen/giftmeister.md)** - Experten für Toxine und Gifte
+
+---
+
+### 🗃️ **SONSTIGES**
+
+#### **Nützliche Ressourcen**
+
+- **[Nützliche Karten](welt/karten.md)** - Orientierungshilfen für die Spielwelt
+- **[Pflanzen](hilfsmittel/pflanzen.md)** - Alchemistische Zutaten und ihre Fundorte
+- **[Elixiere](hilfsmittel/elixiere.md)** - Fertige Tränke und ihre Wirkungen
+- **[Tafeln](magie/tafeln.md)** - Lehrschriften und Wissensobjekte
+- **[Dämonische Tafeln](magie/daemonische_tafeln.md)** - Verbotenes Wissen der Finsternis
+
+#### **Spielhilfen**
+
+- **[Boss Verzeichnis](hilfsmittel/boss_verzeichnis.md)** - Übersicht aller Bosskämpfe
+- **[Boni](entwicklung/boni.md)** - Permanente Verbesserungen und Belohnungen
+- **[Erzvorkommen](welt/gold_und_eisenvorkommen.md)** - Rohstoffquellen in der Spielwelt
+- **[Ognik und seine Verbesserungen](hilfsmittel/ognik_trophaeen.md)** - Spezielle Upgrade-Mechaniken
+- **[Cheat-Codes](hilfsmittel/cheat-codes.md)** - Entwickler-Befehle und Cheats
+
+#### **Erweiterte Systeme**
+
+- **[Verbesserungen und Siegel](entwicklung/verbesserungen_und_verzauberungen.md)** - Ausrüstungs-Upgrades
+- **[Teleporter](welt/teleporter.md)** - Schnellreise-System
+- **[Edelsteine](ausruestung/schmuck_edelsteine.md)** - Wertvolle Steine und ihre Verwendung
+- **[Wichtige Schriftrollen](magie/zauber_und_schriftrollen.md)** - Einmalige Zaubersprüche
+- **[Gaben](entwicklung/gaben.md)** - Besondere Belohnungen und Geschenke
+
+---
+
+## 🚀 Erste Schritte für neue Spieler
+
+### 1. **Charaktererstellung**
+
+Wähle deine Startattribute weise - sie bestimmen, welche Gilden dir später offenstehen.
+
+### 2. **Gildenwahl**
+
+Informiere dich über die verschiedenen [Hauptgilden](#hauptgilden) und ihre Spezialisierungen.
+
+### 3. **Ausrüstung**
+
+Beginne mit der Grundausstattung und arbeite dich zu besseren [Gegenständen](#gegenstände) vor.
+
+### 4. **Fertigkeiten entwickeln**
+
+Investiere Lernpunkte strategisch in [Fertigkeiten](#fertigkeiten), die zu deinem Spielstil passen.
+
+### 5. **Erkunde die Welt**
+
+Nutze [Karten](welt/karten.md) und [Teleporter](welt/teleporter.md) zur effizienten Navigation.
+
+---
+
+## ✨ Besondere Mod-Features
+
+### 🔥 **Erweiterte Gildensysteme**
+
+- **13 Hauptgilden** mit einzigartigen Fähigkeiten und Ausrüstungen
+- **3 Nebenklassen** für zusätzliche Spezialisierung
+- Komplexe Gilden-Interaktionen und -Rivalitäten
+
+### ⚔️ **Umfangreiches Waffensystem**
+
+- Hunderte neue Waffen in verschiedenen Kategorien
+- Duale Waffenführung und neue Kampfstile
+- Magische Waffen mit besonderen Eigenschaften
+
+### 🧙‍♂️ **Erweiterte Magie**
+
+- Neue Zauberkreise und Sprüche
+- Dämonische Magie und verbotene Künste
+- Komplexe Reagenzien-Systeme
+
+### 🏆 **Verbesserungssysteme**
+
+- Ognik-Verbesserungen für einzigartige Upgrades
+- Verzauberungen und Siegel
+- Permanente Boni durch Quests und Entdeckungen
+
+---
+
+## 📚 Kategorien-Guide
+
+### **Waffen und Ausrüstung**
+
+Hier findest du alle Informationen zu Waffen, Rüstungen, Schilden und Accessoires. Jede Kategorie ist nach Anforderungen und Spezialisierung sortiert.
+
+### **Klassen und Gilden**
+
+Detaillierte Beschreibungen aller verfügbaren Gilden, ihrer Fähigkeiten, Ausrüstungen und Entwicklungspfade.
+
+### **Zauber und Magie**
+
+Umfassende Übersicht über alle magischen Systeme, von grundlegenden Zaubern bis hin zu mächtigen dämonischen Künsten.
+
+### **Items und Sammelobjekte**
+
+Katalog aller sammelbaren Gegenstände, ihrer Fundorte und Verwendungszwecke.
+
+### **Spiel-Mechaniken**
+
+Erklärungen zu erweiterten Spielsystemen wie Verbesserungen, Boni und speziellen Mechaniken.
+
+---
+
+## 🔗 Schnellzugriff - Die wichtigsten Dokumentationen
+
+### **Für Einsteiger:**
+
+- [Fertigkeiten](entwicklung/fertigkeiten.md) - Grundlagen der Charakterentwicklung
+- [Rüstungen](ausruestung/ruestungen.md) - Schutzausrüstung für alle Gilden
+- [Cheat-Codes](hilfsmittel/cheat-codes.md) - Hilfen für den Einstieg
+
+### **Für Kampf-Enthusiasten:**
+
+- [Nahkampfwaffen Stärke](waffen/nahkampfwaffen_staerke.md) - Mächtige Nahkampfwaffen
+- [Bögen und Armbrüste](waffen/boegen_und_armbrueste.md) - Fernkampfoptionen
+- [Boss Verzeichnis](hilfsmittel/boss_verzeichnis.md) - Herausforderungen meistern
+
+### **Für Magie-Liebhaber:**
+
+- [Zauber und Schriftrollen](magie/zauber_und_schriftrollen.md) - Magische Künste
+- [Stäbe und Magische Schwerter](waffen/staebe_und_magische_schwerter.md) - Magische Waffen
+- [Dämonische Tafeln](magie/daemonische_tafeln.md) - Verbotenes Wissen
+
+### **Für Sammler:**
+
+- [Schmuck und Edelsteine](ausruestung/schmuck_edelsteine.md) - Wertvolle Schätze
+- [Ognik Trophäen](hilfsmittel/ognik_trophaeen.md) - Besondere Sammelobjekte
+- [Gaben](entwicklung/gaben.md) - Einzigartige Belohnungen
+
+---
+
+## 🤝 Weitere Ressourcen
+
+### **Community und Support**
+
+- **Discord:** Besucht den Kanal **#nb-dyskusja** für Diskussionen und Hilfe
+- **Updates:** Regelmäßige Aktualisierungen der Dokumentation
+
+### **Mitwirkende**
+
+Besonderen Dank für die Zusammenarbeit bei der Erstellung der Dokumentation an:
+
+- **Flakes**
+- **Buzka555**
+- **Washion**
+- **Dawinio**
+- **Qlaczek**
+- **Licoya**
+
+---
+
+## 📝 Hinweise zur Nutzung
+
+- Alle Dokumentationen sind miteinander verlinkt für einfache Navigation
+- Deutsche Umlaute und Sonderzeichen werden korrekt dargestellt
+- Die Dokumentation wird kontinuierlich aktualisiert und erweitert
+- Bei Fragen oder Problemen nutzt die Community-Kanäle
+
+---
+
+_Viel Spaß beim Erkunden der erweiterten Welt von Gothic 2 Returning New Balance!_ 🎮✨
