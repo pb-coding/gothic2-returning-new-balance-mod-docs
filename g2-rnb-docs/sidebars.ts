@@ -19,11 +19,10 @@ const sidebars: SidebarsConfig = {
           type: "category",
           label: "Kampfklassen",
           items: [
-            "klassen/soeldner",
             "klassen/paladin",
-            "klassen/dunkler-ritter",
+            "klassen/dunkler_ritter",
             "klassen/daemonenjäger",
-            "klassen/späher",
+            "klassen/spaeher",
           ],
         },
         {
@@ -45,7 +44,7 @@ const sidebars: SidebarsConfig = {
             "klassen/tempelwaechter",
             "klassen/guru",
             "klassen/giftmeister",
-            "klassen/dunkler-beschwörer",
+            "klassen/dunkler_beschwörer",
             "klassen/verdammter",
           ],
         },
@@ -59,10 +58,10 @@ const sidebars: SidebarsConfig = {
           type: "category",
           label: "Waffen",
           items: [
-            "waffen/nahkampfwaffen-staerke",
-            "waffen/nahkampfwaffen-geschicklichkeit",
-            "waffen/boegen-armbrueste",
-            "waffen/staebe-magische-schwerter",
+            "waffen/nahkampfwaffen_staerke",
+            "waffen/nahkampfwaffen_geschicklichkeit",
+            "waffen/boegen_und_armbrueste",
+            "waffen/staebe_und_magische_schwerter",
           ],
         },
         {
@@ -71,16 +70,13 @@ const sidebars: SidebarsConfig = {
           items: [
             "ausruestung/ruestungen",
             "ausruestung/schilde",
-            "ausruestung/guertel-helme",
+            "ausruestung/guertel_und_helme",
           ],
         },
         {
           type: "category",
           label: "Schmuck & Verbesserungen",
-          items: [
-            "ausruestung/schmuck-edelsteine",
-            "ausruestung/verbesserungen-verzauberungen",
-          ],
+          items: ["ausruestung/schmuck_edelsteine"],
         },
       ],
     },
